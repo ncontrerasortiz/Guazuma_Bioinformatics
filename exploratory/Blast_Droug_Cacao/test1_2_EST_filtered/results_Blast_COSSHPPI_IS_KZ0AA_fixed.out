@@ -1,0 +1,5326 @@
+BLASTN 2.5.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: COSSHPPI_IS_KZ0AA_fixed.fasta
+           10,985 sequences; 5,828,468 total letters
+
+
+
+Query= AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA
+receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914
+FORWARD LENGTH=564
+
+Length=564
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU532431|CU532431.1 Theobroma cacao, mRNA sequence (KZ0AAK3...  305     3e-83
+
+
+> ENA|CU532431|CU532431.1 Theobroma cacao, mRNA sequence (KZ0AAK3YM10FM1).
+Length=722
+
+ Score = 305 bits (165),  Expect = 3e-83
+ Identities = 341/427 (80%), Gaps = 8/427 (2%)
+ Strand=Plus/Plus
+
+Query  87   CAGAGAAAACCAGTGTACCTCTGCTCTTGTCAAACACATCAAAGCTCCTCTTCATCTCGT  146
+            ||||||  ||||||| |||||||||||||| |||||||||||||||||| ||||||||||
+Sbjct  291  CAGAGACGACCAGTGCACCTCTGCTCTTGTGAAACACATCAAAGCTCCTGTTCATCTCGT  350
+
+Query  147  TTGGTCACTTGTACGGAGATTTGATCAGCCGCAGAAATACAAACCGTTTGTGAGCAGATG  206
+             |||||| | ||| || ||||||||||||||||||||||||| ||||| || ||||| ||
+Sbjct  351  ATGGTCATTGGTAAGGCGATTTGATCAGCCGCAGAAATACAAGCCGTTCGTAAGCAGGTG  410
+
+Query  207  TA-CA-GTAATCGGTGATCCT-GAAATCGGCAGTCTTAGAGAAGTCAATGTTAAATCTGG  263
+             | || | ||  || || ||| | ||| || ||| |||||||||| || |||||||| ||
+Sbjct  411  CATCATGCAA--GGGGA-CCTCGGAATTGGTAGTGTTAGAGAAGTTAACGTTAAATCCGG  467
+
+Query  264  TCTTCCTGCAACAAC-ATCTACTGAGAGATTAGAACTTCTTGATGATGAAGAACACATCC  322
+             ||||| || || || | | || ||  ||||||||||||||||||||||||||||||| |
+Sbjct  468  CCTTCCCGCCACCACTAGC-ACCGAACGATTAGAACTTCTTGATGATGAAGAACACATTC  526
+
+Query  323  TCGGTATCAAAATCATCGGTGGTGATCACAGACTTAAGAATTACTCGTCGATTTTGACGG  382
+            |||| ||||||||| |||  || |||||| | |||| ||| || || || ||  | ||||
+Sbjct  527  TCGGCATCAAAATCGTCGACGGCGATCACCGCCTTAGGAACTATTCTTCCATCATAACGG  586
+
+Query  383  TTCATCCGGAGATAATCGAGGGAAGAGCAGGAACGATGGTGATTGAATCGTTTGTAGTTG  442
+            | ||||| ||  | || || |||||  |||| || |||||||| ||||| || || || |
+Sbjct  587  TCCATCCTGAAGTTATTGAAGGAAGGCCAGGGACAATGGTGATCGAATCATTCGTTGTGG  646
+
+Query  443  ATGTTCCTCAAGGTAACACAAAGGATGAGACTTGCTACTTTGTTGAAGCACTTATCAGAT  502
+            |||| ||| |||| ||||| || ||||| || || |||||||| || ||  | ||| |||
+Sbjct  647  ATGTGCCTGAAGGGAACACCAACGATGAAACATGTTACTTTGTGGAGGCTTTAATCCGAT  706
+
+Query  503  GTAATCT  509
+            |||||||
+Sbjct  707  GTAATCT  713
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3028044516
+
+
+Query= AT1G07890.3 | Symbols:MEE6,ATAPX01,ATAPX1,CS1,APX1 | ascorbate
+peroxidase 1,maternal effect embryo arrest 6 |  Chr1:2438005-2439435
+FORWARD LENGTH=753
+
+Length=753
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4070343490
+
+
+Query= AT1G08810.1 | Symbols:AtMYB60,MYB60 | myb domain protein 60 | 
+Chr1:2819279-2820329 REVERSE LENGTH=843
+
+Length=843
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4572166660
+
+
+Query= AT1G09540.1 | Symbols:ATMYB61,MYB61 | myb domain protein
+61,ARABIDOPSIS THALIANA MYB DOMAIN PROTEIN 61 | 
+Chr1:3086333-3087689 FORWARD LENGTH=1101
+
+Length=1101
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6010726414
+
+
+Query= AT1G09700.1 | Symbols:HYL1,AtDRB1,DRB1 | DSRNA-BINDING PROTEIN
+1,HYPONASTIC LEAVES 1 |  Chr1:3137960-3140118 REVERSE LENGTH=1260
+
+Length=1260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6897280681
+
+
+Query= AT1G10370.1 | Symbols:ATGSTU17,ERD9,GST30B,GST30,GSTU17 |
+GLUTATHIONE S-TRANSFERASE 30B,GLUTATHIONE S-TRANSFERASE
+30,GLUTATHIONE S-TRANSFERASE TAU 17,GLUTATHIONE S-TRANSFERASE
+U17,EARLY-RESPONSIVE TO DEHYDRATION 9 |  Chr1:3397274-3398273
+REVERSE LENGTH=684
+
+Length=684
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3698460276
+
+
+Query= AT1G11755.1 | Symbols:LEW1 | LEAF WILTING 1 |  Chr1:3969987-3971488
+REVERSE LENGTH=765
+
+Length=765
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4137253246
+
+
+Query= AT1G12480.1 | Symbols:SLAC1,CDI3,RCD3,OZS1 | CARBON DIOXIDE
+INSENSITIVE 3,SLOW ANION CHANNEL-ASSOCIATED 1,RADICAL-INDUCED CELL
+DEATH 3,OZONE-SENSITIVE 1 |  Chr1:4257427-4259249 REVERSE
+LENGTH=1671
+
+Length=1671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9188939824
+
+
+Query= AT1G15360.1 | Symbols:SHN1,WIN1,AtSHN1 | WAX INDUCER 1,SHINE 1 | 
+Chr1:5283609-5284506 FORWARD LENGTH=600
+
+Length=600
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3229169244
+
+
+Query= AT1G15520.1 | Symbols:ATABCG40,ABCG40,PDR12,ATPDR12 | pleiotropic
+drug resistance 12,ATP-binding cassette G40,PLEIOTROPIC DRUG
+RESISTANCE 12,Arabidopsis thaliana ATP-binding cassette G40 | 
+Chr1:5331993-5338175 REVERSE LENGTH=4272
+
+Length=4272
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23587171221
+
+
+Query= AT1G15690.1 | Symbols:AtVHP1;1,AtAVP1,ATAVP3,AVP-3,AVP1,FUGU5,VHP1 |
+ARABIDOPSIS THALIANA V-PPASE 3,FUGU 5 |  Chr1:5399115-5402185
+FORWARD LENGTH=2313
+
+Length=2313
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12737891292
+
+
+Query= AT1G15820.1 | Symbols:CP24,LHCB6 | light harvesting complex
+photosystem II subunit 6 |  Chr1:5446685-5447676 REVERSE LENGTH=777
+
+Length=777
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4204163002
+
+
+Query= AT1G16060.1 | Symbols:ADAP,WRI3 | ARIA-interacting double AP2 domain
+protein,WRINKLED 3 |  Chr1:5508563-5511609 FORWARD LENGTH=1038
+
+Length=1038
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5659450195
+
+
+Query= AT1G16540.1 | Symbols:SIR3,LOS5,ACI2,ABA3,ATABA3,AtLOS5 | SIRTINOL
+RESISTANT 3,LOW OSMOTIC STRESS 5,ABA DEFICIENT 3,ALTERED CHLOROPLAST
+IMPORT 2 |  Chr1:5659465-5665201 FORWARD LENGTH=2460
+
+Length=2460
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13555921008
+
+
+Query= AT1G27730.1 | Symbols:ZAT10,STZ | salt tolerance zinc finger | 
+Chr1:9648302-9648985 REVERSE LENGTH=684
+
+Length=684
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3698460276
+
+
+Query= AT1G28490.1 | Symbols:OSM1,ATSYP61,SYP61 | syntaxin of plants 61 | 
+Chr1:10016433-10017842 FORWARD LENGTH=738
+
+Length=738
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4000147368
+
+
+Query= AT1G32640.1 | Symbols:JAI1,ZBF1,JIN1,ATMYC2,MYC2,RD22BP1 | JASMONATE
+INSENSITIVE 1 |  Chr1:11799042-11800913 REVERSE LENGTH=1872
+
+Length=1872
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10283802144
+
+
+Query= AT1G33560.1 | Symbols:ADR1 | ACTIVATED DISEASE RESISTANCE 1 | 
+Chr1:12169092-12171878 FORWARD LENGTH=2364
+
+Length=2364
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13021697520
+
+
+Query= AT1G35720.1 | Symbols:ANNAT1,ATOXY5,OXY5,ANN1,AtANN1 | annexin 1 | 
+Chr1:13225304-13226939 FORWARD LENGTH=954
+
+Length=954
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5191081903
+
+
+Query= AT1G45249.3 | Symbols:AtABF2,ABF2,ATAREB1,AREB1 | ABSCISIC ACID
+RESPONSIVE ELEMENTS-BINDING PROTEIN 2,abscisic acid responsive
+elements-binding factor 2 |  Chr1:17165420-17167415 REVERSE
+LENGTH=1284
+
+Length=1284
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7031100193
+
+
+Query= AT1G48270.1 | Symbols:ATGCR1,GCR1 | G-protein-coupled receptor 1 | 
+Chr1:17828314-17830214 REVERSE LENGTH=981
+
+Length=981
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5341628854
+
+
+Query= AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | 
+Chr1:17886285-17891892 REVERSE LENGTH=3153
+
+Length=3153
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU531163|CU531163.1 Theobroma cacao, mRNA sequence (KZ0AAK1...  377     3e-104
+
+
+> ENA|CU531163|CU531163.1 Theobroma cacao, mRNA sequence (KZ0AAK13YD09FM1).
+Length=722
+
+ Score = 377 bits (204),  Expect = 3e-104
+ Identities = 451/574 (79%), Gaps = 2/574 (0%)
+ Strand=Plus/Plus
+
+Query  1008  TCCGGTGGGCCGGTCCTTTTATTCCCCTGATATAGGaaaaaaaCAATCATTGGGGGATGG  1067
+             ||| || ||||| || ||||| ||||||||| |||||| ||  ||  | || || || ||
+Sbjct  13    TCCTGTTGGCCGTTCTTTTTACTCCCCTGATCTAGGAAGAAGGCAGCCTTTAGGCGAGGG  72
+
+Query  1068  CTTGGAGAGCTGGCGTGGATTCTACCAAAGCATTCGTCCTACACAGATGGGCTTATCACT  1127
+               | || ||||||||||| |||||||||||||||||||| |||||||||||  | |||||
+Sbjct  73    ACTAGAAAGCTGGCGTGGTTTCTACCAAAGCATTCGTCCAACACAGATGGGACTGTCACT  132
+
+Query  1128  CAATATTGATATGTCATCGACAGCCTTCATAGAGGCAAACCCTGTGATTCAGTTTGTCTG  1187
+              |||||||||||||| || || || ||||| ||| ||   || || ||| | |||||   
+Sbjct  133   GAATATTGATATGTCTTCAACTGCTTTCATTGAGCCATTGCCAGTCATTGATTTTGTAAC  192
+
+Query  1188  TGATTTGCTTAACCGGGATATTTCTTCTCGACCTTTATCTGATGCTGATCGTGTTAAGAT  1247
+               | ||||| || |||||| |||||||  ||||  ||||||||||||||||||| |||||
+Sbjct  193   ACAATTGCTAAATCGGGATGTTTCTTCAAGACCACTATCTGATGCTGATCGTGTAAAGAT  252
+
+Query  1248  AAAAAAGGCTCTTAGAGGTGTCAAAGTTGAAGTGACTCATCGAGGAAACATGCGCCGGAA  1307
+              ||||||||||||||||| ||||| || ||||| || ||||| |||||||||||  | ||
+Sbjct  253   CAAAAAGGCTCTTAGAGGAGTCAAGGTGGAAGTTACACATCGTGGAAACATGCGAAGAAA  312
+
+Query  1308  GTACCGCATTTCCGGTTTGACTGCTGTGGCCACTCGGGAATTGACATTCCCAGTAGATGA  1367
+              || || || || ||||| ||  ||   || ||| ||||  |||| || || || |||||
+Sbjct  313   ATATCGTATATCTGGTTTAACATCTCAAGCAACTAGGGAGCTGACTTTTCCTGTGGATGA  372
+
+Query  1368  AAGAAATACTCAGAAATCTGTTGTAGAATACTTCCACGAAACATATGGTTTTCGCATTCA  1427
+              |||  |||   |||||||||||| || |||||  | ||||| ||||||||   ||||||
+Sbjct  373   TAGAGGTACAATGAAATCTGTTGTGGAGTACTTTTATGAAACTTATGGTTTCATCATTCA  432
+
+Query  1428  GCACACTCAACTACCATGCTTGCAAGTTGGGAATTCTA-ATAGGCCTAATTACTTACCAA  1486
+              |||||||||   |||||  | |||| ||||||  |   | || || ||||| || || |
+Sbjct  433   ACACACTCAATGGCCATGTCTACAAG-TGGGAAACCAGCAGAGACCAAATTATTTGCCTA  491
+
+Query  1487  TGGAGGTATGCAAGATTGTTGAAGGCCAGCGGTATTCCAAAAGATTGAATGAGAGACAGA  1546
+             |||||||||||||||||||||| || ||| |||| ||||| || ||||||||||||||||
+Sbjct  492   TGGAGGTATGCAAGATTGTTGAGGGTCAGAGGTACTCCAAGAGGTTGAATGAGAGACAGA  551
+
+Query  1547  TCACTGCTTTGCTGAAGGTTACCTGTCAGCGCCC  1580
+             ||||||||||||||||||| ||||| ||||||||
+Sbjct  552   TCACTGCTTTGCTGAAGGTCACCTGCCAGCGCCC  585
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 17412346812
+
+
+Query= AT1G49230.1 | Symbols:ATL78,AtATL78 | Arabidopsis Tóxicos en
+Levadura 78 |  Chr1:18209320-18209979 FORWARD LENGTH=660
+
+Length=660
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3564377124
+
+
+Query= AT1G52400.1 | Symbols:BGL1,ATBG1,BGLU18 | A. THALIANA
+BETA-GLUCOSIDASE 1,BETA-GLUCOSIDASE HOMOLOG 1,beta glucosidase 18 | 
+Chr1:19515250-19517930 FORWARD LENGTH=1587
+
+Length=1587
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8720571532
+
+
+Query= AT1G54160.1 | Symbols:NFYA5,NF-YA5 | "nuclear factor Y, subunit
+A5",NUCLEAR FACTOR Y A5 |  Chr1:20217581-20218706 REVERSE LENGTH=927
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5040534952
+
+
+Query= AT1G56600.1 | Symbols:GolS2,AtGolS2 | galactinol synthase 2 | 
+Chr1:21207620-21209291 FORWARD LENGTH=1008
+
+Length=1008
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5492175805
+
+
+Query= AT1G58440.1 | Symbols:XF1,SQE1,DRY2 | DROUGHT HYPERSENSITIVE
+2,SQUALENE EPOXIDASE 1 |  Chr1:21714094-21717246 REVERSE LENGTH=1596
+
+Length=1596
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8770753849
+
+
+Query= AT1G64060.1 | Symbols:ATRBOH F,RBOH F,RBOHAP108,ATRBOHF,RBOHF |
+ARABIDOPSIS THALIANA RESPIRATORY BURST OXIDASE HOMOLOG 
+F,respiratory burst oxidase protein F,RESPIRATORY BURST OXIDASE
+PROTEIN F |  Chr1:23770266-23776317 FORWARD LENGTH=2835
+
+Length=2835
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15642731508
+
+
+Query= AT1G64990.1 | Symbols:GTG1 | GPCR-type G protein 1 | 
+Chr1:24140183-24145866 REVERSE LENGTH=1407
+
+Length=1407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7716925192
+
+
+Query= AT1G69270.1 | Symbols:AtRPK1,RPK1 | receptor-like protein kinase 1 |
+Chr1:26040877-26042499 REVERSE LENGTH=1623
+
+Length=1623
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8921300800
+
+
+Query= AT1G71960.1 | Symbols:ABCG25,ATABCG25 | Arabidopsis thaliana
+ATP-binding cassette G25,ATP-binding casette G25 | 
+Chr1:27082587-27088163 REVERSE LENGTH=1989
+
+Length=1989
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10934887020
+
+
+Query= AT1G72770.1 | Symbols:HAB1,AtHAB1 | HYPERSENSITIVE TO ABA1 | 
+Chr1:27390998-27392851 FORWARD LENGTH=1536
+
+Length=1536
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8436205069
+
+
+Query= AT1G73360.1 | Symbols:EDT1,ATHDG11,HDG11,AtEDT1 | homeodomain
+GLABROUS 11,HOMEODOMAIN GLABROUS 11,ENHANCED DROUGHT TOLERANCE 1 | 
+Chr1:27578893-27581820 REVERSE LENGTH=2169
+
+Length=2169
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11936556060
+
+
+Query= AT1G75270.1 | Symbols:DHAR2 | dehydroascorbate reductase 2 | 
+Chr1:28250255-28251237 REVERSE LENGTH=642
+
+Length=642
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3463814760
+
+
+Query= AT1G78290.2 | Symbols:SNRK2-8,SRK2C,SNRK2.8 | SNF1-RELATED PROTEIN
+KINASE 2-8,SNF1-RELATED PROTEIN KINASE 2.8,SNF1-RELATED PROTEIN
+KINASE 2C |  Chr1:29457457-29458909 REVERSE LENGTH=1032
+
+Length=1032
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9...  359     4e-99
+  ENA|CU535178|CU535178.1 Theobroma cacao, mRNA sequence (KZ0AAK8...  200     2e-51
+
+
+> ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9YI07FM1).
+Length=768
+
+ Score = 359 bits (194),  Expect = 4e-99
+ Identities = 517/678 (76%), Gaps = 2/678 (0%)
+ Strand=Plus/Plus
+
+Query  118  AAGATTGATGAACATGTACAAAGAGAAATCATGAACCATAGGTCGCTGATCCATCCCAAT  177
+            ||||||||||| ||||| ||||| || || ||||||||||||||  |||  |||||||||
+Sbjct  21   AAGATTGATGAGCATGTTCAAAGGGAGATTATGAACCATAGGTCCTTGAAGCATCCCAAT  80
+
+Query  178  ATAATAAGATTCAAGGAGGTTTTATTGACGGCAACACATTTGGCGTTAGTAATGGAATAC  237
+            ||||||||||||||||||||  |  | ||  |||| ||| | ||  |||| ||||| || 
+Sbjct  81   ATAATAAGATTCAAGGAGGTCCTGCTAACACCAACTCATCTAGCCATAGTCATGGAGTAT  140
+
+Query  238  GCCGCCGGAGGAGAACTGTTCGGAAGAATCTGCAGCGCCGGAAGATTCAGTGAAGACGAG  297
+            || || || |||||||| || | |||||| ||||  || || ||||||||||| || |||
+Sbjct  141  GCTGCTGGCGGAGAACTTTTTGAAAGAATATGCAATGCTGGTAGATTCAGTGAGGATGAG  200
+
+Query  298  GCAAGGTTTTTCTTTCAGCAGCTTATATCAGGAGTTAATTACTGTCACAGTCTTCAAATA  357
+            ||||| ||||||||||| || || ||||||||||| | |||||| ||     | ||||| 
+Sbjct  201  GCAAGATTTTTCTTTCAACAACTGATATCAGGAGTGAGTTACTGCCATGCAATGCAAATT  260
+
+Query  358  TGCCATAGAGATTTAAAGCTAGAGAACACGTTACTTGATGGAAGCGAAGCGCCACGTGTA  417
+            || ||||||||| | ||| | || |||||  |  | ||||| |||   || || ||  | 
+Sbjct  261  TGTCATAGAGATCTTAAGTTGGAAAACACACTGTTAGATGGGAGCACTGCACCGCGACTC  320
+
+Query  418  AAGATTTGCGACTTTGGATATTCAAAATCAGGAGTTCTTCATTCGCAACCAAAGACAACA  477
+            || || ||||||||||| || || || ||| | ||  |||| || || || ||  |||| 
+Sbjct  321  AAAATATGCGACTTTGGCTACTCCAAGTCAAGTGTGTTTCACTCCCAGCCCAAATCAACT  380
+
+Query  478  GTAGGAACACCTGCTTACATTGCACCTGAAGTGCTCTCCACGAAAGAGTATGACGGCAAA  537
+            ||||||||||| || ||||| || || || ||  | || |  ||||| ||||| || || 
+Sbjct  381  GTAGGAACACCAGCCTACATCGCGCCAGAGGTCTTGTCTAGAAAAGAATATGATGGGAAG  440
+
+Query  538  ATCGCTGATGTTTGGTCTTGTGGAGTCACTTTGTATGTTATGCTTGTTGGTGCTTATCCT  597
+            || || ||||||||||||||||| || ||||||||||| ||||| ||||| |||||||||
+Sbjct  441  ATTGCAGATGTTTGGTCTTGTGGGGTTACTTTGTATGTCATGCTGGTTGGGGCTTATCCT  500
+
+Query  598  TTTGAAGATCCTTCTGATCCTAAAGATTTTCGGAAGACGAT-CGGTCGGATTCTCAAAGC  656
+            |||||||| |||   ||||||| | | ||  | || || || | | |||||||| |  | 
+Sbjct  501  TTTGAAGACCCTGAAGATCCTAGAAACTTCAGAAAAACAATTCAG-CGGATTCTGAGTGT  559
+
+Query  657  TCAGTATGCTATTCCTGATTATGTTCGAGTTTCGGATGAATGCAGACATCTTCTCTCTCG  716
+             || ||| ||||||||||||| |||||||||||  | || || |||||||| || || ||
+Sbjct  560  CCACTATTCTATTCCTGATTACGTTCGAGTTTCCAAGGAGTGTAGACATCTCCTATCCCG  619
+
+Query  717  GATATTCGTTGCCAACCCTGAAAAGAGAATAACAATAGAGGAGATAAAGAATCATTCTTG  776
+            ||| || ||  | ||||| |||||||||||||| |||   || || ||| | ||  | ||
+Sbjct  620  GATTTTTGTATCGAACCCCGAAAAGAGAATAACCATACCAGAAATCAAGCAGCACCCATG  679
+
+Query  777  GTTTCTCAAGAACTTGCC  794
+            |||| | |||||||||||
+Sbjct  680  GTTTTTAAAGAACTTGCC  697
+
+
+> ENA|CU535178|CU535178.1 Theobroma cacao, mRNA sequence (KZ0AAK8YB21FM1).
+Length=707
+
+ Score = 200 bits (108),  Expect = 2e-51
+ Identities = 334/447 (75%), Gaps = 0/447 (0%)
+ Strand=Plus/Plus
+
+Query  1    ATGGAGAGGTACGAAATAGTGAAGGATATTGGGTCTGGTAACTTCGGAGTAGCAAAGCTT  60
+            |||||| | || |||||| |||| ||||||||||| || ||||| || || || ||||| 
+Sbjct  236  ATGGAGCGCTATGAAATACTGAAAGATATTGGGTCGGGGAACTTTGGTGTTGCTAAGCTG  295
+
+Query  61   GTTCGTGACAAATTTTCCAAAGAGCTTTTCGCTGTTAAGTTCATCGAGCGAGGCCAAAAG  120
+            ||| | || ||||        | |||||  ||||| ||||  || ||  ||| |   |||
+Sbjct  296  GTTAGGGATAAATGGAGTGGTGGGCTTTATGCTGTCAAGTATATTGAAAGAGACTCCAAG  355
+
+Query  121  ATTGATGAACATGTACAAAGAGAAATCATGAACCATAGGTCGCTGATCCATCCCAATATA  180
+            |||||||| ||||| ||||| || || ||||||||||||||  |||  ||||||||||||
+Sbjct  356  ATTGATGAGCATGTTCAAAGGGAGATTATGAACCATAGGTCCTTGAAGCATCCCAATATA  415
+
+Query  181  ATAAGATTCAAGGAGGTTTTATTGACGGCAACACATTTGGCGTTAGTAATGGAATACGCC  240
+            |||||||||||||||||  |  | ||  |||| ||| | ||  |||| ||||| || || 
+Sbjct  416  ATAAGATTCAAGGAGGTCCTGCTAACACCAACTCATCTAGCCATAGTCATGGAGTATGCT  475
+
+Query  241  GCCGGAGGAGAACTGTTCGGAAGAATCTGCAGCGCCGGAAGATTCAGTGAAGACGAGGCA  300
+            || || |||||||| || | |||||| ||||  || || ||||||||||| || ||||||
+Sbjct  476  GCTGGCGGAGAACTTTTTGAAAGAATATGCAATGCTGGTAGATTCAGTGAGGATGAGGCA  535
+
+Query  301  AGGTTTTTCTTTCAGCAGCTTATATCAGGAGTTAATTACTGTCACAGTCTTCAAATATGC  360
+            || ||||||||||| || || ||||||||||| | |||||| ||     | ||||| || 
+Sbjct  536  AGATTTTTCTTTCAACAACTGATATCAGGAGTGAGTTACTGCCATGCAATGCAAATTTGT  595
+
+Query  361  CATAGAGATTTAAAGCTAGAGAACACGTTACTTGATGGAAGCGAAGCGCCACGTGTAAAG  420
+            ||||||||| | ||| | || |||||  |  | ||||| |||   || || ||  | || 
+Sbjct  596  CATAGAGATCTTAAGTTGGAAAACACACTGTTAGATGGGAGCACTGCACCGCGACTCAAA  655
+
+Query  421  ATTTGCGACTTTGGATATTCAAAATCA  447
+            || ||||||||||| || || || |||
+Sbjct  656  ATATGCGACTTTGGCTACTCCAAGTCA  682
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5625995317
+
+
+Query= AT1G78580.1 | Symbols:TPS1,ATTPS1 | trehalose-6-phosphate
+synthase,TREHALOSE-6-PHOSPHATE SYNTHASE 1 |  Chr1:29552495-29557482
+REVERSE LENGTH=2829
+
+Length=2829
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15609342540
+
+
+Query= AT1G80460.1 | Symbols:GLI1,NHO1 | nonhost resistance to P. s.
+phaseolicola 1 |  Chr1:30246960-30249055 REVERSE LENGTH=1569
+
+Length=1569
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8620206898
+
+
+Query= AT2G04240.1 | Symbols:XERICO |  |  Chr2:1461816-1462304 REVERSE
+LENGTH=489
+
+Length=489
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2609034666
+
+
+Query= AT2G13540.1 | Symbols:CBP80,ENS,ABH1,ATCBP80 | ABA HYPERSENSITIVE
+1,ENSALADA,CAP-BINDING PROTEIN 80 |  Chr2:5637053-5642813 FORWARD
+LENGTH=2547
+
+Length=2547
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14040061044
+
+
+Query= AT2G17820.1 | Symbols:ATHK1,HK1,AHK1 | histidine kinase 1 | 
+Chr2:7743133-7748013 REVERSE LENGTH=3624
+
+Length=3624
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 20033380800
+
+
+Query= AT2G18960.1 | Symbols:HA1,OST2,AHA1,PMA | H(+)-ATPase 1,PLASMA
+MEMBRANE PROTON ATPASE,OPEN STOMATA 2 |  Chr2:8221858-8227268
+FORWARD LENGTH=2850
+
+Length=2850
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15726203928
+
+
+Query= AT2G22430.1 | Symbols:HB6,ATHB6 | homeobox protein 6 | 
+Chr2:9526470-9527612 REVERSE LENGTH=936
+
+Length=936
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5090717269
+
+
+Query= AT2G26300.1 | Symbols:GP ALPHA 1,ATGPA1,GPA1 | ARABIDOPSIS THALIANA
+G PROTEIN ALPHA SUBUNIT 1,G protein alpha subunit 1,G PROTEIN ALPHA
+SUBUNIT 1 |  Chr2:11198087-11200822 FORWARD LENGTH=1152
+
+Length=1152
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6295092877
+
+
+Query= AT2G27150.1 | Symbols:AOdelta,AAO3,AtAAO3,At-AO3 | Aldehyde oxidase
+delta,Arabidopsis thaliana aldehyde oxidase 3,abscisic aldehyde
+oxidase 3 |  Chr2:11601952-11607014 FORWARD LENGTH=3999
+
+Length=3999
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22070972082
+
+
+Query= AT2G29980.1 | Symbols:FAD3,AtFAD3 | fatty acid desaturase 3 | 
+Chr2:12781787-12784946 REVERSE LENGTH=1161
+
+Length=1161
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6345275194
+
+
+Query= AT2G31320.1 | Symbols:PARP1 | POLY(ADP-RIBOSE) POLYMERASE 1 | 
+Chr2:13354046-13359578 REVERSE LENGTH=2952
+
+Length=2952
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16293816384
+
+
+Query= AT2G31470.1 | Symbols:DOR | DROUGHT TOLERANCE REPRESSOR | 
+Chr2:13407492-13408655 REVERSE LENGTH=1164
+
+Length=1164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6362002633
+
+
+Query= AT2G33150.1 | Symbols:PKT3,KAT2,PED1 | PEROXISOME DEFECTIVE
+1,peroxisomal 3-ketoacyl-CoA thiolase 3,3-KETOACYL-COA THIOLASE 2 | 
+Chr2:14047814-14050983 REVERSE LENGTH=1389
+
+Length=1389
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7616560558
+
+
+Query= AT2G36450.1 | Symbols:HRD | HARDY |  Chr2:15294303-15294857 REVERSE
+LENGTH=555
+
+Length=555
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2977763334
+
+
+Query= AT2G38750.1 | Symbols:AtANN4,ANNAT4 | annexin 4 | 
+Chr2:16196582-16198431 REVERSE LENGTH=960
+
+Length=960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5224536781
+
+
+Query= AT2G38880.8 | Symbols:ATNF-YB1,ATHAP3,NF-YB1,HAP3A,HAP3 | HEME
+ACTIVATOR PROTEIN (YEAST) HOMOLOG 3A,NUCLEAR FACTOR Y SUBUNIT
+B1,HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3,"nuclear factor Y,
+subunit B1" |  Chr2:16238685-16240316 FORWARD LENGTH=495
+
+Length=495
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2642555454
+
+
+Query= AT2G39800.1 | Symbols:P5CS1,ATP5CS | delta1-pyrroline-5-carboxylate
+synthase 1 |  Chr2:16598516-16602939 REVERSE LENGTH=2154
+
+Length=2154
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11853083640
+
+
+Query= AT2G43350.1 | Symbols:GPX3,ATGPX3 | glutathione peroxidase 3 | 
+Chr2:18009195-18010533 REVERSE LENGTH=621
+
+Length=621
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3346492002
+
+
+Query= AT2G47180.1 | Symbols:GolS1,AtGolS1 | galactinol synthase 1 | 
+Chr2:19369049-19370372 REVERSE LENGTH=1035
+
+Length=1035
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5642722756
+
+
+Query= AT2G47190.1 | Symbols:MYB2,ATMYB2 | myb domain protein 2,MYB DOMAIN
+PROTEIN 2 |  Chr2:19376284-19377297 FORWARD LENGTH=822
+
+Length=822
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4455074587
+
+
+Query= AT2G47800.1 | Symbols:ABCC4,ATMRP4,MRP4,EST3 | multidrug
+resistance-associated protein 4,ATP-binding cassette C4 | 
+Chr2:19574944-19580383 FORWARD LENGTH=4551
+
+Length=4551
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 25136693418
+
+
+Query= AT3G08510.1 | Symbols:ATPLC2,PLC2 | phospholipase C 2 | 
+Chr3:2582626-2585556 REVERSE LENGTH=1746
+
+Length=1746
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9582633816
+
+
+Query= AT3G14440.1 | Symbols:SIS7,ATNCED3,NCED3,STO1 | SALT TOLERANT
+1,nine-cis-epoxycarotenoid dioxygenase 3,SUGAR INSENSITIVE 7 | 
+Chr3:4831678-4833477 REVERSE LENGTH=1800
+
+Length=1800
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9883134528
+
+
+Query= AT3G19290.3 | Symbols:AtAREB2,AREB2,ABF4 | ABA-RESPONSIVE ELEMENT
+BINDING PROTEIN 2,ABRE binding factor 4 |  Chr3:6687956-6689784
+FORWARD LENGTH=1299
+
+Length=1299
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7114737388
+
+
+Query= AT3G22170.1 | Symbols:FHY3,CPD45 | far-red elongated hypocotyls
+3,CHLOROPLAST DIVISION MUTANT 45 |  Chr3:7822359-7825414 REVERSE
+LENGTH=2520
+
+Length=2520
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13889810688
+
+
+Query= AT3G26090.1 | Symbols:ATRGS1,RGS1 | REGULATOR OF G-PROTEIN SIGNALING
+1 |  Chr3:9532883-9535410 FORWARD LENGTH=1380
+
+Length=1380
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7566378241
+
+
+Query= AT3G51920.1 | Symbols:CAM9,ATCML9,CML9 | calmodulin 9,CALMODULIN
+LIKE PROTEIN 9 |  Chr3:19268178-19269314 REVERSE LENGTH=456
+
+Length=456
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2424670332
+
+
+Query= AT3G53420.1 | Symbols:PIP2;1,AtPIP2;1,PIP2A,PIP2 | PLASMA MEMBRANE
+INTRINSIC PROTEIN 2,PLASMA MEMBRANE INTRINSIC PROTEIN 2;1,plasma
+membrane intrinsic protein 2A |  Chr3:19803906-19805454 REVERSE
+LENGTH=864
+
+Length=864
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4689258733
+
+
+Query= AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC
+PROTEIN 2D,plasma membrane intrinsic protein 2;5 | 
+Chr3:20302117-20303738 FORWARD LENGTH=861
+
+Length=861
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU534910|CU534910.1 Theobroma cacao, mRNA sequence (KZ0AAK5...  220     2e-57
+  ENA|CU534475|CU534475.1 Theobroma cacao, mRNA sequence (KZ0AAK2...  189     4e-48
+  ENA|CU534348|CU534348.1 Theobroma cacao, mRNA sequence (KZ0AAK2...  158     1e-38
+  ENA|CU596649|CU596649.1 Theobroma cacao, mRNA sequence (KZ0AAF6...  156     4e-38
+  ENA|CU535175|CU535175.1 Theobroma cacao, mRNA sequence (KZ0AAK8...  156     4e-38
+  ENA|CU535028|CU535028.1 Theobroma cacao, mRNA sequence (KZ0AAK6...  156     4e-38
+
+
+> ENA|CU534910|CU534910.1 Theobroma cacao, mRNA sequence (KZ0AAK5YP13FM1).
+Length=733
+
+ Score = 220 bits (119),  Expect = 2e-57
+ Identities = 420/562 (75%), Gaps = 34/562 (6%)
+ Strand=Plus/Plus
+
+Query  100  TGGTCTTTCTACAGAGCTCTCATCGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTC  159
+            ||||||||||||||||| || || ||||||||||||||||||||||||||||||||||| 
+Sbjct  198  TGGTCTTTCTACAGAGCACTGATAGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTT  257
+
+Query  160  ACTATTATG-ACTGTCATCGGTTACAAGAGCCAGACCGATCCAGCCCTGAATCCTGACCA  218
+            || || |   ||||| || || |||||||   || |  | | ||    || | |  |   
+Sbjct  258  ACCAT-AGCCACTGTAATTGGCTACAAGA---AG-CA-A-C-AG----GA-TGC--AT--  300
+
+Query  219  GTGTACAGGCGTTGGCGTCCTTGGTATCGCATGGGCCTTTGGTGGCATGATCTTCATCCT  278
+            ||| |  || |||||  || | ||||| |||||||| |||||||||||||| || || ||
+Sbjct  301  GTG-AT-GGAGTTGGTCTCTTGGGTATTGCATGGGCTTTTGGTGGCATGATATTTATTCT  358
+
+Query  279  CGTCTACTGCACCGCCGGCATCTCTGGTGGGCATATTAATCCGGCAGTGACTTTTGGGCT  338
+             || |||||||| ||||| ||||| ||||| || ||||| || ||||||||||||||| |
+Sbjct  359  TGTTTACTGCACTGCCGGTATCTCAGGTGGTCACATTAACCCTGCAGTGACTTTTGGGTT  418
+
+Query  339  GTTGTTGGCTCGGAAAGTGACGTTGGTGAGAGCAGT-GATGTACATGGTGGCTCAGTGCC  397
+            ||| || || || || ||| |  || | || || || | | |||||||| ||||||||| 
+Sbjct  419  GTTTTTAGCCCGTAAGGTGTCTCTGATCAGGGCTGTCGCT-TACATGGTAGCTCAGTGCT  477
+
+Query  398  TCGGTGCCATTTGTGGTGTGGCTTTGGTCAAGGCCTTCCAGTCTGCTT-ACTTCA-CCCG  455
+            | ||||| || ||||| || |  ||||| || || |||  |   ||   ||| || | | 
+Sbjct  478  TGGGTGCTATCTGTGGAGTAGGGTTGGTTAAAGCTTTCATGAA-GCACGACTACAACTCC  536
+
+Query  456  CTACGGTGGTGGCGC-AA-ATGGTCTCT-CTGACGGTTACAGCATCGGCACCGGTGTTGC  512
+            | | |||||||| || || |  ||  || ||| |   |||| ||  || || | | | | 
+Sbjct  537  CAA-GGTGGTGGTGCTAACACCGTGGCTTCTGGC---TACAACAAGGGAACTGCTTTGGG  592
+
+Query  513  AGCCGAGATCATTGGTACATTCGT-CTTAGTCTACACCGTCTTCTCTGCCACTGATCCCA  571
+            ||| ||||| ||||| || ||||| ||| |||||||| || ||||| || ||||| || |
+Sbjct  593  AGCTGAGATTATTGGCACTTTCGTGCTT-GTCTACACTGTTTTCTCAGCGACTGACCCTA  651
+
+Query  572  AGAGGAGTGCGCGTGACTCTCACGTTCCTGTATTGGCTCCATTGCCAATTGGATTTGCAG  631
+            ||||||| || || ||||| ||||||||||| ||||||||  | || ||||| ||||| |
+Sbjct  652  AGAGGAGCGCCCGGGACTCCCACGTTCCTGTGTTGGCTCCCCTTCCTATTGGGTTTGCCG  711
+
+Query  632  TGTTCATCGTTCACTTAGCTAC  653
+            | ||||| |||||||| |||||
+Sbjct  712  TTTTCATGGTTCACTTGGCTAC  733
+
+
+> ENA|CU534475|CU534475.1 Theobroma cacao, mRNA sequence (KZ0AAK2YJ08FM1).
+Length=701
+
+ Score = 189 bits (102),  Expect = 4e-48
+ Identities = 385/518 (74%), Gaps = 34/518 (7%)
+ Strand=Plus/Plus
+
+Query  100  TGGTCTTTCTACAGAGCTCTCATCGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTC  159
+            ||||||||||||||||| || || ||||||||||||||||||||||||||||||||||| 
+Sbjct  210  TGGTCTTTCTACAGAGCACTGATAGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTT  269
+
+Query  160  ACTATTATG-ACTGTCATCGGTTACAAGAGCCAGACCGATCCAGCCCTGAATCCTGACCA  218
+            || || |   ||||| || || |||||||   || |  | | ||    || | |  |   
+Sbjct  270  ACCAT-AGCCACTGTAATTGGCTACAAGA---AG-CA-A-C-AG----GA-TGC--AT--  312
+
+Query  219  GTGTACAGGCGTTGGCGTCCTTGGTATCGCATGGGCCTTTGGTGGCATGATCTTCATCCT  278
+            ||| |  || |||||  || | ||||| |||||||| |||||||||||||| || || ||
+Sbjct  313  GTG-AT-GGAGTTGGTCTCTTGGGTATTGCATGGGCTTTTGGTGGCATGATATTTATTCT  370
+
+Query  279  CGTCTACTGCACCGCCGGCATCTCTGGTGGGCATATTAATCCGGCAGTGACTTTTGGGCT  338
+             || |||||||| ||||| ||||| ||||| || ||||| || ||||||||||||||| |
+Sbjct  371  TGTTTACTGCACTGCCGGTATCTCAGGTGGTCACATTAACCCTGCAGTGACTTTTGGGTT  430
+
+Query  339  GTTGTTGGCTCGGAAAGTGACGTTGGTGAGAGCAGT-GATGTACATGGTGGCTCAGTGCC  397
+            ||| || || || || ||| |  || | || || || | | |||||||| ||||||||| 
+Sbjct  431  GTTTTTAGCCCGTAAGGTGTCTCTGATCAGGGCTGTCGCT-TACATGGTAGCTCAGTGCT  489
+
+Query  398  TCGGTGCCATTTGTGGTGTGGCTTTGGTCAAGGCCTTCCAGTCTGCTT-ACTTCA-CCCG  455
+            | ||||| || ||||| || |  ||||| || || |||  |   ||   ||| || | | 
+Sbjct  490  TGGGTGCTATCTGTGGAGTAGGGTTGGTTAAAGCTTTCATGAA-GCACGACTACAACTCC  548
+
+Query  456  CTACGGTGGTGGCGC-AA-ATGGTCTCT-CTGACGGTTACAGCATCGGCACCGGTGTTGC  512
+            | | |||||||| || || |  ||  || ||| |   |||| ||  || || | | | | 
+Sbjct  549  CAA-GGTGGTGGTGCTAACACCGTGGCTTCTGGC---TACAACAAGGGAACTGCTTTGGG  604
+
+Query  513  AGCCGAGATCATTGGTACATTCGT-CTTAGTCTACACCGTCTTCTCTGCCACTGATCCCA  571
+            ||| ||||| ||||| || ||||| ||| |||||||| || ||||| || ||||| || |
+Sbjct  605  AGCTGAGATTATTGGCACTTTCGTGCTT-GTCTACACTGTTTTCTCAGCGACTGACCCTA  663
+
+Query  572  AGAGGAGTGCGCGTGACTCTCACGTTCCTGTATTGGCT  609
+            ||||||| || || ||||| ||||||||||| ||||||
+Sbjct  664  AGAGGAGCGCCCGGGACTCCCACGTTCCTGTGTTGGCT  701
+
+
+> ENA|CU534348|CU534348.1 Theobroma cacao, mRNA sequence (KZ0AAK22YF03FM1).
+Length=688
+
+ Score = 158 bits (85),  Expect = 1e-38
+ Identities = 367/499 (74%), Gaps = 35/499 (7%)
+ Strand=Plus/Plus
+
+Query  100  TGGTCTTTCTACAGAGCTCTCATCGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTC  159
+            ||||||||||||||||| || || ||||||||||||||||||||||||||||||||||| 
+Sbjct  214  TGGTCTTTCTACAGAGCACTGATAGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTT  273
+
+Query  160  ACTATTATG-ACTGTCATCGGTTACAAGAGCCAGACCGATCCAGCCCTGAATCCTGACCA  218
+            || || |   ||||| || || |||||||   || |  | | ||    || | |  |   
+Sbjct  274  ACCAT-AGCCACTGTAATTGGATACAAGA---AG-CA-A-C-AG----GA-TGC--AT--  316
+
+Query  219  GTGTACAGGCGTTGGCGTCCTTGGTATCGCATGGGCCTTTGGTGGCATGATCTTCATCCT  278
+            ||| |  || |||||  || | ||||| |||||||| |||||||||||||| || || ||
+Sbjct  317  GTG-AT-GGAGTTGGTCTCTTGGGTATTGCATGGGCTTTTGGTGGCATGATATTTATTCT  374
+
+Query  279  CGTCTACTGCACCGCCGGCATCTCTGGTGGGCATATTAATCCGGCAGTGACTTTTGGGCT  338
+              | |||||||| ||||| ||||| ||||| || ||||| || ||||||||||||||| |
+Sbjct  375  TTT-TACTGCACTGCCGGTATCTCAGGTGGTCACATTAACCCTGCAGTGACTTTTGGGTT  433
+
+Query  339  GTTGTTGGCTCGGAAAGTGACGTTGGTGAGAGCAGT-GATGTACATGGTGGCTCAGTGCC  397
+            ||| || || || || ||| |  || | || || || | | |||||||| ||||||||| 
+Sbjct  434  GTTTTTAGCCCGTAAGGTGTCTCTGATCAGGGCTGTCGCT-TACATGGTAGCTCAGTGCT  492
+
+Query  398  TCGGTGCCATTTGTGGTGTGGCTTTGGTCAAGGCCTTCCAGTCTGCTT-ACTTCA-CCCG  455
+            | ||||| || ||||| || |  ||||| || || |||  |   ||   ||| || | | 
+Sbjct  493  TGGGTGCTATCTGTGGAGTTGGGTTGGTTAAAGCTTTCATGAA-GCACGACTACAACTCC  551
+
+Query  456  CTACGGTGGTGGCGC-AA-ATGGTCTCT-CTGACGGTTACAGCATCGGCACCGGTGTTGC  512
+            | | |||||||| || || |  ||  || ||| |   |||| ||  || || | | | | 
+Sbjct  552  CAA-GGTGGTGGTGCTAACACCGTGGCTTCTGGC---TACAACAAGGGAACTGCTTTGGG  607
+
+Query  513  AGCCGAGATCATTGGTACATTCGT-CTTAGTCTACACCGTCTTCTCTGCCACTGATCCCA  571
+            ||| ||||| ||||| || ||||| ||| |||||||| || ||||| || ||||| || |
+Sbjct  608  AGCTGAGATTATTGGCACTTTCGTGCTT-GTCTACACTGTTTTCTCAGCGACTGACCCTA  666
+
+Query  572  AGAGGAGTGCGCGTGACTC  590
+            ||||||| || || |||||
+Sbjct  667  AGAGGAGCGCCCGGGACTC  685
+
+
+> ENA|CU596649|CU596649.1 Theobroma cacao, mRNA sequence (KZ0AAF6YI03FM1).
+Length=701
+
+ Score = 156 bits (84),  Expect = 4e-38
+ Identities = 257/338 (76%), Gaps = 22/338 (7%)
+ Strand=Plus/Plus
+
+Query  100  TGGTCTTTCTACAGAGCTCTCATCGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTC  159
+            ||||||||||||||||| || || ||||||||||||||||||||||||||||||||||| 
+Sbjct  249  TGGTCTTTCTACAGAGCACTGATAGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTT  308
+
+Query  160  ACTATTATG-ACTGTCATCGGTTACAAGAGCCAGACCGATCCAGCCCTGAATCCTGACCA  218
+            || || |   ||||| || || |||||||   || |  | | ||    || | |  |   
+Sbjct  309  ACCAT-AGCCACTGTAATTGGATACAAGA---AG-CA-A-C-AG----GA-TGC--AT--  351
+
+Query  219  GTGTACAGGCGTTGGCGTCCTTGGTATCGCATGGGCCTTTGGTGGCATGATCTTCATCCT  278
+            ||| |  || |||||  || | ||||| |||||||| |||||||||||||| || || ||
+Sbjct  352  GTG-AT-GGAGTTGGTCTCTTGGGTATTGCATGGGCTTTTGGTGGCATGATATTTATTCT  409
+
+Query  279  CGTCTACTGCACCGCCGGCATCTCTGGTGGGCATATTAATCCGGCAGTGACTTTTGGGCT  338
+             || |||||||| ||||| ||||| ||||| || ||||| || ||||||||||||||| |
+Sbjct  410  TGTTTACTGCACTGCCGGTATCTCAGGTGGTCACATTAACCCTGCAGTGACTTTTGGGTT  469
+
+Query  339  GTTGTTGGCTCGGAAAGTGACGTTGGTGAGAGCAGT-GATGTACATGGTGGCTCAGTGCC  397
+            ||| || || || || ||| |  || | || || || | | |||||||| ||||||||| 
+Sbjct  470  GTTTTTAGCCCGTAAGGTGTCTCTGATCAGGGCTGTCGCT-TACATGGTAGCTCAGTGCT  528
+
+Query  398  TCGGTGCCATTTGTGGTGTGGCTTTGGTCAAGGCCTTC  435
+            | ||||| || ||||| || |  ||||| || || |||
+Sbjct  529  TGGGTGCTATCTGTGGAGTTGGGTTGGTTAAAGCTTTC  566
+
+
+> ENA|CU535175|CU535175.1 Theobroma cacao, mRNA sequence (KZ0AAK8YA23FM1).
+Length=616
+
+ Score = 156 bits (84),  Expect = 4e-38
+ Identities = 257/338 (76%), Gaps = 22/338 (7%)
+ Strand=Plus/Plus
+
+Query  100  TGGTCTTTCTACAGAGCTCTCATCGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTC  159
+            ||||||||||||||||| || || ||||||||||||||||||||||||||||||||||| 
+Sbjct  224  TGGTCTTTCTACAGAGCACTGATAGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTT  283
+
+Query  160  ACTATTATG-ACTGTCATCGGTTACAAGAGCCAGACCGATCCAGCCCTGAATCCTGACCA  218
+            || || |   ||||| || || |||||||   || |  | | ||    || | |  |   
+Sbjct  284  ACCAT-AGCCACTGTAATTGGATACAAGA---AG-CA-A-C-AG----GA-TGC--AT--  326
+
+Query  219  GTGTACAGGCGTTGGCGTCCTTGGTATCGCATGGGCCTTTGGTGGCATGATCTTCATCCT  278
+            ||| |  || |||||  || | ||||| |||||||| |||||||||||||| || || ||
+Sbjct  327  GTG-AT-GGAGTTGGTCTCTTGGGTATTGCATGGGCTTTTGGTGGCATGATATTTATTCT  384
+
+Query  279  CGTCTACTGCACCGCCGGCATCTCTGGTGGGCATATTAATCCGGCAGTGACTTTTGGGCT  338
+             || |||||||| ||||| ||||| ||||| || ||||| || ||||||||||||||| |
+Sbjct  385  TGTTTACTGCACTGCCGGTATCTCAGGTGGACACATTAACCCTGCAGTGACTTTTGGGTT  444
+
+Query  339  GTTGTTGGCTCGGAAAGTGACGTTGGTGAGAGCAGT-GATGTACATGGTGGCTCAGTGCC  397
+            ||| || || || || ||| |  || | || || || | | |||||||| ||||||||| 
+Sbjct  445  GTTTTTAGCCCGTAAGGTGTCTCTGATCAGGGCTGTCGCT-TACATGGTAGCTCAGTGCT  503
+
+Query  398  TCGGTGCCATTTGTGGTGTGGCTTTGGTCAAGGCCTTC  435
+            | ||||| || ||||| || |  ||||| || || |||
+Sbjct  504  TGGGTGCTATCTGTGGAGTTGGGTTGGTTAAAGCTTTC  541
+
+
+> ENA|CU535028|CU535028.1 Theobroma cacao, mRNA sequence (KZ0AAK6YP13FM1).
+Length=645
+
+ Score = 156 bits (84),  Expect = 4e-38
+ Identities = 257/338 (76%), Gaps = 22/338 (7%)
+ Strand=Plus/Plus
+
+Query  100  TGGTCTTTCTACAGAGCTCTCATCGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTC  159
+            ||||||||||||||||| || || ||||||||||||||||||||||||||||||||||| 
+Sbjct  198  TGGTCTTTCTACAGAGCACTGATAGCTGAGTTCATAGCCACTCTCCTTTTCCTCTATGTT  257
+
+Query  160  ACTATTATG-ACTGTCATCGGTTACAAGAGCCAGACCGATCCAGCCCTGAATCCTGACCA  218
+            || || |   ||||| || || |||||||   || |  | | ||    || | |  |   
+Sbjct  258  ACCAT-AGCCACTGTAATTGGCTACAAGA---AG-CA-A-C-AG----GA-TGC--AT--  300
+
+Query  219  GTGTACAGGCGTTGGCGTCCTTGGTATCGCATGGGCCTTTGGTGGCATGATCTTCATCCT  278
+            ||| |  || |||||  || | ||||| |||||||| |||||||||||||| || || ||
+Sbjct  301  GTG-AT-GGAGTTGGTCTCTTGGGTATTGCATGGGCTTTTGGTGGCATGATATTTATTCT  358
+
+Query  279  CGTCTACTGCACCGCCGGCATCTCTGGTGGGCATATTAATCCGGCAGTGACTTTTGGGCT  338
+             || |||||||| ||||| ||||| ||||| || ||||| || ||||||||||||||| |
+Sbjct  359  TGTTTACTGCACTGCCGGTATCTCAGGTGGTCACATTAACCCTGCAGTGACTTTTGGGTT  418
+
+Query  339  GTTGTTGGCTCGGAAAGTGACGTTGGTGAGAGCAGT-GATGTACATGGTGGCTCAGTGCC  397
+            ||| || || || || ||| |  || | || || || | | |||||||| ||||||||| 
+Sbjct  419  GTTTTTAGCCCGTAAGGTGTCTCTGATCAGGGCTGTCGCT-TACATGGTAGCTCAGTGCT  477
+
+Query  398  TCGGTGCCATTTGTGGTGTGGCTTTGGTCAAGGCCTTC  435
+            | ||||| || ||||| || |  ||||| || || |||
+Sbjct  478  TGGGTGCTATCTGTGGAGTAGGGTTGGTTAAAGCTTTC  515
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4672531294
+
+
+Query= AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic
+protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE
+PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864
+
+Length=864
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7...  333     2e-91
+  ENA|CU535351|CU535351.1 Theobroma cacao, mRNA sequence (KZ0AAK9...  220     2e-57
+
+
+> ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7YH11FM1).
+Length=744
+
+ Score = 333 bits (180),  Expect = 2e-91
+ Identities = 415/530 (78%), Gaps = 9/530 (2%)
+ Strand=Plus/Minus
+
+Query  337  CACATCAA-CCCTGCTGT-AACATTCGGTCTGTTCTTGGCTCGGAAGTTATCTCTGACCA  394
+            |||||||| ||| ||||| | | || ||| ||||  | ||  ||||| | || || || |
+Sbjct  744  CACATCAACCCCAGCTGTGACCTTTGGGT-TGTTACTAGCAAGGAAGCTGTCCCTTACGA  686
+
+Query  395  GAGCAGTGTTCTACATGATTATGCAATGTCTTGGAGCCATCTGTGGTGCCGGAGTCGTCA  454
+            | ||||| |||||||| || ||||| || ||||| ||||||||||| || || || ||||
+Sbjct  685  GGGCAGTCTTCTACATCATCATGCAGTGCCTTGGTGCCATCTGTGGAGCTGGTGTAGTCA  626
+
+Query  455  AAGGTTTCCA-GCCAAC-GCCG-TACCAGACTCTCG-GTGGTGGTGCTAACACCGTTGCT  510
+            | || ||||| |   || |||| ||  ||| | | | ||||||| ||||||   ||    
+Sbjct  625  AGGGATTCCAAGGAGACAGCCGATATGAGA-TGTTGCGTGGTGGAGCTAACGTTGTGAAC  567
+
+Query  511  CATGGCTACACCAAAGGTTCTGGCCTTGGTGCTGAAATCATCGGAACATTCGTTCTCGTC  570
+            |||||||||||||| |||  ||| ||||||||||| ||||| || || || ||||| |||
+Sbjct  566  CATGGCTACACCAAGGGTGATGGTCTTGGTGCTGAGATCATTGGCACTTTTGTTCTTGTC  507
+
+Query  571  TACACTGTCTTCTCCGCCACCGACGCCAAGAGAAGCGCCCGTGACTCACACGTCCCGATT  630
+            ||||| |||||||| || || || |||||||||| |||| | ||||| || || || |||
+Sbjct  506  TACACCGTCTTCTCTGCTACTGATGCCAAGAGAAACGCCAGAGACTCTCATGTTCCTATT  447
+
+Query  631  TTGGCGCCGCTCCCAATCGGATTTGCAGTGTTCTTGGTACACTTGGCAACAATACCGATC  690
+            ||||| || || || || || ||||||||||||||||| || ||||| || || || |||
+Sbjct  446  TTGGCTCCCCTTCCCATTGGGTTTGCAGTGTTCTTGGTTCATTTGGCCACCATTCCCATC  387
+
+Query  691  ACCGGGACCGGAATCAACCCAGCTAGAAGTCTTGGAGCCGCAATTATCTACAACAAGGAC  750
+            || || || || || |||||||| || || |||||||| ||  | || |||||||| |||
+Sbjct  386  ACTGGAACAGGTATTAACCCAGCCAGGAGCCTTGGAGCTGCCGTCATATACAACAAAGAC  327
+
+Query  751  CACTCTTGGGATGACCATTGGATTTTCTGGGTTGGACCATTCATTGGAGCAGCTCTAGCA  810
+            ||| | ||||||||||||||||||||||||||||| || ||||||||||| || || || 
+Sbjct  326  CACGCATGGGATGACCATTGGATTTTCTGGGTTGGGCCCTTCATTGGAGCTGCGCTTGCT  267
+
+Query  811  GCACTATATCACCAGATTGTCATCAGAGCGATTCCTTTCAAGAGCAAGAG  860
+            ||| | || ||||||||  ||||||| || |||||||||||| || ||||
+Sbjct  266  GCAATTTACCACCAGATAATCATCAGGGCTATTCCTTTCAAG-GCCAGAG  218
+
+
+> ENA|CU535351|CU535351.1 Theobroma cacao, mRNA sequence (KZ0AAK9YG14FM1).
+Length=712
+
+ Score = 220 bits (119),  Expect = 2e-57
+ Identities = 267/340 (79%), Gaps = 4/340 (1%)
+ Strand=Plus/Minus
+
+Query  487  GGTGGTGGTGCTAACACCGTTGCTCATGGCTACACCAAAGGTTCTGGCCTT-GGTGCTGA  545
+            |||||||||||||||||||| |||  |||||||| ||| ||  ||| | || || |||||
+Sbjct  581  GGTGGTGGTGCTAACACCGTGGCTTCTGGCTACAACAAGGGAACTG-CTTTGGGAGCTGA  523
+
+Query  546  AATCATCGGAACATTCGTTCTCGTCTACACTGTCTTCTCCGCCACCGACGCCAAGAGAAG  605
+             || || || || ||||| || ||||||||||| || || || || ||| | ||||| ||
+Sbjct  522  GATTATTGGCACTTTCGTGCTTGTCTACACTGTTTTTTCAGCGACTGACCCTAAGAGGAG  463
+
+Query  606  CGCCCGTGACTCACACGTCCCGATTTTGGCGCCGCTCCCAATCGGATTTGCAGTGTTCTT  665
+            |||||| ||||| ||||| ||  | ||||| || || || || || ||||| || ||| |
+Sbjct  462  CGCCCGGGACTCCCACGTTCCTGTGTTGGCTCCCCTTCCTATTGGGTTTGCCGTTTTCAT  403
+
+Query  666  GGTACACTTGGCAACAATACCGATCACCGGGACCGGAATCAACCCAGCTAGAAGTCTTGG  725
+            ||| |||||||| || || || ||||| || ||||| |||||||| ||||| ||| ||||
+Sbjct  402  GGTTCACTTGGCTACCATCCCCATCACTGGCACCGGTATCAACCCTGCTAGGAGTATTGG  343
+
+Query  726  AGCCGCAATTATCTACAACAAGGACCACTCTTGGGATGACCATTGGATTTTCTGGGTTGG  785
+             || ||  | ||||||||||| ||  |  | |||||||||||||||||||||||||||||
+Sbjct  342  TGCTGCGGTCATCTACAACAACGAGAAAGCCTGGGATGACCATTGGATTTTCTGGGTTGG  283
+
+Query  786  ACCATTCATTGGAGCAGCTCT-AGCAGCACTATATCACCA  824
+             || ||| |||||||| |||  ||||||   |||||| ||
+Sbjct  282  TCCTTTCGTTGGAGCA-CTCGCAGCAGCTGCATATCATCA  244
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4689258733
+
+
+Query= AT4G02390.1 | Symbols:APP,PP,PARP2 | poly(ADP-ribose) polymerase
+2,poly(ADP-ribose) polymerase |  Chr4:1050104-1053960 FORWARD
+LENGTH=1914
+
+Length=1914
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10517524920
+
+
+Query= AT4G04720.1 | Symbols:AtCPK21,CPK21 | calcium-dependent protein
+kinase 21 |  Chr4:2394817-2397631 REVERSE LENGTH=1596
+
+Length=1596
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8770753849
+
+
+Query= AT4G04740.2 | Symbols:CPK23,ATCPK23 | calcium-dependent protein
+kinase 23 |  Chr4:2404883-2408493 REVERSE LENGTH=1602
+
+Length=1602
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8804208727
+
+
+Query= AT4G15090.1 | Symbols:FAR1 | FAR-RED IMPAIRED RESPONSE 1 | 
+Chr4:8614806-8617870 FORWARD LENGTH=2484
+
+Length=2484
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13689476880
+
+
+Query= AT4G18290.1 | Symbols:KAT2 | potassium channel in Arabidopsis
+thaliana 2 |  Chr4:10115418-10118477 FORWARD LENGTH=2094
+
+Length=2094
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11519193960
+
+
+Query= AT4G19230.2 | Symbols:CYP707A1 | "cytochrome P450, family 707,
+subfamily A, polypeptide 1" |  Chr4:10521524-10523566 FORWARD
+LENGTH=1455
+
+Length=1455
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7984564216
+
+
+Query= AT4G23450.2 | Symbols:AIRP1,AtAIRP1 | ABA Insensitive RING Protein 1
+|  Chr4:12241113-12242190 REVERSE LENGTH=627
+
+Length=627
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3380012790
+
+
+Query= AT4G25480.1 | Symbols:CBF3,DREB1A,ATCBF3 | dehydration response
+element B1A,C-REPEAT BINDING FACTOR  3 |  Chr4:13018353-13019003
+REVERSE LENGTH=651
+
+Length=651
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3514095942
+
+
+Query= AT4G26080.1 | Symbols:ABI1,AtABI1 | ABA INSENSITIVE 1 | 
+Chr4:13220231-13221828 REVERSE LENGTH=1305
+
+Length=1305
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7148192266
+
+
+Query= AT4G27630.3 | Symbols:GTG2 | GPCR-type G protein 2 | 
+Chr4:13791980-13797033 REVERSE LENGTH=1476
+
+Length=1476
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8101656289
+
+
+Query= AT4G29890.1 | Symbols:no symbol available | no full name available |
+Chr4:14608868-14610905 FORWARD LENGTH=1269
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6947462998
+
+
+Query= AT4G30950.1 | Symbols:FADC,SFD4,FAD6 | FATTY ACID DESATURASE
+C,STEAROYL DESATURASE DEFICIENCY 4,fatty acid desaturase 6 | 
+Chr4:15057278-15059673 REVERSE LENGTH=1347
+
+Length=1347
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7382376412
+
+
+Query= AT4G31120.1 | Symbols:SKB1,CAU1,ATPRMT5,PRMT5 | calcium
+underaccumulation 1,SHK1 binding protein 1,PROTEIN ARGININE
+METHYLTRANSFERASE 5 |  Chr4:15132185-15136568 REVERSE LENGTH=1929
+
+Length=1929
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10600997340
+
+
+Query= AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 |
+SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING
+1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD
+LENGTH=1089
+
+Length=1089
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9...  385     6e-107
+
+
+> ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9YI07FM1).
+Length=768
+
+ Score = 385 bits (208),  Expect = 6e-107
+ Identities = 449/568 (79%), Gaps = 6/568 (1%)
+ Strand=Plus/Plus
+
+Query  169  AAGATAGATGAAAATGTAAAAAGGGAGATAATCAACCACAGGTCCTT-AAGACATCCCAA  227
+            ||||| |||||  ||||  |||||||||| || ||||| |||||||| ||| ||||||||
+Sbjct  21   AAGATTGATGAGCATGTTCAAAGGGAGATTATGAACCATAGGTCCTTGAAG-CATCCCAA  79
+
+Query  228  TATCGTTAGATTCAAAGAGGTTATATTAACACCAACCCATTTAGCCATTGTTATGGAATA  287
+            |||  | |||||||| |||||  |  |||||||||| ||| ||||||| || ||||| ||
+Sbjct  80   TATAATAAGATTCAAGGAGGTCCTGCTAACACCAACTCATCTAGCCATAGTCATGGAGTA  139
+
+Query  288  TGCATCTGGAGGAGAACTTTTCGAGCGAATCTGCAATGCAGGCCGCTTCAGCGAAGACGA  347
+            |||  |||| ||||||||||| ||  |||| |||||||| ||  | ||||| || || ||
+Sbjct  140  TGCTGCTGGCGGAGAACTTTTTGAAAGAATATGCAATGCTGGTAGATTCAGTGAGGATGA  199
+
+Query  348  GGCGAGGTTTTTCTTCCAGCAACTCATTTCAGGAGTTAGTTACTGTCATGCTATGCAAGT  407
+            ||| || |||||||| || ||||| || |||||||| |||||||| ||||| |||||| |
+Sbjct  200  GGCAAGATTTTTCTTTCAACAACTGATATCAGGAGTGAGTTACTGCCATGCAATGCAAAT  259
+
+Query  408  ATGTCACCGAGA-CTTAAAGCTCGAGAATACGTTATTAGATGGTAGCCCGGCCCCTCGTC  466
+             |||||  |||| ||| ||| | || || ||  | |||||||| ||| | || || || |
+Sbjct  260  TTGTCATAGAGATCTT-AAGTTGGAAAACACACTGTTAGATGGGAGCACTGCACCGCGAC  318
+
+Query  467  TAAAGATATGTGATTTCGGATATTCTAAGTCATCAGTGTTACATTCGCAACCAAAATCAA  526
+            | || ||||| || || || || || ||||||   ||||| || || || || |||||||
+Sbjct  319  TCAAAATATGCGACTTTGGCTACTCCAAGTCAAGTGTGTTTCACTCCCAGCCCAAATCAA  378
+
+Query  527  CTGTTGGAACTCCTGCTTACATCGCTCCTGAGGT-TTTACTAAAGAAAGAATATGATGGA  585
+            |||| ||||| || || |||||||| || ||||| ||  ||| | |||||||||||||| 
+Sbjct  379  CTGTAGGAACACCAGCCTACATCGCGCCAGAGGTCTTGTCTAGA-AAAGAATATGATGGG  437
+
+Query  586  AAGGTTGCAGATGTTTGGTCTTGTGGGGTTACTCTGTATGTCATGCTGGTTGGAGCATAT  645
+            ||| ||||||||||||||||||||||||||||| ||||||||||||||||||| || |||
+Sbjct  438  AAGATTGCAGATGTTTGGTCTTGTGGGGTTACTTTGTATGTCATGCTGGTTGGGGCTTAT  497
+
+Query  646  CCTTTCGAAGATCCCGAGGAACCAAAGAATTTCAGGAAAACTATACATAGAATCCTGAAT  705
+            ||||| ||||| || || || || |  || ||||| ||||| || ||  | || |||| |
+Sbjct  498  CCTTTTGAAGACCCTGAAGATCCTAGAAACTTCAGAAAAACAATTCAGCGGATTCTGAGT  557
+
+Query  706  GTTCAGTATGCTATTCCGGATTATGTTC  733
+            || || ||| ||||||| ||||| ||||
+Sbjct  558  GTCCACTATTCTATTCCTGATTACGTTC  585
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5943816658
+
+
+Query= AT4G34000.1 | Symbols:ABF3,AtABF3,DPBF5 | DC3 PROMOTER-BINDING
+FACTOR 5,abscisic acid responsive elements-binding factor 3 | 
+Chr4:16296008-16297971 FORWARD LENGTH=1365
+
+Length=1365
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7482741046
+
+
+Query= AT4G34240.1 | Symbols:ALDH3I1,ALDH3 | aldehyde dehydrogenase
+3I1,aldehyde dehydrogenase 3 |  Chr4:16389801-16392633 FORWARD
+LENGTH=1653
+
+Length=1653
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9088575190
+
+
+Query= AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE
+CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | 
+Chr4:17802974-17806332 REVERSE LENGTH=2016
+
+Length=2016
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11085137376
+
+
+Query= AT4G38130.1 | Symbols:ATHDA19,HD1,HDA1,HDA19,RPD3A,ATHD1 |
+ARABIDOPSIS HISTONE DEACETYLASE 19,HISTONE DEACETYLASE 19,histone
+deacetylase 1,ARABIDOPSIS HISTONE DEACETYLASE 1 | 
+Chr4:17896493-17899057 REVERSE LENGTH=1506
+
+Length=1506
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8268930679
+
+
+Query= AT5G03740.1 | Symbols:HD2C,HDT3 | HISTONE DEACETYLASE 3,histone
+deacetylase 2C |  Chr5:981994-983961 FORWARD LENGTH=885
+
+Length=885
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4806350806
+
+
+Query= AT5G05410.1 | Symbols:DREB2,DREB2A | DEHYDRATION-RESPONSIVE ELEMENT
+BINDING PROTEIN 2,DRE-binding protein 2A |  Chr5:1602650-1603657
+FORWARD LENGTH=1008
+
+Length=1008
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5492175805
+
+
+Query= AT5G06530.2 | Symbols:AtABCG22,ABCG22 | Arabidopsis thaliana
+ATP-binding cassette G22,ATP-binding cassette G22 | 
+Chr5:1990060-1994605 REVERSE LENGTH=2256
+
+Length=2256
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12420696096
+
+
+Query= AT5G10450.4 | Symbols:14-3-3lambda,GRF6,AFT1 | 14-3-3 PROTEIN G-BOX
+FACTOR14 LAMBDA,G-box regulating factor 6 |  Chr5:3284476-3286261
+REVERSE LENGTH=822
+
+Length=822
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4455074587
+
+
+Query= AT5G11270.1 | Symbols:OCP3 | overexpressor of cationic peroxidase 3
+|  Chr5:3595557-3597076 REVERSE LENGTH=1065
+
+Length=1065
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5809997146
+
+
+Query= AT5G13680.1 | Symbols:ABO1,AtELP1,ELO2 | ABA-OVERLY SENSITIVE
+1,ELONGATA 2 |  Chr5:4410522-4415471 REVERSE LENGTH=3960
+
+Length=3960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 21903163008
+
+
+Query= AT5G16820.1 | Symbols:HSFA1B,HSF3,ATHSF3,ATHSFA1B | ARABIDOPSIS HEAT
+SHOCK FACTOR 3,CLASS A HEAT SHOCK FACTOR 1B,heat shock factor
+3,ARABIDOPSIS THALIANA CLASS A HEAT SHOCK FACTOR 1B | 
+Chr5:5530446-5532497 FORWARD LENGTH=1446
+
+Length=1446
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7934381899
+
+
+Query= AT5G24030.1 | Symbols:SLAH3 | SLAC1 homologue 3 | 
+Chr5:8118618-8120993 REVERSE LENGTH=1908
+
+Length=1908
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10484135952
+
+
+Query= AT5G37500.1 | Symbols:GORK | gated outwardly-rectifying K+ channel |
+Chr5:14889758-14894883 REVERSE LENGTH=2463
+
+Length=2463
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13572615492
+
+
+Query= AT5G40280.1 | Symbols:ATFTB,WIG,ERA1 | ENHANCED RESPONSE TO ABA
+1,WIGGUM,ARABIDOPSIS THALIANA FARNESYL TRANSFERASE BETA SUBUNIT | 
+Chr5:16101391-16104783 FORWARD LENGTH=1449
+
+Length=1449
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7951109338
+
+
+Query= AT5G44200.1 | Symbols:ATCBP20,CBP20 | CAP-binding protein 20 | 
+Chr5:17802062-17803875 REVERSE LENGTH=774
+
+Length=774
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4187435563
+
+
+Query= AT5G45340.1 | Symbols:CYP707A3 | "cytochrome P450, family 707,
+subfamily A, polypeptide 3" |  Chr5:18368977-18370909 REVERSE
+LENGTH=1392
+
+Length=1392
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7633287997
+
+
+Query= AT5G47910.1 | Symbols:ATRBOHD,RBOHD | respiratory burst oxidase
+homologue D |  Chr5:19397585-19401768 FORWARD LENGTH=2766
+
+Length=2766
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15258758376
+
+
+Query= AT5G48870.1 | Symbols:AtSAD1,LSM5,AtLSM5,SAD1 | SUPERSENSITIVE TO
+ABA AND DROUGHT 1,SM-like 5 |  Chr5:19813407-19814362 FORWARD
+LENGTH=267
+
+Length=267
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1377054618
+
+
+Query= AT5G49890.1 | Symbols:CLC-C,ATCLC-C | chloride channel C | 
+Chr5:20288489-20292143 REVERSE LENGTH=2340
+
+Length=2340
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 12888141648
+
+
+Query= AT5G51070.1 | Symbols:SAG15,ERD1,CLPD | EARLY RESPONSIVE TO
+DEHYDRATION 1,SENESCENCE ASSOCIATED GENE 15 | 
+Chr5:20764479-20768481 FORWARD LENGTH=2838
+
+Length=2838
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 15659425992
+
+
+Query= AT5G51990.1 | Symbols:CBF4,DREB1D | DEHYDRATION-RESPONSIVE
+ELEMENT-BINDING PROTEIN 1D,C-repeat-binding factor 4 | 
+Chr5:21117113-21117787 REVERSE LENGTH=675
+
+Length=675
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3648179094
+
+
+Query= AT5G57050.1 | Symbols:ABI2,AtABI2 | ABA INSENSITIVE 2 | 
+Chr5:23087720-23089303 FORWARD LENGTH=1272
+
+Length=1272
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6964190437
+
+
+Query= AT5G61760.1 | Symbols:IPK2BETA,IPK2B,ATIPK2BETA | INOSITOL
+POLYPHOSPHATE KINASE 2 BETA,inositol polyphosphate kinase 2
+beta,ARABIDOPSIS THALIANA INOSITOL POLYPHOSPHATE KINASE 2 BETA | 
+Chr5:24813916-24814818 REVERSE LENGTH=903
+
+Length=903
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4906715440
+
+
+Query= AT5G63110.1 | Symbols:SIL1,ATHDA6,AXE1,RTS1,HDA6,RPD3B | HISTONE
+DEACETYLASE 6,RNA-MEDIATED TRANSCRIPTIONAL SILENCING 1,histone
+deacetylase 6 |  Chr5:25315834-25318227 REVERSE LENGTH=1416
+
+Length=1416
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7767107509
+
+
+Query= AT5G67300.1 | Symbols:MYBR1,ATMYBR1,ATMYB44,MYB44 | ARABIDOPSIS
+THALIANA MYB DOMAIN PROTEIN 44,myb domain protein r1 | 
+Chr5:26854109-26855026 FORWARD LENGTH=918
+
+Length=918
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4990352635
+
+
+Query= LOC_Os09g28310.1 CDS
+
+Length=1131
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6178000804
+
+
+Query= LOC_Os09g13570.1 CDS
+
+Length=462
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2458191120
+
+
+Query= LOC_Os09g05020.2 CDS
+
+Length=669
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3614658306
+
+
+Query= LOC_Os08g35240.1 CDS
+
+Length=732
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3966626580
+
+
+Query= LOC_Os05g48300.1 CDS
+
+Length=1152
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6295092877
+
+
+Query= LOC_Os05g25770.1 CDS
+
+Length=981
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5341628854
+
+
+Query= LOC_Os04g56130.1 CDS
+
+Length=1260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6897280681
+
+
+Query= LOC_Os03g60080.1 CDS
+
+Length=951
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5174354464
+
+
+Query= LOC_Os03g03370.1 CDS
+
+Length=858
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4655803855
+
+
+Query= LOC_Os02g52780.1 CDS
+
+Length=1074
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5860179463
+
+
+Query= LOC_Os02g10760.1 CDS
+
+Length=618
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3329731608
+
+
+Query= LOC_Os02g08230.1 CDS
+
+Length=1887
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10367274564
+
+
+Query= LOC_Os01g62410.1 CDS
+
+Length=1764
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9682800720
+
+
+Query= LOC_Os01g58420.1 CDS
+
+Length=708
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3832543428
+
+
+Query= LOC_Os01g50110.1 CDS
+
+Length=828
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4488529465
+
+
+Query= LOC_Os01g42860.1 CDS
+
+Length=219
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1108361034
+
+
+Query= LOC_Os01g01420.2 CDS
+
+Length=1137
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6211455682
+
+
+Query= NM_001111795.1_cds_NP_001105265.1_1 [gene=gpm803b]
+[db_xref=GeneID:542176] [protein=uncharacterized LOC542176]
+[protein_id=NP_001105265.1] [location=61..933] [gbkey=CDS]
+
+Length=873
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4739441050
+
+
+Query= NM_001111843.1_cds_NP_001105313.1_1 [gene=me3]
+[db_xref=GeneID:542233] [protein=NADP-dependent malic enzyme,
+chloroplastic precursor] [protein_id=NP_001105313.1]
+[location=115..2025] [gbkey=CDS]
+
+Length=1911
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 10500830436
+
+
+Query= NM_001153573.1_cds_NP_001147045.1_1 [gene=LOC100280655]
+[db_xref=GeneID:100280655] [protein=protein binding protein]
+[protein_id=NP_001147045.1] [location=273..1115] [gbkey=CDS]
+
+Length=843
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4572166660
+
+
+Query= NM_001305944.1_cds_NP_001292873.1_1 [gene=DBP1c]
+[db_xref=GeneID:732788] [protein=dehydration-responsive element
+binding protein 2A isoform 1] [protein_id=NP_001292873.1]
+[location=156..1259] [gbkey=CDS]
+
+Length=1104
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6027453853
+
+
+Query= NM_001111891.2_cds_NP_001105361.2_1 [gene=aba1]
+[db_xref=GeneID:542304] [protein=abscisic stress protein homolog]
+[protein_id=NP_001105361.2] [location=78..494] [gbkey=CDS]
+
+Length=417
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2206785210
+
+
+Query= XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248]
+[db_xref=GeneID:4330248] [protein=aquaporin PIP1-1]
+[protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]
+
+Length=870
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535174|CU535174.1 Theobroma cacao, mRNA sequence (KZ0AAK8...  350     2e-96
+  ENA|CU534452|CU534452.1 Theobroma cacao, mRNA sequence (KZ0AAK2...  292     3e-79
+  ENA|CU534022|CU534022.1 Theobroma cacao, mRNA sequence (KZ0AAK1...  287     1e-77
+  ENA|CU535062|CU535062.1 Theobroma cacao, mRNA sequence (KZ0AAK7...  281     7e-76
+
+
+> ENA|CU535174|CU535174.1 Theobroma cacao, mRNA sequence (KZ0AAK8YA16FM1).
+Length=726
+
+ Score = 350 bits (189),  Expect = 2e-96
+ Identities = 472/612 (77%), Gaps = 5/612 (1%)
+ Strand=Plus/Plus
+
+Query  250  AAGTGCGCCACCGTCGGCATCCAGGGCATCGCCTGGTCCTTCGGAGGCATGATCTTCGCG  309
+            |||||| | || || || || || || || || ||| |||| || ||||||||||| || 
+Sbjct  48   AAGTGCCCAACTGTTGGGATTCAAGGGATAGCTTGGGCCTTTGGTGGCATGATCTTTGCT  107
+
+Query  310  CTCGTCTACTGCACCGCCGGCATCTCCGGAGGACACATCAACCCAGCAGTTACTTTTGGG  369
+            || || ||||| || || || || || || || ||||||||||| || || || || || 
+Sbjct  108  CTTGTTTACTGTACTGCTGGAATTTCAGGTGGTCACATCAACCCGGCGGTGACATTCGGA  167
+
+Query  370  CTGTTCTTGGCCAGGAAGCTGTCCCTGACCCGGGCCATCTTCTACATAGTGATGCAATGC  429
+            ||||||||||| ||||| |||||| ||||  |||| || |||||||| |||||||| |||
+Sbjct  168  CTGTTCTTGGCGAGGAAACTGTCCTTGACAAGGGCAATTTTCTACATGGTGATGCAGTGC  227
+
+Query  430  CTAGGGGCCATCTGCGGAGCTGGAGTTGTGAAGGGCTTCCA---GCAGGGTCTGTACATG  486
+             | || ||||||||||| ||||| || |||||||| |||     | || |   ||||  |
+Sbjct  228  TTGGGAGCCATCTGCGGTGCTGGTGTGGTGAAGGGATTCATGGGGAAGCGAAGGTAC-GG  286
+
+Query  487  GGCAATG-GCGGTGGTGCCAATGTAGTTGCCAGTGGCTACACCAAGGGTGACGGTCTTGG  545
+             ||  ||   ||||| |||||  | || ||   ||||||||||||||| || || || ||
+Sbjct  287  TGCTTTGAATGGTGGAGCCAACTTCGTCGCACCTGGCTACACCAAGGGAGATGGCCTCGG  346
+
+Query  546  TGCTGAGATTGTTGGCACCTTCATCCTGGTCTACACCGTCTTCTCAGCCACTGATGCCAA  605
+             ||||||||| | || |||||  |||| || |||||||||||||||||||||||||||||
+Sbjct  347  CGCTGAGATTATCGGTACCTTTGTCCTTGTTTACACCGTCTTCTCAGCCACTGATGCCAA  406
+
+Query  606  GAGGAATGCCAGGGACTCACATGTTCCTATCCTTGCCCCACTGCCAATTGGTTTTGCGGT  665
+            | | | |||||| ||||| || || || ||| | || ||  |||||||||| || || ||
+Sbjct  407  GCGCAGTGCCAGAGACTCTCACGTCCCCATCTTGGCACCCTTGCCAATTGGGTTCGCAGT  466
+
+Query  666  GTTCCTGGTCCACCTGGCCACCATCCCCATCACCGGTACTGGCATCAACCCAGCCAGGAG  725
+            |||| |||| ||| ||||||||||||| ||||| || |||||||||||||||||  | ||
+Sbjct  467  GTTCTTGGTGCACTTGGCCACCATCCCAATCACAGGAACTGGCATCAACCCAGCTCGCAG  526
+
+Query  726  CCTTGGCGCTGCCATCATCTACAACAAGGACCATGCCTGGAATGACCATTGGATCTTCTG  785
+             ||||| || ||||| || | |||||||||    | |||||||||||||||||| |||||
+Sbjct  527  TCTTGGTGCAGCCATAATTTTCAACAAGGAAAGGGGCTGGAATGACCATTGGATTTTCTG  586
+
+Query  786  GGTTGGTCCCTTCGTTGGCGCTGCCCTGGCTGCCATCTACCACCAGGTGATCATCAGGGC  845
+            ||| ||||| ||| |||| ||  | ||||| ||  |||||||||| ||  | ||||| ||
+Sbjct  587  GGTGGGTCCATTCATTGGGGCAACACTGGCAGCTCTCTACCACCAAGTTGTGATCAGAGC  646
+
+Query  846  GATCCCATTCAA  857
+             || || |||||
+Sbjct  647  CATGCCTTTCAA  658
+
+
+> ENA|CU534452|CU534452.1 Theobroma cacao, mRNA sequence (KZ0AAK2YG13FM1).
+Length=741
+
+ Score = 292 bits (158),  Expect = 3e-79
+ Identities = 484/645 (75%), Gaps = 8/645 (1%)
+ Strand=Plus/Plus
+
+Query  1    ATGGAGGGGAAGGAGGAGGACGTGCGGCTGGGGGCGAACAGGTACTCGGAGAGGCAGCCG  60
+            |||||||| || || ||||| ||  |  |||| || |||| || ||| ||||||||||||
+Sbjct  94   ATGGAGGGCAAAGAAGAGGATGTTAGATTGGGAGCCAACAAGTTCTCAGAGAGGCAGCCG  153
+
+Query  61   ATAGGGACGGCGGCGCAGGGCGCCGGGGACGACAAGGACTACAAGGAGCCGCCGCCGGCG  120
+            || ||||| || || ||| ||   |  || || ||||||||||  || || || ||||| 
+Sbjct  154  ATTGGGACTGCAGCTCAGAGCCAAGATGAGGAGAAGGACTACACTGAACCACCACCGGCT  213
+
+Query  121  CCGCTGTTCGAGCCAGGGGAGCTCAAGTCGTGGTCTTTCTACCGGGCCGGGATCGCCGAG  180
+            || || || ||||| || ||| | |  || |||||||| ||| |||| ||||| || |||
+Sbjct  214  CCACTTTTTGAGCCCGGAGAGTTGACCTCTTGGTCTTTTTACAGGGCTGGGATTGCAGAG  273
+
+Query  181  TTCGTCGCCACCTTCCTCTTCCTCTACATCACCATCCTCACCGTCATGGGGGTCTCCAAG  240
+            ||||| || || || |||||| | || ||||||||  | || |||||||| ||    |||
+Sbjct  274  TTCGTGGCTACTTTTCTCTTCTTGTATATCACCATTTTGACTGTCATGGGAGTTGTTAAG  333
+
+Query  241  TCCTCCTCCAAGTGCGCCACCGTCGGCATCCAGGGCATCGCCTGGTCCTTCGGAGGCATG  300
+                |  | |||||| | || || || || || || || || ||| |||| || ||||||
+Sbjct  334  GAAACAACTAAGTGCCCAACTGTTGGGATTCAAGGGATAGCTTGGGCCTTTGGTGGCATG  393
+
+Query  301  ATCTTCGCGCTCGTCTACTGCACCGCCGGCATCTCCGGAGGACACATCAACCCAGCAGTT  360
+            ||||| || || || ||||| || ||||| || || || || ||||||||||| || || 
+Sbjct  394  ATCTTTGCTCTTGTTTACTGTACTGCCGGAATTTCAGGTGGTCACATCAACCCGGCGGTG  453
+
+Query  361  ACTTTTGGGCTGTTCTTGGCCAGGAAGCTGTCCCTGACCCGGGCCATCTTCTACATAGTG  420
+            || || || ||||||||||| ||||| |||||| ||||  |||| || |||||||| |||
+Sbjct  454  ACATTCGGACTGTTCTTGGCGAGGAAACTGTCCTTGACAAGGGCAATTTTCTACATGGTG  513
+
+Query  421  ATGCAATGCCTAGGGGCCATCTGCGGAGCTGGAGTTGTGAAGGGCTTCCA---GCAGGGT  477
+            ||||| ||| | || ||||||||||| ||||| || |||||||| |||     | || | 
+Sbjct  514  ATGCAGTGCTTGGGAGCCATCTGCGGTGCTGGTGTGGTGAAGGGATTCATGGGGAAGCGA  573
+
+Query  478  CTGTACATGGGCAATG-GCGGTGGTGCCAATGTAGTTGC-CAGTGGCTACACCAAGGGTG  535
+              ||||  | ||  ||   ||||| |||||  | || || || ||||||||||||||| |
+Sbjct  574  AGGTAC-GGTGCTTTGAATGGTGGAGCCAACTTCGTCGCACA-TGGCTACACCAAGGGAG  631
+
+Query  536  ACGGTCTTGGTGCTGAGATTGTTGGCACCTTCATCCTGGTCTACACCGTCTTCTCAGCCA  595
+            | || || || ||||||||| | || |||||  |||| || |||||||||||||||||||
+Sbjct  632  ATGGCCTCGGCGCTGAGATTATCGGTACCTTTGTCCTTGTTTACACCGTCTTCTCAGCCA  691
+
+Query  596  CTGATGCCAAGAGGAATGCCAGGGACTCACATGTTCCTATCCTTG  640
+            ||||||||||| | | |||||| ||||| || || || ||| |||
+Sbjct  692  CTGATGCCAAGCGCAGTGCCAGAGACTCTCACGTCCCCATC-TTG  735
+
+
+> ENA|CU534022|CU534022.1 Theobroma cacao, mRNA sequence (KZ0AAK13YB08FM1).
+Length=734
+
+ Score = 287 bits (155),  Expect = 1e-77
+ Identities = 483/645 (75%), Gaps = 8/645 (1%)
+ Strand=Plus/Plus
+
+Query  1    ATGGAGGGGAAGGAGGAGGACGTGCGGCTGGGGGCGAACAGGTACTCGGAGAGGCAGCCG  60
+            |||||||| || || ||||| ||  |  |||| || |||| || ||| ||||||||||||
+Sbjct  92   ATGGAGGGCAAAGAAGAGGATGTTAGATTGGGAGCCAACAAGTTCTCAGAGAGGCAGCCG  151
+
+Query  61   ATAGGGACGGCGGCGCAGGGCGCCGGGGACGACAAGGACTACAAGGAGCCGCCGCCGGCG  120
+            || ||||| || || ||| ||   |  || || ||||||||||  || || || ||||| 
+Sbjct  152  ATTGGGACTGCAGCTCAGAGCCAAGATGAGGAGAAGGACTACACTGAACCACCACCGGCT  211
+
+Query  121  CCGCTGTTCGAGCCAGGGGAGCTCAAGTCGTGGTCTTTCTACCGGGCCGGGATCGCCGAG  180
+            || || || ||||| || ||| | |  || |||||||| ||| |||| ||||| || |||
+Sbjct  212  CCACTTTTTGAGCCCGGAGAGTTGACCTCTTGGTCTTTTTACAGGGCTGGGATTGCAGAG  271
+
+Query  181  TTCGTCGCCACCTTCCTCTTCCTCTACATCACCATCCTCACCGTCATGGGGGTCTCCAAG  240
+            ||||| || || || |||||| | || ||||||||  | || |||||||| ||    |||
+Sbjct  272  TTCGTGGCTACTTTTCTCTTCTTGTATATCACCATTTTGACTGTCATGGGAGTTGTTAAG  331
+
+Query  241  TCCTCCTCCAAGTGCGCCACCGTCGGCATCCAGGGCATCGCCTGGTCCTTCGGAGGCATG  300
+                |  | |||||| | || || || || || || || || ||| |||| || ||||||
+Sbjct  332  GAAACAACTAAGTGCCCAACTGTTGGGATTCAAGGGATAGCTTGGGCCTTTGGTGGCATG  391
+
+Query  301  ATCTTCGCGCTCGTCTACTGCACCGCCGGCATCTCCGGAGGACACATCAACCCAGCAGTT  360
+            ||||| || || || ||||| || || || || || || || ||||||||||| || || 
+Sbjct  392  ATCTTTGCTCTTGTTTACTGTACTGCTGGAATTTCAGGTGGTCACATCAACCCGGCGGTG  451
+
+Query  361  ACTTTTGGGCTGTTCTTGGCCAGGAAGCTGTCCCTGACCCGGGCCATCTTCTACATAGTG  420
+            || || || ||||||||||| ||||| |||||| ||||  |||| || |||||||| |||
+Sbjct  452  ACATTCGGACTGTTCTTGGCGAGGAAACTGTCCTTGACAAGGGCAATTTTCTACATGGTG  511
+
+Query  421  ATGCAATGCCTAGGGGCCATCTGCGGAGCTGGAGTTGTGAAGGGCTTCCA---GCAGGGT  477
+            ||||| ||| | || ||||||||||| ||||| || |||||||| |||     | || | 
+Sbjct  512  ATGCAGTGCTTGGGAGCCATCTGCGGTGCTGGTGTGGTGAAGGGATTCATGGGGAAGCGA  571
+
+Query  478  CTGTACATGGGCAATG-GCGGTGGTGCCAATGTAGTTGC-CAGTGGCTACACCAAGGGTG  535
+              ||||  | ||  ||   ||||| |||||  | || || || ||||||||||||||| |
+Sbjct  572  AGGTAC-GGTGCTTTGAATGGTGGAGCCAACTTCGTCGCACA-TGGCTACACCAAGGGAG  629
+
+Query  536  ACGGTCTTGGTGCTGAGATTGTTGGCACCTTCATCCTGGTCTACACCGTCTTCTCAGCCA  595
+            | || || || ||||||||| | || |||||  |||| || |||||||||||||||||||
+Sbjct  630  ATGGCCTCGGCGCTGAGATTATCGGTACCTTTGTCCTTGTTTACACCGTCTTCTCAGCCA  689
+
+Query  596  CTGATGCCAAGAGGAATGCCAGGGACTCACATGTTCCTATCCTTG  640
+            ||||||||||| | | |||||| ||||| || || || ||| |||
+Sbjct  690  CTGATGCCAAGCGCAGTGCCAGAGACTCTCACGTCCCCATC-TTG  733
+
+
+> ENA|CU535062|CU535062.1 Theobroma cacao, mRNA sequence (KZ0AAK7YE01FM1).
+Length=745
+
+ Score = 281 bits (152),  Expect = 7e-76
+ Identities = 482/645 (75%), Gaps = 8/645 (1%)
+ Strand=Plus/Plus
+
+Query  1    ATGGAGGGGAAGGAGGAGGACGTGCGGCTGGGGGCGAACAGGTACTCGGAGAGGCAGCCG  60
+            |||||||| || || ||||| ||  |  |||| || |||| || ||| ||||||||||||
+Sbjct  94   ATGGAGGGCAAAGAAGAGGATGTTAGATTGGGAGCCAACAAGTTCTCAGAGAGGCAGCCG  153
+
+Query  61   ATAGGGACGGCGGCGCAGGGCGCCGGGGACGACAAGGACTACAAGGAGCCGCCGCCGGCG  120
+            || ||||| || || ||| ||   |  || || ||||||||||  || || || ||||| 
+Sbjct  154  ATTGGGACTGCAGCTCAGAGCCAAGATGAGGAGAAGGACTACACTGAACCACCACCGGCT  213
+
+Query  121  CCGCTGTTCGAGCCAGGGGAGCTCAAGTCGTGGTCTTTCTACCGGGCCGGGATCGCCGAG  180
+            || || || ||||| || ||| | |  || |||||||| ||| |||| ||||| || |||
+Sbjct  214  CCACTTTTTGAGCCCGGAGAGTTGACCTCTTGGTCTTTTTACAGGGCTGGGATTGCAGAG  273
+
+Query  181  TTCGTCGCCACCTTCCTCTTCCTCTACATCACCATCCTCACCGTCATGGGGGTCTCCAAG  240
+            ||||| || || || |||||| | || ||||||||  | || |||||||| ||    |||
+Sbjct  274  TTCGTGGCTACTTTTCTCTTCTTGTATATCACCATTTTGACTGTCATGGGAGTTGTTAAG  333
+
+Query  241  TCCTCCTCCAAGTGCGCCACCGTCGGCATCCAGGGCATCGCCTGGTCCTTCGGAGGCATG  300
+                |  | |||||| | || || || || || || || || ||| |||| || ||||||
+Sbjct  334  GAAACAACTAAGTGCCCAACTGTTGGGATTCAAGGGATAGCTTGGGCCTTTGGTGGCATG  393
+
+Query  301  ATCTTCGCGCTCGTCTACTGCACCGCCGGCATCTCCGGAGGACACATCAACCCAGCAGTT  360
+            ||||| || || || ||||| || || || || || || || ||||||||||| || || 
+Sbjct  394  ATCTTTGCTCTTGTTTACTGTACTGCTGGAATTTCAGGTGGTCACATCAACCCGGCGGTG  453
+
+Query  361  ACTTTTGGGCTGTTCTTGGCCAGGAAGCTGTCCCTGACCCGGGCCATCTTCTACATAGTG  420
+            || || || ||||||||||| ||||| |||||| ||||  |||| || |||||||| |||
+Sbjct  454  ACATTCGGACTGTTCTTGGCGAGGAAACTGTCCTTGACAAGGGCAATTTTCTACATGGTG  513
+
+Query  421  ATGCAATGCCTAGGGGCCATCTGCGGAGCTGGAGTTGTGAAGGGCTTCCA---GCAGGGT  477
+            ||||| ||| | || ||||||||||| || || || |||||||| |||     | || | 
+Sbjct  514  ATGCAGTGCTTGGGAGCCATCTGCGGTGCAGGTGTGGTGAAGGGATTCATGGGGAAGCGA  573
+
+Query  478  CTGTACATGGGCAATG-GCGGTGGTGCCAATGTAGTTGC-CAGTGGCTACACCAAGGGTG  535
+              ||||  | ||  ||   ||||| |||||  | || || || ||||||||||||||| |
+Sbjct  574  AGGTAC-GGTGCTTTGAATGGTGGAGCCAACTTCGTCGCACA-TGGCTACACCAAGGGAG  631
+
+Query  536  ACGGTCTTGGTGCTGAGATTGTTGGCACCTTCATCCTGGTCTACACCGTCTTCTCAGCCA  595
+            | || || || ||||||||| | || |||||  |||| || |||||||||||||||||||
+Sbjct  632  ATGGCCTCGGCGCTGAGATTATCGGTACCTTTGTCCTTGTTTACACCGTCTTCTCAGCCA  691
+
+Query  596  CTGATGCCAAGAGGAATGCCAGGGACTCACATGTTCCTATCCTTG  640
+            ||||||||||| | | |||||| ||||| || || || ||| |||
+Sbjct  692  CTGATGCCAAGCGCAGTGCCAGAGACTCTCACGTCCCCATC-TTG  735
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4722713611
+
+
+Query= XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049]
+[db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2]
+[protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]
+
+Length=867
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8...  145     9e-35
+  ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2...  145     9e-35
+  ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9...  73.1    5e-13
+
+
+> ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8YH17FM1).
+Length=674
+
+ Score = 145 bits (78),  Expect = 9e-35
+ Identities = 175/223 (78%), Gaps = 2/223 (1%)
+ Strand=Plus/Minus
+
+Query  619  TTGGCTCCTCTCCCAATTGGATTCGCGGTGTTCATGGTCCATCTGGCCACCATCCCCATC  678
+            |||||||| || || |||||||| || ||||||||||| || || ||||| ||||| |||
+Sbjct  645  TTGGCTCCACTTCCCATTGGATTTGCTGTGTTCATGGTTCACCTTGCCACAATCCCAATC  586
+
+Query  679  ACCGGCACCGGCATTAACCCGGCGAGGAGCTTGGGAACCGCGGTTATCTACAACAAGGAC  738
+            || ||||| || || ||||| || ||||| || ||| | || || || |||||||  || 
+Sbjct  585  ACTGGCACTGGTATCAACCCTGCAAGGAGTTTTGGAGCTGCTGTGATTTACAACAGAGAG  526
+
+Query  739  AAGGCCTGGGATGACCAATGGATCTTCTGGGTGGGCCCCCTGATCGGCGCCGCCATCGCC  798
+            |||||||||||||||||||||||||||||||| || ||  | || || || ||||| || 
+Sbjct  525  AAGGCCTGGGATGACCAATGGATCTTCTGGGTTGGACCTTTCATTGGAGCTGCCATTGCT  466
+
+Query  799  GCCGCCTACCACCAGTACGTGCTGAGGGCCAGC-GCCGCCAAG  840
+            ||   ||||||||| ||| | || || || ||| |||  ||||
+Sbjct  465  GCATTCTACCACCAATACATCCTAAGAGC-AGCAGCCATCAAG  424
+
+
+> ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2YA21FM1).
+Length=675
+
+ Score = 145 bits (78),  Expect = 9e-35
+ Identities = 175/223 (78%), Gaps = 2/223 (1%)
+ Strand=Plus/Minus
+
+Query  619  TTGGCTCCTCTCCCAATTGGATTCGCGGTGTTCATGGTCCATCTGGCCACCATCCCCATC  678
+            |||||||| || || |||||||| || ||||||||||| || || ||||| ||||| |||
+Sbjct  643  TTGGCTCCACTTCCCATTGGATTTGCTGTGTTCATGGTTCACCTTGCCACAATCCCAATC  584
+
+Query  679  ACCGGCACCGGCATTAACCCGGCGAGGAGCTTGGGAACCGCGGTTATCTACAACAAGGAC  738
+            || ||||| || || ||||| || ||||| || ||| | || || || |||||||  || 
+Sbjct  583  ACTGGCACTGGTATCAACCCTGCAAGGAGTTTTGGAGCTGCTGTGATTTACAACAGAGAG  524
+
+Query  739  AAGGCCTGGGATGACCAATGGATCTTCTGGGTGGGCCCCCTGATCGGCGCCGCCATCGCC  798
+            |||||||||||||||||||||||||||||||| || ||  | || || || ||||| || 
+Sbjct  523  AAGGCCTGGGATGACCAATGGATCTTCTGGGTTGGACCTTTCATTGGAGCTGCCATTGCT  464
+
+Query  799  GCCGCCTACCACCAGTACGTGCTGAGGGCCAGC-GCCGCCAAG  840
+            ||   ||||||||| ||| | || || || ||| |||  ||||
+Sbjct  463  GCATTCTACCACCAATACATCCTAAGAGC-AGCAGCCATCAAG  422
+
+
+> ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9YH17FM1).
+Length=566
+
+ Score = 73.1 bits (39),  Expect = 5e-13
+ Identities = 106/139 (76%), Gaps = 2/139 (1%)
+ Strand=Plus/Minus
+
+Query  703  AGGAGCTTGGGAACCGCGGTTATCTACAACAAGGACAAGGCCTGGGATGACCAATGGATC  762
+            ||||| || ||| | || || || |||||||  || ||||||||||||||||||||||||
+Sbjct  561  AGGAGTTTTGGAGCTGCTGTGATTTACAACAGAGAGAAGGCCTGGGATGACCAATGGATC  502
+
+Query  763  TTCTGGGTGGGCCCCCTGATCGGCGCCGCCATCGCCGCCGCCTACCACCAGTACGTGCTG  822
+            |||||||| || ||  | || || || ||||| || ||    |||||||| ||| | || 
+Sbjct  501  TTCTGGGTTGGACCTTTCATGGGAGCTGCCATTGCTGCATTGTACCACCAATACATCCTA  442
+
+Query  823  AGGGCCAGC-GCCGCCAAG  840
+            || || ||| |||  ||||
+Sbjct  441  AGAGC-AGCAGCCATCAAG  424
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4705986172
+
+
+Query= XM_015761969.1_cds_XP_015617455.1_1 [gene=LOC4349594]
+[db_xref=GeneID:4349594] [protein=CBL-interacting protein kinase 15]
+[protein_id=XP_015617455.1] [location=509..1813] [gbkey=CDS]
+
+Length=1305
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7148192266
+
+
+Query= NM_001112582.2_cds_NP_001106052.2_1 [gene=LOC542390]
+[db_xref=GeneID:542390] [protein=nuclear transcription factor Y
+subunit B] [protein_id=NP_001106052.2] [location=162..698]
+[gbkey=CDS]
+
+Length=537
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2877200970
+
+
+Query= NM_001177007.2_cds_NP_001170478.1_1 [gene=IDP2562]
+[db_xref=GeneID:100384476] [protein=uncharacterized protein
+LOC100384476] [protein_id=NP_001170478.1] [location=484..2154]
+[gbkey=CDS]
+
+Length=1671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9188939824
+
+
+Query= NM_001112589.2_cds_NP_001106059.2_1 [gene=umc1760]
+[db_xref=GeneID:100125658] [protein=uncharacterized protein
+LOC100125658 precursor] [protein_id=NP_001106059.2]
+[location=101..1882] [gbkey=CDS]
+
+Length=1782
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9782967624
+
+
+Query= XM_008666329.2_cds_XP_008664551.2_1 [gene=LOC103643169]
+[db_xref=GeneID:103643169] [protein=ethylene-responsive
+transcription factor ABI4] [protein_id=XP_008664551.2]
+[location=28..1248] [gbkey=CDS]
+
+Length=1221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6679823974
+
+
+Query= XM_026022985.1_cds_XP_025878770.1_1 [gene=LOC4324418]
+[db_xref=GeneID:4324418] [protein=dehydration-responsive
+element-binding protein 2A] [protein_id=XP_025878770.1]
+[location=417..1241] [gbkey=CDS]
+
+Length=825
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4471802026
+
+
+Query= XM_015761401.2_cds_XP_015616887.1_1 [gene=LOC4325613]
+[db_xref=GeneID:4325613] [protein=CBL-interacting protein kinase 12]
+[protein_id=XP_015616887.1] [location=146..1768] [gbkey=CDS]
+
+Length=1623
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8921300800
+
+
+Query= XM_015775573.2_cds_XP_015631059.1_1 [gene=LOC4325408]
+[db_xref=GeneID:4325408] [protein=probable calcium-binding protein
+CML31] [protein_id=XP_015631059.1] [location=134..589] [gbkey=CDS]
+
+Length=456
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2424670332
+
+
+Query= XM_015770086.2_cds_XP_015625572.1_1 [gene=LOC4331194]
+[db_xref=GeneID:4331194] [protein=aquaporin PIP 1-3]
+[protein_id=XP_015625572.1] [location=145..1011] [gbkey=CDS]
+
+Length=867
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4705986172
+
+
+Query= XM_015776049.2_cds_XP_015631535.1_1 [gene=LOC4331490]
+[db_xref=GeneID:4331490] [protein=calcium-dependent protein kinase
+7] [protein_id=XP_015631535.1] [location=1031..2659] [gbkey=CDS]
+
+Length=1629
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8954755678
+
+
+Query= XM_015784747.2_cds_XP_015640233.1_1 [gene=LOC4339812]
+[db_xref=GeneID:4339812] [protein=UDP-glucose 4-epimerase 1]
+[protein_id=XP_015640233.1] [location=130..1194] [gbkey=CDS]
+
+Length=1065
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5809997146
+
+
+Query= XM_015787703.2_cds_XP_015643189.1_1 [gene=LOC4341520]
+[db_xref=GeneID:4341520] [protein=zinc finger A20 and AN1
+domain-containing stress-associated protein 8]
+[protein_id=XP_015643189.1] [location=224..739] [gbkey=CDS]
+
+Length=516
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2759878212
+
+
+Query= XM_015791262.2_cds_XP_015646748.1_1 [gene=LOC4344342]
+[db_xref=GeneID:4344342] [protein=CBL-interacting protein kinase 3]
+[protein_id=XP_015646748.1] [location=184..1521] [gbkey=CDS]
+
+Length=1338
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7332194095
+
+
+Query= XM_015792411.2_cds_XP_015647897.1_1 [gene=LOC4342503]
+[db_xref=GeneID:4342503] [protein=zinc finger A20 and AN1
+domain-containing stress-associated protein 9 isoform X2]
+[protein_id=XP_015647897.1] [location=173..658] [gbkey=CDS]
+
+Length=486
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2592274272
+
+
+Query= XM_015789094.2_cds_XP_015644580.1_1 [gene=LOC4342996]
+[db_xref=GeneID:4342996] [protein=spermidine synthase 1]
+[protein_id=XP_015644580.1] [location=170..1141] [gbkey=CDS]
+
+Length=972
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5291446537
+
+
+Query= XM_015755426.2_cds_XP_015610912.1_1 [gene=LOC4347620]
+[db_xref=GeneID:4347620] [protein=dehydration-responsive
+element-binding protein 1A] [protein_id=XP_015610912.1]
+[location=98..814] [gbkey=CDS]
+
+Length=717
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3882824610
+
+
+Query= NM_001143622.2_cds_NP_001137094.2_1 [gene=LOC100217270]
+[db_xref=GeneID:100217270] [protein=uncharacterized protein
+LOC100217270] [protein_id=NP_001137094.2] [location=214..1671]
+[gbkey=CDS]
+
+Length=1458
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8001291655
+
+
+Query= Solyc00g015750.1.1 Reductase 2 (AHRD V1 ***- Q6TY50_HYDMC); contains
+Interpro domain(s)  IPR018170  Aldo/keto reductase, conserved site
+
+Length=948
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5157627025
+
+
+Query= Solyc01g005660.1.1 Myb transcription factor (AHRD V1 **--
+Q6Q789_VITVI); contains Interpro domain(s)  IPR015495  Myb
+transcription factor
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5040534952
+
+
+Query= Solyc01g079480.2.1 BZIP transcription factor (AHRD V1 **-*
+Q1HW69_CAPAN); contains Interpro domain(s)  IPR011616  bZIP
+transcription factor, bZIP-1
+
+Length=436
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2312934372
+
+
+Query= Solyc01g079750.2.1 Protein serine/threonine kinase (AHRD V1 *-**
+D3BP85_POLPA); contains Interpro domain(s)  IPR015748  Mitogen
+activated protein kinase kinase kinase 3
+
+Length=2068
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11374508432
+
+
+Query= Solyc01g111510.2.1 Ascorbate peroxidase (AHRD V1 **** Q8W4V7_CAPAN);
+contains Interpro domain(s)  IPR002207  Plant ascorbate peroxidase
+
+Length=865
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4694834546
+
+
+Query= Solyc02g084850.2.1 Unknown Protein (AHRD V1); contains Interpro
+domain(s)  IPR000167  Dehydrin
+
+Length=394
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2078288856
+
+
+Query= Solyc03g043950.2.1 Amino-acid N-acetyltransferase (AHRD V1 ***-
+D5W990_BURSC); contains Interpro domain(s)  IPR000182  GCN5-related
+N-acetyltransferase
+
+Length=1813
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9955477292
+
+
+Query= Solyc03g080180.2.1 O-methyltransferase (AHRD V1 **** Q9LWB8_9ROSI);
+contains Interpro domain(s)  IPR016461  O-methyltransferase, COMT,
+eukaryota
+
+Length=1075
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5865755276
+
+
+Query= Solyc03g093560.1.1 Ethylene-responsive transcription factor 2 (AHRD
+V1 ***- B6U860_MAIZE); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=735
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3983386974
+
+
+Query= Solyc04g072900.1.1 Ethylene responsive transcription factor 2b (AHRD
+V1 *-*- C0J9I6_9ROSA); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=795
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4304527636
+
+
+Query= Solyc04g077980.1.1 Zinc-finger protein (AHRD V1 ***- Q40899_PETHY);
+contains Interpro domain(s)  IPR007087  Zinc finger, C2H2-type
+
+Length=783
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4237617880
+
+
+Query= Solyc05g010420.1.1 S-adenosylmethionine decarboxylase proenzyme
+(AHRD V1 **** Q7XZQ9_VITVI); contains Interpro domain(s)  IPR018167 
+S-adenosylmethionine decarboxylase subgroup  IPR001985 
+S-adenosylmethionine decarboxylase
+
+Length=1083
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5910361780
+
+
+Query= Solyc05g051200.1.1 Ethylene-responsive transcription factor 1A (AHRD
+V1 *-** A9P6A4_MEDTR); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=675
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3648179094
+
+
+Query= Solyc05g052410.1.1 Ethylene-responsive transcription factor 1 (AHRD
+V1 *-** ERF1_ORYSJ); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=1200
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6562731901
+
+
+Query= Solyc05g053330.2.1 MYB transcription factor (AHRD V1 ***-
+Q39550_CRAPL); contains Interpro domain(s)  IPR015495  Myb
+transcription factor
+
+Length=958
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5213385155
+
+
+Query= Solyc05g055990.2.1 Aquaporin 2 (AHRD V1 ***- O65357_SAMSA); contains
+Interpro domain(s)  IPR012269  Aquaporin
+
+Length=870
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4722713611
+
+
+Query= Solyc06g063070.2.1 Ethylene responsive transcription factor 2a (AHRD
+V1 ***- C0J9I7_9ROSA); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=1120
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6116666861
+
+
+Query= Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI);
+contains Interpro domain(s)  IPR011402  Phospholipase D, plant
+
+Length=2431
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU532117|CU532117.1 Theobroma cacao, mRNA sequence (KZ0AAK2...  459     8e-129
+
+
+> ENA|CU532117|CU532117.1 Theobroma cacao, mRNA sequence (KZ0AAK2YC22FM1).
+Length=763
+
+ Score = 459 bits (248),  Expect = 8e-129
+ Identities = 598/768 (78%), Gaps = 20/768 (3%)
+ Strand=Plus/Plus
+
+Query  175  GGCTAGGGTTGGGAGAACAAGAATAATTGAAAATGAACCCAAAAATCCAAGGTGGTACGA  234
+            |||||| ||||| ||||| |||||||| ||||| |||      || ||||||||||||||
+Sbjct  6    GGCTAGAGTTGGAAGAACCAGAATAATAGAAAAAGAAATTTCCAACCCAAGGTGGTACGA  65
+
+Query  235  GTCTTTTCACATTTACTGTGCGCATATGGCTTCAAATGTTATATTCACTATCAAAGATGA  294
+            ||||||||||||||||||||| |||   ||||| |||||  |||||||| |||| |||||
+Sbjct  66   GTCTTTTCACATTTACTGTGCCCATCGAGCTTCCAATGTAGTATTCACTGTCAAGGATGA  125
+
+Query  295  CAATCCCTTTGGTGC-ATCCTTAATTGGAAGAGCTTATGTTCCGGTTGAAGAACTTCTGG  353
+            ||||||  |||| || |  ||  ||||||||||| |||||  | ||||| ||||| ||  
+Sbjct  126  CAATCCTATTGGAGCCACTCTG-ATTGGAAGAGCATATGTATCTGTTGATGAACT-CTT-  182
+
+Query  354  AAGGGGAGGAGAT-T-GATAAATGGGTTGAGATAATGGATAAAGAAATGAATCCTACAGC  411
+            ||| |||| |||  | ||||  |||||||||||  ||||| |||| | |||||||| || 
+Sbjct  183  AAGTGGAGAAGAAGTGGATAGGTGGGTTGAGATCCTGGATGAAGACAAGAATCCTATAG-  241
+
+Query  412  AGAAG-GTTCC-AAAATCCACGTTAAGCTACAGTTTTTTGACGTCAGTCGAGATCCAAAC  469
+            | ||| | |   |||||||| || ||||| || | |||||| || |   | || |  |||
+Sbjct  242  A-AAGTGGTGGTAAAATCCATGTGAAGCTTCAATATTTTGATGTGACGAGGGACCGCAAC  300
+
+Query  470  TGGGGACGTGGAATTAGAAGCTCT-AGATATCCTGGTGTCCC-TT-ACACTTTCTTTGCA  526
+            |||   || || || | ||| ||  | || |||||| || || || ||| |||  |  ||
+Sbjct  301  TGGAATCGCGGCATCATAAG-TCGGAAATTTCCTGGAGTTCCATTTACATTTTACT--CA  357
+
+Query  527  CAGAGACCAGGATCGCGGGTTTCCTTGTATCAAGATGCTCATGTGCCAGACAATTTTATT  586
+            ||||||| |||||    ||||||  | || || ||||||||| | |||||    ||| ||
+Sbjct  358  CAGAGACAAGGATGTAAGGTTTCTCTATACCAGGATGCTCATATCCCAGATGGATTTGTT  417
+
+Query  587  CCTAAAATCCCTCTCTCTGGCGGAAAGTATTATGAGCCCCACAGATGTTGGGAAGATATC  646
+            |||||||| |||||  |||| || || |||| |||||| || ||||||||||||||| | 
+Sbjct  418  CCTAAAATTCCTCTTGCTGGAGGCAAATATTTTGAGCCACATAGATGTTGGGAAGATGTT  477
+
+Query  647  TTTGATGCTATTACTAATGCAAAGCACTTGATTTACATTACTGGCTGGTCAGTATATACT  706
+            ||||| ||||| || ||||| || |||||||| | ||||||||||||||| || ||||||
+Sbjct  478  TTTGACGCTATCACCAATGCTAAACACTTGATCTGCATTACTGGCTGGTCTGTTTATACT  537
+
+Query  707  GAAATAGCCTTGGTGAGGGACTCGAGGAGGCAAAAACCTGGAGGAGACATCA-TGTTGGG  765
+            || ||  | |||||||| ||||| || |||| ||| ||||| |||||||||| | |||| 
+Sbjct  538  GAGATCACTTTGGTGAGAGACTCAAGAAGGCCAAAGCCTGGGGGAGACATCACTCTTGGT  597
+
+Query  766  GGAGCTGCTCAAGAAGAAGGCAAGTGAAGGTGTAAAAGTTCTTATGCTTGTTTGGGATGA  825
+             || ||||| || ||||| |||||||||||||| |  |||  ||||||||||||||||||
+Sbjct  598  -GATCTGCTTAAAAAGAAAGCAAGTGAAGGTGTCAGGGTTAATATGCTTGTTTGGGATGA  656
+
+Query  826  TAGGACGTCTGTCGGTTTGCTGAAGAAGGATGGTCTGATGGCCACTCATGACCAAGAAAC  885
+            ||| || ||||| |||||||||||||||||||| |||||||| || |||||  | |||||
+Sbjct  657  TAGAACATCTGTTGGTTTGCTGAAGAAGGATGGACTGATGGCAACCCATGATGAGGAAAC  716
+
+Query  886  TGAACAGTACTTTCAAGG-TACTGATGTAAATTGTGTCCTCTGCCCTC  932
+            |||| | | ||| ||||| ||||||||| || |||||| | |||||||
+Sbjct  717  TGAAAACTTCTT-CAAGGATACTGATGTCAACTGTGTCTTATGCCCTC  763
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 13394540996
+
+
+Query= Solyc07g056570.1.1 9-cis-epoxycarotenoid dioxygenase
+
+Length=1818
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9983301432
+
+
+Query= Solyc08g043170.2.1 Gamma-glutamyl phosphate reductase (AHRD V1 ***-
+D3TQ43_GLOMM); contains Interpro domain(s)  IPR005766  Delta
+l-pyrroline-5-carboxylate synthetase
+
+Length=2164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11908731920
+
+
+Query= Solyc08g077980.2.1 Bax inhibitor (AHRD V1 ***- Q6U1L7_SOLLC);
+contains Interpro domain(s)  IPR006214  Uncharacterised protein
+family UPF0005
+
+Length=751
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4059191864
+
+
+Query= Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains
+Interpro domain(s)  IPR012269  Aquaporin
+
+Length=862
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535060|CU535060.1 Theobroma cacao, mRNA sequence (KZ0AAK7...  510     8e-145
+  ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7...  470     1e-132
+  ENA|CU533913|CU533913.1 Theobroma cacao, mRNA sequence (KZ0AAK1...  462     2e-130
+
+
+> ENA|CU535060|CU535060.1 Theobroma cacao, mRNA sequence (KZ0AAK7YD23FM1).
+Length=778
+
+ Score = 510 bits (276),  Expect = 8e-145
+ Identities = 548/679 (81%), Gaps = 19/679 (3%)
+ Strand=Plus/Plus
+
+Query  13   CAAGGAAGAAGATGTTAAGCTTGGAGCTAACAAGTTTAGGGAAACTCAACC-ATTAGGTA  71
+            ||| || || ||||||||||| ||||| ||||||||    || |  ||||| ||| || |
+Sbjct  108  CAAAGAGGAGGATGTTAAGCTAGGAGCAAACAAGTTCCCAGAGAGGCAACCTATT-GGGA  166
+
+Query  72   CAGCAGCTCAAACAGACAAAGATTACAAAGAGCCACCACCAGCTCCATTGTTTGAACCAG  131
+            || |||| || |||||||| || ||||| |||||||||||||| ||||| || || || |
+Sbjct  167  CATCAGCCCAGACAGACAAGGACTACAAGGAGCCACCACCAGCACCATTATTCGAGCCTG  226
+
+Query  132  GGGAGTTGTC-A-TCATGGTCCTTTTACAGGGCTGGTATTGCAGAGTTCATGGCAACTTT  189
+            | ||    || | |||||||| |||||||| ||||| |||||||||||  |||| |||||
+Sbjct  227  GTGA--ACTCAAGTCATGGTCTTTTTACAGAGCTGGCATTGCAGAGTTTGTGGCCACTTT  284
+
+Query  190  CTTGTTCTTGTATATCACAATCTTGACTGTTATGGGTCT-TAAGAGATCTGATAGTTTAT  248
+            ||||||| | || ||||| ||||||||||| |||||| | |   || ||| | ||   | 
+Sbjct  285  CTTGTTCCTTTACATCACCATCTTGACTGTCATGGGTGTGTCTCAG-TCT-A-AGACCAA  341
+
+Query  249  GTTC--TTCAGTGGGTATTCAAGGGGTTGCTTGGGCTTTTGGTGGTATGATCTTTGCTTT  306
+            || |  | | ||||||||||||||  |||||||||| | ||| || |||||||||||| |
+Sbjct  342  GTGCAGTACTGTGGGTATTCAAGGCATTGCTTGGGCCTCTGGAGGCATGATCTTTGCTCT  401
+
+Query  307  GGTCTACTGTACTGCTGGTATCTCAGGAGGACACATCAACCCAGCTGTGACCTTTGGTCT  366
+             |||||||| |||||||| || ||||| |||||||||||||||||||||||||||||  |
+Sbjct  402  TGTCTACTGCACTGCTGGCATTTCAGGTGGACACATCAACCCAGCTGTGACCTTTGGGTT  461
+
+Query  367  TTTCTTGGCAAGGAAATTGTCCTTGACCAGGGCTGTTTTCTACATGGTGATGCAGTGCCT  426
+             ||  | ||||||||  ||||| | || ||||| || ||||||||  | |||||||||||
+Sbjct  462  GTTACTAGCAAGGAAGCTGTCCCTTACGAGGGCAGTCTTCTACATCATCATGCAGTGCCT  521
+
+Query  427  TGGTGCAATCTGTGGTGCTGGTGTTGTGAAGGGCTTC-ATGGTAGG-A-CC-ATACCAAA  482
+            |||||| |||||||| |||||||| || ||||| ||| | || ||  | || |||  | |
+Sbjct  522  TGGTGCCATCTGTGGAGCTGGTGTAGTCAAGGGATTCCAAGG-AGACAGCCGATATGAGA  580
+
+Query  483  GACTTG-GTGGTGGTGCTAATGTTGTTAACCCTGGATACACCAAGGGTGATGGCCTTGGT  541
+               ||| ||||||| ||||| ||||| |||| ||| ||||||||||||||||| ||||||
+Sbjct  581  TG-TTGCGTGGTGGAGCTAACGTTGTGAACCATGGCTACACCAAGGGTGATGGTCTTGGT  639
+
+Query  542  GCTGAAATTATTGGCACCTTTGTCCTTGTTTACACTGTTTTTTCAGCCACTGATGCCAAG  601
+            ||||| || |||||||||||||| ||||| ||||| || || || || ||||||||||||
+Sbjct  640  GCTGAGATCATTGGCACCTTTGTTCTTGTCTACACCGTCTTCTCTGCTACTGATGCCAAG  699
+
+Query  602  AGAAATGCCAGAGACTCACATGTTCCTATTTTGGCACCACTTCCTATTGGATTCGCAGTG  661
+            ||||| |||||||| || ||||||||||||||||| || ||||| ||||| || ||||||
+Sbjct  700  AGAAACGCCAGAGATTCTCATGTTCCTATTTTGGCTCCCCTTCCCATTGGGTTTGCAGTG  759
+
+Query  662  TTCTTGGTTCATTTGGCCA  680
+            |||||||||||||||||||
+Sbjct  760  TTCTTGGTTCATTTGGCCA  778
+
+
+> ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7YH11FM1).
+Length=744
+
+ Score = 470 bits (254),  Expect = 1e-132
+ Identities = 433/520 (83%), Gaps = 10/520 (2%)
+ Strand=Plus/Minus
+
+Query  338  CACATCAA-CCCAGCTGTGACCTTTGGTCTTTTCTTGGCAAGGAAATTGTCCTTGACCAG  396
+            |||||||| ||||||||||||||||||  | ||  | ||||||||  ||||| | || ||
+Sbjct  744  CACATCAACCCCAGCTGTGACCTTTGGGTTGTTACTAGCAAGGAAGCTGTCCCTTACGAG  685
+
+Query  397  GGCTGTTTTCTACATGGTGATGCAGTGCCTTGGTGCAATCTGTGGTGCTGGTGTTGTGAA  456
+            ||| || ||||||||  | ||||||||||||||||| |||||||| |||||||| || ||
+Sbjct  684  GGCAGTCTTCTACATCATCATGCAGTGCCTTGGTGCCATCTGTGGAGCTGGTGTAGTCAA  625
+
+Query  457  GGGCTTC-ATGGTAGGACCATACCA-A--AGA-CTTG-GTGGTGGTGCTAATGTTGTTAA  510
+            ||| ||| | || | || ||  | | |  |||  ||| ||||||| ||||| ||||| ||
+Sbjct  624  GGGATTCCAAGG-A-GA-CAGCCGATATGAGATGTTGCGTGGTGGAGCTAACGTTGTGAA  568
+
+Query  511  CCCTGGATACACCAAGGGTGATGGCCTTGGTGCTGAAATTATTGGCACCTTTGTCCTTGT  570
+            || ||| ||||||||||||||||| ||||||||||| || |||||||| ||||| |||||
+Sbjct  567  CCATGGCTACACCAAGGGTGATGGTCTTGGTGCTGAGATCATTGGCACTTTTGTTCTTGT  508
+
+Query  571  TTACACTGTTTTTTCAGCCACTGATGCCAAGAGAAATGCCAGAGACTCACATGTTCCTAT  630
+             ||||| || || || || ||||||||||||||||| ||||||||||| |||||||||||
+Sbjct  507  CTACACCGTCTTCTCTGCTACTGATGCCAAGAGAAACGCCAGAGACTCTCATGTTCCTAT  448
+
+Query  631  TTTGGCACCACTTCCTATTGGATTCGCAGTGTTCTTGGTTCATTTGGCCACCATCCCCAT  690
+            |||||| || ||||| ||||| || ||||||||||||||||||||||||||||| |||||
+Sbjct  447  TTTGGCTCCCCTTCCCATTGGGTTTGCAGTGTTCTTGGTTCATTTGGCCACCATTCCCAT  388
+
+Query  691  CACCGGAACTGGCATCAACCCCGCCAGGAGTCTTGGAGCTGCTATCATCTACAACGACGA  750
+            ||| ||||| || || ||||| |||||||| |||||||||||  |||| |||||| | ||
+Sbjct  387  CACTGGAACAGGTATTAACCCAGCCAGGAGCCTTGGAGCTGCCGTCATATACAACAAAGA  328
+
+Query  751  GCATGCATGGAATGACCACTGGATCTTCTGGGTTGGACCAATGATTGGAGCTGCTCTTGC  810
+             || |||||| ||||||| ||||| ||||||||||| ||  | ||||||||||| |||||
+Sbjct  327  CCACGCATGGGATGACCATTGGATTTTCTGGGTTGGGCCCTTCATTGGAGCTGCGCTTGC  268
+
+Query  811  TGCTATTTACCACCAAATAATTATCAGAGCTATGCCATTC  850
+            ||| ||||||||||| ||||| ||||| ||||| || |||
+Sbjct  267  TGCAATTTACCACCAGATAATCATCAGGGCTATTCCTTTC  228
+
+
+> ENA|CU533913|CU533913.1 Theobroma cacao, mRNA sequence (KZ0AAK10YN02FM1).
+Length=736
+
+ Score = 462 bits (250),  Expect = 2e-130
+ Identities = 510/635 (80%), Gaps = 19/635 (3%)
+ Strand=Plus/Plus
+
+Query  13   CAAGGAAGAAGATGTTAAGCTTGGAGCTAACAAGTTTAGGGAAACTCAACC-ATTAGGTA  71
+            ||| || || ||||||||||| ||||| ||||||||    || |  ||||| ||| || |
+Sbjct  108  CAAAGAGGAGGATGTTAAGCTAGGAGCAAACAAGTTCCCAGAGAGGCAACCTATT-GGGA  166
+
+Query  72   CAGCAGCTCAAACAGACAAAGATTACAAAGAGCCACCACCAGCTCCATTGTTTGAACCAG  131
+            || |||| || |||||||| || ||||| |||||||||||||| ||||| || || || |
+Sbjct  167  CATCAGCCCAGACAGACAAGGACTACAAGGAGCCACCACCAGCACCATTATTCGAGCCTG  226
+
+Query  132  GGGAGTTGTC-A-TCATGGTCCTTTTACAGGGCTGGTATTGCAGAGTTCATGGCAACTTT  189
+            | ||    || | |||||||| |||||||| ||||| |||||||||||  |||| |||||
+Sbjct  227  GTGA--ACTCAAGTCATGGTCTTTTTACAGAGCTGGCATTGCAGAGTTTGTGGCCACTTT  284
+
+Query  190  CTTGTTCTTGTATATCACAATCTTGACTGTTATGGGTCT-TAAGAGATCTGATAGTTTAT  248
+            ||||||| | || ||||| ||||||||||| |||||| | |   || ||| | ||   | 
+Sbjct  285  CTTGTTCCTTTACATCACCATCTTGACTGTCATGGGTGTGTCTCAG-TCT-A-AGACCAA  341
+
+Query  249  GTTC--TTCAGTGGGTATTCAAGGGGTTGCTTGGGCTTTTGGTGGTATGATCTTTGCTTT  306
+            || |  | | ||||||||||||||  |||||||||| ||||| || |||||||||||| |
+Sbjct  342  GTGCAGTACTGTGGGTATTCAAGGCATTGCTTGGGCCTTTGGAGGCATGATCTTTGCTCT  401
+
+Query  307  GGTCTACTGTACTGCTGGTATCTCAGGAGGACACATCAACCCAGCTGTGACCTTTGGTCT  366
+             |||||||| |||||||| || ||||| |||||||||||||||||||||||||||||  |
+Sbjct  402  TGTCTACTGCACTGCTGGCATTTCAGGTGGACACATCAACCCAGCTGTGACCTTTGGGTT  461
+
+Query  367  TTTCTTGGCAAGGAAATTGTCCTTGACCAGGGCTGTTTTCTACATGGTGATGCAGTGCCT  426
+             ||  | ||||||||  ||||| | || ||||| || ||||||||  | |||||||||||
+Sbjct  462  GTTACTAGCAAGGAAGCTGTCCCTTACGAGGGCAGTCTTCTACATCATCATGCAGTGCCT  521
+
+Query  427  TGGTGCAATCTGTGGTGCTGGTGTTGTGAAGGGCTTC-ATGGTAGG-A-CC-ATACCAAA  482
+            |||||| |||||||| |||||||| || ||||| ||| | || ||  | || |||  | |
+Sbjct  522  TGGTGCCATCTGTGGAGCTGGTGTAGTCAAGGGATTCCAAGG-AGACAGCCGATATGAGA  580
+
+Query  483  GACTTG-GTGGTGGTGCTAATGTTGTTAACCCTGGATACACCAAGGGTGATGGCCTTGGT  541
+               ||| ||||||| ||||| ||||| |||| ||| ||||||||||||||||| ||||||
+Sbjct  581  TG-TTGCGTGGTGGAGCTAACGTTGTGAACCATGGCTACACCAAGGGTGATGGTCTTGGT  639
+
+Query  542  GCTGAAATTATTGGCACCTTTGTCCTTGTTTACACTGTTTTTTCAGCCACTGATGCCAAG  601
+            ||||| || |||||||| ||||| ||||| ||||| || || || || ||||||||||||
+Sbjct  640  GCTGAGATCATTGGCACTTTTGTTCTTGTCTACACCGTCTTCTCTGCTACTGATGCCAAG  699
+
+Query  602  AGAAATGCCAGAGACTCACATGTTCCTATTTTGGC  636
+            ||||| ||||||||||| |||||||||||||||||
+Sbjct  700  AGAAACGCCAGAGACTCTCATGTTCCTATTTTGGC  734
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4678107107
+
+
+Query= Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 ****
+Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine
+decarboxylase
+
+Length=2124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 11686138800
+
+
+Query= Solyc11g018800.1.1 Peroxidase 2 (AHRD V1 ***- Q9SSZ8_SCUBA);
+contains Interpro domain(s)  IPR002016  Haem peroxidase,
+plant/fungal/bacterial
+
+Length=960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5224536781
+
+
+Query= Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***-
+A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA
+helicase, DEAD/DEAH box type, N-terminal
+
+Length=1176
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU595667|CU595667.1 Theobroma cacao, mRNA sequence (KZ0AAF1...  538     5e-153
+
+
+> ENA|CU595667|CU595667.1 Theobroma cacao, mRNA sequence (KZ0AAF10YM21FM1).
+Length=674
+
+ Score = 538 bits (291),  Expect = 5e-153
+ Identities = 516/628 (82%), Gaps = 2/628 (0%)
+ Strand=Plus/Plus
+
+Query  162  CGGCCGTGACGTCATTGCACAGGCACAATCCGGTACCGGAAAAACCTCCATGATTGCCCT  221
+            |||||| || || ||||| || || || || |||||||| ||||| ||||||||||| ||
+Sbjct  48   CGGCCGCGATGTGATTGCTCAAGCTCAGTCTGGTACCGGCAAAACTTCCATGATTGCTCT  107
+
+Query  222  TACCGTTTGCCAAGTTGTCGATACCAAAAATTCCGAGGTACAAGCATTGATATTGTCTCC  281
+             |||||||||||||| ||||| |||   |     ||||| ||||||||||| ||||| ||
+Sbjct  108  CACCGTTTGCCAAGTGGTCGACACCGCTAGCAGAGAGGTTCAAGCATTGATCTTGTCGCC  167
+
+Query  282  TACACGGGAGCTTGCAGCTCAGACAGAAAAGGTGATTTTGGCTATTGGAGATTACATTAA  341
+             ||| |||| || ||| |||| || || || |||||   | | ||||| ||||  || ||
+Sbjct  168  GACAAGGGAACTGGCATCTCAAACGGAGAAAGTGATACGGACAATTGGTGATTTTATGAA  227
+
+Query  342  CATACAGGCACATGCATGTATTGGAGGCAAAAGTGTGGGTGAAGATATCAGAAAGCTAGA  401
+             ||||| ||||| ||||||||||| |||||||||||||| |||||||| |||||||||||
+Sbjct  228  TATACAAGCACACGCATGTATTGGGGGCAAAAGTGTGGGCGAAGATATAAGAAAGCTAGA  287
+
+Query  402  GCATGGAGTACAAGTTGTCTCTGGAACTCCTGGAAGAGTCTGTGACATGATTAAAAGGAG  461
+              | ||||| || || || || ||||||||||| ||||| ||||| ||||| || |||||
+Sbjct  288  AAACGGAGTTCATGTAGTGTCAGGAACTCCTGGTAGAGTTTGTGATATGATCAAGAGGAG  347
+
+Query  462  AACTTTACGAACTAGGGCCATAAAATTATTGATTCTTGATGAATCTGATGAGATGTTGAG  521
+            |||  | || || ||||| || ||| ||||||||||||||||||||||||||||||||||
+Sbjct  348  AACCCTGCGTACGAGGGCTATTAAACTATTGATTCTTGATGAATCTGATGAGATGTTGAG  407
+
+Query  522  CCGTGGTTTTAAAGATCAGATATATGATGTTTACAGATATCTTCCACCAGAGCTTCAGGT  581
+            ||| || || |||||||| || ||||||||||||||| ||||||||||||||||||||||
+Sbjct  408  CCGAGGGTTCAAAGATCAAATTTATGATGTTTACAGACATCTTCCACCAGAGCTTCAGGT  467
+
+Query  582  T-GTACTGATTTCTGCCACTCTTCCAAATGAAATTCTGGAGATAACAAGCAAATTTATGA  640
+            | ||  |||| ||||| || || ||  |||||||  |||| ||||||||||| |||||||
+Sbjct  468  TTGTT-TGATATCTGCTACCCTCCCTCATGAAATCTTGGAAATAACAAGCAAGTTTATGA  526
+
+Query  641  CAGATCCTGTTCGGATTCTTGTAAAACGTGATGAATTGACTCTAGAGGGCATCAAGCAGT  700
+            |||||||| |  |||| || || || |||||||| |||||||| ||||| || ||||| |
+Sbjct  527  CAGATCCTATAAGGATCCTCGTGAAGCGTGATGAGTTGACTCTGGAGGGAATTAAGCAAT  586
+
+Query  701  TTTTTGTAGCGGTGGAGAGAGAAGAGTGGAAATTTGATACACTGTGTGATCTTTATGATA  760
+            ||||||| || || || ||||| |||||||| |||||||| || ||||||||||||||||
+Sbjct  587  TTTTTGTTGCAGTTGAAAGAGAGGAGTGGAAGTTTGATACGCTATGTGATCTTTATGATA  646
+
+Query  761  CACTCACCATCACCCAGGCTGTTATTTT  788
+            |||| || |||||||| |||||||||||
+Sbjct  647  CACTGACAATCACCCAAGCTGTTATTTT  674
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6428912389
+
+
+Query= Solyc12g009020.1.1 Protein kinase (AHRD V1 **** C4Q4E0_SCHMA);
+contains Interpro domain(s)  IPR002290  Serine/threonine protein
+kinase
+
+Length=1074
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5860179463
+
+
+Query= MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1607
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8...  165     1e-40
+  ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2...  165     1e-40
+  ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9...  87.9    3e-17
+
+
+> ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8YH17FM1).
+Length=674
+
+ Score = 165 bits (89),  Expect = 1e-40
+ Identities = 173/215 (80%), Gaps = 0/215 (0%)
+ Strand=Plus/Plus
+
+Query  350  TACTGGTGGTAGGCGGCGGCAATGGCGGCGCCGATCAGTGGCCCCACCCAGAAGATCCAT  409
+            || |||||||||   || |||||||| || || || |  || || |||||||||||||||
+Sbjct  449  TATTGGTGGTAGAATGCAGCAATGGCAGCTCCAATGAAAGGTCCAACCCAGAAGATCCAT  508
+
+Query  410  TGGTCATCCCAGGCCTTGTCAGTGTTGTAGATGACAGCAGCTCCCAAGCTTCTCGCGGGG  469
+            ||||||||||||||||| ||  ||||||| || ||||||||||| || || || || |||
+Sbjct  509  TGGTCATCCCAGGCCTTCTCTCTGTTGTAAATCACAGCAGCTCCAAAACTCCTTGCAGGG  568
+
+Query  470  TTGATGCCGGTGCCGGTGATGGGGATGGTGGCCAAGTGGACCATGAACACAGCGAATCCG  529
+            ||||| || ||||| ||||| ||||| ||||| | ||| |||||||||||||| ||||| 
+Sbjct  569  TTGATACCAGTGCCAGTGATTGGGATTGTGGCAAGGTGAACCATGAACACAGCAAATCCA  628
+
+Query  530  ATTGGGAGAGGAGCCAGCACCGGGATGTGGGAATC  564
+            || || || |||||||  || || |  ||||||||
+Sbjct  629  ATGGGAAGTGGAGCCAAGACAGGAACATGGGAATC  663
+
+
+> ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2YA21FM1).
+Length=675
+
+ Score = 165 bits (89),  Expect = 1e-40
+ Identities = 173/215 (80%), Gaps = 0/215 (0%)
+ Strand=Plus/Plus
+
+Query  350  TACTGGTGGTAGGCGGCGGCAATGGCGGCGCCGATCAGTGGCCCCACCCAGAAGATCCAT  409
+            || |||||||||   || |||||||| || || || |  || || |||||||||||||||
+Sbjct  447  TATTGGTGGTAGAATGCAGCAATGGCAGCTCCAATGAAAGGTCCAACCCAGAAGATCCAT  506
+
+Query  410  TGGTCATCCCAGGCCTTGTCAGTGTTGTAGATGACAGCAGCTCCCAAGCTTCTCGCGGGG  469
+            ||||||||||||||||| ||  ||||||| || ||||||||||| || || || || |||
+Sbjct  507  TGGTCATCCCAGGCCTTCTCTCTGTTGTAAATCACAGCAGCTCCAAAACTCCTTGCAGGG  566
+
+Query  470  TTGATGCCGGTGCCGGTGATGGGGATGGTGGCCAAGTGGACCATGAACACAGCGAATCCG  529
+            ||||| || ||||| ||||| ||||| ||||| | ||| |||||||||||||| ||||| 
+Sbjct  567  TTGATACCAGTGCCAGTGATTGGGATTGTGGCAAGGTGAACCATGAACACAGCAAATCCA  626
+
+Query  530  ATTGGGAGAGGAGCCAGCACCGGGATGTGGGAATC  564
+            || || || |||||||  || || |  ||||||||
+Sbjct  627  ATGGGAAGTGGAGCCAAGACAGGAACATGGGAATC  661
+
+
+> ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9YH17FM1).
+Length=566
+
+ Score = 87.9 bits (47),  Expect = 3e-17
+ Identities = 85/104 (82%), Gaps = 0/104 (0%)
+ Strand=Plus/Plus
+
+Query  350  TACTGGTGGTAGGCGGCGGCAATGGCGGCGCCGATCAGTGGCCCCACCCAGAAGATCCAT  409
+            || ||||||||    || |||||||| || || || |  || || |||||||||||||||
+Sbjct  449  TATTGGTGGTACAATGCAGCAATGGCAGCTCCCATGAAAGGTCCAACCCAGAAGATCCAT  508
+
+Query  410  TGGTCATCCCAGGCCTTGTCAGTGTTGTAGATGACAGCAGCTCC  453
+            ||||||||||||||||| ||  ||||||| || |||||||||||
+Sbjct  509  TGGTCATCCCAGGCCTTCTCTCTGTTGTAAATCACAGCAGCTCC  552
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8832087792
+
+
+Query= MLOC_54227.1 1083 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1083
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5910361780
+
+
+Query= MLOC_62301.1 1674 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1674
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9205667263
+
+
+Query= MLOC_77777.3 1161 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1161
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6345275194
+
+
+Query= Y17186.1_cds_CAA76677.1_1 [gene=eIF-4A]
+[db_xref=GOA:O65879,HSSP:1FUK,InterPro:IPR001650,InterPro:IPR011545,
+InterPro:IPR014001,InterPro:IPR014014,InterPro:IPR014021,
+UniProtKB/TrEMBL:O65879] [protein=translation initiation factor]
+[protein_id=CAA76677.1] [location=80..1303] [gbkey=CDS]
+
+Length=1224
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6696551413
+
+
+Query= AF077629.1_cds_AAF15307.1_1 [gene=A23] [protein=anth]
+[protein_id=AAF15307.1] [location=394..822] [gbkey=CDS]
+
+Length=429
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2273826786
+
+
+Query= AF370358.1_cds_AAK53432.1_1 [protein=Na+/H+ antiporter]
+[protein_id=AAK53432.1] [location=142..1812] [gbkey=CDS]
+
+Length=1671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 9188939824
+
+
+Query= NM_117870.4_cds_NP_567533.1_1 [gene=CBL1] [locus_tag=AT4G17615]
+[db_xref=TAIR:AT4G17615,GeneID:827481] [protein=calcineurin B-like
+protein 1] [protein_id=NP_567533.1] [location=457..1098] [gbkey=CDS]
+
+Length=642
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3463814760
+
+
+Query= AY250704.1_cds_AAP02957.1_1 [gene=TP55] [protein=aldehyde
+dehydrogenase family 7 member A1] [protein_id=AAP02957.1]
+[location=38..1570] [gbkey=CDS]
+
+Length=1533
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 8419477630
+
+
+Query= AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like]
+[protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]
+
+Length=192
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU597908|CU597908.1 Theobroma cacao, mRNA sequence (KZ0AAF3...  209     7e-55
+  ENA|CU597658|CU597658.1 Theobroma cacao, mRNA sequence (KZ0AAF1...  209     7e-55
+  ENA|CU597469|CU597469.1 Theobroma cacao, mRNA sequence (KZ0AAF1...  209     7e-55
+  ENA|CU535100|CU535100.1 Theobroma cacao, mRNA sequence (KZ0AAK7...  209     7e-55
+  ENA|CU534918|CU534918.1 Theobroma cacao, mRNA sequence (KZ0AAK6...  200     4e-52
+  ENA|CU595523|CU595523.1 Theobroma cacao, mRNA sequence (KZ0AAF1...  156     9e-39
+
+
+> ENA|CU597908|CU597908.1 Theobroma cacao, mRNA sequence (KZ0AAF3YM23FM1).
+Length=506
+
+ Score = 209 bits (113),  Expect = 7e-55
+ Identities = 159/182 (87%), Gaps = 0/182 (0%)
+ Strand=Plus/Minus
+
+Query  1    ATGGCTGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGA  60
+            ||| |||||||||| || |||||||| |||||||||||||||||||| |||||||| |||
+Sbjct  424  ATGTCTGACAAGTGCGGAAACTGCGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGA  365
+
+Query  61   AACAGCTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTG  120
+            |||| ||||||||||||||||||| |||||||||||| ||| || | ||| ||  |||  
+Sbjct  364  AACACCTTGGTCATTGAGACTGAGAAGAGCTACATCACCACTGTCGCGGTGGAAACTCCA  305
+
+Query  121  GCAGAGAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGT  180
+            |||||||||||||||||||||||||||||| | | ||||| ||||||| ||||||| |||
+Sbjct  304  GCAGAGAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCACCTGCACAGACTGCACTTGT  245
+
+Query  181  GG  182
+            ||
+Sbjct  244  GG  243
+
+
+> ENA|CU597658|CU597658.1 Theobroma cacao, mRNA sequence (KZ0AAF1YN02).
+Length=468
+
+ Score = 209 bits (113),  Expect = 7e-55
+ Identities = 159/182 (87%), Gaps = 0/182 (0%)
+ Strand=Plus/Plus
+
+Query  1    ATGGCTGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGA  60
+            ||| |||||||||| || |||||||| |||||||||||||||||||| |||||||| |||
+Sbjct  83   ATGTCTGACAAGTGCGGAAACTGCGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGA  142
+
+Query  61   AACAGCTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTG  120
+            |||| ||||||||||||||||||| |||||||||||| ||| || | ||| ||  |||  
+Sbjct  143  AACACCTTGGTCATTGAGACTGAGAAGAGCTACATCACCACTGTCGCGGTGGAAACTCCA  202
+
+Query  121  GCAGAGAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGT  180
+            |||||||||||||||||||||||||||||| | | ||||| ||||||| ||||||| |||
+Sbjct  203  GCAGAGAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCACCTGCACAGACTGCACTTGT  262
+
+Query  181  GG  182
+            ||
+Sbjct  263  GG  264
+
+
+> ENA|CU597469|CU597469.1 Theobroma cacao, mRNA sequence (KZ0AAF10YE20FM1).
+Length=266
+
+ Score = 209 bits (113),  Expect = 7e-55
+ Identities = 159/182 (87%), Gaps = 0/182 (0%)
+ Strand=Plus/Plus
+
+Query  1    ATGGCTGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGA  60
+            ||| |||||||||| || |||||||| |||||||||||||||||||| |||||||| |||
+Sbjct  83   ATGTCTGACAAGTGCGGAAACTGCGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGA  142
+
+Query  61   AACAGCTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTG  120
+            |||| ||||||||||||||||||| |||||||||||| ||| || | ||| ||  |||  
+Sbjct  143  AACACCTTGGTCATTGAGACTGAGAAGAGCTACATCACCACTGTCGCGGTGGAAACTCCA  202
+
+Query  121  GCAGAGAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGT  180
+            |||||||||||||||||||||||||||||| | | ||||| ||||||| ||||||| |||
+Sbjct  203  GCAGAGAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCACCTGCACAGACTGCACTTGT  262
+
+Query  181  GG  182
+            ||
+Sbjct  263  GG  264
+
+
+> ENA|CU535100|CU535100.1 Theobroma cacao, mRNA sequence (KZ0AAK7YI06FM1).
+Length=478
+
+ Score = 209 bits (113),  Expect = 7e-55
+ Identities = 159/182 (87%), Gaps = 0/182 (0%)
+ Strand=Plus/Minus
+
+Query  1    ATGGCTGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGA  60
+            ||| |||||||||| || |||||||| |||||||||||||||||||| |||||||| |||
+Sbjct  396  ATGTCTGACAAGTGCGGAAACTGCGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGA  337
+
+Query  61   AACAGCTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTG  120
+            |||| ||||||||||||||||||| |||||||||||| ||| || | ||| ||  |||  
+Sbjct  336  AACACCTTGGTCATTGAGACTGAGAAGAGCTACATCACCACTGTCGCGGTGGAAACTCCA  277
+
+Query  121  GCAGAGAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGT  180
+            |||||||||||||||||||||||||||||| | | ||||| ||||||| ||||||| |||
+Sbjct  276  GCAGAGAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCACCTGCACAGACTGCACTTGT  217
+
+Query  181  GG  182
+            ||
+Sbjct  216  GG  215
+
+
+> ENA|CU534918|CU534918.1 Theobroma cacao, mRNA sequence (KZ0AAK6YA08FM1).
+Length=506
+
+ Score = 200 bits (108),  Expect = 4e-52
+ Identities = 154/177 (87%), Gaps = 0/177 (0%)
+ Strand=Plus/Minus
+
+Query  6    TGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGAAACAG  65
+            ||||||||| || ||||| || |||||||||||||||||||| |||||||| ||||||| 
+Sbjct  419  TGACAAGTGCGGAAACTGGGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGAAACAC  360
+
+Query  66   CTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTGGCAGA  125
+            ||||||||||||||||||| |||||||||||| ||| || | ||| ||  |||  |||||
+Sbjct  359  CTTGGTCATTGAGACTGAGAAGAGCTACATCACCACTGTCGCGGTGGAAACTCCAGCAGA  300
+
+Query  126  GAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGTGG  182
+            ||||||||||||||||||||||||| | | ||||| ||||||| ||||||| |||||
+Sbjct  299  GAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCACCTGCACAGACTGCACTTGTGG  243
+
+
+> ENA|CU595523|CU595523.1 Theobroma cacao, mRNA sequence (KZ0AAF10YA23FM1).
+Length=521
+
+ Score = 156 bits (84),  Expect = 9e-39
+ Identities = 146/177 (82%), Gaps = 0/177 (0%)
+ Strand=Plus/Minus
+
+Query  6    TGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGAAACAG  65
+            ||||||||| || ||||| || |||||||||||||||||||| |||||||| ||||||  
+Sbjct  421  TGACAAGTGGGGAAACTGGGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGAAACCC  362
+
+Query  66   CTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTGGCAGA  125
+            ||||||||||| ||||| | |||||||||||| | | || | ||| ||  |||  |||||
+Sbjct  361  CTTGGTCATTGGGACTGGGAAGAGCTACATCACCCCTGTCGCGGTGGAAACTCCAGCAGA  302
+
+Query  126  GAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGTGG  182
+            ||||||||||||||||||||||||| | | ||||  |||| || || || | |||||
+Sbjct  301  GAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCCCCTGCCCAGACCGCCCTTGTGG  245
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 957220893
+
+
+Query= DQ663481.2_cds_ABG54481.1_1 [protein=late embryogenesis abundant
+protein] [protein_id=ABG54481.1] [location=126..437] [gbkey=CDS]
+
+Length=312
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1628954853
+
+
+Query= AM493723.1_cds_CAM35490.1_1 [gene=ERF3]
+[db_xref=GOA:A4FS08,InterPro:IPR001471,InterPro:IPR016177,
+UniProtKB/TrEMBL:A4FS08] [protein=ethylene responsive transcription
+factor] [protein_id=CAM35490.1] [location=115..720] [gbkey=CDS]
+
+Length=606
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 3262690032
+
+
+Query= EF452301.1_cds_ABR15365.1_1 [gene=CRT] [protein=calreticulin]
+[protein_id=ABR15365.1] [location=36..1331] [gbkey=CDS]
+
+Length=1296
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7098009949
+
+
+Query= EU665425.1_cds_ACD80357.1_1 [protein=WRKY2 transcription factor]
+[protein_id=ACD80357.1] [location=1..1407] [gbkey=CDS]
+
+Length=1407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7716925192
+
+
+Query= EU665430.1_cds_ACD80362.1_1 [protein=WRKY19 transcription factor]
+[protein_id=ACD80362.1] [location=1..1407] [gbkey=CDS]
+
+Length=1407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 7716925192
+
+
+Query= FJ417330.1_cds_ACJ48970.1_1 [protein=putative Cys2-His2 type zinc
+finger protein] [protein_id=ACJ48970.1] [location=1..516]
+[gbkey=CDS]
+
+Length=516
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2759878212
+
+
+Query= GQ988775.1_cds_ACY56756.1_1 [protein=ZFP1] [protein_id=ACY56756.1]
+[location=53..556] [gbkey=CDS]
+
+Length=504
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2692836636
+
+
+Query= HM027577.1_cds_ADE34586.1_1 [gene=NAC2a] [protein=NAC transcription
+factor 2a] [protein_id=ADE34586.1] [location=63..1046] [gbkey=CDS]
+
+Length=984
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5358356293
+
+
+Query= NM_001197011.1_cds_NP_001183940.1_1 [gene=LOC100502540]
+[db_xref=GeneID:100502540] [protein=ABRE binding protein]
+[protein_id=NP_001183940.1] [location=34..1191] [gbkey=CDS]
+
+Length=1158
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 6328547755
+
+
+Query= JX508709.1_cds_AFV31408.1_1 [protein=basic transcription factor 3]
+[protein_id=AFV31408.1] [location=114..647] [gbkey=CDS]
+
+Length=534
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2860440576
+
+
+Query= XM_010044547.2_cds_XP_010042849.1_1 [gene=LOC104432046]
+[db_xref=GeneID:104432046] [protein=pyrophosphate-energized vacuolar
+membrane proton pump 1-like] [protein_id=XP_010042849.1]
+[location=95..1057] [gbkey=CDS]
+
+Length=963
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5241264220
+
+
+Query= XM_020292605.1_cds_XP_020148194.1_1 [gene=LOC109733394]
+[db_xref=GeneID:109733394] [protein=serine/threonine-protein
+phosphatase PP2A-4 catalytic subunit isoform X2]
+[protein_id=XP_020148194.1] [location=168..1109] [gbkey=CDS]
+
+Length=942
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5124172147
+
+
+Query= NM_001317650.2_cds_NP_001304579.2_1 [gene=LOC100788426]
+[db_xref=GeneID:100788426] [protein=uncharacterized protein
+LOC100788426] [protein_id=NP_001304579.2] [location=25..1002]
+[gbkey=CDS]
+
+Length=978
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 5324901415
+
+
+  Database: COSSHPPI_IS_KZ0AA_fixed.fasta
+    Posted date:  Jul 9, 2020  11:26 AM
+  Number of letters in database: 5,828,468
+  Number of sequences in database:  10,985
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

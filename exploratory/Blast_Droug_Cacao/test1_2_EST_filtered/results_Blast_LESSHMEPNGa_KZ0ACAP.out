@@ -1,0 +1,4033 @@
+BLASTN 2.5.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: LESSHMEPNGa_KZ0ACAP.fasta
+           356 sequences; 100,297 total letters
+
+
+
+Query= AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA
+receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914
+FORWARD LENGTH=564
+
+Length=564
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 51552015
+
+
+Query= AT1G07890.3 | Symbols:MEE6,ATAPX01,ATAPX1,CS1,APX1 | ascorbate
+peroxidase 1,maternal effect embryo arrest 6 |  Chr1:2438005-2439435
+FORWARD LENGTH=753
+
+Length=753
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 69008415
+
+
+Query= AT1G08810.1 | Symbols:AtMYB60,MYB60 | myb domain protein 60 | 
+Chr1:2819279-2820329 REVERSE LENGTH=843
+
+Length=843
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 77458425
+
+
+Query= AT1G09540.1 | Symbols:ATMYB61,MYB61 | myb domain protein
+61,ARABIDOPSIS THALIANA MYB DOMAIN PROTEIN 61 | 
+Chr1:3086333-3087689 FORWARD LENGTH=1101
+
+Length=1101
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 101681787
+
+
+Query= AT1G09700.1 | Symbols:HYL1,AtDRB1,DRB1 | DSRNA-BINDING PROTEIN
+1,HYPONASTIC LEAVES 1 |  Chr1:3137960-3140118 REVERSE LENGTH=1260
+
+Length=1260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 116610138
+
+
+Query= AT1G10370.1 | Symbols:ATGSTU17,ERD9,GST30B,GST30,GSTU17 |
+GLUTATHIONE S-TRANSFERASE 30B,GLUTATHIONE S-TRANSFERASE
+30,GLUTATHIONE S-TRANSFERASE TAU 17,GLUTATHIONE S-TRANSFERASE
+U17,EARLY-RESPONSIVE TO DEHYDRATION 9 |  Chr1:3397274-3398273
+REVERSE LENGTH=684
+
+Length=684
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 62530074
+
+
+Query= AT1G11755.1 | Symbols:LEW1 | LEAF WILTING 1 |  Chr1:3969987-3971488
+REVERSE LENGTH=765
+
+Length=765
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 70135083
+
+
+Query= AT1G12480.1 | Symbols:SLAC1,CDI3,RCD3,OZS1 | CARBON DIOXIDE
+INSENSITIVE 3,SLOW ANION CHANNEL-ASSOCIATED 1,RADICAL-INDUCED CELL
+DEATH 3,OZONE-SENSITIVE 1 |  Chr1:4257427-4259249 REVERSE
+LENGTH=1671
+
+Length=1671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 154516516
+
+
+Query= AT1G15360.1 | Symbols:SHN1,WIN1,AtSHN1 | WAX INDUCER 1,SHINE 1 | 
+Chr1:5283609-5284506 FORWARD LENGTH=600
+
+Length=600
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 54944835
+
+
+Query= AT1G15520.1 | Symbols:ATABCG40,ABCG40,PDR12,ATPDR12 | pleiotropic
+drug resistance 12,ATP-binding cassette G40,PLEIOTROPIC DRUG
+RESISTANCE 12,Arabidopsis thaliana ATP-binding cassette G40 | 
+Chr1:5331993-5338175 REVERSE LENGTH=4272
+
+Length=4272
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 396188604
+
+
+Query= AT1G15690.1 | Symbols:AtVHP1;1,AtAVP1,ATAVP3,AVP-3,AVP1,FUGU5,VHP1 |
+ARABIDOPSIS THALIANA V-PPASE 3,FUGU 5 |  Chr1:5399115-5402185
+FORWARD LENGTH=2313
+
+Length=2313
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 214564702
+
+
+Query= AT1G15820.1 | Symbols:CP24,LHCB6 | light harvesting complex
+photosystem II subunit 6 |  Chr1:5446685-5447676 REVERSE LENGTH=777
+
+Length=777
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 71261751
+
+
+Query= AT1G16060.1 | Symbols:ADAP,WRI3 | ARIA-interacting double AP2 domain
+protein,WRINKLED 3 |  Chr1:5508563-5511609 FORWARD LENGTH=1038
+
+Length=1038
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 95766780
+
+
+Query= AT1G16540.1 | Symbols:SIR3,LOS5,ACI2,ABA3,ATABA3,AtLOS5 | SIRTINOL
+RESISTANT 3,LOW OSMOTIC STRESS 5,ABA DEFICIENT 3,ALTERED CHLOROPLAST
+IMPORT 2 |  Chr1:5659465-5665201 FORWARD LENGTH=2460
+
+Length=2460
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 228314053
+
+
+Query= AT1G27730.1 | Symbols:ZAT10,STZ | salt tolerance zinc finger | 
+Chr1:9648302-9648985 REVERSE LENGTH=684
+
+Length=684
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 62530074
+
+
+Query= AT1G28490.1 | Symbols:OSM1,ATSYP61,SYP61 | syntaxin of plants 61 | 
+Chr1:10016433-10017842 FORWARD LENGTH=738
+
+Length=738
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67600080
+
+
+Query= AT1G32640.1 | Symbols:JAI1,ZBF1,JIN1,ATMYC2,MYC2,RD22BP1 | JASMONATE
+INSENSITIVE 1 |  Chr1:11799042-11800913 REVERSE LENGTH=1872
+
+Length=1872
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 173316649
+
+
+Query= AT1G33560.1 | Symbols:ADR1 | ACTIVATED DISEASE RESISTANCE 1 | 
+Chr1:12169092-12171878 FORWARD LENGTH=2364
+
+Length=2364
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 219334885
+
+
+Query= AT1G35720.1 | Symbols:ANNAT1,ATOXY5,OXY5,ANN1,AtANN1 | annexin 1 | 
+Chr1:13225304-13226939 FORWARD LENGTH=954
+
+Length=954
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87880104
+
+
+Query= AT1G45249.3 | Symbols:AtABF2,ABF2,ATAREB1,AREB1 | ABSCISIC ACID
+RESPONSIVE ELEMENTS-BINDING PROTEIN 2,abscisic acid responsive
+elements-binding factor 2 |  Chr1:17165420-17167415 REVERSE
+LENGTH=1284
+
+Length=1284
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 118863474
+
+
+Query= AT1G48270.1 | Symbols:ATGCR1,GCR1 | G-protein-coupled receptor 1 | 
+Chr1:17828314-17830214 REVERSE LENGTH=981
+
+Length=981
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90415107
+
+
+Query= AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | 
+Chr1:17886285-17891892 REVERSE LENGTH=3153
+
+Length=3153
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 293132422
+
+
+Query= AT1G49230.1 | Symbols:ATL78,AtATL78 | Arabidopsis Tóxicos en
+Levadura 78 |  Chr1:18209320-18209979 FORWARD LENGTH=660
+
+Length=660
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 60276738
+
+
+Query= AT1G52400.1 | Symbols:BGL1,ATBG1,BGLU18 | A. THALIANA
+BETA-GLUCOSIDASE 1,BETA-GLUCOSIDASE HOMOLOG 1,beta glucosidase 18 | 
+Chr1:19515250-19517930 FORWARD LENGTH=1587
+
+Length=1587
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 146659744
+
+
+Query= AT1G54160.1 | Symbols:NFYA5,NF-YA5 | "nuclear factor Y, subunit
+A5",NUCLEAR FACTOR Y A5 |  Chr1:20217581-20218706 REVERSE LENGTH=927
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 85345101
+
+
+Query= AT1G56600.1 | Symbols:GolS2,AtGolS2 | galactinol synthase 2 | 
+Chr1:21207620-21209291 FORWARD LENGTH=1008
+
+Length=1008
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 92950110
+
+
+Query= AT1G58440.1 | Symbols:XF1,SQE1,DRY2 | DROUGHT HYPERSENSITIVE
+2,SQUALENE EPOXIDASE 1 |  Chr1:21714094-21717246 REVERSE LENGTH=1596
+
+Length=1596
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 147501541
+
+
+Query= AT1G64060.1 | Symbols:ATRBOH F,RBOH F,RBOHAP108,ATRBOHF,RBOHF |
+ARABIDOPSIS THALIANA RESPIRATORY BURST OXIDASE HOMOLOG 
+F,respiratory burst oxidase protein F,RESPIRATORY BURST OXIDASE
+PROTEIN F |  Chr1:23770266-23776317 FORWARD LENGTH=2835
+
+Length=2835
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 263388928
+
+
+Query= AT1G64990.1 | Symbols:GTG1 | GPCR-type G protein 1 | 
+Chr1:24140183-24145866 REVERSE LENGTH=1407
+
+Length=1407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 130411821
+
+
+Query= AT1G69270.1 | Symbols:AtRPK1,RPK1 | receptor-like protein kinase 1 |
+Chr1:26040877-26042499 REVERSE LENGTH=1623
+
+Length=1623
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 150026932
+
+
+Query= AT1G71960.1 | Symbols:ABCG25,ATABCG25 | Arabidopsis thaliana
+ATP-binding cassette G25,ATP-binding casette G25 | 
+Chr1:27082587-27088163 REVERSE LENGTH=1989
+
+Length=1989
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 184260010
+
+
+Query= AT1G72770.1 | Symbols:HAB1,AtHAB1 | HYPERSENSITIVE TO ABA1 | 
+Chr1:27390998-27392851 FORWARD LENGTH=1536
+
+Length=1536
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 141889561
+
+
+Query= AT1G73360.1 | Symbols:EDT1,ATHDG11,HDG11,AtEDT1 | homeodomain
+GLABROUS 11,HOMEODOMAIN GLABROUS 11,ENHANCED DROUGHT TOLERANCE 1 | 
+Chr1:27578893-27581820 REVERSE LENGTH=2169
+
+Length=2169
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 201095950
+
+
+Query= AT1G75270.1 | Symbols:DHAR2 | dehydroascorbate reductase 2 | 
+Chr1:28250255-28251237 REVERSE LENGTH=642
+
+Length=642
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 58586736
+
+
+Query= AT1G78290.2 | Symbols:SNRK2-8,SRK2C,SNRK2.8 | SNF1-RELATED PROTEIN
+KINASE 2-8,SNF1-RELATED PROTEIN KINASE 2.8,SNF1-RELATED PROTEIN
+KINASE 2C |  Chr1:29457457-29458909 REVERSE LENGTH=1032
+
+Length=1032
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 95203446
+
+
+Query= AT1G78580.1 | Symbols:TPS1,ATTPS1 | trehalose-6-phosphate
+synthase,TREHALOSE-6-PHOSPHATE SYNTHASE 1 |  Chr1:29552495-29557482
+REVERSE LENGTH=2829
+
+Length=2829
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 262827730
+
+
+Query= AT1G80460.1 | Symbols:GLI1,NHO1 | nonhost resistance to P. s.
+phaseolicola 1 |  Chr1:30246960-30249055 REVERSE LENGTH=1569
+
+Length=1569
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 144976150
+
+
+Query= AT2G04240.1 | Symbols:XERICO |  |  Chr2:1461816-1462304 REVERSE
+LENGTH=489
+
+Length=489
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 44483640
+
+
+Query= AT2G13540.1 | Symbols:CBP80,ENS,ABH1,ATCBP80 | ABA HYPERSENSITIVE
+1,ENSALADA,CAP-BINDING PROTEIN 80 |  Chr2:5637053-5642813 FORWARD
+LENGTH=2547
+
+Length=2547
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 236451424
+
+
+Query= AT2G17820.1 | Symbols:ATHK1,HK1,AHK1 | histidine kinase 1 | 
+Chr2:7743133-7748013 REVERSE LENGTH=3624
+
+Length=3624
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 335809908
+
+
+Query= AT2G18960.1 | Symbols:HA1,OST2,AHA1,PMA | H(+)-ATPase 1,PLASMA
+MEMBRANE PROTON ATPASE,OPEN STOMATA 2 |  Chr2:8221858-8227268
+FORWARD LENGTH=2850
+
+Length=2850
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 264791923
+
+
+Query= AT2G22430.1 | Symbols:HB6,ATHB6 | homeobox protein 6 | 
+Chr2:9526470-9527612 REVERSE LENGTH=936
+
+Length=936
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 86190102
+
+
+Query= AT2G26300.1 | Symbols:GP ALPHA 1,ATGPA1,GPA1 | ARABIDOPSIS THALIANA
+G PROTEIN ALPHA SUBUNIT 1,G protein alpha subunit 1,G PROTEIN ALPHA
+SUBUNIT 1 |  Chr2:11198087-11200822 FORWARD LENGTH=1152
+
+Length=1152
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 106470126
+
+
+Query= AT2G27150.1 | Symbols:AOdelta,AAO3,AtAAO3,At-AO3 | Aldehyde oxidase
+delta,Arabidopsis thaliana aldehyde oxidase 3,abscisic aldehyde
+oxidase 3 |  Chr2:11601952-11607014 FORWARD LENGTH=3999
+
+Length=3999
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 370751283
+
+
+Query= AT2G29980.1 | Symbols:FAD3,AtFAD3 | fatty acid desaturase 3 | 
+Chr2:12781787-12784946 REVERSE LENGTH=1161
+
+Length=1161
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 107315127
+
+
+Query= AT2G31320.1 | Symbols:PARP1 | POLY(ADP-RIBOSE) POLYMERASE 1 | 
+Chr2:13354046-13359578 REVERSE LENGTH=2952
+
+Length=2952
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 274332289
+
+
+Query= AT2G31470.1 | Symbols:DOR | DROUGHT TOLERANCE REPRESSOR | 
+Chr2:13407492-13408655 REVERSE LENGTH=1164
+
+Length=1164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 107596794
+
+
+Query= AT2G33150.1 | Symbols:PKT3,KAT2,PED1 | PEROXISOME DEFECTIVE
+1,peroxisomal 3-ketoacyl-CoA thiolase 3,3-KETOACYL-COA THIOLASE 2 | 
+Chr2:14047814-14050983 REVERSE LENGTH=1389
+
+Length=1389
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 128721819
+
+
+Query= AT2G36450.1 | Symbols:HRD | HARDY |  Chr2:15294303-15294857 REVERSE
+LENGTH=555
+
+Length=555
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 50703810
+
+
+Query= AT2G38750.1 | Symbols:AtANN4,ANNAT4 | annexin 4 | 
+Chr2:16196582-16198431 REVERSE LENGTH=960
+
+Length=960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 88443438
+
+
+Query= AT2G38880.8 | Symbols:ATNF-YB1,ATHAP3,NF-YB1,HAP3A,HAP3 | HEME
+ACTIVATOR PROTEIN (YEAST) HOMOLOG 3A,NUCLEAR FACTOR Y SUBUNIT
+B1,HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3,"nuclear factor Y,
+subunit B1" |  Chr2:16238685-16240316 FORWARD LENGTH=495
+
+Length=495
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 45049110
+
+
+Query= AT2G39800.1 | Symbols:P5CS1,ATP5CS | delta1-pyrroline-5-carboxylate
+synthase 1 |  Chr2:16598516-16602939 REVERSE LENGTH=2154
+
+Length=2154
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 199692955
+
+
+Query= AT2G43350.1 | Symbols:GPX3,ATGPX3 | glutathione peroxidase 3 | 
+Chr2:18009195-18010533 REVERSE LENGTH=621
+
+Length=621
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 56615067
+
+
+Query= AT2G47180.1 | Symbols:GolS1,AtGolS1 | galactinol synthase 1 | 
+Chr2:19369049-19370372 REVERSE LENGTH=1035
+
+Length=1035
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 95485113
+
+
+Query= AT2G47190.1 | Symbols:MYB2,ATMYB2 | myb domain protein 2,MYB DOMAIN
+PROTEIN 2 |  Chr2:19376284-19377297 FORWARD LENGTH=822
+
+Length=822
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 75486756
+
+
+Query= AT2G47800.1 | Symbols:ABCC4,ATMRP4,MRP4,EST3 | multidrug
+resistance-associated protein 4,ATP-binding cassette C4 | 
+Chr2:19574944-19580383 FORWARD LENGTH=4551
+
+Length=4551
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 422184987
+
+
+Query= AT3G08510.1 | Symbols:ATPLC2,PLC2 | phospholipase C 2 | 
+Chr3:2582626-2585556 REVERSE LENGTH=1746
+
+Length=1746
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 161531491
+
+
+Query= AT3G14440.1 | Symbols:SIS7,ATNCED3,NCED3,STO1 | SALT TOLERANT
+1,nine-cis-epoxycarotenoid dioxygenase 3,SUGAR INSENSITIVE 7 | 
+Chr3:4831678-4833477 REVERSE LENGTH=1800
+
+Length=1800
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 166582273
+
+
+Query= AT3G19290.3 | Symbols:AtAREB2,AREB2,ABF4 | ABA-RESPONSIVE ELEMENT
+BINDING PROTEIN 2,ABRE binding factor 4 |  Chr3:6687956-6689784
+FORWARD LENGTH=1299
+
+Length=1299
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 120271809
+
+
+Query= AT3G22170.1 | Symbols:FHY3,CPD45 | far-red elongated hypocotyls
+3,CHLOROPLAST DIVISION MUTANT 45 |  Chr3:7822359-7825414 REVERSE
+LENGTH=2520
+
+Length=2520
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 233926033
+
+
+Query= AT3G26090.1 | Symbols:ATRGS1,RGS1 | REGULATOR OF G-PROTEIN SIGNALING
+1 |  Chr3:9532883-9535410 FORWARD LENGTH=1380
+
+Length=1380
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 127876818
+
+
+Query= AT3G51920.1 | Symbols:CAM9,ATCML9,CML9 | calmodulin 9,CALMODULIN
+LIKE PROTEIN 9 |  Chr3:19268178-19269314 REVERSE LENGTH=456
+
+Length=456
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 41373555
+
+
+Query= AT3G53420.1 | Symbols:PIP2;1,AtPIP2;1,PIP2A,PIP2 | PLASMA MEMBRANE
+INTRINSIC PROTEIN 2,PLASMA MEMBRANE INTRINSIC PROTEIN 2;1,plasma
+membrane intrinsic protein 2A |  Chr3:19803906-19805454 REVERSE
+LENGTH=864
+
+Length=864
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79430094
+
+
+Query= AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC
+PROTEIN 2D,plasma membrane intrinsic protein 2;5 | 
+Chr3:20302117-20303738 FORWARD LENGTH=861
+
+Length=861
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79148427
+
+
+Query= AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic
+protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE
+PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864
+
+Length=864
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79430094
+
+
+Query= AT4G02390.1 | Symbols:APP,PP,PARP2 | poly(ADP-ribose) polymerase
+2,poly(ADP-ribose) polymerase |  Chr4:1050104-1053960 FORWARD
+LENGTH=1914
+
+Length=1914
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 177245035
+
+
+Query= AT4G04720.1 | Symbols:AtCPK21,CPK21 | calcium-dependent protein
+kinase 21 |  Chr4:2394817-2397631 REVERSE LENGTH=1596
+
+Length=1596
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 147501541
+
+
+Query= AT4G04740.2 | Symbols:CPK23,ATCPK23 | calcium-dependent protein
+kinase 23 |  Chr4:2404883-2408493 REVERSE LENGTH=1602
+
+Length=1602
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 148062739
+
+
+Query= AT4G15090.1 | Symbols:FAR1 | FAR-RED IMPAIRED RESPONSE 1 | 
+Chr4:8614806-8617870 FORWARD LENGTH=2484
+
+Length=2484
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 230558845
+
+
+Query= AT4G18290.1 | Symbols:KAT2 | potassium channel in Arabidopsis
+thaliana 2 |  Chr4:10115418-10118477 FORWARD LENGTH=2094
+
+Length=2094
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 194080975
+
+
+Query= AT4G19230.2 | Symbols:CYP707A1 | "cytochrome P450, family 707,
+subfamily A, polypeptide 1" |  Chr4:10521524-10523566 FORWARD
+LENGTH=1455
+
+Length=1455
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 134313388
+
+
+Query= AT4G23450.2 | Symbols:AIRP1,AtAIRP1 | ABA Insensitive RING Protein 1
+|  Chr4:12241113-12242190 REVERSE LENGTH=627
+
+Length=627
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 57178401
+
+
+Query= AT4G25480.1 | Symbols:CBF3,DREB1A,ATCBF3 | dehydration response
+element B1A,C-REPEAT BINDING FACTOR  3 |  Chr4:13018353-13019003
+REVERSE LENGTH=651
+
+Length=651
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 59431737
+
+
+Query= AT4G26080.1 | Symbols:ABI1,AtABI1 | ABA INSENSITIVE 1 | 
+Chr4:13220231-13221828 REVERSE LENGTH=1305
+
+Length=1305
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 120835143
+
+
+Query= AT4G27630.3 | Symbols:GTG2 | GPCR-type G protein 2 | 
+Chr4:13791980-13797033 REVERSE LENGTH=1476
+
+Length=1476
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 136277581
+
+
+Query= AT4G29890.1 | Symbols:no symbol available | no full name available |
+Chr4:14608868-14610905 FORWARD LENGTH=1269
+
+Length=1269
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 117455139
+
+
+Query= AT4G30950.1 | Symbols:FADC,SFD4,FAD6 | FATTY ACID DESATURASE
+C,STEAROYL DESATURASE DEFICIENCY 4,fatty acid desaturase 6 | 
+Chr4:15057278-15059673 REVERSE LENGTH=1347
+
+Length=1347
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 124778481
+
+
+Query= AT4G31120.1 | Symbols:SKB1,CAU1,ATPRMT5,PRMT5 | calcium
+underaccumulation 1,SHK1 binding protein 1,PROTEIN ARGININE
+METHYLTRANSFERASE 5 |  Chr4:15132185-15136568 REVERSE LENGTH=1929
+
+Length=1929
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 178648030
+
+
+Query= AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 |
+SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING
+1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD
+LENGTH=1089
+
+Length=1089
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 100555119
+
+
+Query= AT4G34000.1 | Symbols:ABF3,AtABF3,DPBF5 | DC3 PROMOTER-BINDING
+FACTOR 5,abscisic acid responsive elements-binding factor 3 | 
+Chr4:16296008-16297971 FORWARD LENGTH=1365
+
+Length=1365
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 126468483
+
+
+Query= AT4G34240.1 | Symbols:ALDH3I1,ALDH3 | aldehyde dehydrogenase
+3I1,aldehyde dehydrogenase 3 |  Chr4:16389801-16392633 FORWARD
+LENGTH=1653
+
+Length=1653
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 152832922
+
+
+Query= AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE
+CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | 
+Chr4:17802974-17806332 REVERSE LENGTH=2016
+
+Length=2016
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 186785401
+
+
+Query= AT4G38130.1 | Symbols:ATHDA19,HD1,HDA1,HDA19,RPD3A,ATHD1 |
+ARABIDOPSIS HISTONE DEACETYLASE 19,HISTONE DEACETYLASE 19,histone
+deacetylase 1,ARABIDOPSIS HISTONE DEACETYLASE 1 | 
+Chr4:17896493-17899057 REVERSE LENGTH=1506
+
+Length=1506
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 139083571
+
+
+Query= AT5G03740.1 | Symbols:HD2C,HDT3 | HISTONE DEACETYLASE 3,histone
+deacetylase 2C |  Chr5:981994-983961 FORWARD LENGTH=885
+
+Length=885
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 81401763
+
+
+Query= AT5G05410.1 | Symbols:DREB2,DREB2A | DEHYDRATION-RESPONSIVE ELEMENT
+BINDING PROTEIN 2,DRE-binding protein 2A |  Chr5:1602650-1603657
+FORWARD LENGTH=1008
+
+Length=1008
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 92950110
+
+
+Query= AT5G06530.2 | Symbols:AtABCG22,ABCG22 | Arabidopsis thaliana
+ATP-binding cassette G22,ATP-binding cassette G22 | 
+Chr5:1990060-1994605 REVERSE LENGTH=2256
+
+Length=2256
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 209233321
+
+
+Query= AT5G10450.4 | Symbols:14-3-3lambda,GRF6,AFT1 | 14-3-3 PROTEIN G-BOX
+FACTOR14 LAMBDA,G-box regulating factor 6 |  Chr5:3284476-3286261
+REVERSE LENGTH=822
+
+Length=822
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 75486756
+
+
+Query= AT5G11270.1 | Symbols:OCP3 | overexpressor of cationic peroxidase 3
+|  Chr5:3595557-3597076 REVERSE LENGTH=1065
+
+Length=1065
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 98301783
+
+
+Query= AT5G13680.1 | Symbols:ABO1,AtELP1,ELO2 | ABA-OVERLY SENSITIVE
+1,ELONGATA 2 |  Chr5:4410522-4415471 REVERSE LENGTH=3960
+
+Length=3960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 367117380
+
+
+Query= AT5G16820.1 | Symbols:HSFA1B,HSF3,ATHSF3,ATHSFA1B | ARABIDOPSIS HEAT
+SHOCK FACTOR 3,CLASS A HEAT SHOCK FACTOR 1B,heat shock factor
+3,ARABIDOPSIS THALIANA CLASS A HEAT SHOCK FACTOR 1B | 
+Chr5:5530446-5532497 FORWARD LENGTH=1446
+
+Length=1446
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 133471591
+
+
+Query= AT5G24030.1 | Symbols:SLAH3 | SLAC1 homologue 3 | 
+Chr5:8118618-8120993 REVERSE LENGTH=1908
+
+Length=1908
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 176683837
+
+
+Query= AT5G37500.1 | Symbols:GORK | gated outwardly-rectifying K+ channel |
+Chr5:14889758-14894883 REVERSE LENGTH=2463
+
+Length=2463
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 228594652
+
+
+Query= AT5G40280.1 | Symbols:ATFTB,WIG,ERA1 | ENHANCED RESPONSE TO ABA
+1,WIGGUM,ARABIDOPSIS THALIANA FARNESYL TRANSFERASE BETA SUBUNIT | 
+Chr5:16101391-16104783 FORWARD LENGTH=1449
+
+Length=1449
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 133752190
+
+
+Query= AT5G44200.1 | Symbols:ATCBP20,CBP20 | CAP-binding protein 20 | 
+Chr5:17802062-17803875 REVERSE LENGTH=774
+
+Length=774
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 70980084
+
+
+Query= AT5G45340.1 | Symbols:CYP707A3 | "cytochrome P450, family 707,
+subfamily A, polypeptide 3" |  Chr5:18368977-18370909 REVERSE
+LENGTH=1392
+
+Length=1392
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 129003486
+
+
+Query= AT5G47910.1 | Symbols:ATRBOHD,RBOHD | respiratory burst oxidase
+homologue D |  Chr5:19397585-19401768 FORWARD LENGTH=2766
+
+Length=2766
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 256935151
+
+
+Query= AT5G48870.1 | Symbols:AtSAD1,LSM5,AtLSM5,SAD1 | SUPERSENSITIVE TO
+ABA AND DROUGHT 1,SM-like 5 |  Chr5:19813407-19814362 FORWARD
+LENGTH=267
+
+Length=267
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 23744851
+
+
+Query= AT5G49890.1 | Symbols:CLC-C,ATCLC-C | chloride channel C | 
+Chr5:20288489-20292143 REVERSE LENGTH=2340
+
+Length=2340
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 217090093
+
+
+Query= AT5G51070.1 | Symbols:SAG15,ERD1,CLPD | EARLY RESPONSIVE TO
+DEHYDRATION 1,SENESCENCE ASSOCIATED GENE 15 | 
+Chr5:20764479-20768481 FORWARD LENGTH=2838
+
+Length=2838
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 263669527
+
+
+Query= AT5G51990.1 | Symbols:CBF4,DREB1D | DEHYDRATION-RESPONSIVE
+ELEMENT-BINDING PROTEIN 1D,C-repeat-binding factor 4 | 
+Chr5:21117113-21117787 REVERSE LENGTH=675
+
+Length=675
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 61685073
+
+
+Query= AT5G57050.1 | Symbols:ABI2,AtABI2 | ABA INSENSITIVE 2 | 
+Chr5:23087720-23089303 FORWARD LENGTH=1272
+
+Length=1272
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 117736806
+
+
+Query= AT5G61760.1 | Symbols:IPK2BETA,IPK2B,ATIPK2BETA | INOSITOL
+POLYPHOSPHATE KINASE 2 BETA,inositol polyphosphate kinase 2
+beta,ARABIDOPSIS THALIANA INOSITOL POLYPHOSPHATE KINASE 2 BETA | 
+Chr5:24813916-24814818 REVERSE LENGTH=903
+
+Length=903
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 83091765
+
+
+Query= AT5G63110.1 | Symbols:SIL1,ATHDA6,AXE1,RTS1,HDA6,RPD3B | HISTONE
+DEACETYLASE 6,RNA-MEDIATED TRANSCRIPTIONAL SILENCING 1,histone
+deacetylase 6 |  Chr5:25315834-25318227 REVERSE LENGTH=1416
+
+Length=1416
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 131256822
+
+
+Query= AT5G67300.1 | Symbols:MYBR1,ATMYBR1,ATMYB44,MYB44 | ARABIDOPSIS
+THALIANA MYB DOMAIN PROTEIN 44,myb domain protein r1 | 
+Chr5:26854109-26855026 FORWARD LENGTH=918
+
+Length=918
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 84500100
+
+
+Query= LOC_Os09g28310.1 CDS
+
+Length=1131
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 104498457
+
+
+Query= LOC_Os09g13570.1 CDS
+
+Length=462
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 41939025
+
+
+Query= LOC_Os09g05020.2 CDS
+
+Length=669
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 61121739
+
+
+Query= LOC_Os08g35240.1 CDS
+
+Length=732
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67036746
+
+
+Query= LOC_Os05g48300.1 CDS
+
+Length=1152
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 106470126
+
+
+Query= LOC_Os05g25770.1 CDS
+
+Length=981
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90415107
+
+
+Query= LOC_Os04g56130.1 CDS
+
+Length=1260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 116610138
+
+
+Query= LOC_Os03g60080.1 CDS
+
+Length=951
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87598437
+
+
+Query= LOC_Os03g03370.1 CDS
+
+Length=858
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 78866760
+
+
+Query= LOC_Os02g52780.1 CDS
+
+Length=1074
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99146784
+
+
+Query= LOC_Os02g10760.1 CDS
+
+Length=618
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 56333400
+
+
+Query= LOC_Os02g08230.1 CDS
+
+Length=1887
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 174719644
+
+
+Query= LOC_Os01g62410.1 CDS
+
+Length=1764
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 163215085
+
+
+Query= LOC_Os01g58420.1 CDS
+
+Length=708
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 64783410
+
+
+Query= LOC_Os01g50110.1 CDS
+
+Length=828
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 76050090
+
+
+Query= LOC_Os01g42860.1 CDS
+
+Length=219
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 19204003
+
+
+Query= LOC_Os01g01420.2 CDS
+
+Length=1137
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 105061791
+
+
+Query= NM_001111795.1_cds_NP_001105265.1_1 [gene=gpm803b]
+[db_xref=GeneID:542176] [protein=uncharacterized LOC542176]
+[protein_id=NP_001105265.1] [location=61..933] [gbkey=CDS]
+
+Length=873
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 80275095
+
+
+Query= NM_001111843.1_cds_NP_001105313.1_1 [gene=me3]
+[db_xref=GeneID:542233] [protein=NADP-dependent malic enzyme,
+chloroplastic precursor] [protein_id=NP_001105313.1]
+[location=115..2025] [gbkey=CDS]
+
+Length=1911
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 176964436
+
+
+Query= NM_001153573.1_cds_NP_001147045.1_1 [gene=LOC100280655]
+[db_xref=GeneID:100280655] [protein=protein binding protein]
+[protein_id=NP_001147045.1] [location=273..1115] [gbkey=CDS]
+
+Length=843
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 77458425
+
+
+Query= NM_001305944.1_cds_NP_001292873.1_1 [gene=DBP1c]
+[db_xref=GeneID:732788] [protein=dehydration-responsive element
+binding protein 2A isoform 1] [protein_id=NP_001292873.1]
+[location=156..1259] [gbkey=CDS]
+
+Length=1104
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 101963454
+
+
+Query= NM_001111891.2_cds_NP_001105361.2_1 [gene=aba1]
+[db_xref=GeneID:542304] [protein=abscisic stress protein homolog]
+[protein_id=NP_001105361.2] [location=78..494] [gbkey=CDS]
+
+Length=417
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 37698000
+
+
+Query= XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248]
+[db_xref=GeneID:4330248] [protein=aquaporin PIP1-1]
+[protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]
+
+Length=870
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79993428
+
+
+Query= XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049]
+[db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2]
+[protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]
+
+Length=867
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79711761
+
+
+Query= XM_015761969.1_cds_XP_015617455.1_1 [gene=LOC4349594]
+[db_xref=GeneID:4349594] [protein=CBL-interacting protein kinase 15]
+[protein_id=XP_015617455.1] [location=509..1813] [gbkey=CDS]
+
+Length=1305
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 120835143
+
+
+Query= NM_001112582.2_cds_NP_001106052.2_1 [gene=LOC542390]
+[db_xref=GeneID:542390] [protein=nuclear transcription factor Y
+subunit B] [protein_id=NP_001106052.2] [location=162..698]
+[gbkey=CDS]
+
+Length=537
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 49007400
+
+
+Query= NM_001177007.2_cds_NP_001170478.1_1 [gene=IDP2562]
+[db_xref=GeneID:100384476] [protein=uncharacterized protein
+LOC100384476] [protein_id=NP_001170478.1] [location=484..2154]
+[gbkey=CDS]
+
+Length=1671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 154516516
+
+
+Query= NM_001112589.2_cds_NP_001106059.2_1 [gene=umc1760]
+[db_xref=GeneID:100125658] [protein=uncharacterized protein
+LOC100125658 precursor] [protein_id=NP_001106059.2]
+[location=101..1882] [gbkey=CDS]
+
+Length=1782
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 164898679
+
+
+Query= XM_008666329.2_cds_XP_008664551.2_1 [gene=LOC103643169]
+[db_xref=GeneID:103643169] [protein=ethylene-responsive
+transcription factor ABI4] [protein_id=XP_008664551.2]
+[location=28..1248] [gbkey=CDS]
+
+Length=1221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 112948467
+
+
+Query= XM_026022985.1_cds_XP_025878770.1_1 [gene=LOC4324418]
+[db_xref=GeneID:4324418] [protein=dehydration-responsive
+element-binding protein 2A] [protein_id=XP_025878770.1]
+[location=417..1241] [gbkey=CDS]
+
+Length=825
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 75768423
+
+
+Query= XM_015761401.2_cds_XP_015616887.1_1 [gene=LOC4325613]
+[db_xref=GeneID:4325613] [protein=CBL-interacting protein kinase 12]
+[protein_id=XP_015616887.1] [location=146..1768] [gbkey=CDS]
+
+Length=1623
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 150026932
+
+
+Query= XM_015775573.2_cds_XP_015631059.1_1 [gene=LOC4325408]
+[db_xref=GeneID:4325408] [protein=probable calcium-binding protein
+CML31] [protein_id=XP_015631059.1] [location=134..589] [gbkey=CDS]
+
+Length=456
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 41373555
+
+
+Query= XM_015770086.2_cds_XP_015625572.1_1 [gene=LOC4331194]
+[db_xref=GeneID:4331194] [protein=aquaporin PIP 1-3]
+[protein_id=XP_015625572.1] [location=145..1011] [gbkey=CDS]
+
+Length=867
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79711761
+
+
+Query= XM_015776049.2_cds_XP_015631535.1_1 [gene=LOC4331490]
+[db_xref=GeneID:4331490] [protein=calcium-dependent protein kinase
+7] [protein_id=XP_015631535.1] [location=1031..2659] [gbkey=CDS]
+
+Length=1629
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 150588130
+
+
+Query= XM_015784747.2_cds_XP_015640233.1_1 [gene=LOC4339812]
+[db_xref=GeneID:4339812] [protein=UDP-glucose 4-epimerase 1]
+[protein_id=XP_015640233.1] [location=130..1194] [gbkey=CDS]
+
+Length=1065
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 98301783
+
+
+Query= XM_015787703.2_cds_XP_015643189.1_1 [gene=LOC4341520]
+[db_xref=GeneID:4341520] [protein=zinc finger A20 and AN1
+domain-containing stress-associated protein 8]
+[protein_id=XP_015643189.1] [location=224..739] [gbkey=CDS]
+
+Length=516
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 47028255
+
+
+Query= XM_015791262.2_cds_XP_015646748.1_1 [gene=LOC4344342]
+[db_xref=GeneID:4344342] [protein=CBL-interacting protein kinase 3]
+[protein_id=XP_015646748.1] [location=184..1521] [gbkey=CDS]
+
+Length=1338
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 123933480
+
+
+Query= XM_015792411.2_cds_XP_015647897.1_1 [gene=LOC4342503]
+[db_xref=GeneID:4342503] [protein=zinc finger A20 and AN1
+domain-containing stress-associated protein 9 isoform X2]
+[protein_id=XP_015647897.1] [location=173..658] [gbkey=CDS]
+
+Length=486
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 44200905
+
+
+Query= XM_015789094.2_cds_XP_015644580.1_1 [gene=LOC4342996]
+[db_xref=GeneID:4342996] [protein=spermidine synthase 1]
+[protein_id=XP_015644580.1] [location=170..1141] [gbkey=CDS]
+
+Length=972
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 89570106
+
+
+Query= XM_015755426.2_cds_XP_015610912.1_1 [gene=LOC4347620]
+[db_xref=GeneID:4347620] [protein=dehydration-responsive
+element-binding protein 1A] [protein_id=XP_015610912.1]
+[location=98..814] [gbkey=CDS]
+
+Length=717
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 65628411
+
+
+Query= NM_001143622.2_cds_NP_001137094.2_1 [gene=LOC100217270]
+[db_xref=GeneID:100217270] [protein=uncharacterized protein
+LOC100217270] [protein_id=NP_001137094.2] [location=214..1671]
+[gbkey=CDS]
+
+Length=1458
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 134593987
+
+
+Query= Solyc00g015750.1.1 Reductase 2 (AHRD V1 ***- Q6TY50_HYDMC); contains
+Interpro domain(s)  IPR018170  Aldo/keto reductase, conserved site
+
+Length=948
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87316770
+
+
+Query= Solyc01g005660.1.1 Myb transcription factor (AHRD V1 **--
+Q6Q789_VITVI); contains Interpro domain(s)  IPR015495  Myb
+transcription factor
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 85345101
+
+
+Query= Solyc01g079480.2.1 BZIP transcription factor (AHRD V1 **-*
+Q1HW69_CAPAN); contains Interpro domain(s)  IPR011616  bZIP
+transcription factor, bZIP-1
+
+Length=436
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 39488655
+
+
+Query= Solyc01g079750.2.1 Protein serine/threonine kinase (AHRD V1 *-**
+D3BP85_POLPA); contains Interpro domain(s)  IPR015748  Mitogen
+activated protein kinase kinase kinase 3
+
+Length=2068
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 191649117
+
+
+Query= Solyc01g111510.2.1 Ascorbate peroxidase (AHRD V1 **** Q8W4V7_CAPAN);
+contains Interpro domain(s)  IPR002207  Plant ascorbate peroxidase
+
+Length=865
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79523983
+
+
+Query= Solyc02g084850.2.1 Unknown Protein (AHRD V1); contains Interpro
+domain(s)  IPR000167  Dehydrin
+
+Length=394
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 35530365
+
+
+Query= Solyc03g043950.2.1 Amino-acid N-acetyltransferase (AHRD V1 ***-
+D5W990_BURSC); contains Interpro domain(s)  IPR000182  GCN5-related
+N-acetyltransferase
+
+Length=1813
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 167798202
+
+
+Query= Solyc03g080180.2.1 O-methyltransferase (AHRD V1 **** Q9LWB8_9ROSI);
+contains Interpro domain(s)  IPR016461  O-methyltransferase, COMT,
+eukaryota
+
+Length=1075
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99240673
+
+
+Query= Solyc03g093560.1.1 Ethylene-responsive transcription factor 2 (AHRD
+V1 ***- B6U860_MAIZE); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=735
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 67318413
+
+
+Query= Solyc04g072900.1.1 Ethylene responsive transcription factor 2b (AHRD
+V1 *-*- C0J9I6_9ROSA); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=795
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 72951753
+
+
+Query= Solyc04g077980.1.1 Zinc-finger protein (AHRD V1 ***- Q40899_PETHY);
+contains Interpro domain(s)  IPR007087  Zinc finger, C2H2-type
+
+Length=783
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 71825085
+
+
+Query= Solyc05g010420.1.1 S-adenosylmethionine decarboxylase proenzyme
+(AHRD V1 **** Q7XZQ9_VITVI); contains Interpro domain(s)  IPR018167 
+S-adenosylmethionine decarboxylase subgroup  IPR001985 
+S-adenosylmethionine decarboxylase
+
+Length=1083
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99991785
+
+
+Query= Solyc05g051200.1.1 Ethylene-responsive transcription factor 1A (AHRD
+V1 *-** A9P6A4_MEDTR); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=675
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 61685073
+
+
+Query= Solyc05g052410.1.1 Ethylene-responsive transcription factor 1 (AHRD
+V1 *-** ERF1_ORYSJ); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=1200
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 110976798
+
+
+Query= Solyc05g053330.2.1 MYB transcription factor (AHRD V1 ***-
+Q39550_CRAPL); contains Interpro domain(s)  IPR015495  Myb
+transcription factor
+
+Length=958
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 88255660
+
+
+Query= Solyc05g055990.2.1 Aquaporin 2 (AHRD V1 ***- O65357_SAMSA); contains
+Interpro domain(s)  IPR012269  Aquaporin
+
+Length=870
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79993428
+
+
+Query= Solyc06g063070.2.1 Ethylene responsive transcription factor 2a (AHRD
+V1 ***- C0J9I7_9ROSA); contains Interpro domain(s)  IPR001471 
+Pathogenesis-related transcriptional factor and ERF, DNA-binding
+
+Length=1120
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 103465678
+
+
+Query= Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI);
+contains Interpro domain(s)  IPR011402  Phospholipase D, plant
+
+Length=2431
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 225601596
+
+
+Query= Solyc07g056570.1.1 9-cis-epoxycarotenoid dioxygenase
+
+Length=1818
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 168265867
+
+
+Query= Solyc08g043170.2.1 Gamma-glutamyl phosphate reductase (AHRD V1 ***-
+D3TQ43_GLOMM); contains Interpro domain(s)  IPR005766  Delta
+l-pyrroline-5-carboxylate synthetase
+
+Length=2164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 200628285
+
+
+Query= Solyc08g077980.2.1 Bax inhibitor (AHRD V1 ***- Q6U1L7_SOLLC);
+contains Interpro domain(s)  IPR006214  Uncharacterised protein
+family UPF0005
+
+Length=751
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 68820637
+
+
+Query= Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains
+Interpro domain(s)  IPR012269  Aquaporin
+
+Length=862
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79242316
+
+
+Query= Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 ****
+Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine
+decarboxylase
+
+Length=2124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 196886965
+
+
+Query= Solyc11g018800.1.1 Peroxidase 2 (AHRD V1 ***- Q9SSZ8_SCUBA);
+contains Interpro domain(s)  IPR002016  Haem peroxidase,
+plant/fungal/bacterial
+
+Length=960
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 88443438
+
+
+Query= Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***-
+A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA
+helicase, DEAD/DEAH box type, N-terminal
+
+Length=1176
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 108723462
+
+
+Query= Solyc12g009020.1.1 Protein kinase (AHRD V1 **** C4Q4E0_SCHMA);
+contains Interpro domain(s)  IPR002290  Serine/threonine protein
+kinase
+
+Length=1074
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99146784
+
+
+Query= MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1607
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 148530404
+
+
+Query= MLOC_54227.1 1083 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1083
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 99991785
+
+
+Query= MLOC_62301.1 1674 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1674
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 154797115
+
+
+Query= MLOC_77777.3 1161 CDS assembly3_WGSMorex_rbca.fasta
+
+Length=1161
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 107315127
+
+
+Query= Y17186.1_cds_CAA76677.1_1 [gene=eIF-4A]
+[db_xref=GOA:O65879,HSSP:1FUK,InterPro:IPR001650,InterPro:IPR011545,
+InterPro:IPR014001,InterPro:IPR014014,InterPro:IPR014021,
+UniProtKB/TrEMBL:O65879] [protein=translation initiation factor]
+[protein_id=CAA76677.1] [location=80..1303] [gbkey=CDS]
+
+Length=1224
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 113230134
+
+
+Query= AF077629.1_cds_AAF15307.1_1 [gene=A23] [protein=anth]
+[protein_id=AAF15307.1] [location=394..822] [gbkey=CDS]
+
+Length=429
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 38828940
+
+
+Query= AF370358.1_cds_AAK53432.1_1 [protein=Na+/H+ antiporter]
+[protein_id=AAK53432.1] [location=142..1812] [gbkey=CDS]
+
+Length=1671
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 154516516
+
+
+Query= NM_117870.4_cds_NP_567533.1_1 [gene=CBL1] [locus_tag=AT4G17615]
+[db_xref=TAIR:AT4G17615,GeneID:827481] [protein=calcineurin B-like
+protein 1] [protein_id=NP_567533.1] [location=457..1098] [gbkey=CDS]
+
+Length=642
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 58586736
+
+
+Query= AY250704.1_cds_AAP02957.1_1 [gene=TP55] [protein=aldehyde
+dehydrogenase family 7 member A1] [protein_id=AAP02957.1]
+[location=38..1570] [gbkey=CDS]
+
+Length=1533
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 141608962
+
+
+Query= AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like]
+[protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]
+
+Length=192
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ENA|CU496327|CU496327.1 Theobroma cacao, mRNA sequence (KZ0ACAP...  206     2e-55
+
+
+> ENA|CU496327|CU496327.1 Theobroma cacao, mRNA sequence (KZ0ACAP1YM16FM1).
+Length=463
+
+ Score = 206 bits (111),  Expect = 2e-55
+ Identities = 155/177 (88%), Gaps = 0/177 (0%)
+ Strand=Plus/Minus
+
+Query  6    TGACAAGTGTGGCAACTGCGATTGCGCTGACAAGAGCCAGTGTGTGAAGAAAGGAAACAG  65
+            ||||||||| || |||||||| |||||||||||||||||||| |||||||| ||||||| 
+Sbjct  424  TGACAAGTGCGGAAACTGCGACTGCGCTGACAAGAGCCAGTGCGTGAAGAAGGGAAACAC  365
+
+Query  66   CTTGGTCATTGAGACTGAGGAGAGCTACATCAGCACCGTAGTGGTCGAGCCTCTGGCAGA  125
+            ||||||||||||||||||| |||||||||||| ||| || | ||| ||  |||  |||||
+Sbjct  364  CTTGGTCATTGAGACTGAGAAGAGCTACATCACCACTGTCGCGGTGGAAACTCCAGCAGA  305
+
+Query  126  GAACGATGGCAAGTGCAAGTGCGGAACTAGCTGCAGCTGCACAAACTGCACATGTGG  182
+            ||||||||||||||||||||||||| | | ||||| ||||||| ||||||| |||||
+Sbjct  304  GAACGATGGCAAGTGCAAGTGCGGAGCCAACTGCACCTGCACAGACTGCACTTGTGG  248
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 16649776
+
+
+Query= DQ663481.2_cds_ABG54481.1_1 [protein=late embryogenesis abundant
+protein] [protein_id=ABG54481.1] [location=126..437] [gbkey=CDS]
+
+Length=312
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 27802275
+
+
+Query= AM493723.1_cds_CAM35490.1_1 [gene=ERF3]
+[db_xref=GOA:A4FS08,InterPro:IPR001471,InterPro:IPR016177,
+UniProtKB/TrEMBL:A4FS08] [protein=ethylene responsive transcription
+factor] [protein_id=CAM35490.1] [location=115..720] [gbkey=CDS]
+
+Length=606
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 55510305
+
+
+Query= EF452301.1_cds_ABR15365.1_1 [gene=CRT] [protein=calreticulin]
+[protein_id=ABR15365.1] [location=36..1331] [gbkey=CDS]
+
+Length=1296
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 119990142
+
+
+Query= EU665425.1_cds_ACD80357.1_1 [protein=WRKY2 transcription factor]
+[protein_id=ACD80357.1] [location=1..1407] [gbkey=CDS]
+
+Length=1407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 130411821
+
+
+Query= EU665430.1_cds_ACD80362.1_1 [protein=WRKY19 transcription factor]
+[protein_id=ACD80362.1] [location=1..1407] [gbkey=CDS]
+
+Length=1407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 130411821
+
+
+Query= FJ417330.1_cds_ACJ48970.1_1 [protein=putative Cys2-His2 type zinc
+finger protein] [protein_id=ACJ48970.1] [location=1..516]
+[gbkey=CDS]
+
+Length=516
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 47028255
+
+
+Query= GQ988775.1_cds_ACY56756.1_1 [protein=ZFP1] [protein_id=ACY56756.1]
+[location=53..556] [gbkey=CDS]
+
+Length=504
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 45897315
+
+
+Query= HM027577.1_cds_ADE34586.1_1 [gene=NAC2a] [protein=NAC transcription
+factor 2a] [protein_id=ADE34586.1] [location=63..1046] [gbkey=CDS]
+
+Length=984
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90696774
+
+
+Query= NM_001197011.1_cds_NP_001183940.1_1 [gene=LOC100502540]
+[db_xref=GeneID:100502540] [protein=ABRE binding protein]
+[protein_id=NP_001183940.1] [location=34..1191] [gbkey=CDS]
+
+Length=1158
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 107033460
+
+
+Query= JX508709.1_cds_AFV31408.1_1 [protein=basic transcription factor 3]
+[protein_id=AFV31408.1] [location=114..647] [gbkey=CDS]
+
+Length=534
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 48724665
+
+
+Query= XM_010044547.2_cds_XP_010042849.1_1 [gene=LOC104432046]
+[db_xref=GeneID:104432046] [protein=pyrophosphate-energized vacuolar
+membrane proton pump 1-like] [protein_id=XP_010042849.1]
+[location=95..1057] [gbkey=CDS]
+
+Length=963
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 88725105
+
+
+Query= XM_020292605.1_cds_XP_020148194.1_1 [gene=LOC109733394]
+[db_xref=GeneID:109733394] [protein=serine/threonine-protein
+phosphatase PP2A-4 catalytic subunit isoform X2]
+[protein_id=XP_020148194.1] [location=168..1109] [gbkey=CDS]
+
+Length=942
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 86753436
+
+
+Query= NM_001317650.2_cds_NP_001304579.2_1 [gene=LOC100788426]
+[db_xref=GeneID:100788426] [protein=uncharacterized protein
+LOC100788426] [protein_id=NP_001304579.2] [location=25..1002]
+[gbkey=CDS]
+
+Length=978
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 90133440
+
+
+  Database: LESSHMEPNGa_KZ0ACAP.fasta
+    Posted date:  Jul 9, 2020  11:51 AM
+  Number of letters in database: 100,297
+  Number of sequences in database:  356
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

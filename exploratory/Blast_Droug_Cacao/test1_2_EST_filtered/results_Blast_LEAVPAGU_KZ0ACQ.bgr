@@ -1,0 +1,620 @@
+blastn
+Query_sequences:
+0	AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914 FORWARD LENGTH=564
+1	AT1G07890.3 | Symbols:MEE6,ATAPX01,ATAPX1,CS1,APX1 | ascorbate peroxidase 1,maternal effect embryo arrest 6 |  Chr1:2438005-2439435 FORWARD LENGTH=753
+2	AT1G08810.1 | Symbols:AtMYB60,MYB60 | myb domain protein 60 | Chr1:2819279-2820329 REVERSE LENGTH=843
+3	AT1G09540.1 | Symbols:ATMYB61,MYB61 | myb domain protein 61,ARABIDOPSIS THALIANA MYB DOMAIN PROTEIN 61 | Chr1:3086333-3087689 FORWARD LENGTH=1101
+4	AT1G09700.1 | Symbols:HYL1,AtDRB1,DRB1 | DSRNA-BINDING PROTEIN 1,HYPONASTIC LEAVES 1 |  Chr1:3137960-3140118 REVERSE LENGTH=1260
+5	AT1G10370.1 | Symbols:ATGSTU17,ERD9,GST30B,GST30,GSTU17 | GLUTATHIONE S-TRANSFERASE 30B,GLUTATHIONE S-TRANSFERASE 30,GLUTATHIONE S-TRANSFERASE TAU 17,GLUTATHIONE S-TRANSFERASE U17,EARLY-RESPONSIVE TO DEHYDRATION 9 |  Chr1:3397274-3398273 REVERSE LENGTH=684
+6	AT1G11755.1 | Symbols:LEW1 | LEAF WILTING 1 |  Chr1:3969987-3971488 REVERSE LENGTH=765
+7	AT1G12480.1 | Symbols:SLAC1,CDI3,RCD3,OZS1 | CARBON DIOXIDE INSENSITIVE 3,SLOW ANION CHANNEL-ASSOCIATED 1,RADICAL-INDUCED CELL DEATH 3,OZONE-SENSITIVE 1 |  Chr1:4257427-4259249 REVERSE LENGTH=1671
+8	AT1G15360.1 | Symbols:SHN1,WIN1,AtSHN1 | WAX INDUCER 1,SHINE 1 | Chr1:5283609-5284506 FORWARD LENGTH=600
+9	AT1G15520.1 | Symbols:ATABCG40,ABCG40,PDR12,ATPDR12 | pleiotropic drug resistance 12,ATP-binding cassette G40,PLEIOTROPIC DRUG RESISTANCE 12,Arabidopsis thaliana ATP-binding cassette G40 | Chr1:5331993-5338175 REVERSE LENGTH=4272
+10	AT1G15690.1 | Symbols:AtVHP1;1,AtAVP1,ATAVP3,AVP-3,AVP1,FUGU5,VHP1 | ARABIDOPSIS THALIANA V-PPASE 3,FUGU 5 |  Chr1:5399115-5402185 FORWARD LENGTH=2313
+11	AT1G15820.1 | Symbols:CP24,LHCB6 | light harvesting complex photosystem II subunit 6 |  Chr1:5446685-5447676 REVERSE LENGTH=777
+12	AT1G16060.1 | Symbols:ADAP,WRI3 | ARIA-interacting double AP2 domain protein,WRINKLED 3 |  Chr1:5508563-5511609 FORWARD LENGTH=1038
+13	AT1G16540.1 | Symbols:SIR3,LOS5,ACI2,ABA3,ATABA3,AtLOS5 | SIRTINOL RESISTANT 3,LOW OSMOTIC STRESS 5,ABA DEFICIENT 3,ALTERED CHLOROPLAST IMPORT 2 |  Chr1:5659465-5665201 FORWARD LENGTH=2460
+14	AT1G27730.1 | Symbols:ZAT10,STZ | salt tolerance zinc finger | Chr1:9648302-9648985 REVERSE LENGTH=684
+15	AT1G28490.1 | Symbols:OSM1,ATSYP61,SYP61 | syntaxin of plants 61 | Chr1:10016433-10017842 FORWARD LENGTH=738
+16	AT1G32640.1 | Symbols:JAI1,ZBF1,JIN1,ATMYC2,MYC2,RD22BP1 | JASMONATE INSENSITIVE 1 |  Chr1:11799042-11800913 REVERSE LENGTH=1872
+17	AT1G33560.1 | Symbols:ADR1 | ACTIVATED DISEASE RESISTANCE 1 | Chr1:12169092-12171878 FORWARD LENGTH=2364
+18	AT1G35720.1 | Symbols:ANNAT1,ATOXY5,OXY5,ANN1,AtANN1 | annexin 1 | Chr1:13225304-13226939 FORWARD LENGTH=954
+19	AT1G45249.3 | Symbols:AtABF2,ABF2,ATAREB1,AREB1 | ABSCISIC ACID RESPONSIVE ELEMENTS-BINDING PROTEIN 2,abscisic acid responsive elements-binding factor 2 |  Chr1:17165420-17167415 REVERSE LENGTH=1284
+20	AT1G48270.1 | Symbols:ATGCR1,GCR1 | G-protein-coupled receptor 1 | Chr1:17828314-17830214 REVERSE LENGTH=981
+21	AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153
+22	AT1G49230.1 | Symbols:ATL78,AtATL78 | Arabidopsis Tóxicos en Levadura 78 |  Chr1:18209320-18209979 FORWARD LENGTH=660
+23	AT1G52400.1 | Symbols:BGL1,ATBG1,BGLU18 | A. THALIANA BETA-GLUCOSIDASE 1,BETA-GLUCOSIDASE HOMOLOG 1,beta glucosidase 18 | Chr1:19515250-19517930 FORWARD LENGTH=1587
+24	AT1G54160.1 | Symbols:NFYA5,NF-YA5 | "nuclear factor Y, subunit A5",NUCLEAR FACTOR Y A5 |  Chr1:20217581-20218706 REVERSE LENGTH=927
+25	AT1G56600.1 | Symbols:GolS2,AtGolS2 | galactinol synthase 2 | Chr1:21207620-21209291 FORWARD LENGTH=1008
+26	AT1G58440.1 | Symbols:XF1,SQE1,DRY2 | DROUGHT HYPERSENSITIVE 2,SQUALENE EPOXIDASE 1 |  Chr1:21714094-21717246 REVERSE LENGTH=1596
+27	AT1G64060.1 | Symbols:ATRBOH F,RBOH F,RBOHAP108,ATRBOHF,RBOHF | ARABIDOPSIS THALIANA RESPIRATORY BURST OXIDASE HOMOLOG F,respiratory burst oxidase protein F,RESPIRATORY BURST OXIDASE PROTEIN F |  Chr1:23770266-23776317 FORWARD LENGTH=2835
+28	AT1G64990.1 | Symbols:GTG1 | GPCR-type G protein 1 | Chr1:24140183-24145866 REVERSE LENGTH=1407
+29	AT1G69270.1 | Symbols:AtRPK1,RPK1 | receptor-like protein kinase 1 | Chr1:26040877-26042499 REVERSE LENGTH=1623
+30	AT1G71960.1 | Symbols:ABCG25,ATABCG25 | Arabidopsis thaliana ATP-binding cassette G25,ATP-binding casette G25 | Chr1:27082587-27088163 REVERSE LENGTH=1989
+31	AT1G72770.1 | Symbols:HAB1,AtHAB1 | HYPERSENSITIVE TO ABA1 | Chr1:27390998-27392851 FORWARD LENGTH=1536
+32	AT1G73360.1 | Symbols:EDT1,ATHDG11,HDG11,AtEDT1 | homeodomain GLABROUS 11,HOMEODOMAIN GLABROUS 11,ENHANCED DROUGHT TOLERANCE 1 | Chr1:27578893-27581820 REVERSE LENGTH=2169
+33	AT1G75270.1 | Symbols:DHAR2 | dehydroascorbate reductase 2 | Chr1:28250255-28251237 REVERSE LENGTH=642
+34	AT1G78290.2 | Symbols:SNRK2-8,SRK2C,SNRK2.8 | SNF1-RELATED PROTEIN KINASE 2-8,SNF1-RELATED PROTEIN KINASE 2.8,SNF1-RELATED PROTEIN KINASE 2C |  Chr1:29457457-29458909 REVERSE LENGTH=1032
+35	AT1G78580.1 | Symbols:TPS1,ATTPS1 | trehalose-6-phosphate synthase,TREHALOSE-6-PHOSPHATE SYNTHASE 1 |  Chr1:29552495-29557482 REVERSE LENGTH=2829
+36	AT1G80460.1 | Symbols:GLI1,NHO1 | nonhost resistance to P. s. phaseolicola 1 |  Chr1:30246960-30249055 REVERSE LENGTH=1569
+37	AT2G04240.1 | Symbols:XERICO |  |  Chr2:1461816-1462304 REVERSE LENGTH=489
+38	AT2G13540.1 | Symbols:CBP80,ENS,ABH1,ATCBP80 | ABA HYPERSENSITIVE 1,ENSALADA,CAP-BINDING PROTEIN 80 |  Chr2:5637053-5642813 FORWARD LENGTH=2547
+39	AT2G17820.1 | Symbols:ATHK1,HK1,AHK1 | histidine kinase 1 | Chr2:7743133-7748013 REVERSE LENGTH=3624
+40	AT2G18960.1 | Symbols:HA1,OST2,AHA1,PMA | H(+)-ATPase 1,PLASMA MEMBRANE PROTON ATPASE,OPEN STOMATA 2 |  Chr2:8221858-8227268 FORWARD LENGTH=2850
+41	AT2G22430.1 | Symbols:HB6,ATHB6 | homeobox protein 6 | Chr2:9526470-9527612 REVERSE LENGTH=936
+42	AT2G26300.1 | Symbols:GP ALPHA 1,ATGPA1,GPA1 | ARABIDOPSIS THALIANA G PROTEIN ALPHA SUBUNIT 1,G protein alpha subunit 1,G PROTEIN ALPHA SUBUNIT 1 |  Chr2:11198087-11200822 FORWARD LENGTH=1152
+43	AT2G27150.1 | Symbols:AOdelta,AAO3,AtAAO3,At-AO3 | Aldehyde oxidase delta,Arabidopsis thaliana aldehyde oxidase 3,abscisic aldehyde oxidase 3 |  Chr2:11601952-11607014 FORWARD LENGTH=3999
+44	AT2G29980.1 | Symbols:FAD3,AtFAD3 | fatty acid desaturase 3 | Chr2:12781787-12784946 REVERSE LENGTH=1161
+45	AT2G31320.1 | Symbols:PARP1 | POLY(ADP-RIBOSE) POLYMERASE 1 | Chr2:13354046-13359578 REVERSE LENGTH=2952
+46	AT2G31470.1 | Symbols:DOR | DROUGHT TOLERANCE REPRESSOR | Chr2:13407492-13408655 REVERSE LENGTH=1164
+47	AT2G33150.1 | Symbols:PKT3,KAT2,PED1 | PEROXISOME DEFECTIVE 1,peroxisomal 3-ketoacyl-CoA thiolase 3,3-KETOACYL-COA THIOLASE 2 | Chr2:14047814-14050983 REVERSE LENGTH=1389
+48	AT2G36450.1 | Symbols:HRD | HARDY |  Chr2:15294303-15294857 REVERSE LENGTH=555
+49	AT2G38750.1 | Symbols:AtANN4,ANNAT4 | annexin 4 | Chr2:16196582-16198431 REVERSE LENGTH=960
+50	AT2G38880.8 | Symbols:ATNF-YB1,ATHAP3,NF-YB1,HAP3A,HAP3 | HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3A,NUCLEAR FACTOR Y SUBUNIT B1,HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3,"nuclear factor Y, subunit B1" |  Chr2:16238685-16240316 FORWARD LENGTH=495
+51	AT2G39800.1 | Symbols:P5CS1,ATP5CS | delta1-pyrroline-5-carboxylate synthase 1 |  Chr2:16598516-16602939 REVERSE LENGTH=2154
+52	AT2G43350.1 | Symbols:GPX3,ATGPX3 | glutathione peroxidase 3 | Chr2:18009195-18010533 REVERSE LENGTH=621
+53	AT2G47180.1 | Symbols:GolS1,AtGolS1 | galactinol synthase 1 | Chr2:19369049-19370372 REVERSE LENGTH=1035
+54	AT2G47190.1 | Symbols:MYB2,ATMYB2 | myb domain protein 2,MYB DOMAIN PROTEIN 2 |  Chr2:19376284-19377297 FORWARD LENGTH=822
+55	AT2G47800.1 | Symbols:ABCC4,ATMRP4,MRP4,EST3 | multidrug resistance-associated protein 4,ATP-binding cassette C4 | Chr2:19574944-19580383 FORWARD LENGTH=4551
+56	AT3G08510.1 | Symbols:ATPLC2,PLC2 | phospholipase C 2 | Chr3:2582626-2585556 REVERSE LENGTH=1746
+57	AT3G14440.1 | Symbols:SIS7,ATNCED3,NCED3,STO1 | SALT TOLERANT 1,nine-cis-epoxycarotenoid dioxygenase 3,SUGAR INSENSITIVE 7 | Chr3:4831678-4833477 REVERSE LENGTH=1800
+58	AT3G19290.3 | Symbols:AtAREB2,AREB2,ABF4 | ABA-RESPONSIVE ELEMENT BINDING PROTEIN 2,ABRE binding factor 4 |  Chr3:6687956-6689784 FORWARD LENGTH=1299
+59	AT3G22170.1 | Symbols:FHY3,CPD45 | far-red elongated hypocotyls 3,CHLOROPLAST DIVISION MUTANT 45 |  Chr3:7822359-7825414 REVERSE LENGTH=2520
+60	AT3G26090.1 | Symbols:ATRGS1,RGS1 | REGULATOR OF G-PROTEIN SIGNALING 1 |  Chr3:9532883-9535410 FORWARD LENGTH=1380
+61	AT3G51920.1 | Symbols:CAM9,ATCML9,CML9 | calmodulin 9,CALMODULIN LIKE PROTEIN 9 |  Chr3:19268178-19269314 REVERSE LENGTH=456
+62	AT3G53420.1 | Symbols:PIP2;1,AtPIP2;1,PIP2A,PIP2 | PLASMA MEMBRANE INTRINSIC PROTEIN 2,PLASMA MEMBRANE INTRINSIC PROTEIN 2;1,plasma membrane intrinsic protein 2A |  Chr3:19803906-19805454 REVERSE LENGTH=864
+63	AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861
+64	AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864
+65	AT4G02390.1 | Symbols:APP,PP,PARP2 | poly(ADP-ribose) polymerase 2,poly(ADP-ribose) polymerase |  Chr4:1050104-1053960 FORWARD LENGTH=1914
+66	AT4G04720.1 | Symbols:AtCPK21,CPK21 | calcium-dependent protein kinase 21 |  Chr4:2394817-2397631 REVERSE LENGTH=1596
+67	AT4G04740.2 | Symbols:CPK23,ATCPK23 | calcium-dependent protein kinase 23 |  Chr4:2404883-2408493 REVERSE LENGTH=1602
+68	AT4G15090.1 | Symbols:FAR1 | FAR-RED IMPAIRED RESPONSE 1 | Chr4:8614806-8617870 FORWARD LENGTH=2484
+69	AT4G18290.1 | Symbols:KAT2 | potassium channel in Arabidopsis thaliana 2 |  Chr4:10115418-10118477 FORWARD LENGTH=2094
+70	AT4G19230.2 | Symbols:CYP707A1 | "cytochrome P450, family 707, subfamily A, polypeptide 1" |  Chr4:10521524-10523566 FORWARD LENGTH=1455
+71	AT4G23450.2 | Symbols:AIRP1,AtAIRP1 | ABA Insensitive RING Protein 1 |  Chr4:12241113-12242190 REVERSE LENGTH=627
+72	AT4G25480.1 | Symbols:CBF3,DREB1A,ATCBF3 | dehydration response element B1A,C-REPEAT BINDING FACTOR  3 |  Chr4:13018353-13019003 REVERSE LENGTH=651
+73	AT4G26080.1 | Symbols:ABI1,AtABI1 | ABA INSENSITIVE 1 | Chr4:13220231-13221828 REVERSE LENGTH=1305
+74	AT4G27630.3 | Symbols:GTG2 | GPCR-type G protein 2 | Chr4:13791980-13797033 REVERSE LENGTH=1476
+75	AT4G29890.1 | Symbols:no symbol available | no full name available | Chr4:14608868-14610905 FORWARD LENGTH=1269
+76	AT4G30950.1 | Symbols:FADC,SFD4,FAD6 | FATTY ACID DESATURASE C,STEAROYL DESATURASE DEFICIENCY 4,fatty acid desaturase 6 | Chr4:15057278-15059673 REVERSE LENGTH=1347
+77	AT4G31120.1 | Symbols:SKB1,CAU1,ATPRMT5,PRMT5 | calcium underaccumulation 1,SHK1 binding protein 1,PROTEIN ARGININE METHYLTRANSFERASE 5 |  Chr4:15132185-15136568 REVERSE LENGTH=1929
+78	AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 | SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING 1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD LENGTH=1089
+79	AT4G34000.1 | Symbols:ABF3,AtABF3,DPBF5 | DC3 PROMOTER-BINDING FACTOR 5,abscisic acid responsive elements-binding factor 3 | Chr4:16296008-16297971 FORWARD LENGTH=1365
+80	AT4G34240.1 | Symbols:ALDH3I1,ALDH3 | aldehyde dehydrogenase 3I1,aldehyde dehydrogenase 3 |  Chr4:16389801-16392633 FORWARD LENGTH=1653
+81	AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | Chr4:17802974-17806332 REVERSE LENGTH=2016
+82	AT4G38130.1 | Symbols:ATHDA19,HD1,HDA1,HDA19,RPD3A,ATHD1 | ARABIDOPSIS HISTONE DEACETYLASE 19,HISTONE DEACETYLASE 19,histone deacetylase 1,ARABIDOPSIS HISTONE DEACETYLASE 1 | Chr4:17896493-17899057 REVERSE LENGTH=1506
+83	AT5G03740.1 | Symbols:HD2C,HDT3 | HISTONE DEACETYLASE 3,histone deacetylase 2C |  Chr5:981994-983961 FORWARD LENGTH=885
+84	AT5G05410.1 | Symbols:DREB2,DREB2A | DEHYDRATION-RESPONSIVE ELEMENT BINDING PROTEIN 2,DRE-binding protein 2A |  Chr5:1602650-1603657 FORWARD LENGTH=1008
+85	AT5G06530.2 | Symbols:AtABCG22,ABCG22 | Arabidopsis thaliana ATP-binding cassette G22,ATP-binding cassette G22 | Chr5:1990060-1994605 REVERSE LENGTH=2256
+86	AT5G10450.4 | Symbols:14-3-3lambda,GRF6,AFT1 | 14-3-3 PROTEIN G-BOX FACTOR14 LAMBDA,G-box regulating factor 6 |  Chr5:3284476-3286261 REVERSE LENGTH=822
+87	AT5G11270.1 | Symbols:OCP3 | overexpressor of cationic peroxidase 3 |  Chr5:3595557-3597076 REVERSE LENGTH=1065
+88	AT5G13680.1 | Symbols:ABO1,AtELP1,ELO2 | ABA-OVERLY SENSITIVE 1,ELONGATA 2 |  Chr5:4410522-4415471 REVERSE LENGTH=3960
+89	AT5G16820.1 | Symbols:HSFA1B,HSF3,ATHSF3,ATHSFA1B | ARABIDOPSIS HEAT SHOCK FACTOR 3,CLASS A HEAT SHOCK FACTOR 1B,heat shock factor 3,ARABIDOPSIS THALIANA CLASS A HEAT SHOCK FACTOR 1B | Chr5:5530446-5532497 FORWARD LENGTH=1446
+90	AT5G24030.1 | Symbols:SLAH3 | SLAC1 homologue 3 | Chr5:8118618-8120993 REVERSE LENGTH=1908
+91	AT5G37500.1 | Symbols:GORK | gated outwardly-rectifying K+ channel | Chr5:14889758-14894883 REVERSE LENGTH=2463
+92	AT5G40280.1 | Symbols:ATFTB,WIG,ERA1 | ENHANCED RESPONSE TO ABA 1,WIGGUM,ARABIDOPSIS THALIANA FARNESYL TRANSFERASE BETA SUBUNIT | Chr5:16101391-16104783 FORWARD LENGTH=1449
+93	AT5G44200.1 | Symbols:ATCBP20,CBP20 | CAP-binding protein 20 | Chr5:17802062-17803875 REVERSE LENGTH=774
+94	AT5G45340.1 | Symbols:CYP707A3 | "cytochrome P450, family 707, subfamily A, polypeptide 3" |  Chr5:18368977-18370909 REVERSE LENGTH=1392
+95	AT5G47910.1 | Symbols:ATRBOHD,RBOHD | respiratory burst oxidase homologue D |  Chr5:19397585-19401768 FORWARD LENGTH=2766
+96	AT5G48870.1 | Symbols:AtSAD1,LSM5,AtLSM5,SAD1 | SUPERSENSITIVE TO ABA AND DROUGHT 1,SM-like 5 |  Chr5:19813407-19814362 FORWARD LENGTH=267
+97	AT5G49890.1 | Symbols:CLC-C,ATCLC-C | chloride channel C | Chr5:20288489-20292143 REVERSE LENGTH=2340
+98	AT5G51070.1 | Symbols:SAG15,ERD1,CLPD | EARLY RESPONSIVE TO DEHYDRATION 1,SENESCENCE ASSOCIATED GENE 15 | Chr5:20764479-20768481 FORWARD LENGTH=2838
+99	AT5G51990.1 | Symbols:CBF4,DREB1D | DEHYDRATION-RESPONSIVE ELEMENT-BINDING PROTEIN 1D,C-repeat-binding factor 4 | Chr5:21117113-21117787 REVERSE LENGTH=675
+100	AT5G57050.1 | Symbols:ABI2,AtABI2 | ABA INSENSITIVE 2 | Chr5:23087720-23089303 FORWARD LENGTH=1272
+101	AT5G61760.1 | Symbols:IPK2BETA,IPK2B,ATIPK2BETA | INOSITOL POLYPHOSPHATE KINASE 2 BETA,inositol polyphosphate kinase 2 beta,ARABIDOPSIS THALIANA INOSITOL POLYPHOSPHATE KINASE 2 BETA | Chr5:24813916-24814818 REVERSE LENGTH=903
+102	AT5G63110.1 | Symbols:SIL1,ATHDA6,AXE1,RTS1,HDA6,RPD3B | HISTONE DEACETYLASE 6,RNA-MEDIATED TRANSCRIPTIONAL SILENCING 1,histone deacetylase 6 |  Chr5:25315834-25318227 REVERSE LENGTH=1416
+103	AT5G67300.1 | Symbols:MYBR1,ATMYBR1,ATMYB44,MYB44 | ARABIDOPSIS THALIANA MYB DOMAIN PROTEIN 44,myb domain protein r1 | Chr5:26854109-26855026 FORWARD LENGTH=918
+104	LOC_Os09g28310.1 CDS
+105	LOC_Os09g13570.1 CDS
+106	LOC_Os09g05020.2 CDS
+107	LOC_Os08g35240.1 CDS
+108	LOC_Os05g48300.1 CDS
+109	LOC_Os05g25770.1 CDS
+110	LOC_Os04g56130.1 CDS
+111	LOC_Os03g60080.1 CDS
+112	LOC_Os03g03370.1 CDS
+113	LOC_Os02g52780.1 CDS
+114	LOC_Os02g10760.1 CDS
+115	LOC_Os02g08230.1 CDS
+116	LOC_Os01g62410.1 CDS
+117	LOC_Os01g58420.1 CDS
+118	LOC_Os01g50110.1 CDS
+119	LOC_Os01g42860.1 CDS
+120	LOC_Os01g01420.2 CDS
+121	NM_001111795.1_cds_NP_001105265.1_1 [gene=gpm803b] [db_xref=GeneID:542176] [protein=uncharacterized LOC542176] [protein_id=NP_001105265.1] [location=61..933] [gbkey=CDS]
+122	NM_001111843.1_cds_NP_001105313.1_1 [gene=me3] [db_xref=GeneID:542233] [protein=NADP-dependent malic enzyme, chloroplastic precursor] [protein_id=NP_001105313.1] [location=115..2025] [gbkey=CDS]
+123	NM_001153573.1_cds_NP_001147045.1_1 [gene=LOC100280655] [db_xref=GeneID:100280655] [protein=protein binding protein] [protein_id=NP_001147045.1] [location=273..1115] [gbkey=CDS]
+124	NM_001305944.1_cds_NP_001292873.1_1 [gene=DBP1c] [db_xref=GeneID:732788] [protein=dehydration-responsive element binding protein 2A isoform 1] [protein_id=NP_001292873.1] [location=156..1259] [gbkey=CDS]
+125	NM_001111891.2_cds_NP_001105361.2_1 [gene=aba1] [db_xref=GeneID:542304] [protein=abscisic stress protein homolog] [protein_id=NP_001105361.2] [location=78..494] [gbkey=CDS]
+126	XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]
+127	XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]
+128	XM_015761969.1_cds_XP_015617455.1_1 [gene=LOC4349594] [db_xref=GeneID:4349594] [protein=CBL-interacting protein kinase 15] [protein_id=XP_015617455.1] [location=509..1813] [gbkey=CDS]
+129	NM_001112582.2_cds_NP_001106052.2_1 [gene=LOC542390] [db_xref=GeneID:542390] [protein=nuclear transcription factor Y subunit B] [protein_id=NP_001106052.2] [location=162..698] [gbkey=CDS]
+130	NM_001177007.2_cds_NP_001170478.1_1 [gene=IDP2562] [db_xref=GeneID:100384476] [protein=uncharacterized protein LOC100384476] [protein_id=NP_001170478.1] [location=484..2154] [gbkey=CDS]
+131	NM_001112589.2_cds_NP_001106059.2_1 [gene=umc1760] [db_xref=GeneID:100125658] [protein=uncharacterized protein LOC100125658 precursor] [protein_id=NP_001106059.2] [location=101..1882] [gbkey=CDS]
+132	XM_008666329.2_cds_XP_008664551.2_1 [gene=LOC103643169] [db_xref=GeneID:103643169] [protein=ethylene-responsive transcription factor ABI4] [protein_id=XP_008664551.2] [location=28..1248] [gbkey=CDS]
+133	XM_026022985.1_cds_XP_025878770.1_1 [gene=LOC4324418] [db_xref=GeneID:4324418] [protein=dehydration-responsive element-binding protein 2A] [protein_id=XP_025878770.1] [location=417..1241] [gbkey=CDS]
+134	XM_015761401.2_cds_XP_015616887.1_1 [gene=LOC4325613] [db_xref=GeneID:4325613] [protein=CBL-interacting protein kinase 12] [protein_id=XP_015616887.1] [location=146..1768] [gbkey=CDS]
+135	XM_015775573.2_cds_XP_015631059.1_1 [gene=LOC4325408] [db_xref=GeneID:4325408] [protein=probable calcium-binding protein CML31] [protein_id=XP_015631059.1] [location=134..589] [gbkey=CDS]
+136	XM_015770086.2_cds_XP_015625572.1_1 [gene=LOC4331194] [db_xref=GeneID:4331194] [protein=aquaporin PIP 1-3] [protein_id=XP_015625572.1] [location=145..1011] [gbkey=CDS]
+137	XM_015776049.2_cds_XP_015631535.1_1 [gene=LOC4331490] [db_xref=GeneID:4331490] [protein=calcium-dependent protein kinase 7] [protein_id=XP_015631535.1] [location=1031..2659] [gbkey=CDS]
+138	XM_015784747.2_cds_XP_015640233.1_1 [gene=LOC4339812] [db_xref=GeneID:4339812] [protein=UDP-glucose 4-epimerase 1] [protein_id=XP_015640233.1] [location=130..1194] [gbkey=CDS]
+139	XM_015787703.2_cds_XP_015643189.1_1 [gene=LOC4341520] [db_xref=GeneID:4341520] [protein=zinc finger A20 and AN1 domain-containing stress-associated protein 8] [protein_id=XP_015643189.1] [location=224..739] [gbkey=CDS]
+140	XM_015791262.2_cds_XP_015646748.1_1 [gene=LOC4344342] [db_xref=GeneID:4344342] [protein=CBL-interacting protein kinase 3] [protein_id=XP_015646748.1] [location=184..1521] [gbkey=CDS]
+141	XM_015792411.2_cds_XP_015647897.1_1 [gene=LOC4342503] [db_xref=GeneID:4342503] [protein=zinc finger A20 and AN1 domain-containing stress-associated protein 9 isoform X2] [protein_id=XP_015647897.1] [location=173..658] [gbkey=CDS]
+142	XM_015789094.2_cds_XP_015644580.1_1 [gene=LOC4342996] [db_xref=GeneID:4342996] [protein=spermidine synthase 1] [protein_id=XP_015644580.1] [location=170..1141] [gbkey=CDS]
+143	XM_015755426.2_cds_XP_015610912.1_1 [gene=LOC4347620] [db_xref=GeneID:4347620] [protein=dehydration-responsive element-binding protein 1A] [protein_id=XP_015610912.1] [location=98..814] [gbkey=CDS]
+144	NM_001143622.2_cds_NP_001137094.2_1 [gene=LOC100217270] [db_xref=GeneID:100217270] [protein=uncharacterized protein LOC100217270] [protein_id=NP_001137094.2] [location=214..1671] [gbkey=CDS]
+145	Solyc00g015750.1.1 Reductase 2 (AHRD V1 ***- Q6TY50_HYDMC); contains Interpro domain(s)  IPR018170  Aldo/keto reductase, conserved site
+146	Solyc01g005660.1.1 Myb transcription factor (AHRD V1 **-- Q6Q789_VITVI); contains Interpro domain(s)  IPR015495  Myb transcription factor
+147	Solyc01g079480.2.1 BZIP transcription factor (AHRD V1 **-* Q1HW69_CAPAN); contains Interpro domain(s)  IPR011616  bZIP transcription factor, bZIP-1
+148	Solyc01g079750.2.1 Protein serine/threonine kinase (AHRD V1 *-** D3BP85_POLPA); contains Interpro domain(s)  IPR015748  Mitogen activated protein kinase kinase kinase 3
+149	Solyc01g111510.2.1 Ascorbate peroxidase (AHRD V1 **** Q8W4V7_CAPAN); contains Interpro domain(s)  IPR002207  Plant ascorbate peroxidase
+150	Solyc02g084850.2.1 Unknown Protein (AHRD V1); contains Interpro domain(s)  IPR000167  Dehydrin
+151	Solyc03g043950.2.1 Amino-acid N-acetyltransferase (AHRD V1 ***- D5W990_BURSC); contains Interpro domain(s)  IPR000182  GCN5-related N-acetyltransferase
+152	Solyc03g080180.2.1 O-methyltransferase (AHRD V1 **** Q9LWB8_9ROSI); contains Interpro domain(s)  IPR016461  O-methyltransferase, COMT, eukaryota
+153	Solyc03g093560.1.1 Ethylene-responsive transcription factor 2 (AHRD V1 ***- B6U860_MAIZE); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+154	Solyc04g072900.1.1 Ethylene responsive transcription factor 2b (AHRD V1 *-*- C0J9I6_9ROSA); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+155	Solyc04g077980.1.1 Zinc-finger protein (AHRD V1 ***- Q40899_PETHY); contains Interpro domain(s)  IPR007087  Zinc finger, C2H2-type
+156	Solyc05g010420.1.1 S-adenosylmethionine decarboxylase proenzyme (AHRD V1 **** Q7XZQ9_VITVI); contains Interpro domain(s)  IPR018167 S-adenosylmethionine decarboxylase subgroup  IPR001985 S-adenosylmethionine decarboxylase
+157	Solyc05g051200.1.1 Ethylene-responsive transcription factor 1A (AHRD V1 *-** A9P6A4_MEDTR); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+158	Solyc05g052410.1.1 Ethylene-responsive transcription factor 1 (AHRD V1 *-** ERF1_ORYSJ); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+159	Solyc05g053330.2.1 MYB transcription factor (AHRD V1 ***- Q39550_CRAPL); contains Interpro domain(s)  IPR015495  Myb transcription factor
+160	Solyc05g055990.2.1 Aquaporin 2 (AHRD V1 ***- O65357_SAMSA); contains Interpro domain(s)  IPR012269  Aquaporin
+161	Solyc06g063070.2.1 Ethylene responsive transcription factor 2a (AHRD V1 ***- C0J9I7_9ROSA); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+162	Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant
+163	Solyc07g056570.1.1 9-cis-epoxycarotenoid dioxygenase
+164	Solyc08g043170.2.1 Gamma-glutamyl phosphate reductase (AHRD V1 ***- D3TQ43_GLOMM); contains Interpro domain(s)  IPR005766  Delta l-pyrroline-5-carboxylate synthetase
+165	Solyc08g077980.2.1 Bax inhibitor (AHRD V1 ***- Q6U1L7_SOLLC); contains Interpro domain(s)  IPR006214  Uncharacterised protein family UPF0005
+166	Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin
+167	Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase
+168	Solyc11g018800.1.1 Peroxidase 2 (AHRD V1 ***- Q9SSZ8_SCUBA); contains Interpro domain(s)  IPR002016  Haem peroxidase, plant/fungal/bacterial
+169	Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal
+170	Solyc12g009020.1.1 Protein kinase (AHRD V1 **** C4Q4E0_SCHMA); contains Interpro domain(s)  IPR002290  Serine/threonine protein kinase
+171	MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta
+172	MLOC_54227.1 1083 CDS assembly3_WGSMorex_rbca.fasta
+173	MLOC_62301.1 1674 CDS assembly3_WGSMorex_rbca.fasta
+174	MLOC_77777.3 1161 CDS assembly3_WGSMorex_rbca.fasta
+175	Y17186.1_cds_CAA76677.1_1 [gene=eIF-4A] [db_xref=GOA:O65879,HSSP:1FUK,InterPro:IPR001650,InterPro:IPR011545, InterPro:IPR014001,InterPro:IPR014014,InterPro:IPR014021, UniProtKB/TrEMBL:O65879] [protein=translation initiation factor] [protein_id=CAA76677.1] [location=80..1303] [gbkey=CDS]
+176	AF077629.1_cds_AAF15307.1_1 [gene=A23] [protein=anth] [protein_id=AAF15307.1] [location=394..822] [gbkey=CDS]
+177	AF370358.1_cds_AAK53432.1_1 [protein=Na+/H+ antiporter] [protein_id=AAK53432.1] [location=142..1812] [gbkey=CDS]
+178	NM_117870.4_cds_NP_567533.1_1 [gene=CBL1] [locus_tag=AT4G17615] [db_xref=TAIR:AT4G17615,GeneID:827481] [protein=calcineurin B-like protein 1] [protein_id=NP_567533.1] [location=457..1098] [gbkey=CDS]
+179	AY250704.1_cds_AAP02957.1_1 [gene=TP55] [protein=aldehyde dehydrogenase family 7 member A1] [protein_id=AAP02957.1] [location=38..1570] [gbkey=CDS]
+180	AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]
+181	DQ663481.2_cds_ABG54481.1_1 [protein=late embryogenesis abundant protein] [protein_id=ABG54481.1] [location=126..437] [gbkey=CDS]
+182	AM493723.1_cds_CAM35490.1_1 [gene=ERF3] [db_xref=GOA:A4FS08,InterPro:IPR001471,InterPro:IPR016177, UniProtKB/TrEMBL:A4FS08] [protein=ethylene responsive transcription factor] [protein_id=CAM35490.1] [location=115..720] [gbkey=CDS]
+183	EF452301.1_cds_ABR15365.1_1 [gene=CRT] [protein=calreticulin] [protein_id=ABR15365.1] [location=36..1331] [gbkey=CDS]
+184	EU665425.1_cds_ACD80357.1_1 [protein=WRKY2 transcription factor] [protein_id=ACD80357.1] [location=1..1407] [gbkey=CDS]
+185	EU665430.1_cds_ACD80362.1_1 [protein=WRKY19 transcription factor] [protein_id=ACD80362.1] [location=1..1407] [gbkey=CDS]
+186	FJ417330.1_cds_ACJ48970.1_1 [protein=putative Cys2-His2 type zinc finger protein] [protein_id=ACJ48970.1] [location=1..516] [gbkey=CDS]
+187	GQ988775.1_cds_ACY56756.1_1 [protein=ZFP1] [protein_id=ACY56756.1] [location=53..556] [gbkey=CDS]
+188	HM027577.1_cds_ADE34586.1_1 [gene=NAC2a] [protein=NAC transcription factor 2a] [protein_id=ADE34586.1] [location=63..1046] [gbkey=CDS]
+189	NM_001197011.1_cds_NP_001183940.1_1 [gene=LOC100502540] [db_xref=GeneID:100502540] [protein=ABRE binding protein] [protein_id=NP_001183940.1] [location=34..1191] [gbkey=CDS]
+190	JX508709.1_cds_AFV31408.1_1 [protein=basic transcription factor 3] [protein_id=AFV31408.1] [location=114..647] [gbkey=CDS]
+191	XM_010044547.2_cds_XP_010042849.1_1 [gene=LOC104432046] [db_xref=GeneID:104432046] [protein=pyrophosphate-energized vacuolar membrane proton pump 1-like] [protein_id=XP_010042849.1] [location=95..1057] [gbkey=CDS]
+192	XM_020292605.1_cds_XP_020148194.1_1 [gene=LOC109733394] [db_xref=GeneID:109733394] [protein=serine/threonine-protein phosphatase PP2A-4 catalytic subunit isoform X2] [protein_id=XP_020148194.1] [location=168..1109] [gbkey=CDS]
+193	NM_001317650.2_cds_NP_001304579.2_1 [gene=LOC100788426] [db_xref=GeneID:100788426] [protein=uncharacterized protein LOC100788426] [protein_id=NP_001304579.2] [location=25..1002] [gbkey=CDS]
+Hit_sequences:
+7	> ENA|CU500070|CU500070.1 Theobroma cacao, mRNA sequence (KZ0ACQ2YM17FM1).	 
+1	> ENA|CU501565|CU501565.1 Theobroma cacao, mRNA sequence (KZ0ACQ1YM05FM1).	 
+2	> ENA|CU501467|CU501467.1 Theobroma cacao, mRNA sequence (KZ0ACQ15YN04FM1).	 
+0	> ENA|CU501583|CU501583.1 Theobroma cacao, mRNA sequence (KZ0ACQ1YO03FM1).	 
+4	> ENA|CU501263|CU501263.1 Theobroma cacao, mRNA sequence (KZ0ACQ10YM11FM1).	 
+6	> ENA|CU501639|CU501639.1 Theobroma cacao, mRNA sequence (KZ0ACQ3YF09FM1).	 
+5	> ENA|CU501876|CU501876.1 Theobroma cacao, mRNA sequence (KZ0ACQ9YF04FM1).	 
+3	> ENA|CU501416|CU501416.1 Theobroma cacao, mRNA sequence (KZ0ACQ14YM10FM1).	 
+Statistics:
+0	Identity	Linear	 
+1	Identity Percentage	Linear	 
+2	Overlap	Linear	 
+3	Overlap Percentage	Linear	 
+4	Gaps	Linear	 
+5	Gaps Percentage	Linear	 
+6	Strand (+/+=1, +/-=2, -/+=3, -/-=4)	Linear	 
+7	Query length	Linear	QueryLength
+8	Hit length	Linear	 
+9	E-value	Exponential	EValue
+10	Bitscore	Linear	 
+11	Alignemnt:Query from	Linear	QueryFrom
+12	Alignemnt:Query to	Linear	QueryTo
+13	Alignemnt:Query length	Linear	 
+14	Alignemnt:Sbjct from	Linear	SbjctFrom
+15	Alignemnt:Sbjct to	Linear	SbjctTo
+16	Alignemnt:Sbjct length	Linear	 
+BLAST_hits:
+Query_0:
+0
+Query_1:
+1
+Query_2:
+2
+Query_3:
+3
+Query_4:
+4
+Query_5:
+5
+Query_6:
+6
+Query_7:
+7
+Query_8:
+8
+Query_9:
+9
+Query_10:
+10
+Query_11:
+11
+Query_12:
+12
+Query_13:
+13
+Query_14:
+14
+Query_15:
+15
+Query_16:
+16
+Query_17:
+17
+Query_18:
+18
+Query_19:
+19
+Query_20:
+20
+Query_21:
+21
+Query_22:
+22
+Query_23:
+23
+Query_24:
+24
+Query_25:
+25
+Query_26:
+26
+Query_27:
+27
+Query_28:
+28
+Query_29:
+29
+Query_30:
+30
+Query_31:
+31
+Query_32:
+32
+Query_33:
+33
+Query_34:
+34
+Query_35:
+35
+Query_36:
+36
+Query_37:
+37
+Query_38:
+38
+Query_39:
+39
+Query_40:
+40
+Query_41:
+41
+Query_42:
+42
+Query_43:
+43
+Query_44:
+44
+Query_45:
+45
+Query_46:
+46
+Query_47:
+47
+Query_48:
+48
+Query_49:
+49
+Query_50:
+50
+Query_51:
+51
+Query_52:
+52
+Query_53:
+53
+Query_54:
+54
+Query_55:
+55
+Query_56:
+56
+Query_57:
+57
+Query_58:
+58
+Query_59:
+59
+Query_60:
+60
+Query_61:
+61
+Query_62:
+62
+Query_63:
+63
+Query_64:
+64
+Query_65:
+65
+Query_66:
+66
+Query_67:
+67
+Query_68:
+68
+Query_69:
+69
+Query_70:
+70
+Query_71:
+71
+Query_72:
+72
+Query_73:
+73
+Query_74:
+74
+Query_75:
+75
+Query_76:
+76
+Query_77:
+77
+Query_78:
+78
+Query_79:
+79
+Query_80:
+80
+Query_81:
+81
+Query_82:
+82
+Query_83:
+83
+Query_84:
+84
+Query_85:
+85
+Query_86:
+86
+Query_87:
+87
+Query_88:
+88
+Query_89:
+89
+Query_90:
+90
+Query_91:
+91
+Query_92:
+92
+Query_93:
+93
+Query_94:
+94
+Query_95:
+95
+Query_96:
+96
+Query_97:
+97
+Query_98:
+98
+Query_99:
+99
+Query_100:
+100
+Query_101:
+101
+Query_102:
+102
+Query_103:
+103
+Query_104:
+104
+Query_105:
+105
+Query_106:
+106
+Query_107:
+107
+Query_108:
+108
+Query_109:
+109
+Query_110:
+110
+Query_111:
+111
+Query_112:
+112
+Query_113:
+113
+Query_114:
+114
+Query_115:
+115
+Query_116:
+116
+Query_117:
+117
+Query_118:
+118
+Query_119:
+119
+Query_120:
+120
+Query_121:
+121
+Query_122:
+122
+Query_123:
+123
+Query_124:
+124
+Query_125:
+125
+Query_126:
+126
+Query_127:
+127
+Query_128:
+128
+Query_129:
+129
+Query_130:
+130
+Query_131:
+131
+Query_132:
+132
+Query_133:
+133
+Query_134:
+134
+Query_135:
+135
+Query_136:
+136
+Query_137:
+137
+Query_138:
+138
+Query_139:
+139
+Query_140:
+140
+Query_141:
+141
+Query_142:
+142
+Query_143:
+143
+Query_144:
+144
+Query_145:
+145
+Query_146:
+146
+Query_147:
+147
+Query_148:
+148
+Query_149:
+149
+Query_150:
+150
+Query_151:
+151
+Query_152:
+152
+Query_153:
+153
+Query_154:
+154
+Query_155:
+155
+Query_156:
+156
+Query_157:
+157
+Query_158:
+158
+Query_159:
+159
+Query_160:
+160
+Query_161:
+161
+Query_162:
+162
+Query_163:
+163
+Query_164:
+164
+Query_165:
+165
+Query_166:
+166
+Query_167:
+167
+Query_168:
+168
+Query_169:
+169
+Query_170:
+170
+Query_171:
+171
+Query_172:
+172
+Query_173:
+173
+Query_174:
+174
+Query_175:
+175
+Query_176:
+176
+Query_177:
+177
+Query_178:
+178
+Query_179:
+179
+Query_180:
+180
+0	158	86.81	182.0	94.79	0.0	0.0	0	192	88	4e-54	204.0	1	182	182	82	263	182
+1	158	86.81	182.0	94.79	0.0	0.0	0	192	88	4e-54	204.0	1	182	182	83	264	182
+2	158	86.81	182.0	94.79	0.0	0.0	0	192	70	4e-54	204.0	1	182	182	85	266	182
+3	158	86.81	182.0	94.79	0.0	0.0	0	192	74	4e-54	204.0	1	182	182	83	264	182
+4	158	86.81	182.0	94.79	0.0	0.0	0	192	13	4e-54	204.0	1	182	182	86	267	182
+5	145	86.83	167.0	86.98	0.0	0.0	0	192	32	4e-49	187.0	16	182	167	2	168	167
+6	145	86.83	167.0	86.98	0.0	0.0	0	192	53	4e-49	187.0	1	167	167	82	248	167
+7	54	87.1	62.0	32.29	0.0	0.0	0	192	5	5e-14	71.3	121	182	62	285	224	62
+Query_181:
+181
+Query_182:
+182
+Query_183:
+183
+Query_184:
+184
+Query_185:
+185
+Query_186:
+186
+Query_187:
+187
+Query_188:
+188
+Query_189:
+189
+Query_190:
+190
+Query_191:
+191
+Query_192:
+192
+Query_193:
+193

@@ -1,2 +1,7 @@
+*.sqlite
+.DS_Store
 *.fasta
-*fna
+*.fna
+*.png
+*.gz
+

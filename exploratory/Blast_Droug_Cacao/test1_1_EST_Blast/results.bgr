@@ -1,0 +1,1915 @@
+blastn
+Query_sequences:
+0	AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914 FORWARD LENGTH=564
+1	AT1G07890.3 | Symbols:MEE6,ATAPX01,ATAPX1,CS1,APX1 | ascorbate peroxidase 1,maternal effect embryo arrest 6 |  Chr1:2438005-2439435 FORWARD LENGTH=753
+2	AT1G08810.1 | Symbols:AtMYB60,MYB60 | myb domain protein 60 | Chr1:2819279-2820329 REVERSE LENGTH=843
+3	AT1G09540.1 | Symbols:ATMYB61,MYB61 | myb domain protein 61,ARABIDOPSIS THALIANA MYB DOMAIN PROTEIN 61 | Chr1:3086333-3087689 FORWARD LENGTH=1101
+4	AT1G09700.1 | Symbols:HYL1,AtDRB1,DRB1 | DSRNA-BINDING PROTEIN 1,HYPONASTIC LEAVES 1 |  Chr1:3137960-3140118 REVERSE LENGTH=1260
+5	AT1G10370.1 | Symbols:ATGSTU17,ERD9,GST30B,GST30,GSTU17 | GLUTATHIONE S-TRANSFERASE 30B,GLUTATHIONE S-TRANSFERASE 30,GLUTATHIONE S-TRANSFERASE TAU 17,GLUTATHIONE S-TRANSFERASE U17,EARLY-RESPONSIVE TO DEHYDRATION 9 |  Chr1:3397274-3398273 REVERSE LENGTH=684
+6	AT1G11755.1 | Symbols:LEW1 | LEAF WILTING 1 |  Chr1:3969987-3971488 REVERSE LENGTH=765
+7	AT1G12480.1 | Symbols:SLAC1,CDI3,RCD3,OZS1 | CARBON DIOXIDE INSENSITIVE 3,SLOW ANION CHANNEL-ASSOCIATED 1,RADICAL-INDUCED CELL DEATH 3,OZONE-SENSITIVE 1 |  Chr1:4257427-4259249 REVERSE LENGTH=1671
+8	AT1G15360.1 | Symbols:SHN1,WIN1,AtSHN1 | WAX INDUCER 1,SHINE 1 | Chr1:5283609-5284506 FORWARD LENGTH=600
+9	AT1G15520.1 | Symbols:ATABCG40,ABCG40,PDR12,ATPDR12 | pleiotropic drug resistance 12,ATP-binding cassette G40,PLEIOTROPIC DRUG RESISTANCE 12,Arabidopsis thaliana ATP-binding cassette G40 | Chr1:5331993-5338175 REVERSE LENGTH=4272
+10	AT1G15690.1 | Symbols:AtVHP1;1,AtAVP1,ATAVP3,AVP-3,AVP1,FUGU5,VHP1 | ARABIDOPSIS THALIANA V-PPASE 3,FUGU 5 |  Chr1:5399115-5402185 FORWARD LENGTH=2313
+11	AT1G15820.1 | Symbols:CP24,LHCB6 | light harvesting complex photosystem II subunit 6 |  Chr1:5446685-5447676 REVERSE LENGTH=777
+12	AT1G16060.1 | Symbols:ADAP,WRI3 | ARIA-interacting double AP2 domain protein,WRINKLED 3 |  Chr1:5508563-5511609 FORWARD LENGTH=1038
+13	AT1G16540.1 | Symbols:SIR3,LOS5,ACI2,ABA3,ATABA3,AtLOS5 | SIRTINOL RESISTANT 3,LOW OSMOTIC STRESS 5,ABA DEFICIENT 3,ALTERED CHLOROPLAST IMPORT 2 |  Chr1:5659465-5665201 FORWARD LENGTH=2460
+14	AT1G27730.1 | Symbols:ZAT10,STZ | salt tolerance zinc finger | Chr1:9648302-9648985 REVERSE LENGTH=684
+15	AT1G28490.1 | Symbols:OSM1,ATSYP61,SYP61 | syntaxin of plants 61 | Chr1:10016433-10017842 FORWARD LENGTH=738
+16	AT1G32640.1 | Symbols:JAI1,ZBF1,JIN1,ATMYC2,MYC2,RD22BP1 | JASMONATE INSENSITIVE 1 |  Chr1:11799042-11800913 REVERSE LENGTH=1872
+17	AT1G33560.1 | Symbols:ADR1 | ACTIVATED DISEASE RESISTANCE 1 | Chr1:12169092-12171878 FORWARD LENGTH=2364
+18	AT1G35720.1 | Symbols:ANNAT1,ATOXY5,OXY5,ANN1,AtANN1 | annexin 1 | Chr1:13225304-13226939 FORWARD LENGTH=954
+19	AT1G45249.3 | Symbols:AtABF2,ABF2,ATAREB1,AREB1 | ABSCISIC ACID RESPONSIVE ELEMENTS-BINDING PROTEIN 2,abscisic acid responsive elements-binding factor 2 |  Chr1:17165420-17167415 REVERSE LENGTH=1284
+20	AT1G48270.1 | Symbols:ATGCR1,GCR1 | G-protein-coupled receptor 1 | Chr1:17828314-17830214 REVERSE LENGTH=981
+21	AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153
+22	AT1G49230.1 | Symbols:ATL78,AtATL78 | Arabidopsis Tóxicos en Levadura 78 |  Chr1:18209320-18209979 FORWARD LENGTH=660
+23	AT1G52400.1 | Symbols:BGL1,ATBG1,BGLU18 | A. THALIANA BETA-GLUCOSIDASE 1,BETA-GLUCOSIDASE HOMOLOG 1,beta glucosidase 18 | Chr1:19515250-19517930 FORWARD LENGTH=1587
+24	AT1G54160.1 | Symbols:NFYA5,NF-YA5 | "nuclear factor Y, subunit A5",NUCLEAR FACTOR Y A5 |  Chr1:20217581-20218706 REVERSE LENGTH=927
+25	AT1G56600.1 | Symbols:GolS2,AtGolS2 | galactinol synthase 2 | Chr1:21207620-21209291 FORWARD LENGTH=1008
+26	AT1G58440.1 | Symbols:XF1,SQE1,DRY2 | DROUGHT HYPERSENSITIVE 2,SQUALENE EPOXIDASE 1 |  Chr1:21714094-21717246 REVERSE LENGTH=1596
+27	AT1G64060.1 | Symbols:ATRBOH F,RBOH F,RBOHAP108,ATRBOHF,RBOHF | ARABIDOPSIS THALIANA RESPIRATORY BURST OXIDASE HOMOLOG F,respiratory burst oxidase protein F,RESPIRATORY BURST OXIDASE PROTEIN F |  Chr1:23770266-23776317 FORWARD LENGTH=2835
+28	AT1G64990.1 | Symbols:GTG1 | GPCR-type G protein 1 | Chr1:24140183-24145866 REVERSE LENGTH=1407
+29	AT1G69270.1 | Symbols:AtRPK1,RPK1 | receptor-like protein kinase 1 | Chr1:26040877-26042499 REVERSE LENGTH=1623
+30	AT1G71960.1 | Symbols:ABCG25,ATABCG25 | Arabidopsis thaliana ATP-binding cassette G25,ATP-binding casette G25 | Chr1:27082587-27088163 REVERSE LENGTH=1989
+31	AT1G72770.1 | Symbols:HAB1,AtHAB1 | HYPERSENSITIVE TO ABA1 | Chr1:27390998-27392851 FORWARD LENGTH=1536
+32	AT1G73360.1 | Symbols:EDT1,ATHDG11,HDG11,AtEDT1 | homeodomain GLABROUS 11,HOMEODOMAIN GLABROUS 11,ENHANCED DROUGHT TOLERANCE 1 | Chr1:27578893-27581820 REVERSE LENGTH=2169
+33	AT1G75270.1 | Symbols:DHAR2 | dehydroascorbate reductase 2 | Chr1:28250255-28251237 REVERSE LENGTH=642
+34	AT1G78290.2 | Symbols:SNRK2-8,SRK2C,SNRK2.8 | SNF1-RELATED PROTEIN KINASE 2-8,SNF1-RELATED PROTEIN KINASE 2.8,SNF1-RELATED PROTEIN KINASE 2C |  Chr1:29457457-29458909 REVERSE LENGTH=1032
+35	AT1G78580.1 | Symbols:TPS1,ATTPS1 | trehalose-6-phosphate synthase,TREHALOSE-6-PHOSPHATE SYNTHASE 1 |  Chr1:29552495-29557482 REVERSE LENGTH=2829
+36	AT1G80460.1 | Symbols:GLI1,NHO1 | nonhost resistance to P. s. phaseolicola 1 |  Chr1:30246960-30249055 REVERSE LENGTH=1569
+37	AT2G04240.1 | Symbols:XERICO |  |  Chr2:1461816-1462304 REVERSE LENGTH=489
+38	AT2G13540.1 | Symbols:CBP80,ENS,ABH1,ATCBP80 | ABA HYPERSENSITIVE 1,ENSALADA,CAP-BINDING PROTEIN 80 |  Chr2:5637053-5642813 FORWARD LENGTH=2547
+39	AT2G17820.1 | Symbols:ATHK1,HK1,AHK1 | histidine kinase 1 | Chr2:7743133-7748013 REVERSE LENGTH=3624
+40	AT2G18960.1 | Symbols:HA1,OST2,AHA1,PMA | H(+)-ATPase 1,PLASMA MEMBRANE PROTON ATPASE,OPEN STOMATA 2 |  Chr2:8221858-8227268 FORWARD LENGTH=2850
+41	AT2G22430.1 | Symbols:HB6,ATHB6 | homeobox protein 6 | Chr2:9526470-9527612 REVERSE LENGTH=936
+42	AT2G26300.1 | Symbols:GP ALPHA 1,ATGPA1,GPA1 | ARABIDOPSIS THALIANA G PROTEIN ALPHA SUBUNIT 1,G protein alpha subunit 1,G PROTEIN ALPHA SUBUNIT 1 |  Chr2:11198087-11200822 FORWARD LENGTH=1152
+43	AT2G27150.1 | Symbols:AOdelta,AAO3,AtAAO3,At-AO3 | Aldehyde oxidase delta,Arabidopsis thaliana aldehyde oxidase 3,abscisic aldehyde oxidase 3 |  Chr2:11601952-11607014 FORWARD LENGTH=3999
+44	AT2G29980.1 | Symbols:FAD3,AtFAD3 | fatty acid desaturase 3 | Chr2:12781787-12784946 REVERSE LENGTH=1161
+45	AT2G31320.1 | Symbols:PARP1 | POLY(ADP-RIBOSE) POLYMERASE 1 | Chr2:13354046-13359578 REVERSE LENGTH=2952
+46	AT2G31470.1 | Symbols:DOR | DROUGHT TOLERANCE REPRESSOR | Chr2:13407492-13408655 REVERSE LENGTH=1164
+47	AT2G33150.1 | Symbols:PKT3,KAT2,PED1 | PEROXISOME DEFECTIVE 1,peroxisomal 3-ketoacyl-CoA thiolase 3,3-KETOACYL-COA THIOLASE 2 | Chr2:14047814-14050983 REVERSE LENGTH=1389
+48	AT2G36450.1 | Symbols:HRD | HARDY |  Chr2:15294303-15294857 REVERSE LENGTH=555
+49	AT2G38750.1 | Symbols:AtANN4,ANNAT4 | annexin 4 | Chr2:16196582-16198431 REVERSE LENGTH=960
+50	AT2G38880.8 | Symbols:ATNF-YB1,ATHAP3,NF-YB1,HAP3A,HAP3 | HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3A,NUCLEAR FACTOR Y SUBUNIT B1,HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3,"nuclear factor Y, subunit B1" |  Chr2:16238685-16240316 FORWARD LENGTH=495
+51	AT2G39800.1 | Symbols:P5CS1,ATP5CS | delta1-pyrroline-5-carboxylate synthase 1 |  Chr2:16598516-16602939 REVERSE LENGTH=2154
+52	AT2G43350.1 | Symbols:GPX3,ATGPX3 | glutathione peroxidase 3 | Chr2:18009195-18010533 REVERSE LENGTH=621
+53	AT2G47180.1 | Symbols:GolS1,AtGolS1 | galactinol synthase 1 | Chr2:19369049-19370372 REVERSE LENGTH=1035
+54	AT2G47190.1 | Symbols:MYB2,ATMYB2 | myb domain protein 2,MYB DOMAIN PROTEIN 2 |  Chr2:19376284-19377297 FORWARD LENGTH=822
+55	AT2G47800.1 | Symbols:ABCC4,ATMRP4,MRP4,EST3 | multidrug resistance-associated protein 4,ATP-binding cassette C4 | Chr2:19574944-19580383 FORWARD LENGTH=4551
+56	AT3G08510.1 | Symbols:ATPLC2,PLC2 | phospholipase C 2 | Chr3:2582626-2585556 REVERSE LENGTH=1746
+57	AT3G14440.1 | Symbols:SIS7,ATNCED3,NCED3,STO1 | SALT TOLERANT 1,nine-cis-epoxycarotenoid dioxygenase 3,SUGAR INSENSITIVE 7 | Chr3:4831678-4833477 REVERSE LENGTH=1800
+58	AT3G19290.3 | Symbols:AtAREB2,AREB2,ABF4 | ABA-RESPONSIVE ELEMENT BINDING PROTEIN 2,ABRE binding factor 4 |  Chr3:6687956-6689784 FORWARD LENGTH=1299
+59	AT3G22170.1 | Symbols:FHY3,CPD45 | far-red elongated hypocotyls 3,CHLOROPLAST DIVISION MUTANT 45 |  Chr3:7822359-7825414 REVERSE LENGTH=2520
+60	AT3G26090.1 | Symbols:ATRGS1,RGS1 | REGULATOR OF G-PROTEIN SIGNALING 1 |  Chr3:9532883-9535410 FORWARD LENGTH=1380
+61	AT3G51920.1 | Symbols:CAM9,ATCML9,CML9 | calmodulin 9,CALMODULIN LIKE PROTEIN 9 |  Chr3:19268178-19269314 REVERSE LENGTH=456
+62	AT3G53420.1 | Symbols:PIP2;1,AtPIP2;1,PIP2A,PIP2 | PLASMA MEMBRANE INTRINSIC PROTEIN 2,PLASMA MEMBRANE INTRINSIC PROTEIN 2;1,plasma membrane intrinsic protein 2A |  Chr3:19803906-19805454 REVERSE LENGTH=864
+63	AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861
+64	AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864
+65	AT4G02390.1 | Symbols:APP,PP,PARP2 | poly(ADP-ribose) polymerase 2,poly(ADP-ribose) polymerase |  Chr4:1050104-1053960 FORWARD LENGTH=1914
+66	AT4G04720.1 | Symbols:AtCPK21,CPK21 | calcium-dependent protein kinase 21 |  Chr4:2394817-2397631 REVERSE LENGTH=1596
+67	AT4G04740.2 | Symbols:CPK23,ATCPK23 | calcium-dependent protein kinase 23 |  Chr4:2404883-2408493 REVERSE LENGTH=1602
+68	AT4G15090.1 | Symbols:FAR1 | FAR-RED IMPAIRED RESPONSE 1 | Chr4:8614806-8617870 FORWARD LENGTH=2484
+69	AT4G18290.1 | Symbols:KAT2 | potassium channel in Arabidopsis thaliana 2 |  Chr4:10115418-10118477 FORWARD LENGTH=2094
+70	AT4G19230.2 | Symbols:CYP707A1 | "cytochrome P450, family 707, subfamily A, polypeptide 1" |  Chr4:10521524-10523566 FORWARD LENGTH=1455
+71	AT4G23450.2 | Symbols:AIRP1,AtAIRP1 | ABA Insensitive RING Protein 1 |  Chr4:12241113-12242190 REVERSE LENGTH=627
+72	AT4G25480.1 | Symbols:CBF3,DREB1A,ATCBF3 | dehydration response element B1A,C-REPEAT BINDING FACTOR  3 |  Chr4:13018353-13019003 REVERSE LENGTH=651
+73	AT4G26080.1 | Symbols:ABI1,AtABI1 | ABA INSENSITIVE 1 | Chr4:13220231-13221828 REVERSE LENGTH=1305
+74	AT4G27630.3 | Symbols:GTG2 | GPCR-type G protein 2 | Chr4:13791980-13797033 REVERSE LENGTH=1476
+75	AT4G29890.1 | Symbols:no symbol available | no full name available | Chr4:14608868-14610905 FORWARD LENGTH=1269
+76	AT4G30950.1 | Symbols:FADC,SFD4,FAD6 | FATTY ACID DESATURASE C,STEAROYL DESATURASE DEFICIENCY 4,fatty acid desaturase 6 | Chr4:15057278-15059673 REVERSE LENGTH=1347
+77	AT4G31120.1 | Symbols:SKB1,CAU1,ATPRMT5,PRMT5 | calcium underaccumulation 1,SHK1 binding protein 1,PROTEIN ARGININE METHYLTRANSFERASE 5 |  Chr4:15132185-15136568 REVERSE LENGTH=1929
+78	AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 | SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING 1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD LENGTH=1089
+79	AT4G34000.1 | Symbols:ABF3,AtABF3,DPBF5 | DC3 PROMOTER-BINDING FACTOR 5,abscisic acid responsive elements-binding factor 3 | Chr4:16296008-16297971 FORWARD LENGTH=1365
+80	AT4G34240.1 | Symbols:ALDH3I1,ALDH3 | aldehyde dehydrogenase 3I1,aldehyde dehydrogenase 3 |  Chr4:16389801-16392633 FORWARD LENGTH=1653
+81	AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | Chr4:17802974-17806332 REVERSE LENGTH=2016
+82	AT4G38130.1 | Symbols:ATHDA19,HD1,HDA1,HDA19,RPD3A,ATHD1 | ARABIDOPSIS HISTONE DEACETYLASE 19,HISTONE DEACETYLASE 19,histone deacetylase 1,ARABIDOPSIS HISTONE DEACETYLASE 1 | Chr4:17896493-17899057 REVERSE LENGTH=1506
+83	AT5G03740.1 | Symbols:HD2C,HDT3 | HISTONE DEACETYLASE 3,histone deacetylase 2C |  Chr5:981994-983961 FORWARD LENGTH=885
+84	AT5G05410.1 | Symbols:DREB2,DREB2A | DEHYDRATION-RESPONSIVE ELEMENT BINDING PROTEIN 2,DRE-binding protein 2A |  Chr5:1602650-1603657 FORWARD LENGTH=1008
+85	AT5G06530.2 | Symbols:AtABCG22,ABCG22 | Arabidopsis thaliana ATP-binding cassette G22,ATP-binding cassette G22 | Chr5:1990060-1994605 REVERSE LENGTH=2256
+86	AT5G10450.4 | Symbols:14-3-3lambda,GRF6,AFT1 | 14-3-3 PROTEIN G-BOX FACTOR14 LAMBDA,G-box regulating factor 6 |  Chr5:3284476-3286261 REVERSE LENGTH=822
+87	AT5G11270.1 | Symbols:OCP3 | overexpressor of cationic peroxidase 3 |  Chr5:3595557-3597076 REVERSE LENGTH=1065
+88	AT5G13680.1 | Symbols:ABO1,AtELP1,ELO2 | ABA-OVERLY SENSITIVE 1,ELONGATA 2 |  Chr5:4410522-4415471 REVERSE LENGTH=3960
+89	AT5G16820.1 | Symbols:HSFA1B,HSF3,ATHSF3,ATHSFA1B | ARABIDOPSIS HEAT SHOCK FACTOR 3,CLASS A HEAT SHOCK FACTOR 1B,heat shock factor 3,ARABIDOPSIS THALIANA CLASS A HEAT SHOCK FACTOR 1B | Chr5:5530446-5532497 FORWARD LENGTH=1446
+90	AT5G24030.1 | Symbols:SLAH3 | SLAC1 homologue 3 | Chr5:8118618-8120993 REVERSE LENGTH=1908
+91	AT5G37500.1 | Symbols:GORK | gated outwardly-rectifying K+ channel | Chr5:14889758-14894883 REVERSE LENGTH=2463
+92	AT5G40280.1 | Symbols:ATFTB,WIG,ERA1 | ENHANCED RESPONSE TO ABA 1,WIGGUM,ARABIDOPSIS THALIANA FARNESYL TRANSFERASE BETA SUBUNIT | Chr5:16101391-16104783 FORWARD LENGTH=1449
+93	AT5G44200.1 | Symbols:ATCBP20,CBP20 | CAP-binding protein 20 | Chr5:17802062-17803875 REVERSE LENGTH=774
+94	AT5G45340.1 | Symbols:CYP707A3 | "cytochrome P450, family 707, subfamily A, polypeptide 3" |  Chr5:18368977-18370909 REVERSE LENGTH=1392
+95	AT5G47910.1 | Symbols:ATRBOHD,RBOHD | respiratory burst oxidase homologue D |  Chr5:19397585-19401768 FORWARD LENGTH=2766
+96	AT5G48870.1 | Symbols:AtSAD1,LSM5,AtLSM5,SAD1 | SUPERSENSITIVE TO ABA AND DROUGHT 1,SM-like 5 |  Chr5:19813407-19814362 FORWARD LENGTH=267
+97	AT5G49890.1 | Symbols:CLC-C,ATCLC-C | chloride channel C | Chr5:20288489-20292143 REVERSE LENGTH=2340
+98	AT5G51070.1 | Symbols:SAG15,ERD1,CLPD | EARLY RESPONSIVE TO DEHYDRATION 1,SENESCENCE ASSOCIATED GENE 15 | Chr5:20764479-20768481 FORWARD LENGTH=2838
+99	AT5G51990.1 | Symbols:CBF4,DREB1D | DEHYDRATION-RESPONSIVE ELEMENT-BINDING PROTEIN 1D,C-repeat-binding factor 4 | Chr5:21117113-21117787 REVERSE LENGTH=675
+100	AT5G57050.1 | Symbols:ABI2,AtABI2 | ABA INSENSITIVE 2 | Chr5:23087720-23089303 FORWARD LENGTH=1272
+101	AT5G61760.1 | Symbols:IPK2BETA,IPK2B,ATIPK2BETA | INOSITOL POLYPHOSPHATE KINASE 2 BETA,inositol polyphosphate kinase 2 beta,ARABIDOPSIS THALIANA INOSITOL POLYPHOSPHATE KINASE 2 BETA | Chr5:24813916-24814818 REVERSE LENGTH=903
+102	AT5G63110.1 | Symbols:SIL1,ATHDA6,AXE1,RTS1,HDA6,RPD3B | HISTONE DEACETYLASE 6,RNA-MEDIATED TRANSCRIPTIONAL SILENCING 1,histone deacetylase 6 |  Chr5:25315834-25318227 REVERSE LENGTH=1416
+103	AT5G67300.1 | Symbols:MYBR1,ATMYBR1,ATMYB44,MYB44 | ARABIDOPSIS THALIANA MYB DOMAIN PROTEIN 44,myb domain protein r1 | Chr5:26854109-26855026 FORWARD LENGTH=918
+104	LOC_Os09g28310.1 CDS
+105	LOC_Os09g13570.1 CDS
+106	LOC_Os09g05020.2 CDS
+107	LOC_Os08g35240.1 CDS
+108	LOC_Os05g48300.1 CDS
+109	LOC_Os05g25770.1 CDS
+110	LOC_Os04g56130.1 CDS
+111	LOC_Os03g60080.1 CDS
+112	LOC_Os03g03370.1 CDS
+113	LOC_Os02g52780.1 CDS
+114	LOC_Os02g10760.1 CDS
+115	LOC_Os02g08230.1 CDS
+116	LOC_Os01g62410.1 CDS
+117	LOC_Os01g58420.1 CDS
+118	LOC_Os01g50110.1 CDS
+119	LOC_Os01g42860.1 CDS
+120	LOC_Os01g01420.2 CDS
+121	NM_001111795.1_cds_NP_001105265.1_1 [gene=gpm803b] [db_xref=GeneID:542176] [protein=uncharacterized LOC542176] [protein_id=NP_001105265.1] [location=61..933] [gbkey=CDS]
+122	NM_001111843.1_cds_NP_001105313.1_1 [gene=me3] [db_xref=GeneID:542233] [protein=NADP-dependent malic enzyme, chloroplastic precursor] [protein_id=NP_001105313.1] [location=115..2025] [gbkey=CDS]
+123	NM_001153573.1_cds_NP_001147045.1_1 [gene=LOC100280655] [db_xref=GeneID:100280655] [protein=protein binding protein] [protein_id=NP_001147045.1] [location=273..1115] [gbkey=CDS]
+124	NM_001305944.1_cds_NP_001292873.1_1 [gene=DBP1c] [db_xref=GeneID:732788] [protein=dehydration-responsive element binding protein 2A isoform 1] [protein_id=NP_001292873.1] [location=156..1259] [gbkey=CDS]
+125	NM_001111891.2_cds_NP_001105361.2_1 [gene=aba1] [db_xref=GeneID:542304] [protein=abscisic stress protein homolog] [protein_id=NP_001105361.2] [location=78..494] [gbkey=CDS]
+126	XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]
+127	XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]
+128	XM_015761969.1_cds_XP_015617455.1_1 [gene=LOC4349594] [db_xref=GeneID:4349594] [protein=CBL-interacting protein kinase 15] [protein_id=XP_015617455.1] [location=509..1813] [gbkey=CDS]
+129	NM_001112582.2_cds_NP_001106052.2_1 [gene=LOC542390] [db_xref=GeneID:542390] [protein=nuclear transcription factor Y subunit B] [protein_id=NP_001106052.2] [location=162..698] [gbkey=CDS]
+130	NM_001177007.2_cds_NP_001170478.1_1 [gene=IDP2562] [db_xref=GeneID:100384476] [protein=uncharacterized protein LOC100384476] [protein_id=NP_001170478.1] [location=484..2154] [gbkey=CDS]
+131	NM_001112589.2_cds_NP_001106059.2_1 [gene=umc1760] [db_xref=GeneID:100125658] [protein=uncharacterized protein LOC100125658 precursor] [protein_id=NP_001106059.2] [location=101..1882] [gbkey=CDS]
+132	XM_008666329.2_cds_XP_008664551.2_1 [gene=LOC103643169] [db_xref=GeneID:103643169] [protein=ethylene-responsive transcription factor ABI4] [protein_id=XP_008664551.2] [location=28..1248] [gbkey=CDS]
+133	XM_026022985.1_cds_XP_025878770.1_1 [gene=LOC4324418] [db_xref=GeneID:4324418] [protein=dehydration-responsive element-binding protein 2A] [protein_id=XP_025878770.1] [location=417..1241] [gbkey=CDS]
+134	XM_015761401.2_cds_XP_015616887.1_1 [gene=LOC4325613] [db_xref=GeneID:4325613] [protein=CBL-interacting protein kinase 12] [protein_id=XP_015616887.1] [location=146..1768] [gbkey=CDS]
+135	XM_015775573.2_cds_XP_015631059.1_1 [gene=LOC4325408] [db_xref=GeneID:4325408] [protein=probable calcium-binding protein CML31] [protein_id=XP_015631059.1] [location=134..589] [gbkey=CDS]
+136	XM_015770086.2_cds_XP_015625572.1_1 [gene=LOC4331194] [db_xref=GeneID:4331194] [protein=aquaporin PIP 1-3] [protein_id=XP_015625572.1] [location=145..1011] [gbkey=CDS]
+137	XM_015776049.2_cds_XP_015631535.1_1 [gene=LOC4331490] [db_xref=GeneID:4331490] [protein=calcium-dependent protein kinase 7] [protein_id=XP_015631535.1] [location=1031..2659] [gbkey=CDS]
+138	XM_015784747.2_cds_XP_015640233.1_1 [gene=LOC4339812] [db_xref=GeneID:4339812] [protein=UDP-glucose 4-epimerase 1] [protein_id=XP_015640233.1] [location=130..1194] [gbkey=CDS]
+139	XM_015787703.2_cds_XP_015643189.1_1 [gene=LOC4341520] [db_xref=GeneID:4341520] [protein=zinc finger A20 and AN1 domain-containing stress-associated protein 8] [protein_id=XP_015643189.1] [location=224..739] [gbkey=CDS]
+140	XM_015791262.2_cds_XP_015646748.1_1 [gene=LOC4344342] [db_xref=GeneID:4344342] [protein=CBL-interacting protein kinase 3] [protein_id=XP_015646748.1] [location=184..1521] [gbkey=CDS]
+141	XM_015792411.2_cds_XP_015647897.1_1 [gene=LOC4342503] [db_xref=GeneID:4342503] [protein=zinc finger A20 and AN1 domain-containing stress-associated protein 9 isoform X2] [protein_id=XP_015647897.1] [location=173..658] [gbkey=CDS]
+142	XM_015789094.2_cds_XP_015644580.1_1 [gene=LOC4342996] [db_xref=GeneID:4342996] [protein=spermidine synthase 1] [protein_id=XP_015644580.1] [location=170..1141] [gbkey=CDS]
+143	XM_015755426.2_cds_XP_015610912.1_1 [gene=LOC4347620] [db_xref=GeneID:4347620] [protein=dehydration-responsive element-binding protein 1A] [protein_id=XP_015610912.1] [location=98..814] [gbkey=CDS]
+144	NM_001143622.2_cds_NP_001137094.2_1 [gene=LOC100217270] [db_xref=GeneID:100217270] [protein=uncharacterized protein LOC100217270] [protein_id=NP_001137094.2] [location=214..1671] [gbkey=CDS]
+145	Solyc00g015750.1.1 Reductase 2 (AHRD V1 ***- Q6TY50_HYDMC); contains Interpro domain(s)  IPR018170  Aldo/keto reductase, conserved site
+146	Solyc01g005660.1.1 Myb transcription factor (AHRD V1 **-- Q6Q789_VITVI); contains Interpro domain(s)  IPR015495  Myb transcription factor
+147	Solyc01g079480.2.1 BZIP transcription factor (AHRD V1 **-* Q1HW69_CAPAN); contains Interpro domain(s)  IPR011616  bZIP transcription factor, bZIP-1
+148	Solyc01g079750.2.1 Protein serine/threonine kinase (AHRD V1 *-** D3BP85_POLPA); contains Interpro domain(s)  IPR015748  Mitogen activated protein kinase kinase kinase 3
+149	Solyc01g111510.2.1 Ascorbate peroxidase (AHRD V1 **** Q8W4V7_CAPAN); contains Interpro domain(s)  IPR002207  Plant ascorbate peroxidase
+150	Solyc02g084850.2.1 Unknown Protein (AHRD V1); contains Interpro domain(s)  IPR000167  Dehydrin
+151	Solyc03g043950.2.1 Amino-acid N-acetyltransferase (AHRD V1 ***- D5W990_BURSC); contains Interpro domain(s)  IPR000182  GCN5-related N-acetyltransferase
+152	Solyc03g080180.2.1 O-methyltransferase (AHRD V1 **** Q9LWB8_9ROSI); contains Interpro domain(s)  IPR016461  O-methyltransferase, COMT, eukaryota
+153	Solyc03g093560.1.1 Ethylene-responsive transcription factor 2 (AHRD V1 ***- B6U860_MAIZE); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+154	Solyc04g072900.1.1 Ethylene responsive transcription factor 2b (AHRD V1 *-*- C0J9I6_9ROSA); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+155	Solyc04g077980.1.1 Zinc-finger protein (AHRD V1 ***- Q40899_PETHY); contains Interpro domain(s)  IPR007087  Zinc finger, C2H2-type
+156	Solyc05g010420.1.1 S-adenosylmethionine decarboxylase proenzyme (AHRD V1 **** Q7XZQ9_VITVI); contains Interpro domain(s)  IPR018167 S-adenosylmethionine decarboxylase subgroup  IPR001985 S-adenosylmethionine decarboxylase
+157	Solyc05g051200.1.1 Ethylene-responsive transcription factor 1A (AHRD V1 *-** A9P6A4_MEDTR); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+158	Solyc05g052410.1.1 Ethylene-responsive transcription factor 1 (AHRD V1 *-** ERF1_ORYSJ); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+159	Solyc05g053330.2.1 MYB transcription factor (AHRD V1 ***- Q39550_CRAPL); contains Interpro domain(s)  IPR015495  Myb transcription factor
+160	Solyc05g055990.2.1 Aquaporin 2 (AHRD V1 ***- O65357_SAMSA); contains Interpro domain(s)  IPR012269  Aquaporin
+161	Solyc06g063070.2.1 Ethylene responsive transcription factor 2a (AHRD V1 ***- C0J9I7_9ROSA); contains Interpro domain(s)  IPR001471 Pathogenesis-related transcriptional factor and ERF, DNA-binding
+162	Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant
+163	Solyc07g056570.1.1 9-cis-epoxycarotenoid dioxygenase
+164	Solyc08g043170.2.1 Gamma-glutamyl phosphate reductase (AHRD V1 ***- D3TQ43_GLOMM); contains Interpro domain(s)  IPR005766  Delta l-pyrroline-5-carboxylate synthetase
+165	Solyc08g077980.2.1 Bax inhibitor (AHRD V1 ***- Q6U1L7_SOLLC); contains Interpro domain(s)  IPR006214  Uncharacterised protein family UPF0005
+166	Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin
+167	Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase
+168	Solyc11g018800.1.1 Peroxidase 2 (AHRD V1 ***- Q9SSZ8_SCUBA); contains Interpro domain(s)  IPR002016  Haem peroxidase, plant/fungal/bacterial
+169	Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal
+170	Solyc12g009020.1.1 Protein kinase (AHRD V1 **** C4Q4E0_SCHMA); contains Interpro domain(s)  IPR002290  Serine/threonine protein kinase
+171	MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta
+172	MLOC_54227.1 1083 CDS assembly3_WGSMorex_rbca.fasta
+173	MLOC_62301.1 1674 CDS assembly3_WGSMorex_rbca.fasta
+174	MLOC_77777.3 1161 CDS assembly3_WGSMorex_rbca.fasta
+175	Y17186.1_cds_CAA76677.1_1 [gene=eIF-4A] [db_xref=GOA:O65879,HSSP:1FUK,InterPro:IPR001650,InterPro:IPR011545, InterPro:IPR014001,InterPro:IPR014014,InterPro:IPR014021, UniProtKB/TrEMBL:O65879] [protein=translation initiation factor] [protein_id=CAA76677.1] [location=80..1303] [gbkey=CDS]
+176	AF077629.1_cds_AAF15307.1_1 [gene=A23] [protein=anth] [protein_id=AAF15307.1] [location=394..822] [gbkey=CDS]
+177	AF370358.1_cds_AAK53432.1_1 [protein=Na+/H+ antiporter] [protein_id=AAK53432.1] [location=142..1812] [gbkey=CDS]
+178	NM_117870.4_cds_NP_567533.1_1 [gene=CBL1] [locus_tag=AT4G17615] [db_xref=TAIR:AT4G17615,GeneID:827481] [protein=calcineurin B-like protein 1] [protein_id=NP_567533.1] [location=457..1098] [gbkey=CDS]
+179	AY250704.1_cds_AAP02957.1_1 [gene=TP55] [protein=aldehyde dehydrogenase family 7 member A1] [protein_id=AAP02957.1] [location=38..1570] [gbkey=CDS]
+180	AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]
+181	DQ663481.2_cds_ABG54481.1_1 [protein=late embryogenesis abundant protein] [protein_id=ABG54481.1] [location=126..437] [gbkey=CDS]
+182	AM493723.1_cds_CAM35490.1_1 [gene=ERF3] [db_xref=GOA:A4FS08,InterPro:IPR001471,InterPro:IPR016177, UniProtKB/TrEMBL:A4FS08] [protein=ethylene responsive transcription factor] [protein_id=CAM35490.1] [location=115..720] [gbkey=CDS]
+183	EF452301.1_cds_ABR15365.1_1 [gene=CRT] [protein=calreticulin] [protein_id=ABR15365.1] [location=36..1331] [gbkey=CDS]
+184	EU665425.1_cds_ACD80357.1_1 [protein=WRKY2 transcription factor] [protein_id=ACD80357.1] [location=1..1407] [gbkey=CDS]
+185	EU665430.1_cds_ACD80362.1_1 [protein=WRKY19 transcription factor] [protein_id=ACD80362.1] [location=1..1407] [gbkey=CDS]
+186	FJ417330.1_cds_ACJ48970.1_1 [protein=putative Cys2-His2 type zinc finger protein] [protein_id=ACJ48970.1] [location=1..516] [gbkey=CDS]
+187	GQ988775.1_cds_ACY56756.1_1 [protein=ZFP1] [protein_id=ACY56756.1] [location=53..556] [gbkey=CDS]
+188	HM027577.1_cds_ADE34586.1_1 [gene=NAC2a] [protein=NAC transcription factor 2a] [protein_id=ADE34586.1] [location=63..1046] [gbkey=CDS]
+189	NM_001197011.1_cds_NP_001183940.1_1 [gene=LOC100502540] [db_xref=GeneID:100502540] [protein=ABRE binding protein] [protein_id=NP_001183940.1] [location=34..1191] [gbkey=CDS]
+190	JX508709.1_cds_AFV31408.1_1 [protein=basic transcription factor 3] [protein_id=AFV31408.1] [location=114..647] [gbkey=CDS]
+191	XM_010044547.2_cds_XP_010042849.1_1 [gene=LOC104432046] [db_xref=GeneID:104432046] [protein=pyrophosphate-energized vacuolar membrane proton pump 1-like] [protein_id=XP_010042849.1] [location=95..1057] [gbkey=CDS]
+192	XM_020292605.1_cds_XP_020148194.1_1 [gene=LOC109733394] [db_xref=GeneID:109733394] [protein=serine/threonine-protein phosphatase PP2A-4 catalytic subunit isoform X2] [protein_id=XP_020148194.1] [location=168..1109] [gbkey=CDS]
+193	NM_001317650.2_cds_NP_001304579.2_1 [gene=LOC100788426] [db_xref=GeneID:100788426] [protein=uncharacterized protein LOC100788426] [protein_id=NP_001304579.2] [location=25..1002] [gbkey=CDS]
+Hit_sequences:
+671	> ENA|CU579509|CU579509.1 Theobroma cacao, mRNA sequence (KZ0AB8YI06FM1).	 
+136	> ENA|CU549965|CU549965.1 Theobroma cacao, mRNA sequence (KZ0AAS8YP15FM1).	 
+507	> ENA|CU632647|CU632647.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL21FM1).	 
+6	> ENA|CU539725|CU539725.1 Theobroma cacao, mRNA sequence (KZ0AAV12YJ03FM1).	 
+321	> ENA|CU510177|CU510177.1 Theobroma cacao, mRNA sequence (KZ0ACM2YI14FM1).	 
+363	> ENA|CU594256|CU594256.1 Theobroma cacao, mRNA sequence (KZ0AAH10YL13FM1).	 
+570	> ENA|CU632150|CU632150.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN15).	 
+594	> ENA|CU632023|CU632023.1 Theobroma cacao, mRNA sequence (KZ0ABB1YB02).	 
+271	> ENA|CU574777|CU574777.1 Theobroma cacao, mRNA sequence (KZ0AAP12YJ21FM1).	 
+585	> ENA|CU632073|CU632073.1 Theobroma cacao, mRNA sequence (KZ0ABB1YE17).	 
+465	> ENA|CU632929|CU632929.1 Theobroma cacao, mRNA sequence (KZ0ABB7YL19FM1).	 
+522	> ENA|CU632559|CU632559.1 Theobroma cacao, mRNA sequence (KZ0ABB5YC15FM1).	 
+669	> ENA|CU580817|CU580817.1 Theobroma cacao, mRNA sequence (KZ0ABV5YK19FM1).	 
+1	> ENA|CU601788|CU601788.1 Theobroma cacao, mRNA sequence (KZ0AAG7YO09FM1).	 
+364	> ENA|CU586966|CU586966.1 Theobroma cacao, mRNA sequence (KZ0AAB24YM23FM1).	 
+540	> ENA|CU632433|CU632433.1 Theobroma cacao, mRNA sequence (KZ0ABB4YE04FM1).	 
+574	> ENA|CU632141|CU632141.1 Theobroma cacao, mRNA sequence (KZ0ABB1YM14RM1).	 
+662	> ENA|CU587303|CU587303.1 Theobroma cacao, mRNA sequence (KZ0AAB4YP11FM1).	 
+19	> ENA|CU565999|CU565999.1 Theobroma cacao, mRNA sequence (KZ0ABL2YD18FM1).	 
+23	> ENA|CU566093|CU566093.1 Theobroma cacao, mRNA sequence (KZ0ABL2YK16FM1).	 
+170	> ENA|CU544123|CU544123.1 Theobroma cacao, mRNA sequence (KZ0AAV8YO20FM1).	 
+578	> ENA|CU632125|CU632125.1 Theobroma cacao, mRNA sequence (KZ0ABB1YK24).	 
+320	> ENA|CU572024|CU572024.1 Theobroma cacao, mRNA sequence (KZ0AAP13YP04FM1).	 
+642	> ENA|CU621727|CU621727.1 Theobroma cacao, mRNA sequence (KZ0AAA11YK13FM1).	 
+307	> ENA|CU509546|CU509546.1 Theobroma cacao, mRNA sequence (KZ0ACF4YM23FM1).	 
+628	> ENA|CU629831|CU629831.1 Theobroma cacao, mRNA sequence (KZ0ABB2YC02FM1).	 
+160	> ENA|CU511973|CU511973.1 Theobroma cacao, mRNA sequence (KZ0ACN2YP24FM1).	 
+69	> ENA|CU520727|CU520727.1 Theobroma cacao, mRNA sequence (KZ0ABH12YO24FM1).	 
+467	> ENA|CU632911|CU632911.1 Theobroma cacao, mRNA sequence (KZ0ABB7YJ22FM1).	 
+556	> ENA|CU632300|CU632300.1 Theobroma cacao, mRNA sequence (KZ0ABB3YF21FM1).	 
+268	> ENA|CU474229|CU474229.1 Theobroma cacao, mRNA sequence (KZ0AAC11YC11FM1).	 
+569	> ENA|CU632153|CU632153.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO08RM1).	 
+169	> ENA|CU620503|CU620503.1 Theobroma cacao, mRNA sequence (KZ0AAA4YN01FM1).	 
+470	> ENA|CU632885|CU632885.1 Theobroma cacao, mRNA sequence (KZ0ABB7YH02FM1).	 
+672	> ENA|CU579113|CU579113.1 Theobroma cacao, mRNA sequence (KZ0AB2YJ17FM1).	 
+106	> ENA|CU474995|CU474995.1 Theobroma cacao, mRNA sequence (KZ0AAC4YF06FM1).	 
+362	> ENA|CU595286|CU595286.1 Theobroma cacao, mRNA sequence (KZ0AAH9YP11FM1).	 
+7	> ENA|CU476350|CU476350.1 Theobroma cacao, mRNA sequence (KZ0AAL13YL08FM1).	 
+103	> ENA|CU495785|CU495785.1 Theobroma cacao, mRNA sequence (KZ0AAD3YI05FM1).	 
+553	> ENA|CU632323|CU632323.1 Theobroma cacao, mRNA sequence (KZ0ABB3YH22FM1).	 
+346	> ENA|CU483899|CU483899.1 Theobroma cacao, mRNA sequence (KZ0AAT6YL17FM1).	 
+250	> ENA|CU486122|CU486122.1 Theobroma cacao, mRNA sequence (KZ0ACAC7YH13FM1).	 
+446	> ENA|CU633076|CU633076.1 Theobroma cacao, mRNA sequence (KZ0ABB9YA24FM1).	 
+666	> ENA|CU582574|CU582574.1 Theobroma cacao, mRNA sequence (KZ0ABV8YD16FM1).	 
+65	> ENA|CU553846|CU553846.1 Theobroma cacao, mRNA sequence (KZ0ABA6YD19FM1).	 
+97	> ENA|CU542880|CU542880.1 Theobroma cacao, mRNA sequence (KZ0AAV12YD05FM1).	 
+678	> ENA|CU570077|CU570077.1 Theobroma cacao, mRNA sequence (KZ0ACAD3YE08FM1).	 
+497	> ENA|CU632696|CU632696.1 Theobroma cacao, mRNA sequence (KZ0ABB6YB11FM1).	 
+634	> ENA|CU629640|CU629640.1 Theobroma cacao, mRNA sequence (KZ0ABB1YF05).	 
+49	> ENA|CU543584|CU543584.1 Theobroma cacao, mRNA sequence (KZ0AAV3YM08FM1).	 
+66	> ENA|CU544047|CU544047.1 Theobroma cacao, mRNA sequence (KZ0AAV7YP19FM1).	 
+224	> ENA|CU579503|CU579503.1 Theobroma cacao, mRNA sequence (KZ0AB8YH04FM1).	 
+28	> ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9YI07FM1).	 
+337	> ENA|CU575598|CU575598.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB07FM1).	 
+339	> ENA|CU587554|CU587554.1 Theobroma cacao, mRNA sequence (KZ0AAB7YE09FM1).	 
+604	> ENA|CU631968|CU631968.1 Theobroma cacao, mRNA sequence (KZ0ABB16YJ18FM1).	 
+90	> ENA|CU586571|CU586571.1 Theobroma cacao, mRNA sequence (KZ0AAB12YL15FM1).	 
+240	> ENA|CU592183|CU592183.1 Theobroma cacao, mRNA sequence (KZ0AAH13YO14FM1).	 
+493	> ENA|CU632717|CU632717.1 Theobroma cacao, mRNA sequence (KZ0ABB6YE04FM1).	 
+624	> ENA|CU631529|CU631529.1 Theobroma cacao, mRNA sequence (KZ0ABB11YH09FM1).	 
+182	> ENA|CU587631|CU587631.1 Theobroma cacao, mRNA sequence (KZ0AAB7YM03FM1).	 
+548	> ENA|CU632357|CU632357.1 Theobroma cacao, mRNA sequence (KZ0ABB3YL23FM1).	 
+579	> ENA|CU632113|CU632113.1 Theobroma cacao, mRNA sequence (KZ0ABB1YK09).	 
+656	> ENA|CU597908|CU597908.1 Theobroma cacao, mRNA sequence (KZ0AAF3YM23FM1).	 
+131	> ENA|CU548843|CU548843.1 Theobroma cacao, mRNA sequence (KZ0AAS4YH21FM1).	 
+471	> ENA|CU632867|CU632867.1 Theobroma cacao, mRNA sequence (KZ0ABB7YF02FM1).	 
+316	> ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9YH17FM1).	 
+138	> ENA|CU495663|CU495663.1 Theobroma cacao, mRNA sequence (KZ0AAD1YK16).	 
+257	> ENA|CU496825|CU496825.1 Theobroma cacao, mRNA sequence (KZ0ACP1YO21FM1).	 
+443	> ENA|CU633106|CU633106.1 Theobroma cacao, mRNA sequence (KZ0ABB9YE20FM1).	 
+243	> ENA|CU622119|CU622119.1 Theobroma cacao, mRNA sequence (KZ0AAA15YP11FM1).	 
+615	> ENA|CU631875|CU631875.1 Theobroma cacao, mRNA sequence (KZ0ABB15YL08FM1).	 
+345	> ENA|CU575599|CU575599.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB09FM1).	 
+276	> ENA|CU622040|CU622040.1 Theobroma cacao, mRNA sequence (KZ0AAA15YE10FM1).	 
+111	> ENA|CU543035|CU543035.1 Theobroma cacao, mRNA sequence (KZ0AAV13YM16FM1).	 
+641	> ENA|CU622264|CU622264.1 Theobroma cacao, mRNA sequence (KZ0AAA2YM09FM1).	 
+325	> ENA|CU587632|CU587632.1 Theobroma cacao, mRNA sequence (KZ0AAB7YM06FM1).	 
+308	> ENA|CU575404|CU575404.1 Theobroma cacao, mRNA sequence (KZ0AAP24YL18FM1).	 
+60	> ENA|CU536458|CU536458.1 Theobroma cacao, mRNA sequence (KZ0AAQ3YE02FM1).	 
+139	> ENA|CU484244|CU484244.1 Theobroma cacao, mRNA sequence (KZ0AAT9YB04FM1).	 
+287	> ENA|CU593406|CU593406.1 Theobroma cacao, mRNA sequence (KZ0AAH4YN19FM1).	 
+359	> ENA|CU475454|CU475454.1 Theobroma cacao, mRNA sequence (KZ0AAC8YK04FM1).	 
+71	> ENA|CU484292|CU484292.1 Theobroma cacao, mRNA sequence (KZ0AAT9YH16FM1).	 
+294	> ENA|CU576745|CU576745.1 Theobroma cacao, mRNA sequence (KZ0AB10YN06FM1).	 
+494	> ENA|CU632711|CU632711.1 Theobroma cacao, mRNA sequence (KZ0ABB6YD04FM1).	 
+515	> ENA|CU632592|CU632592.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF23FM1).	 
+8	> ENA|CU531163|CU531163.1 Theobroma cacao, mRNA sequence (KZ0AAK13YD09FM1).	 
+322	> ENA|CU532117|CU532117.1 Theobroma cacao, mRNA sequence (KZ0AAK2YC22FM1).	 
+602	> ENA|CU631984|CU631984.1 Theobroma cacao, mRNA sequence (KZ0ABB16YM05FM1).	 
+236	> ENA|CU510591|CU510591.1 Theobroma cacao, mRNA sequence (KZ0ACM4YB09FM1).	 
+545	> ENA|CU632394|CU632394.1 Theobroma cacao, mRNA sequence (KZ0ABB4YA15FM1).	 
+635	> ENA|CU629378|CU629378.1 Theobroma cacao, mRNA sequence (KZ0ABB16YA12FM1).	 
+527	> ENA|CU632525|CU632525.1 Theobroma cacao, mRNA sequence (KZ0ABB4YP18FM1).	 
+614	> ENA|CU631915|CU631915.1 Theobroma cacao, mRNA sequence (KZ0ABB16YC02FM1).	 
+215	> ENA|CU593216|CU593216.1 Theobroma cacao, mRNA sequence (KZ0AAH2YC15FM1).	 
+190	> ENA|CU576312|CU576312.1 Theobroma cacao, mRNA sequence (KZ0AAP8YG19FM1).	 
+489	> ENA|CU632743|CU632743.1 Theobroma cacao, mRNA sequence (KZ0ABB6YG11FM1).	 
+566	> ENA|CU632160|CU632160.1 Theobroma cacao, mRNA sequence (KZ0ABB1YP03).	 
+265	> ENA|CU515948|CU515948.1 Theobroma cacao, mRNA sequence (KZ0ABF9YC15FM1).	 
+488	> ENA|CU632767|CU632767.1 Theobroma cacao, mRNA sequence (KZ0ABB6YJ16FM1).	 
+262	> ENA|CU576403|CU576403.1 Theobroma cacao, mRNA sequence (KZ0AAP9YB20FM1).	 
+189	> ENA|CU581866|CU581866.1 Theobroma cacao, mRNA sequence (KZ0ABV1YC08FM1).	 
+20	> ENA|CU565944|CU565944.1 Theobroma cacao, mRNA sequence (KZ0ABL2YA07FM1).	 
+456	> ENA|CU633013|CU633013.1 Theobroma cacao, mRNA sequence (KZ0ABB8YF22FM1).	 
+450	> ENA|CU633043|CU633043.1 Theobroma cacao, mRNA sequence (KZ0ABB8YL02FM1).	 
+43	> ENA|CU542857|CU542857.1 Theobroma cacao, mRNA sequence (KZ0AAV12YA16FM1).	 
+609	> ENA|CU631940|CU631940.1 Theobroma cacao, mRNA sequence (KZ0ABB16YF07FM1).	 
+661	> ENA|CU587586|CU587586.1 Theobroma cacao, mRNA sequence (KZ0AAB7YH16FM1).	 
+56	> ENA|CU543689|CU543689.1 Theobroma cacao, mRNA sequence (KZ0AAV4YL02FM1).	 
+466	> ENA|CU632921|CU632921.1 Theobroma cacao, mRNA sequence (KZ0ABB7YK18FM1).	 
+533	> ENA|CU632482|CU632482.1 Theobroma cacao, mRNA sequence (KZ0ABB4YK17FM1).	 
+15	> ENA|CU566235|CU566235.1 Theobroma cacao, mRNA sequence (KZ0ABL3YE22FM1).	 
+351	> ENA|CU475315|CU475315.1 Theobroma cacao, mRNA sequence (KZ0AAC7YE05FM1).	 
+121	> ENA|CU486881|CU486881.1 Theobroma cacao, mRNA sequence (KZ0ACAC4YC23FM1).	 
+115	> ENA|CU587462|CU587462.1 Theobroma cacao, mRNA sequence (KZ0AAB6YG07FM1).	 
+202	> ENA|CU543651|CU543651.1 Theobroma cacao, mRNA sequence (KZ0AAV4YG10FM1).	 
+557	> ENA|CU632287|CU632287.1 Theobroma cacao, mRNA sequence (KZ0ABB3YE14FM1).	 
+435	> ENA|CU617377|CU617377.1 Theobroma cacao, mRNA sequence (KZ0AAN3YJ19FM1).	 
+125	> ENA|CU516597|CU516597.1 Theobroma cacao, mRNA sequence (KZ0ABF7YJ22FM1).	 
+207	> ENA|CU594484|CU594484.1 Theobroma cacao, mRNA sequence (KZ0AAH14YB09FM1).	 
+447	> ENA|CU633057|CU633057.1 Theobroma cacao, mRNA sequence (KZ0ABB8YO03FM1).	 
+258	> ENA|CU543254|CU543254.1 Theobroma cacao, mRNA sequence (KZ0AAV1YB21).	 
+385	> ENA|CU525765|CU525765.1 Theobroma cacao, mRNA sequence (KZ0ACL3YE14FM1).	 
+239	> ENA|CU537056|CU537056.1 Theobroma cacao, mRNA sequence (KZ0AAQ5YI23FM1).	 
+530	> ENA|CU632514|CU632514.1 Theobroma cacao, mRNA sequence (KZ0ABB4YO02FM1).	 
+233	> ENA|CU575107|CU575107.1 Theobroma cacao, mRNA sequence (KZ0AAP15YO07FM1).	 
+323	> ENA|CU587069|CU587069.1 Theobroma cacao, mRNA sequence (KZ0AAB2YN21FM1).	 
+608	> ENA|CU631945|CU631945.1 Theobroma cacao, mRNA sequence (KZ0ABB16YG06FM1).	 
+186	> ENA|CU587044|CU587044.1 Theobroma cacao, mRNA sequence (KZ0AAB2YJ12FM1).	 
+247	> ENA|CU625311|CU625311.1 Theobroma cacao, mRNA sequence (KZ0ABE4YH03FM1).	 
+542	> ENA|CU632421|CU632421.1 Theobroma cacao, mRNA sequence (KZ0ABB4YD11FM1).	 
+172	> ENA|CU543721|CU543721.1 Theobroma cacao, mRNA sequence (KZ0AAV4YP17FM1).	 
+505	> ENA|CU632653|CU632653.1 Theobroma cacao, mRNA sequence (KZ0ABB5YM14FM1).	 
+137	> ENA|CU526863|CU526863.1 Theobroma cacao, mRNA sequence (KZ0ACAA10YA07FM1).	 
+187	> ENA|CU587016|CU587016.1 Theobroma cacao, mRNA sequence (KZ0AAB2YE06FM1).	 
+317	> ENA|CU605246|CU605246.1 Theobroma cacao, mRNA sequence (KZ0ACAN1YF18FM1).	 
+246	> ENA|CU586525|CU586525.1 Theobroma cacao, mRNA sequence (KZ0AAB12YD04FM1).	 
+299	> ENA|CU483463|CU483463.1 Theobroma cacao, mRNA sequence (KZ0AAT3YD20FM1).	 
+584	> ENA|CU632078|CU632078.1 Theobroma cacao, mRNA sequence (KZ0ABB1YF13).	 
+491	> ENA|CU632722|CU632722.1 Theobroma cacao, mRNA sequence (KZ0ABB6YE16FM1).	 
+350	> ENA|CU587574|CU587574.1 Theobroma cacao, mRNA sequence (KZ0AAB7YG15FM1).	 
+568	> ENA|CU632154|CU632154.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO09).	 
+474	> ENA|CU632859|CU632859.1 Theobroma cacao, mRNA sequence (KZ0ABB7YE10FM1).	 
+135	> ENA|CU553933|CU553933.1 Theobroma cacao, mRNA sequence (KZ0ABA8YJ22FM1).	 
+532	> ENA|CU632503|CU632503.1 Theobroma cacao, mRNA sequence (KZ0ABB4YM20FM1).	 
+650	> ENA|CU616893|CU616893.1 Theobroma cacao, mRNA sequence (KZ0AAN11YK07FM1).	 
+128	> ENA|CU595164|CU595164.1 Theobroma cacao, mRNA sequence (KZ0AAH7YO20FM1).	 
+305	> ENA|CU533689|CU533689.1 Theobroma cacao, mRNA sequence (KZ0AAI1YB07).	 
+367	> ENA|CU544127|CU544127.1 Theobroma cacao, mRNA sequence (KZ0AAV8YP10FM1).	 
+576	> ENA|CU632136|CU632136.1 Theobroma cacao, mRNA sequence (KZ0ABB1YL24).	 
+389	> ENA|CU506420|CU506420.1 Theobroma cacao, mRNA sequence (KZ0ACAB9YM22FM1).	 
+468	> ENA|CU632910|CU632910.1 Theobroma cacao, mRNA sequence (KZ0ABB7YJ19FM1).	 
+539	> ENA|CU632438|CU632438.1 Theobroma cacao, mRNA sequence (KZ0ABB4YE13FM1).	 
+13	> ENA|CU566351|CU566351.1 Theobroma cacao, mRNA sequence (KZ0ABL3YN03FM1).	 
+448	> ENA|CU633054|CU633054.1 Theobroma cacao, mRNA sequence (KZ0ABB8YN24FM1).	 
+217	> ENA|CU507049|CU507049.1 Theobroma cacao, mRNA sequence (KZ0ACAB5YA08FM1).	 
+167	> ENA|CU537149|CU537149.1 Theobroma cacao, mRNA sequence (KZ0AAQ5YO09FM1).	 
+175	> ENA|CU496134|CU496134.1 Theobroma cacao, mRNA sequence (KZ0AAD8YP18FM1).	 
+519	> ENA|CU632581|CU632581.1 Theobroma cacao, mRNA sequence (KZ0ABB5YE20FM1).	 
+583	> ENA|CU632095|CU632095.1 Theobroma cacao, mRNA sequence (KZ0ABB1YH17RM1).	 
+544	> ENA|CU632400|CU632400.1 Theobroma cacao, mRNA sequence (KZ0ABB4YB11FM1).	 
+68	> ENA|CU534475|CU534475.1 Theobroma cacao, mRNA sequence (KZ0AAK2YJ08FM1).	 
+639	> ENA|CU622554|CU622554.1 Theobroma cacao, mRNA sequence (KZ0AAA4YO22FM1).	 
+152	> ENA|CU610815|CU610815.1 Theobroma cacao, mRNA sequence (KZ0AAM8YE20FM1).	 
+476	> ENA|CU632839|CU632839.1 Theobroma cacao, mRNA sequence (KZ0ABB7YB24FM1).	 
+10	> ENA|CU566571|CU566571.1 Theobroma cacao, mRNA sequence (KZ0ABL4YN19FM1).	 
+392	> ENA|CU578306|CU578306.1 Theobroma cacao, mRNA sequence (KZ0AB7YG12FM1).	 
+141	> ENA|CU593383|CU593383.1 Theobroma cacao, mRNA sequence (KZ0AAH4YI05FM1).	 
+199	> ENA|CU587161|CU587161.1 Theobroma cacao, mRNA sequence (KZ0AAB3YN17FM1).	 
+291	> ENA|CU605325|CU605325.1 Theobroma cacao, mRNA sequence (KZ0ACAN1YK06FM1).	 
+680	> ENA|CU565844|CU565844.1 Theobroma cacao, mRNA sequence (KZ0ABL1YH04FM1).	 
+525	> ENA|CU632541|CU632541.1 Theobroma cacao, mRNA sequence (KZ0ABB5YB09FM1).	 
+93	> ENA|CU550336|CU550336.1 Theobroma cacao, mRNA sequence (KZ0AAS2YC10FM1).	 
+432	> ENA|CU630750|CU630750.1 Theobroma cacao, mRNA sequence (KZ0ABB6YJ18FM1).	 
+232	> ENA|CU587346|CU587346.1 Theobroma cacao, mRNA sequence (KZ0AAB5YF15FM1).	 
+47	> ENA|CU495861|CU495861.1 Theobroma cacao, mRNA sequence (KZ0AAD4YJ24FM1).	 
+334	> ENA|CU575357|CU575357.1 Theobroma cacao, mRNA sequence (KZ0AAP24YH02FM1).	 
+449	> ENA|CU633048|CU633048.1 Theobroma cacao, mRNA sequence (KZ0ABB8YM16FM1).	 
+676	> ENA|CU570183|CU570183.1 Theobroma cacao, mRNA sequence (KZ0ACAD4YO04FM1).	 
+164	> ENA|CU543226|CU543226.1 Theobroma cacao, mRNA sequence (KZ0AAV15YO02FM1).	 
+34	> ENA|CU495643|CU495643.1 Theobroma cacao, mRNA sequence (KZ0AAD1YH04).	 
+616	> ENA|CU631837|CU631837.1 Theobroma cacao, mRNA sequence (KZ0ABB15YE01FM1).	 
+516	> ENA|CU632591|CU632591.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF15FM1).	 
+127	> ENA|CU574724|CU574724.1 Theobroma cacao, mRNA sequence (KZ0AAP12YD06FM1).	 
+58	> ENA|CU507047|CU507047.1 Theobroma cacao, mRNA sequence (KZ0ACAB5YA02FM1).	 
+222	> ENA|CU586494|CU586494.1 Theobroma cacao, mRNA sequence (KZ0AAB10YM24FM1).	 
+492	> ENA|CU632719|CU632719.1 Theobroma cacao, mRNA sequence (KZ0ABB6YE11FM1).	 
+554	> ENA|CU632318|CU632318.1 Theobroma cacao, mRNA sequence (KZ0ABB3YH12FM1).	 
+663	> ENA|CU587212|CU587212.1 Theobroma cacao, mRNA sequence (KZ0AAB4YE08FM1).	 
+177	> ENA|CU495427|CU495427.1 Theobroma cacao, mRNA sequence (KZ0AAD12YN19FM1).	 
+208	> ENA|CU593545|CU593545.1 Theobroma cacao, mRNA sequence (KZ0AAH6YO09FM1).	 
+303	> ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8YH17FM1).	 
+605	> ENA|CU631964|CU631964.1 Theobroma cacao, mRNA sequence (KZ0ABB16YJ01FM1).	 
+221	> ENA|CU495858|CU495858.1 Theobroma cacao, mRNA sequence (KZ0AAD4YJ21FM1).	 
+558	> ENA|CU632283|CU632283.1 Theobroma cacao, mRNA sequence (KZ0ABB3YE02FM1).	 
+617	> ENA|CU631808|CU631808.1 Theobroma cacao, mRNA sequence (KZ0ABB14YP01FM1).	 
+479	> ENA|CU632822|CU632822.1 Theobroma cacao, mRNA sequence (KZ0ABB7YA06FM1).	 
+293	> ENA|CU483317|CU483317.1 Theobroma cacao, mRNA sequence (KZ0AAT2YA24FM1).	 
+31	> ENA|CU574926|CU574926.1 Theobroma cacao, mRNA sequence (KZ0AAP14YC22FM1).	 
+455	> ENA|CU633021|CU633021.1 Theobroma cacao, mRNA sequence (KZ0ABB8YG23FM1).	 
+134	> ENA|CU583681|CU583681.1 Theobroma cacao, mRNA sequence (KZ0AAB14YD13FM1).	 
+510	> ENA|CU632631|CU632631.1 Theobroma cacao, mRNA sequence (KZ0ABB5YK03FM1).	 
+5	> ENA|CU540323|CU540323.1 Theobroma cacao, mRNA sequence (KZ0AAV14YP03FM1).	 
+84	> ENA|CU594693|CU594693.1 Theobroma cacao, mRNA sequence (KZ0AAH16YG20FM1).	 
+326	> ENA|CU539473|CU539473.1 Theobroma cacao, mRNA sequence (KZ0AAV11YH16FM1).	 
+100	> ENA|CU516519|CU516519.1 Theobroma cacao, mRNA sequence (KZ0ABF6YD01FM1).	 
+235	> ENA|CU553913|CU553913.1 Theobroma cacao, mRNA sequence (KZ0ABA8YB23FM1).	 
+463	> ENA|CU632968|CU632968.1 Theobroma cacao, mRNA sequence (KZ0ABB8YA08FM1).	 
+96	> ENA|CU543128|CU543128.1 Theobroma cacao, mRNA sequence (KZ0AAV14YM17FM1).	 
+458	> ENA|CU633005|CU633005.1 Theobroma cacao, mRNA sequence (KZ0ABB8YE20FM1).	 
+547	> ENA|CU632385|CU632385.1 Theobroma cacao, mRNA sequence (KZ0ABB3YO18FM1).	 
+619	> ENA|CU631762|CU631762.1 Theobroma cacao, mRNA sequence (KZ0ABB14YE02FM1).	 
+500	> ENA|CU632674|CU632674.1 Theobroma cacao, mRNA sequence (KZ0ABB5YO19FM1).	 
+48	> ENA|CU553951|CU553951.1 Theobroma cacao, mRNA sequence (KZ0ABA9YF13FM1).	 
+216	> ENA|CU483693|CU483693.1 Theobroma cacao, mRNA sequence (KZ0AAT4YP18FM1).	 
+517	> ENA|CU632586|CU632586.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF06FM1).	 
+592	> ENA|CU632030|CU632030.1 Theobroma cacao, mRNA sequence (KZ0ABB1YB13RM1).	 
+538	> ENA|CU632452|CU632452.1 Theobroma cacao, mRNA sequence (KZ0ABB4YG09FM1).	 
+401	> ENA|CU551031|CU551031.1 Theobroma cacao, mRNA sequence (KZ0ABA10YP24FM1).	 
+120	> ENA|CU575331|CU575331.1 Theobroma cacao, mRNA sequence (KZ0AAP24YD18FM1).	 
+231	> ENA|CU586976|CU586976.1 Theobroma cacao, mRNA sequence (KZ0AAB24YO15FM1).	 
+336	> ENA|CU575077|CU575077.1 Theobroma cacao, mRNA sequence (KZ0AAP15YK17FM1).	 
+53	> ENA|CU484096|CU484096.1 Theobroma cacao, mRNA sequence (KZ0AAT8YB07FM1).	 
+438	> ENA|CU633136|CU633136.1 Theobroma cacao, mRNA sequence (KZ0ABB9YK23FM1).	 
+552	> ENA|CU632334|CU632334.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ01FM1).	 
+645	> ENA|CU618026|CU618026.1 Theobroma cacao, mRNA sequence (KZ0AAN8YA19FM1).	 
+324	> ENA|CU627501|CU627501.1 Theobroma cacao, mRNA sequence (KZ0ABE5YD03FM1).	 
+436	> ENA|CU633139|CU633139.1 Theobroma cacao, mRNA sequence (KZ0ABB9YL22FM1).	 
+42	> ENA|CU581774|CU581774.1 Theobroma cacao, mRNA sequence (KZ0ABV10YC05FM1).	 
+673	> ENA|CU579031|CU579031.1 Theobroma cacao, mRNA sequence (KZ0AB1YG06FM1).	 
+180	> ENA|CU587758|CU587758.1 Theobroma cacao, mRNA sequence (KZ0AAB8YL01FM1).	 
+484	> ENA|CU632804|CU632804.1 Theobroma cacao, mRNA sequence (KZ0ABB6YO05FM1).	 
+606	> ENA|CU631958|CU631958.1 Theobroma cacao, mRNA sequence (KZ0ABB16YI09FM1).	 
+214	> ENA|CU510821|CU510821.1 Theobroma cacao, mRNA sequence (KZ0ACM5YD05FM1).	 
+37	> ENA|CU594744|CU594744.1 Theobroma cacao, mRNA sequence (KZ0AAH1YA18).	 
+51	> ENA|CU483710|CU483710.1 Theobroma cacao, mRNA sequence (KZ0AAT5YB24FM1).	 
+122	> ENA|CU516439|CU516439.1 Theobroma cacao, mRNA sequence (KZ0ABF4YK11FM1).	 
+220	> ENA|CU583549|CU583549.1 Theobroma cacao, mRNA sequence (KZ0AAB13YJ13FM1).	 
+269	> ENA|CU534452|CU534452.1 Theobroma cacao, mRNA sequence (KZ0AAK2YG13FM1).	 
+377	> ENA|CU544204|CU544204.1 Theobroma cacao, mRNA sequence (KZ0AAV9YL23FM1).	 
+92	> ENA|CU553321|CU553321.1 Theobroma cacao, mRNA sequence (KZ0ABA10YE07FM1).	 
+237	> ENA|CU571959|CU571959.1 Theobroma cacao, mRNA sequence (KZ0AAP13YK13FM1).	 
+531	> ENA|CU632509|CU632509.1 Theobroma cacao, mRNA sequence (KZ0ABB4YN12FM1).	 
+469	> ENA|CU632907|CU632907.1 Theobroma cacao, mRNA sequence (KZ0ABB7YJ12FM1).	 
+130	> ENA|CU584951|CU584951.1 Theobroma cacao, mRNA sequence (KZ0AAB3YJ05FM1).	 
+91	> ENA|CU553329|CU553329.1 Theobroma cacao, mRNA sequence (KZ0ABA10YG01FM1).	 
+667	> ENA|CU582473|CU582473.1 Theobroma cacao, mRNA sequence (KZ0ABV7YE20FM1).	 
+188	> ENA|CU586081|CU586081.1 Theobroma cacao, mRNA sequence (KZ0AAB8YJ23FM1).	 
+508	> ENA|CU632646|CU632646.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL20FM1).	 
+223	> ENA|CU581820|CU581820.1 Theobroma cacao, mRNA sequence (KZ0ABV10YJ11FM1).	 
+670	> ENA|CU579925|CU579925.1 Theobroma cacao, mRNA sequence (KZ0ABV1YH16FM1).	 
+284	> ENA|CU542476|CU542476.1 Theobroma cacao, mRNA sequence (KZ0AAV9YE20FM1).	 
+529	> ENA|CU632518|CU632518.1 Theobroma cacao, mRNA sequence (KZ0ABB4YO19FM1).	 
+620	> ENA|CU631761|CU631761.1 Theobroma cacao, mRNA sequence (KZ0ABB14YE01FM1).	 
+123	> ENA|CU507412|CU507412.1 Theobroma cacao, mRNA sequence (KZ0ACAB7YP14FM1).	 
+496	> ENA|CU632700|CU632700.1 Theobroma cacao, mRNA sequence (KZ0ABB6YB21FM1).	 
+191	> ENA|CU543885|CU543885.1 Theobroma cacao, mRNA sequence (KZ0AAV6YH15FM1).	 
+290	> ENA|CU508858|CU508858.1 Theobroma cacao, mRNA sequence (KZ0ACF4YH20FM1).	 
+498	> ENA|CU632682|CU632682.1 Theobroma cacao, mRNA sequence (KZ0ABB5YP23FM1).	 
+541	> ENA|CU632432|CU632432.1 Theobroma cacao, mRNA sequence (KZ0ABB4YE03FM1).	 
+501	> ENA|CU632668|CU632668.1 Theobroma cacao, mRNA sequence (KZ0ABB5YO08FM1).	 
+560	> ENA|CU632268|CU632268.1 Theobroma cacao, mRNA sequence (KZ0ABB3YC20FM1).	 
+158	> ENA|CU576310|CU576310.1 Theobroma cacao, mRNA sequence (KZ0AAP8YG17FM1).	 
+201	> ENA|CU553794|CU553794.1 Theobroma cacao, mRNA sequence (KZ0ABA5YB12FM1).	 
+282	> ENA|CU576133|CU576133.1 Theobroma cacao, mRNA sequence (KZ0AAP6YP01FM1).	 
+285	> ENA|CU470392|CU470392.1 Theobroma cacao, mRNA sequence (KZ0ACI4YA09FM1).	 
+151	> ENA|CU496128|CU496128.1 Theobroma cacao, mRNA sequence (KZ0AAD8YN14FM1).	 
+655	> ENA|CU606402|CU606402.1 Theobroma cacao, mRNA sequence (KZ0ACT4YJ03FM1).	 
+78	> ENA|CU483021|CU483021.1 Theobroma cacao, mRNA sequence (KZ0AAT10YJ19FM1).	 
+393	> ENA|CU595667|CU595667.1 Theobroma cacao, mRNA sequence (KZ0AAF10YM21FM1).	 
+440	> ENA|CU633124|CU633124.1 Theobroma cacao, mRNA sequence (KZ0ABB9YI06FM1).	 
+537	> ENA|CU632458|CU632458.1 Theobroma cacao, mRNA sequence (KZ0ABB4YH09FM1).	 
+599	> ENA|CU631994|CU631994.1 Theobroma cacao, mRNA sequence (KZ0ABB16YN16FM1).	 
+652	> ENA|CU614291|CU614291.1 Theobroma cacao, mRNA sequence (KZ0ACAH5YO07FM1).	 
+601	> ENA|CU631987|CU631987.1 Theobroma cacao, mRNA sequence (KZ0ABB16YM13FM1).	 
+9	> ENA|CU518843|CU518843.1 Theobroma cacao, mRNA sequence (KZ0ABH3YA09FM1).	 
+332	> ENA|CU535060|CU535060.1 Theobroma cacao, mRNA sequence (KZ0AAK7YD23FM1).	 
+511	> ENA|CU632617|CU632617.1 Theobroma cacao, mRNA sequence (KZ0ABB5YJ01FM1).	 
+665	> ENA|CU582653|CU582653.1 Theobroma cacao, mRNA sequence (KZ0ABV8YP01FM1).	 
+454	> ENA|CU633025|CU633025.1 Theobroma cacao, mRNA sequence (KZ0ABB8YH04FM1).	 
+341	> ENA|CU537267|CU537267.1 Theobroma cacao, mRNA sequence (KZ0AAQ6YG03FM1).	 
+380	> ENA|CU548999|CU548999.1 Theobroma cacao, mRNA sequence (KZ0AAS5YG09FM1).	 
+657	> ENA|CU597658|CU597658.1 Theobroma cacao, mRNA sequence (KZ0AAF1YN02).	 
+485	> ENA|CU632798|CU632798.1 Theobroma cacao, mRNA sequence (KZ0ABB6YN09FM1).	 
+165	> ENA|CU469950|CU469950.1 Theobroma cacao, mRNA sequence (KZ0ACI2YG03FM1).	 
+589	> ENA|CU632048|CU632048.1 Theobroma cacao, mRNA sequence (KZ0ABB1YC15).	 
+112	> ENA|CU483134|CU483134.1 Theobroma cacao, mRNA sequence (KZ0AAT11YM10FM1).	 
+653	> ENA|CU614286|CU614286.1 Theobroma cacao, mRNA sequence (KZ0ACAH5YN09FM1).	 
+242	> ENA|CU506627|CU506627.1 Theobroma cacao, mRNA sequence (KZ0ACAB1YF02FM1).	 
+355	> ENA|CU576219|CU576219.1 Theobroma cacao, mRNA sequence (KZ0AAP7YL06FM1).	 
+63	> ENA|CU587257|CU587257.1 Theobroma cacao, mRNA sequence (KZ0AAB4YK03FM1).	 
+30	> ENA|CU539224|CU539224.1 Theobroma cacao, mRNA sequence (KZ0AAV10YF08FM1).	 
+197	> ENA|CU587540|CU587540.1 Theobroma cacao, mRNA sequence (KZ0AAB7YC20FM1).	 
+368	> ENA|CU550829|CU550829.1 Theobroma cacao, mRNA sequence (KZ0ABA10YF02FM1).	 
+647	> ENA|CU617732|CU617732.1 Theobroma cacao, mRNA sequence (KZ0AAN6YA08FM1).	 
+535	> ENA|CU632470|CU632470.1 Theobroma cacao, mRNA sequence (KZ0ABB4YJ13FM1).	 
+395	> ENA|CU618441|CU618441.1 Theobroma cacao, mRNA sequence (KZ0AAA10YH17FM1).	 
+275	> ENA|CU484058|CU484058.1 Theobroma cacao, mRNA sequence (KZ0AAT7YN17FM1).	 
+46	> ENA|CU586587|CU586587.1 Theobroma cacao, mRNA sequence (KZ0AAB12YP09FM1).	 
+54	> ENA|CU543727|CU543727.1 Theobroma cacao, mRNA sequence (KZ0AAV5YA07FM1).	 
+117	> ENA|CU587251|CU587251.1 Theobroma cacao, mRNA sequence (KZ0AAB4YJ13FM1).	 
+573	> ENA|CU632143|CU632143.1 Theobroma cacao, mRNA sequence (KZ0ABB1YM20).	 
+3	> ENA|CU491811|CU491811.1 Theobroma cacao, mRNA sequence (KZ0ACAE1YH13FM1).	 
+480	> ENA|CU632819|CU632819.1 Theobroma cacao, mRNA sequence (KZ0ABB6YP22FM1).	 
+495	> ENA|CU632708|CU632708.1 Theobroma cacao, mRNA sequence (KZ0ABB6YC09FM1).	 
+340	> ENA|CU533913|CU533913.1 Theobroma cacao, mRNA sequence (KZ0AAK10YN02FM1).	 
+292	> ENA|CU505255|CU505255.1 Theobroma cacao, mRNA sequence (KZ0ACAB4YI21FM1).	 
+261	> ENA|CU474843|CU474843.1 Theobroma cacao, mRNA sequence (KZ0AAC2YL18FM1).	 
+580	> ENA|CU632107|CU632107.1 Theobroma cacao, mRNA sequence (KZ0ABB1YJ08).	 
+520	> ENA|CU632573|CU632573.1 Theobroma cacao, mRNA sequence (KZ0ABB5YD17FM1).	 
+550	> ENA|CU632340|CU632340.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ09FM1).	 
+562	> ENA|CU632261|CU632261.1 Theobroma cacao, mRNA sequence (KZ0ABB3YC08FM1).	 
+379	> ENA|CU543621|CU543621.1 Theobroma cacao, mRNA sequence (KZ0AAV4YB20FM1).	 
+129	> ENA|CU586706|CU586706.1 Theobroma cacao, mRNA sequence (KZ0AAB14YO20FM1).	 
+38	> ENA|CU550302|CU550302.1 Theobroma cacao, mRNA sequence (KZ0AAS1YH12).	 
+472	> ENA|CU632865|CU632865.1 Theobroma cacao, mRNA sequence (KZ0ABB7YE23FM1).	 
+509	> ENA|CU632642|CU632642.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL02FM1).	 
+210	> ENA|CU569469|CU569469.1 Theobroma cacao, mRNA sequence (KZ0ACAD8YF18FM1).	 
+461	> ENA|CU632977|CU632977.1 Theobroma cacao, mRNA sequence (KZ0ABB8YB08FM1).	 
+278	> ENA|CU621777|CU621777.1 Theobroma cacao, mRNA sequence (KZ0AAA12YC24FM1).	 
+445	> ENA|CU633080|CU633080.1 Theobroma cacao, mRNA sequence (KZ0ABB9YB09FM1).	 
+288	> ENA|CU575456|CU575456.1 Theobroma cacao, mRNA sequence (KZ0AAP2YC08FM1).	 
+298	> ENA|CU509605|CU509605.1 Theobroma cacao, mRNA sequence (KZ0ACF5YD17FM1).	 
+563	> ENA|CU632247|CU632247.1 Theobroma cacao, mRNA sequence (KZ0ABB3YA16FM1).	 
+289	> ENA|CU509375|CU509375.1 Theobroma cacao, mRNA sequence (KZ0ACF3YH15FM1).	 
+310	> ENA|CU510335|CU510335.1 Theobroma cacao, mRNA sequence (KZ0ACM3YB18FM1).	 
+64	> ENA|CU575106|CU575106.1 Theobroma cacao, mRNA sequence (KZ0AAP15YO05FM1).	 
+255	> ENA|CU494103|CU494103.1 Theobroma cacao, mRNA sequence (KZ0AAD2YD15FM1).	 
+300	> ENA|CU576142|CU576142.1 Theobroma cacao, mRNA sequence (KZ0AAP6YP23FM1).	 
+132	> ENA|CU495985|CU495985.1 Theobroma cacao, mRNA sequence (KZ0AAD6YN01FM1).	 
+304	> ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2YA21FM1).	 
+528	> ENA|CU632523|CU632523.1 Theobroma cacao, mRNA sequence (KZ0ABB4YP11FM1).	 
+588	> ENA|CU632064|CU632064.1 Theobroma cacao, mRNA sequence (KZ0ABB1YD23).	 
+648	> ENA|CU617372|CU617372.1 Theobroma cacao, mRNA sequence (KZ0AAN3YI16FM1).	 
+213	> ENA|CU539265|CU539265.1 Theobroma cacao, mRNA sequence (KZ0AAV10YI04FM1).	 
+203	> ENA|CU541843|CU541843.1 Theobroma cacao, mRNA sequence (KZ0AAV6YK15FM1).	 
+143	> ENA|CU573838|CU573838.1 Theobroma cacao, mRNA sequence (KZ0AAP6YK07FM1).	 
+311	> ENA|CU574954|CU574954.1 Theobroma cacao, mRNA sequence (KZ0AAP14YH24FM1).	 
+44	> ENA|CU533754|CU533754.1 Theobroma cacao, mRNA sequence (KZ0AAI1YI14RM1).	 
+534	> ENA|CU632478|CU632478.1 Theobroma cacao, mRNA sequence (KZ0ABB4YK07FM1).	 
+613	> ENA|CU631921|CU631921.1 Theobroma cacao, mRNA sequence (KZ0ABB16YC20FM1).	 
+477	> ENA|CU632835|CU632835.1 Theobroma cacao, mRNA sequence (KZ0ABB7YB12FM1).	 
+499	> ENA|CU632681|CU632681.1 Theobroma cacao, mRNA sequence (KZ0ABB5YP22FM1).	 
+518	> ENA|CU632584|CU632584.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF02FM1).	 
+434	> ENA|CU618146|CU618146.1 Theobroma cacao, mRNA sequence (KZ0AAN8YP10FM1).	 
+649	> ENA|CU616923|CU616923.1 Theobroma cacao, mRNA sequence (KZ0AAN11YN18FM1).	 
+309	> ENA|CU580153|CU580153.1 Theobroma cacao, mRNA sequence (KZ0ABV2YJ09FM1).	 
+679	> ENA|CU568989|CU568989.1 Theobroma cacao, mRNA sequence (KZ0ACAD6YD07FM1).	 
+452	> ENA|CU633038|CU633038.1 Theobroma cacao, mRNA sequence (KZ0ABB8YK01FM1).	 
+668	> ENA|CU582128|CU582128.1 Theobroma cacao, mRNA sequence (KZ0ABV3YK04FM1).	 
+280	> ENA|CU582188|CU582188.1 Theobroma cacao, mRNA sequence (KZ0ABV4YG15FM1).	 
+29	> ENA|CU535178|CU535178.1 Theobroma cacao, mRNA sequence (KZ0AAK8YB21FM1).	 
+506	> ENA|CU632649|CU632649.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL24FM1).	 
+27	> ENA|CU476128|CU476128.1 Theobroma cacao, mRNA sequence (KZ0AAL12YK07FM1).	 
+388	> ENA|CU510475|CU510475.1 Theobroma cacao, mRNA sequence (KZ0ACM3YJ21FM1).	 
+83	> ENA|CU594884|CU594884.1 Theobroma cacao, mRNA sequence (KZ0AAH2YD12FM1).	 
+283	> ENA|CU576000|CU576000.1 Theobroma cacao, mRNA sequence (KZ0AAP6YA13FM1).	 
+153	> ENA|CU496049|CU496049.1 Theobroma cacao, mRNA sequence (KZ0AAD7YL06FM1).	 
+274	> ENA|CU483743|CU483743.1 Theobroma cacao, mRNA sequence (KZ0AAT5YG18FM1).	 
+212	> ENA|CU540238|CU540238.1 Theobroma cacao, mRNA sequence (KZ0AAV14YJ18FM1).	 
+253	> ENA|CU627451|CU627451.1 Theobroma cacao, mRNA sequence (KZ0ABE4YJ18FM1).	 
+101	> ENA|CU511684|CU511684.1 Theobroma cacao, mRNA sequence (KZ0ACN1YP03FM1).	 
+159	> ENA|CU518231|CU518231.1 Theobroma cacao, mRNA sequence (KZ0ABH15YB22FM1).	 
+72	> ENA|CU587015|CU587015.1 Theobroma cacao, mRNA sequence (KZ0AAB2YE05FM1).	 
+391	> ENA|CU479447|CU479447.1 Theobroma cacao, mRNA sequence (KZ0AAL2YP05FM1).	 
+651	> ENA|CU616877|CU616877.1 Theobroma cacao, mRNA sequence (KZ0AAN11YH24FM1).	 
+36	> ENA|CU483222|CU483222.1 Theobroma cacao, mRNA sequence (KZ0AAT1YG22).	 
+457	> ENA|CU633007|CU633007.1 Theobroma cacao, mRNA sequence (KZ0ABB8YE22FM1).	 
+252	> ENA|CU627870|CU627870.1 Theobroma cacao, mRNA sequence (KZ0ABE8YP17FM1).	 
+348	> ENA|CU587274|CU587274.1 Theobroma cacao, mRNA sequence (KZ0AAB4YM04FM1).	 
+168	> ENA|CU551181|CU551181.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG07RM1).	 
+374	> ENA|CU543877|CU543877.1 Theobroma cacao, mRNA sequence (KZ0AAV6YG19FM1).	 
+459	> ENA|CU632999|CU632999.1 Theobroma cacao, mRNA sequence (KZ0ABB8YE08FM1).	 
+0	> ENA|CU532431|CU532431.1 Theobroma cacao, mRNA sequence (KZ0AAK3YM10FM1).	 
+464	> ENA|CU632963|CU632963.1 Theobroma cacao, mRNA sequence (KZ0ABB7YP21FM1).	 
+118	> ENA|CU553351|CU553351.1 Theobroma cacao, mRNA sequence (KZ0ABA10YL08FM1).	 
+281	> ENA|CU578367|CU578367.1 Theobroma cacao, mRNA sequence (KZ0AB7YK17FM1).	 
+462	> ENA|CU632974|CU632974.1 Theobroma cacao, mRNA sequence (KZ0ABB8YB02FM1).	 
+183	> ENA|CU587567|CU587567.1 Theobroma cacao, mRNA sequence (KZ0AAB7YF16FM1).	 
+441	> ENA|CU633118|CU633118.1 Theobroma cacao, mRNA sequence (KZ0ABB9YH01FM1).	 
+677	> ENA|CU570163|CU570163.1 Theobroma cacao, mRNA sequence (KZ0ACAD4YK15FM1).	 
+17	> ENA|CU566178|CU566178.1 Theobroma cacao, mRNA sequence (KZ0ABL3YA24FM1).	 
+381	> ENA|CU481540|CU481540.1 Theobroma cacao, mRNA sequence (KZ0AAT3YE22FM1).	 
+82	> ENA|CU596649|CU596649.1 Theobroma cacao, mRNA sequence (KZ0AAF6YI03FM1).	 
+195	> ENA|CU474867|CU474867.1 Theobroma cacao, mRNA sequence (KZ0AAC3YA07FM1).	 
+126	> ENA|CU486996|CU486996.1 Theobroma cacao, mRNA sequence (KZ0ACAC6YK20FM1).	 
+11	> ENA|CU566570|CU566570.1 Theobroma cacao, mRNA sequence (KZ0ABL4YN18FM1).	 
+154	> ENA|CU483562|CU483562.1 Theobroma cacao, mRNA sequence (KZ0AAT3YP24FM1).	 
+67	> ENA|CU483837|CU483837.1 Theobroma cacao, mRNA sequence (KZ0AAT6YC11FM1).	 
+133	> ENA|CU484068|CU484068.1 Theobroma cacao, mRNA sequence (KZ0AAT7YO17FM1).	 
+444	> ENA|CU633082|CU633082.1 Theobroma cacao, mRNA sequence (KZ0ABB9YB16FM1).	 
+109	> ENA|CU586614|CU586614.1 Theobroma cacao, mRNA sequence (KZ0AAB13YD12FM1).	 
+486	> ENA|CU632787|CU632787.1 Theobroma cacao, mRNA sequence (KZ0ABB6YM04FM1).	 
+40	> ENA|CU483302|CU483302.1 Theobroma cacao, mRNA sequence (KZ0AAT1YP07).	 
+658	> ENA|CU597469|CU597469.1 Theobroma cacao, mRNA sequence (KZ0AAF10YE20FM1).	 
+228	> ENA|CU530065|CU530065.1 Theobroma cacao, mRNA sequence (KZ0ACAA7YE23FM1).	 
+234	> ENA|CU517086|CU517086.1 Theobroma cacao, mRNA sequence (KZ0ABH10YC12FM1).	 
+400	> ENA|CU618646|CU618646.1 Theobroma cacao, mRNA sequence (KZ0AAA11YE13FM1).	 
+523	> ENA|CU632552|CU632552.1 Theobroma cacao, mRNA sequence (KZ0ABB5YC03FM1).	 
+543	> ENA|CU632419|CU632419.1 Theobroma cacao, mRNA sequence (KZ0ABB4YD01FM1).	 
+453	> ENA|CU633030|CU633030.1 Theobroma cacao, mRNA sequence (KZ0ABB8YI02FM1).	 
+575	> ENA|CU632140|CU632140.1 Theobroma cacao, mRNA sequence (KZ0ABB1YM13RM1).	 
+104	> ENA|CU495769|CU495769.1 Theobroma cacao, mRNA sequence (KZ0AAD3YE14FM1).	 
+211	> ENA|CU542938|CU542938.1 Theobroma cacao, mRNA sequence (KZ0AAV12YK11FM1).	 
+654	> ENA|CU614252|CU614252.1 Theobroma cacao, mRNA sequence (KZ0ACAH5YJ04FM1).	 
+95	> ENA|CU543158|CU543158.1 Theobroma cacao, mRNA sequence (KZ0AAV15YA18FM1).	 
+301	> ENA|CU575838|CU575838.1 Theobroma cacao, mRNA sequence (KZ0AAP4YN03FM1).	 
+105	> ENA|CU475036|CU475036.1 Theobroma cacao, mRNA sequence (KZ0AAC4YL14FM1).	 
+181	> ENA|CU587682|CU587682.1 Theobroma cacao, mRNA sequence (KZ0AAB8YB12FM1).	 
+86	> ENA|CU587207|CU587207.1 Theobroma cacao, mRNA sequence (KZ0AAB4YD18FM1).	 
+607	> ENA|CU631953|CU631953.1 Theobroma cacao, mRNA sequence (KZ0ABB16YH07FM1).	 
+664	> ENA|CU586454|CU586454.1 Theobroma cacao, mRNA sequence (KZ0AAB10YH18FM1).	 
+546	> ENA|CU632391|CU632391.1 Theobroma cacao, mRNA sequence (KZ0ABB4YA05FM1).	 
+478	> ENA|CU632832|CU632832.1 Theobroma cacao, mRNA sequence (KZ0ABB7YB07FM1).	 
+331	> ENA|CU543023|CU543023.1 Theobroma cacao, mRNA sequence (KZ0AAV13YJ18FM1).	 
+81	> ENA|CU614841|CU614841.1 Theobroma cacao, mRNA sequence (KZ0AAN12YJ22FM1).	 
+155	> ENA|CU575601|CU575601.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB20FM1).	 
+483	> ENA|CU632809|CU632809.1 Theobroma cacao, mRNA sequence (KZ0ABB6YO23FM1).	 
+209	> ENA|CU587307|CU587307.1 Theobroma cacao, mRNA sequence (KZ0AAB4YP18FM1).	 
+73	> ENA|CU586620|CU586620.1 Theobroma cacao, mRNA sequence (KZ0AAB13YF19FM1).	 
+626	> ENA|CU631475|CU631475.1 Theobroma cacao, mRNA sequence (KZ0ABB10YM01FM1).	 
+114	> ENA|CU594992|CU594992.1 Theobroma cacao, mRNA sequence (KZ0AAH4YE22FM1).	 
+586	> ENA|CU632068|CU632068.1 Theobroma cacao, mRNA sequence (KZ0ABB1YE06).	 
+24	> ENA|CU565832|CU565832.1 Theobroma cacao, mRNA sequence (KZ0ABL1YF24FM1).	 
+675	> ENA|CU570207|CU570207.1 Theobroma cacao, mRNA sequence (KZ0ACAD5YB21FM1).	 
+173	> ENA|CU543456|CU543456.1 Theobroma cacao, mRNA sequence (KZ0AAV2YK08FM1).	 
+473	> ENA|CU632861|CU632861.1 Theobroma cacao, mRNA sequence (KZ0ABB7YE12FM1).	 
+295	> ENA|CU576191|CU576191.1 Theobroma cacao, mRNA sequence (KZ0AAP7YG24FM1).	 
+227	> ENA|CU509806|CU509806.1 Theobroma cacao, mRNA sequence (KZ0ACM1YF10FM1).	 
+622	> ENA|CU631619|CU631619.1 Theobroma cacao, mRNA sequence (KZ0ABB12YN02FM1).	 
+674	> ENA|CU573919|CU573919.1 Theobroma cacao, mRNA sequence (KZ0AAP7YB04FM1).	 
+551	> ENA|CU632336|CU632336.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ04FM1).	 
+296	> ENA|CU509245|CU509245.1 Theobroma cacao, mRNA sequence (KZ0ACF2YH07FM1).	 
+394	> ENA|CU476410|CU476410.1 Theobroma cacao, mRNA sequence (KZ0AAL14YA04FM1).	 
+431	> ENA|CU622460|CU622460.1 Theobroma cacao, mRNA sequence (KZ0AAA4YE09FM1).	 
+318	> ENA|CU569253|CU569253.1 Theobroma cacao, mRNA sequence (KZ0ACAD7YF18FM1).	 
+225	> ENA|CU529987|CU529987.1 Theobroma cacao, mRNA sequence (KZ0ACAA6YJ07FM1).	 
+637	> ENA|CU623160|CU623160.1 Theobroma cacao, mRNA sequence (KZ0AAA9YD06FM1).	 
+52	> ENA|CU587615|CU587615.1 Theobroma cacao, mRNA sequence (KZ0AAB7YK20FM1).	 
+640	> ENA|CU622347|CU622347.1 Theobroma cacao, mRNA sequence (KZ0AAA3YF19FM1).	 
+631	> ENA|CU629733|CU629733.1 Theobroma cacao, mRNA sequence (KZ0ABB1YL06).	 
+26	> ENA|CU566535|CU566535.1 Theobroma cacao, mRNA sequence (KZ0ABL4YK22FM1).	 
+338	> ENA|CU526106|CU526106.1 Theobroma cacao, mRNA sequence (KZ0ACL4YJ09FM1).	 
+99	> ENA|CU535028|CU535028.1 Theobroma cacao, mRNA sequence (KZ0AAK6YP13FM1).	 
+360	> ENA|CU482138|CU482138.1 Theobroma cacao, mRNA sequence (KZ0AAT5YN02FM1).	 
+205	> ENA|CU520712|CU520712.1 Theobroma cacao, mRNA sequence (KZ0ABH12YL03FM1).	 
+94	> ENA|CU543463|CU543463.1 Theobroma cacao, mRNA sequence (KZ0AAV2YL09FM1).	 
+373	> ENA|CU474401|CU474401.1 Theobroma cacao, mRNA sequence (KZ0AAC12YE07FM1).	 
+681	> ENA|CU600919|CU600919.1 Theobroma cacao, mRNA sequence (KZ0AAG2YG14FM1).	 
+524	> ENA|CU632549|CU632549.1 Theobroma cacao, mRNA sequence (KZ0ABB5YB24FM1).	 
+267	> ENA|CU578781|CU578781.1 Theobroma cacao, mRNA sequence (KZ0AB9YF17FM1).	 
+206	> ENA|CU483741|CU483741.1 Theobroma cacao, mRNA sequence (KZ0AAT5YG14FM1).	 
+549	> ENA|CU632342|CU632342.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ15FM1).	 
+194	> ENA|CU475102|CU475102.1 Theobroma cacao, mRNA sequence (KZ0AAC5YE24FM1).	 
+591	> ENA|CU632044|CU632044.1 Theobroma cacao, mRNA sequence (KZ0ABB1YC11).	 
+437	> ENA|CU633137|CU633137.1 Theobroma cacao, mRNA sequence (KZ0ABB9YK24FM1).	 
+398	> ENA|CU549923|CU549923.1 Theobroma cacao, mRNA sequence (KZ0AAS8YM23FM1).	 
+176	> ENA|CU495719|CU495719.1 Theobroma cacao, mRNA sequence (KZ0AAD2YH10FM1).	 
+179	> ENA|CU591905|CU591905.1 Theobroma cacao, mRNA sequence (KZ0AAH12YJ11FM1).	 
+646	> ENA|CU617789|CU617789.1 Theobroma cacao, mRNA sequence (KZ0AAN6YH12FM1).	 
+487	> ENA|CU632772|CU632772.1 Theobroma cacao, mRNA sequence (KZ0ABB6YK08FM1).	 
+343	> ENA|CU474762|CU474762.1 Theobroma cacao, mRNA sequence (KZ0AAC2YA12FM1).	 
+644	> ENA|CU618221|CU618221.1 Theobroma cacao, mRNA sequence (KZ0AAN9YH24FM1).	 
+244	> ENA|CU578198|CU578198.1 Theobroma cacao, mRNA sequence (KZ0AB6YP08FM1).	 
+660	> ENA|CU593035|CU593035.1 Theobroma cacao, mRNA sequence (KZ0AAH1YG11).	 
+166	> ENA|CU580877|CU580877.1 Theobroma cacao, mRNA sequence (KZ0ABV5YO19FM1).	 
+526	> ENA|CU632531|CU632531.1 Theobroma cacao, mRNA sequence (KZ0ABB5YA07FM1).	 
+504	> ENA|CU632656|CU632656.1 Theobroma cacao, mRNA sequence (KZ0ABB5YM24FM1).	 
+314	> ENA|CU528886|CU528886.1 Theobroma cacao, mRNA sequence (KZ0ACAA8YD09FM1).	 
+611	> ENA|CU631937|CU631937.1 Theobroma cacao, mRNA sequence (KZ0ABB16YE19FM1).	 
+587	> ENA|CU632066|CU632066.1 Theobroma cacao, mRNA sequence (KZ0ABB1YE02).	 
+266	> ENA|CU575698|CU575698.1 Theobroma cacao, mRNA sequence (KZ0AAP3YO04FM1).	 
+555	> ENA|CU632302|CU632302.1 Theobroma cacao, mRNA sequence (KZ0ABB3YG01FM1).	 
+513	> ENA|CU632608|CU632608.1 Theobroma cacao, mRNA sequence (KZ0ABB5YI04FM1).	 
+312	> ENA|CU550934|CU550934.1 Theobroma cacao, mRNA sequence (KZ0ABA10YK14FM1).	 
+107	> ENA|CU587351|CU587351.1 Theobroma cacao, mRNA sequence (KZ0AAB5YG01FM1).	 
+241	> ENA|CU544048|CU544048.1 Theobroma cacao, mRNA sequence (KZ0AAV7YP24FM1).	 
+192	> ENA|CU495708|CU495708.1 Theobroma cacao, mRNA sequence (KZ0AAD2YF23FM1).	 
+442	> ENA|CU633107|CU633107.1 Theobroma cacao, mRNA sequence (KZ0ABB9YE23FM1).	 
+113	> ENA|CU573240|CU573240.1 Theobroma cacao, mRNA sequence (KZ0AAP3YK14FM1).	 
+475	> ENA|CU632852|CU632852.1 Theobroma cacao, mRNA sequence (KZ0ABB7YD18FM1).	 
+593	> ENA|CU632024|CU632024.1 Theobroma cacao, mRNA sequence (KZ0ABB1YB03RM1).	 
+259	> ENA|CU535174|CU535174.1 Theobroma cacao, mRNA sequence (KZ0AAK8YA16FM1).	 
+33	> ENA|CU474671|CU474671.1 Theobroma cacao, mRNA sequence (KZ0AAC1YD02).	 
+226	> ENA|CU587377|CU587377.1 Theobroma cacao, mRNA sequence (KZ0AAB5YJ18FM1).	 
+87	> ENA|CU587119|CU587119.1 Theobroma cacao, mRNA sequence (KZ0AAB3YG06FM1).	 
+25	> ENA|CU565809|CU565809.1 Theobroma cacao, mRNA sequence (KZ0ABL1YD18FM1).	 
+378	> ENA|CU483382|CU483382.1 Theobroma cacao, mRNA sequence (KZ0AAT2YJ01FM1).	 
+219	> ENA|CU586547|CU586547.1 Theobroma cacao, mRNA sequence (KZ0AAB12YH08FM1).	 
+61	> ENA|CU475213|CU475213.1 Theobroma cacao, mRNA sequence (KZ0AAC6YE23FM1).	 
+433	> ENA|CU630306|CU630306.1 Theobroma cacao, mRNA sequence (KZ0ABB4YG14FM1).	 
+4	> ENA|CU485402|CU485402.1 Theobroma cacao, mRNA sequence (KZ0ACAC4YI06FM1).	 
+347	> ENA|CU622053|CU622053.1 Theobroma cacao, mRNA sequence (KZ0AAA15YF19FM1).	 
+502	> ENA|CU632667|CU632667.1 Theobroma cacao, mRNA sequence (KZ0ABB5YO07FM1).	 
+503	> ENA|CU632657|CU632657.1 Theobroma cacao, mRNA sequence (KZ0ABB5YN01FM1).	 
+319	> ENA|CU622578|CU622578.1 Theobroma cacao, mRNA sequence (KZ0AAA5YB21FM1).	 
+590	> ENA|CU632047|CU632047.1 Theobroma cacao, mRNA sequence (KZ0ABB1YC14).	 
+597	> ENA|CU632018|CU632018.1 Theobroma cacao, mRNA sequence (KZ0ABB1YA15).	 
+582	> ENA|CU632096|CU632096.1 Theobroma cacao, mRNA sequence (KZ0ABB1YH22).	 
+561	> ENA|CU632267|CU632267.1 Theobroma cacao, mRNA sequence (KZ0ABB3YC19FM1).	 
+108	> ENA|CU586949|CU586949.1 Theobroma cacao, mRNA sequence (KZ0AAB24YK18FM1).	 
+536	> ENA|CU632469|CU632469.1 Theobroma cacao, mRNA sequence (KZ0ABB4YJ08FM1).	 
+62	> ENA|CU587844|CU587844.1 Theobroma cacao, mRNA sequence (KZ0AAB9YF03FM1).	 
+595	> ENA|CU632022|CU632022.1 Theobroma cacao, mRNA sequence (KZ0ABB1YA20).	 
+89	> ENA|CU586936|CU586936.1 Theobroma cacao, mRNA sequence (KZ0AAB24YJ01FM1).	 
+571	> ENA|CU632147|CU632147.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN12).	 
+397	> ENA|CU483059|CU483059.1 Theobroma cacao, mRNA sequence (KZ0AAT10YO12FM1).	 
+451	> ENA|CU633039|CU633039.1 Theobroma cacao, mRNA sequence (KZ0ABB8YK04FM1).	 
+200	> ENA|CU579005|CU579005.1 Theobroma cacao, mRNA sequence (KZ0AB1YB14FM1).	 
+264	> ENA|CU575847|CU575847.1 Theobroma cacao, mRNA sequence (KZ0AAP4YO01FM1).	 
+328	> ENA|CU474686|CU474686.1 Theobroma cacao, mRNA sequence (KZ0AAC1YF06).	 
+286	> ENA|CU575840|CU575840.1 Theobroma cacao, mRNA sequence (KZ0AAP4YN07FM1).	 
+74	> ENA|CU483636|CU483636.1 Theobroma cacao, mRNA sequence (KZ0AAT4YI10FM1).	 
+198	> ENA|CU587358|CU587358.1 Theobroma cacao, mRNA sequence (KZ0AAB5YG21FM1).	 
+277	> ENA|CU535062|CU535062.1 Theobroma cacao, mRNA sequence (KZ0AAK7YE01FM1).	 
+185	> ENA|CU587101|CU587101.1 Theobroma cacao, mRNA sequence (KZ0AAB3YD15FM1).	 
+439	> ENA|CU633134|CU633134.1 Theobroma cacao, mRNA sequence (KZ0ABB9YK05FM1).	 
+35	> ENA|CU483168|CU483168.1 Theobroma cacao, mRNA sequence (KZ0AAT1YC04).	 
+625	> ENA|CU631510|CU631510.1 Theobroma cacao, mRNA sequence (KZ0ABB11YB21FM1).	 
+481	> ENA|CU632818|CU632818.1 Theobroma cacao, mRNA sequence (KZ0ABB6YP21FM1).	 
+76	> ENA|CU595257|CU595257.1 Theobroma cacao, mRNA sequence (KZ0AAH9YG11FM1).	 
+55	> ENA|CU534910|CU534910.1 Theobroma cacao, mRNA sequence (KZ0AAK5YP13FM1).	 
+629	> ENA|CU629788|CU629788.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO18).	 
+57	> ENA|CU483729|CU483729.1 Theobroma cacao, mRNA sequence (KZ0AAT5YE09FM1).	 
+229	> ENA|CU493714|CU493714.1 Theobroma cacao, mRNA sequence (KZ0AAD14YF07FM1).	 
+612	> ENA|CU631934|CU631934.1 Theobroma cacao, mRNA sequence (KZ0ABB16YE11FM1).	 
+297	> ENA|CU509625|CU509625.1 Theobroma cacao, mRNA sequence (KZ0ACF5YF17FM1).	 
+559	> ENA|CU632275|CU632275.1 Theobroma cacao, mRNA sequence (KZ0ABB3YD15FM1).	 
+564	> ENA|CU632193|CU632193.1 Theobroma cacao, mRNA sequence (KZ0ABB2YG02FM1).	 
+70	> ENA|CU587188|CU587188.1 Theobroma cacao, mRNA sequence (KZ0AAB4YB09FM1).	 
+110	> ENA|CU579036|CU579036.1 Theobroma cacao, mRNA sequence (KZ0AB1YH12FM1).	 
+659	> ENA|CU597331|CU597331.1 Theobroma cacao, mRNA sequence (KZ0AAE1YD11).	 
+273	> ENA|CU575937|CU575937.1 Theobroma cacao, mRNA sequence (KZ0AAP5YI05FM1).	 
+460	> ENA|CU632996|CU632996.1 Theobroma cacao, mRNA sequence (KZ0ABB8YD24FM1).	 
+21	> ENA|CU566477|CU566477.1 Theobroma cacao, mRNA sequence (KZ0ABL4YH02FM1).	 
+116	> ENA|CU587368|CU587368.1 Theobroma cacao, mRNA sequence (KZ0AAB5YH13FM1).	 
+14	> ENA|CU566284|CU566284.1 Theobroma cacao, mRNA sequence (KZ0ABL3YI07FM1).	 
+596	> ENA|CU632019|CU632019.1 Theobroma cacao, mRNA sequence (KZ0ABB1YA17).	 
+230	> ENA|CU594549|CU594549.1 Theobroma cacao, mRNA sequence (KZ0AAH14YL10FM1).	 
+315	> ENA|CU618964|CU618964.1 Theobroma cacao, mRNA sequence (KZ0AAA12YK09FM1).	 
+521	> ENA|CU632562|CU632562.1 Theobroma cacao, mRNA sequence (KZ0ABB5YC20FM1).	 
+272	> ENA|CU534022|CU534022.1 Theobroma cacao, mRNA sequence (KZ0AAK13YB08FM1).	 
+22	> ENA|CU566289|CU566289.1 Theobroma cacao, mRNA sequence (KZ0ABL3YI14FM1).	 
+610	> ENA|CU631939|CU631939.1 Theobroma cacao, mRNA sequence (KZ0ABB16YF05FM1).	 
+163	> ENA|CU529293|CU529293.1 Theobroma cacao, mRNA sequence (KZ0ACAA9YN03FM1).	 
+41	> ENA|CU495532|CU495532.1 Theobroma cacao, mRNA sequence (KZ0AAD14YB07FM1).	 
+636	> ENA|CU623395|CU623395.1 Theobroma cacao, mRNA sequence (KZ0ABE10YI22FM1).	 
+98	> ENA|CU535175|CU535175.1 Theobroma cacao, mRNA sequence (KZ0AAK8YA23FM1).	 
+157	> ENA|CU579057|CU579057.1 Theobroma cacao, mRNA sequence (KZ0AB1YO11FM1).	 
+581	> ENA|CU632099|CU632099.1 Theobroma cacao, mRNA sequence (KZ0ABB1YI13FM1).	 
+45	> ENA|CU502976|CU502976.1 Theobroma cacao, mRNA sequence (KZ0ACAK2YF14FM1).	 
+238	> ENA|CU542024|CU542024.1 Theobroma cacao, mRNA sequence (KZ0AAV7YG19FM1).	 
+18	> ENA|CU566174|CU566174.1 Theobroma cacao, mRNA sequence (KZ0ABL3YA16FM1).	 
+249	> ENA|CU480670|CU480670.1 Theobroma cacao, mRNA sequence (KZ0AAT10YM22FM1).	 
+254	> ENA|CU627826|CU627826.1 Theobroma cacao, mRNA sequence (KZ0ABE8YJ08FM1).	 
+366	> ENA|CU586937|CU586937.1 Theobroma cacao, mRNA sequence (KZ0AAB24YJ02FM1).	 
+184	> ENA|CU587356|CU587356.1 Theobroma cacao, mRNA sequence (KZ0AAB5YG14FM1).	 
+572	> ENA|CU632145|CU632145.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN01).	 
+140	> ENA|CU574739|CU574739.1 Theobroma cacao, mRNA sequence (KZ0AAP12YE19FM1).	 
+218	> ENA|CU471434|CU471434.1 Theobroma cacao, mRNA sequence (KZ0AAC10YI23FM1).	 
+490	> ENA|CU632728|CU632728.1 Theobroma cacao, mRNA sequence (KZ0ABB6YF03FM1).	 
+279	> ENA|CU576278|CU576278.1 Theobroma cacao, mRNA sequence (KZ0AAP8YD05FM1).	 
+567	> ENA|CU632159|CU632159.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO22).	 
+248	> ENA|CU472258|CU472258.1 Theobroma cacao, mRNA sequence (KZ0AAC14YP12FM1).	 
+632	> ENA|CU629690|CU629690.1 Theobroma cacao, mRNA sequence (KZ0ABB1YH19).	 
+193	> ENA|CU476295|CU476295.1 Theobroma cacao, mRNA sequence (KZ0AAL13YG09FM1).	 
+623	> ENA|CU631574|CU631574.1 Theobroma cacao, mRNA sequence (KZ0ABB12YE07FM1).	 
+630	> ENA|CU629767|CU629767.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN05).	 
+372	> ENA|CU490408|CU490408.1 Theobroma cacao, mRNA sequence (KZ0ACAE2YO11FM1).	 
+386	> ENA|CU479713|CU479713.1 Theobroma cacao, mRNA sequence (KZ0AAL4YM12FM1).	 
+482	> ENA|CU632815|CU632815.1 Theobroma cacao, mRNA sequence (KZ0ABB6YP13FM1).	 
+171	> ENA|CU543731|CU543731.1 Theobroma cacao, mRNA sequence (KZ0AAV5YB06FM1).	 
+627	> ENA|CU630355|CU630355.1 Theobroma cacao, mRNA sequence (KZ0ABB4YJ17FM1).	 
+333	> ENA|CU496159|CU496159.1 Theobroma cacao, mRNA sequence (KZ0AAD9YE24FM1).	 
+79	> ENA|CU534348|CU534348.1 Theobroma cacao, mRNA sequence (KZ0AAK22YF03FM1).	 
+50	> ENA|CU524117|CU524117.1 Theobroma cacao, mRNA sequence (KZ0ACB3YG10FM1).	 
+162	> ENA|CU579944|CU579944.1 Theobroma cacao, mRNA sequence (KZ0ABV1YJ09FM1).	 
+146	> ENA|CU543013|CU543013.1 Theobroma cacao, mRNA sequence (KZ0AAV13YI02FM1).	 
+600	> ENA|CU631990|CU631990.1 Theobroma cacao, mRNA sequence (KZ0ABB16YM23FM1).	 
+621	> ENA|CU631703|CU631703.1 Theobroma cacao, mRNA sequence (KZ0ABB13YK15FM1).	 
+512	> ENA|CU632611|CU632611.1 Theobroma cacao, mRNA sequence (KZ0ABB5YI07FM1).	 
+32	> ENA|CU571432|CU571432.1 Theobroma cacao, mRNA sequence (KZ0AAP10YB15FM1).	 
+80	> ENA|CU618381|CU618381.1 Theobroma cacao, mRNA sequence (KZ0AAA10YC19FM1).	 
+174	> ENA|CU506983|CU506983.1 Theobroma cacao, mRNA sequence (KZ0ACAB4YF13FM1).	 
+633	> ENA|CU629663|CU629663.1 Theobroma cacao, mRNA sequence (KZ0ABB1YG11).	 
+577	> ENA|CU632132|CU632132.1 Theobroma cacao, mRNA sequence (KZ0ABB1YL18RM1).	 
+142	> ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7YH11FM1).	 
+643	> ENA|CU620751|CU620751.1 Theobroma cacao, mRNA sequence (KZ0AAA5YP15FM1).	 
+204	> ENA|CU535351|CU535351.1 Theobroma cacao, mRNA sequence (KZ0AAK9YG14FM1).	 
+256	> ENA|CU616566|CU616566.1 Theobroma cacao, mRNA sequence (KZ0AAN9YB02FM1).	 
+361	> ENA|CU551180|CU551180.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG07FM1).	 
+638	> ENA|CU622592|CU622592.1 Theobroma cacao, mRNA sequence (KZ0AAA5YD08FM1).	 
+39	> ENA|CU553402|CU553402.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG13).	 
+313	> ENA|CU548213|CU548213.1 Theobroma cacao, mRNA sequence (KZ0AAS1YP01RM1).	 
+178	> ENA|CU594540|CU594540.1 Theobroma cacao, mRNA sequence (KZ0AAH14YK09FM1).	 
+124	> ENA|CU520622|CU520622.1 Theobroma cacao, mRNA sequence (KZ0ABH11YK17FM1).	 
+603	> ENA|CU631974|CU631974.1 Theobroma cacao, mRNA sequence (KZ0ABB16YK13FM1).	 
+75	> ENA|CU542667|CU542667.1 Theobroma cacao, mRNA sequence (KZ0AAV10YG01FM1).	 
+161	> ENA|CU586653|CU586653.1 Theobroma cacao, mRNA sequence (KZ0AAB13YP09FM1).	 
+399	> ENA|CU505447|CU505447.1 Theobroma cacao, mRNA sequence (KZ0ACAB5YG08FM1).	 
+565	> ENA|CU632165|CU632165.1 Theobroma cacao, mRNA sequence (KZ0ABB1YP19).	 
+302	> ENA|CU539605|CU539605.1 Theobroma cacao, mRNA sequence (KZ0AAV12YA17FM1).	 
+156	> ENA|CU543200|CU543200.1 Theobroma cacao, mRNA sequence (KZ0AAV15YJ10FM1).	 
+387	> ENA|CU479555|CU479555.1 Theobroma cacao, mRNA sequence (KZ0AAL3YI24FM1).	 
+270	> ENA|CU543577|CU543577.1 Theobroma cacao, mRNA sequence (KZ0AAV3YL09FM1).	 
+16	> ENA|CU566209|CU566209.1 Theobroma cacao, mRNA sequence (KZ0ABL3YD04FM1).	 
+119	> ENA|CU544019|CU544019.1 Theobroma cacao, mRNA sequence (KZ0AAV7YL01FM1).	 
+149	> ENA|CU587589|CU587589.1 Theobroma cacao, mRNA sequence (KZ0AAB7YH23FM1).	 
+382	> ENA|CU528735|CU528735.1 Theobroma cacao, mRNA sequence (KZ0ACAA7YJ09FM1).	 
+598	> ENA|CU631995|CU631995.1 Theobroma cacao, mRNA sequence (KZ0ABB16YN19FM1).	 
+12	> ENA|CU566415|CU566415.1 Theobroma cacao, mRNA sequence (KZ0ABL4YC06FM1).	 
+370	> ENA|CU495475|CU495475.1 Theobroma cacao, mRNA sequence (KZ0AAD13YH02FM1).	 
+396	> ENA|CU483934|CU483934.1 Theobroma cacao, mRNA sequence (KZ0AAT6YP10FM1).	 
+102	> ENA|CU511622|CU511622.1 Theobroma cacao, mRNA sequence (KZ0ACN1YL16FM1).	 
+150	> ENA|CU473210|CU473210.1 Theobroma cacao, mRNA sequence (KZ0AAC5YE23FM1).	 
+514	> ENA|CU632594|CU632594.1 Theobroma cacao, mRNA sequence (KZ0ABB5YG05FM1).	 
+384	> ENA|CU542026|CU542026.1 Theobroma cacao, mRNA sequence (KZ0AAV7YG21FM1).	 
+2	> ENA|CU491836|CU491836.1 Theobroma cacao, mRNA sequence (KZ0ACAE1YL10FM1).	 
+59	> ENA|CU543857|CU543857.1 Theobroma cacao, mRNA sequence (KZ0AAV6YD16FM1).	 
+390	> ENA|CU477167|CU477167.1 Theobroma cacao, mRNA sequence (KZ0AAL3YH19FM1).	 
+263	> ENA|CU575593|CU575593.1 Theobroma cacao, mRNA sequence (KZ0AAP3YA23FM1).	 
+196	> ENA|CU595109|CU595109.1 Theobroma cacao, mRNA sequence (KZ0AAH6YM06FM1).	 
+77	> ENA|CU594942|CU594942.1 Theobroma cacao, mRNA sequence (KZ0AAH3YD04FM1).	 
+88	> ENA|CU587068|CU587068.1 Theobroma cacao, mRNA sequence (KZ0AAB2YN19FM1).	 
+306	> ENA|CU528850|CU528850.1 Theobroma cacao, mRNA sequence (KZ0ACAA8YA14FM1).	 
+245	> ENA|CU578421|CU578421.1 Theobroma cacao, mRNA sequence (KZ0AB7YO01FM1).	 
+85	> ENA|CU594289|CU594289.1 Theobroma cacao, mRNA sequence (KZ0AAH11YJ08FM1).	 
+618	> ENA|CU631804|CU631804.1 Theobroma cacao, mRNA sequence (KZ0ABB14YO05FM1).	 
+Statistics:
+0	Identity	Linear	 
+1	Identity Percentage	Linear	 
+2	Overlap	Linear	 
+3	Overlap Percentage	Linear	 
+4	Gaps	Linear	 
+5	Gaps Percentage	Linear	 
+6	Strand (+/+=1, +/-=2, -/+=3, -/-=4)	Linear	 
+7	Query length	Linear	QueryLength
+8	Hit length	Linear	 
+9	E-value	Exponential	EValue
+10	Bitscore	Linear	 
+11	Alignemnt:Query from	Linear	QueryFrom
+12	Alignemnt:Query to	Linear	QueryTo
+13	Alignemnt:Query length	Linear	 
+14	Alignemnt:Sbjct from	Linear	SbjctFrom
+15	Alignemnt:Sbjct to	Linear	SbjctTo
+16	Alignemnt:Sbjct length	Linear	 
+BLAST_hits:
+Query_0:
+0
+0	341	79.86	427.0	75.71	8.0	1.87	0	564	22	2e-81	305.0	87	509	423	291	713	423
+1	303	79.95	379.0	67.2	8.0	2.11	0	564	67	2e-71	272.0	87	461	375	291	665	375
+2	246	77.6	317.0	56.21	2.0	0.63	0	564	39	4e-47	191.0	228	543	316	6	321	316
+3	246	77.6	317.0	56.21	2.0	0.63	0	564	40	4e-47	191.0	228	543	316	6	321	316
+Query_1:
+1
+Query_2:
+2
+Query_3:
+3
+Query_4:
+4
+Query_5:
+5
+Query_6:
+6
+Query_7:
+7
+Query_8:
+8
+Query_9:
+9
+Query_10:
+10
+4	557	82.64	674.0	29.14	6.0	0.89	0	2313	77	4e-167	592.0	892	1562	671	4	674	671
+5	575	80.08	718.0	31.04	10.0	1.39	0	2313	33	5e-147	525.0	295	1007	713	17	729	713
+Query_11:
+11
+Query_12:
+12
+Query_13:
+13
+Query_14:
+14
+Query_15:
+15
+Query_16:
+16
+Query_17:
+17
+Query_18:
+18
+Query_19:
+19
+Query_20:
+20
+Query_21:
+21
+6	602	79.21	760.0	24.1	6.0	0.79	0	3153	92	2e-146	523.0	2278	3034	757	5	761	757
+7	572	76.78	745.0	23.63	10.0	1.34	0	3153	63	7e-112	409.0	1192	1931	740	24	763	740
+8	451	78.57	574.0	18.2	2.0	0.35	0	3153	22	2e-102	377.0	1008	1580	573	13	585	573
+9	361	77.8	464.0	14.72	5.0	1.08	0	3153	73	1e-73	281.0	2692	3151	460	7	469	463
+10	255	76.81	332.0	10.53	5.0	1.51	0	3153	91	2e-43	182.0	2824	3151	328	6	336	331
+11	249	77.09	323.0	10.24	5.0	1.55	0	3153	91	2e-43	182.0	2833	3151	319	377	56	322
+12	251	76.99	326.0	10.34	5.0	1.53	0	3153	91	2e-43	182.0	2830	3151	322	12	336	325
+13	255	76.81	332.0	10.53	5.0	1.51	0	3153	91	2e-43	182.0	2824	3151	328	6	336	331
+14	255	76.81	332.0	10.53	5.0	1.51	0	3153	91	2e-43	182.0	2824	3151	328	6	336	331
+15	255	76.81	332.0	10.53	5.0	1.51	0	3153	91	2e-43	182.0	2824	3151	328	6	336	331
+16	255	76.81	332.0	10.53	5.0	1.51	0	3153	92	2e-43	182.0	2824	3151	328	6	336	331
+17	255	76.81	332.0	10.53	5.0	1.51	0	3153	91	2e-43	182.0	2824	3151	328	6	336	331
+18	249	77.09	323.0	10.24	5.0	1.55	0	3153	91	2e-43	182.0	2833	3151	319	377	56	322
+19	249	77.09	323.0	10.24	5.0	1.55	0	3153	91	2e-43	182.0	2833	3151	319	377	56	322
+20	255	76.81	332.0	10.53	5.0	1.51	0	3153	91	2e-43	182.0	2824	3151	328	6	336	331
+21	248	77.02	322.0	10.21	5.0	1.55	0	3153	91	6e-43	180.0	2834	3151	318	16	336	321
+22	248	76.78	323.0	10.24	5.0	1.55	0	3153	91	7e-42	176.0	2833	3151	319	377	56	322
+23	248	76.78	323.0	10.24	5.0	1.55	0	3153	6	7e-42	176.0	2833	3151	319	377	56	322
+24	254	76.51	332.0	10.53	5.0	1.51	0	3153	94	7e-42	176.0	2824	3151	328	6	336	331
+25	254	76.51	332.0	10.53	5.0	1.51	0	3153	91	7e-42	176.0	2824	3151	328	6	336	331
+26	247	76.71	322.0	10.21	6.0	1.86	0	3153	90	3e-41	174.0	2834	3151	318	16	335	320
+Query_22:
+22
+Query_23:
+23
+Query_24:
+24
+Query_25:
+25
+Query_26:
+26
+27	421	75.72	556.0	34.84	21.0	3.78	0	1596	25	4e-67	259.0	1030	1576	547	715	172	544
+Query_27:
+27
+Query_28:
+28
+Query_29:
+29
+Query_30:
+30
+Query_31:
+31
+Query_32:
+32
+Query_33:
+33
+Query_34:
+34
+28	517	76.25	678.0	65.7	2.0	0.29	0	1032	68	2e-97	359.0	118	794	677	21	697	677
+29	334	74.72	447.0	43.31	0.0	0.0	0	1032	7	1e-49	200.0	1	447	447	236	682	447
+Query_35:
+35
+30	609	83.88	726.0	25.66	2.0	0.28	0	2829	33	1e-999	695.0	382	1106	725	6	730	725
+Query_36:
+36
+Query_37:
+37
+Query_38:
+38
+Query_39:
+39
+Query_40:
+40
+31	516	83.23	620.0	21.75	0.0	0.0	0	2850	61	3e-160	569.0	1393	2012	620	38	657	620
+Query_41:
+41
+Query_42:
+42
+Query_43:
+43
+Query_44:
+44
+Query_45:
+45
+Query_46:
+46
+Query_47:
+47
+Query_48:
+48
+Query_49:
+49
+Query_50:
+50
+32	232	83.75	277.0	55.96	2.0	0.72	0	495	49	3e-68	261.0	55	330	276	278	553	276
+Query_51:
+51
+Query_52:
+52
+Query_53:
+53
+Query_54:
+54
+Query_55:
+55
+Query_56:
+56
+Query_57:
+57
+Query_58:
+58
+Query_59:
+59
+Query_60:
+60
+Query_61:
+61
+Query_62:
+62
+Query_63:
+63
+33	528	76.08	694.0	80.6	37.0	5.33	0	861	135	5e-88	327.0	100	785	686	212	876	665
+34	527	75.94	694.0	80.6	37.0	5.33	0	861	170	2e-86	322.0	100	785	686	959	295	665
+35	565	75.13	752.0	87.34	39.0	5.19	0	861	134	1e-84	316.0	43	785	743	155	876	722
+36	526	75.68	695.0	80.72	38.0	5.47	0	861	234	1e-83	313.0	100	785	686	1023	358	666
+37	525	75.65	694.0	80.6	37.0	5.33	0	861	214	5e-83	311.0	100	785	686	1002	338	665
+38	524	75.5	694.0	80.6	37.0	5.33	0	861	72	2e-81	305.0	100	785	686	759	95	665
+39	523	75.36	694.0	80.6	37.0	5.33	0	861	51	1e-79	300.0	100	785	686	740	76	665
+40	522	75.22	694.0	80.6	37.0	5.33	0	861	136	5e-78	294.0	100	785	686	212	876	665
+41	476	75.8	628.0	72.94	34.0	5.41	0	861	8	9e-76	287.0	100	719	620	207	808	602
+42	450	75.63	595.0	69.11	34.0	5.71	0	861	78	4e-69	265.0	100	686	587	210	778	569
+43	489	74.89	653.0	75.84	36.0	5.51	0	861	83	4e-69	265.0	43	686	644	155	780	626
+44	462	75.37	613.0	71.2	34.0	5.55	0	861	6	4e-69	265.0	100	704	605	214	800	587
+45	450	75.63	595.0	69.11	34.0	5.71	0	861	57	4e-69	265.0	100	686	587	88	656	569
+46	449	75.46	595.0	69.11	34.0	5.71	0	861	81	2e-67	259.0	100	686	587	210	778	569
+47	488	74.73	653.0	75.84	36.0	5.51	0	861	84	2e-67	259.0	43	686	644	155	780	626
+48	448	75.29	595.0	69.11	34.0	5.71	0	861	80	9e-66	254.0	100	686	587	212	780	569
+49	487	74.58	653.0	75.84	36.0	5.51	0	861	78	9e-66	254.0	43	686	644	151	776	626
+50	487	74.58	653.0	75.84	36.0	5.51	0	861	66	9e-66	254.0	43	686	644	41	666	626
+51	480	74.53	644.0	74.8	36.0	5.59	0	861	50	4e-64	248.0	43	677	635	134	750	617
+52	439	75.04	585.0	67.94	34.0	5.81	0	861	60	7e-62	241.0	100	676	577	202	760	559
+53	431	75.09	574.0	66.67	34.0	5.92	0	861	56	9e-61	237.0	100	665	566	208	755	548
+54	472	74.21	636.0	73.87	36.0	5.66	0	861	63	1e-59	233.0	43	669	627	155	763	609
+55	420	74.73	562.0	65.27	34.0	6.05	0	861	33	9e-56	220.0	100	653	554	198	733	536
+56	454	73.94	614.0	71.31	36.0	5.86	0	861	41	4e-54	215.0	43	647	605	152	738	587
+57	454	73.94	614.0	71.31	36.0	5.86	0	861	44	4e-54	215.0	43	647	605	155	741	587
+58	401	74.54	538.0	62.49	34.0	6.32	0	861	24	9e-51	204.0	100	629	530	211	722	512
+59	388	74.62	520.0	60.39	34.0	6.54	0	861	4	4e-49	198.0	100	611	512	206	699	494
+60	427	73.88	578.0	67.13	36.0	6.23	0	861	13	4e-49	198.0	43	611	569	155	705	551
+61	425	73.78	576.0	66.9	36.0	6.25	0	861	38	5e-48	195.0	43	609	567	90	638	549
+62	387	74.42	520.0	60.39	34.0	6.54	0	861	16	2e-47	193.0	100	611	512	214	707	494
+63	399	74.16	538.0	62.49	34.0	6.32	0	861	23	2e-47	193.0	100	629	530	212	723	512
+64	387	74.42	520.0	60.39	34.0	6.54	0	861	17	2e-47	193.0	100	611	512	213	706	494
+65	387	74.42	520.0	60.39	34.0	6.54	0	861	17	2e-47	193.0	100	611	512	212	705	494
+66	426	73.7	578.0	67.13	36.0	6.23	0	861	15	2e-47	193.0	43	611	569	155	705	551
+67	384	74.42	516.0	59.93	34.0	6.59	0	861	1	7e-47	191.0	100	607	508	212	701	490
+68	385	74.32	518.0	60.16	34.0	6.56	0	861	1	2e-46	189.0	100	609	510	210	701	492
+69	380	74.36	511.0	59.35	34.0	6.65	0	861	92	9e-46	187.0	100	602	503	205	689	485
+70	379	74.17	511.0	59.35	34.0	6.65	0	861	94	4e-44	182.0	100	602	503	209	693	485
+71	379	74.17	511.0	59.35	34.0	6.65	0	861	99	4e-44	182.0	100	602	503	212	696	485
+72	378	73.97	511.0	59.35	34.0	6.65	0	861	97	2e-42	176.0	100	602	503	212	696	485
+73	381	73.84	516.0	59.93	34.0	6.59	0	861	1	7e-42	174.0	100	607	508	212	701	490
+74	411	73.13	562.0	65.27	36.0	6.41	0	861	89	3e-40	169.0	43	595	553	155	689	535
+75	407	73.07	557.0	64.69	36.0	6.46	0	861	85	4e-39	165.0	43	590	548	154	683	530
+76	367	73.69	498.0	57.84	34.0	6.83	0	861	87	2e-38	163.0	100	589	490	216	687	472
+77	359	73.72	487.0	56.56	34.0	6.98	0	861	76	2e-37	159.0	100	578	479	210	670	461
+78	398	73.03	545.0	63.3	36.0	6.61	0	861	79	2e-37	159.0	43	578	536	155	672	518
+79	367	73.55	499.0	57.96	35.0	7.01	0	861	88	7e-37	158.0	100	590	491	214	685	472
+80	257	76.04	338.0	39.26	22.0	6.51	0	861	77	3e-36	156.0	100	435	336	368	685	318
+81	257	76.04	338.0	39.26	22.0	6.51	0	861	65	3e-36	156.0	100	435	336	212	529	318
+82	257	76.04	338.0	39.26	22.0	6.51	0	861	1	3e-36	156.0	100	435	336	249	566	318
+83	257	76.04	338.0	39.26	22.0	6.51	0	861	40	3e-36	156.0	100	435	336	213	530	318
+84	257	76.04	338.0	39.26	22.0	6.51	0	861	42	3e-36	156.0	100	435	336	207	524	318
+85	257	76.04	338.0	39.26	22.0	6.51	0	861	25	3e-36	156.0	100	435	336	210	527	318
+86	257	76.04	338.0	39.26	22.0	6.51	0	861	69	3e-36	156.0	100	435	336	212	529	318
+87	257	76.04	338.0	39.26	22.0	6.51	0	861	42	3e-36	156.0	100	435	336	210	527	318
+88	257	76.04	338.0	39.26	22.0	6.51	0	861	49	3e-36	156.0	100	435	336	149	466	318
+89	257	76.04	338.0	39.26	22.0	6.51	0	861	40	3e-36	156.0	100	435	336	212	529	318
+90	257	76.04	338.0	39.26	22.0	6.51	0	861	72	3e-36	156.0	100	435	336	212	529	318
+91	257	76.04	338.0	39.26	22.0	6.51	0	861	38	3e-36	156.0	100	435	336	212	529	318
+92	257	76.04	338.0	39.26	22.0	6.51	0	861	79	3e-36	156.0	100	435	336	212	529	318
+93	257	76.04	338.0	39.26	22.0	6.51	0	861	30	3e-36	156.0	100	435	336	181	498	318
+94	296	74.75	396.0	45.99	24.0	6.06	0	861	17	3e-36	156.0	43	435	393	155	529	375
+95	296	74.75	396.0	45.99	24.0	6.06	0	861	45	3e-36	156.0	43	435	393	155	529	375
+96	257	76.04	338.0	39.26	22.0	6.51	0	861	49	3e-36	156.0	100	435	336	213	530	318
+97	296	74.75	396.0	45.99	24.0	6.06	0	861	44	3e-36	156.0	43	435	393	155	529	375
+98	257	76.04	338.0	39.26	22.0	6.51	0	861	16	3e-36	156.0	100	435	336	224	541	318
+99	257	76.04	338.0	39.26	22.0	6.51	0	861	45	3e-36	156.0	100	435	336	198	515	318
+100	296	74.75	396.0	45.99	24.0	6.06	0	861	36	3e-36	156.0	43	435	393	154	528	375
+101	257	76.04	338.0	39.26	22.0	6.51	0	861	59	3e-36	156.0	100	435	336	212	529	318
+102	257	76.04	338.0	39.26	22.0	6.51	0	861	72	3e-36	156.0	100	435	336	213	530	318
+103	296	74.75	396.0	45.99	24.0	6.06	0	861	49	3e-36	156.0	43	435	393	156	530	375
+104	257	76.04	338.0	39.26	22.0	6.51	0	861	49	3e-36	156.0	100	435	336	211	528	318
+105	257	76.04	338.0	39.26	22.0	6.51	0	861	6	3e-36	156.0	100	435	336	212	529	318
+106	296	74.75	396.0	45.99	24.0	6.06	0	861	37	3e-36	156.0	43	435	393	155	529	375
+107	242	76.58	316.0	36.7	22.0	6.96	0	861	1	9e-36	154.0	100	413	314	212	507	296
+108	242	76.58	316.0	36.7	22.0	6.96	0	861	42	9e-36	154.0	100	413	314	214	509	296
+109	241	76.51	315.0	36.59	20.0	6.35	0	861	61	9e-36	154.0	100	413	314	247	542	296
+110	242	76.58	316.0	36.7	22.0	6.96	0	861	98	9e-36	154.0	100	413	314	212	507	296
+111	242	76.58	316.0	36.7	22.0	6.96	0	861	13	9e-36	154.0	100	413	314	212	507	296
+112	281	75.13	374.0	43.44	24.0	6.42	0	861	25	9e-36	154.0	43	413	371	153	505	353
+113	256	75.74	338.0	39.26	22.0	6.51	0	861	7	3e-35	152.0	100	435	336	214	531	318
+114	256	75.74	338.0	39.26	22.0	6.51	0	861	58	1e-34	150.0	100	435	336	367	684	318
+115	256	75.74	338.0	39.26	22.0	6.51	0	861	25	1e-34	150.0	100	435	336	208	525	318
+116	256	75.74	338.0	39.26	22.0	6.51	0	861	33	1e-34	150.0	100	435	336	211	528	318
+117	256	75.74	338.0	39.26	22.0	6.51	0	861	96	1e-34	150.0	100	435	336	157	474	318
+118	256	75.74	338.0	39.26	22.0	6.51	0	861	73	1e-34	150.0	100	435	336	212	529	318
+119	295	74.49	396.0	45.99	24.0	6.06	0	861	39	1e-34	150.0	43	435	393	155	529	375
+120	241	76.27	316.0	36.7	22.0	6.96	0	861	15	4e-34	148.0	100	413	314	212	507	296
+121	239	76.11	314.0	36.47	22.0	7.01	0	861	7	5e-33	145.0	100	411	312	214	507	294
+122	272	74.52	365.0	42.39	24.0	6.58	0	861	4	9e-31	137.0	43	404	362	155	498	344
+123	238	75.08	317.0	36.82	22.0	6.94	0	861	32	5e-28	128.0	121	435	315	6	302	297
+124	183	76.89	238.0	27.64	20.0	8.4	0	861	33	1e-24	117.0	100	336	237	212	430	219
+125	188	76.11	247.0	28.69	20.0	8.1	0	861	33	6e-23	111.0	100	345	246	206	433	228
+126	178	76.72	232.0	26.95	20.0	8.62	0	861	24	6e-23	111.0	100	330	231	112	324	213
+127	168	76.71	219.0	25.44	20.0	9.13	0	861	17	9e-21	104.0	100	317	218	215	414	200
+128	167	76.26	219.0	25.44	20.0	9.13	0	861	15	4e-19	99.0	100	317	218	210	409	200
+129	77	86.52	89.0	10.34	2.0	2.25	0	861	41	2e-18	97.1	100	187	88	210	297	88
+130	77	86.52	89.0	10.34	2.0	2.25	0	861	23	2e-18	97.1	100	187	88	212	299	88
+131	77	86.52	89.0	10.34	2.0	2.25	0	861	26	2e-18	97.1	100	187	88	161	248	88
+132	77	86.52	89.0	10.34	2.0	2.25	0	861	96	2e-18	97.1	100	187	88	212	299	88
+133	77	86.52	89.0	10.34	2.0	2.25	0	861	82	2e-18	97.1	100	187	88	211	298	88
+134	56	94.92	59.0	6.85	0.0	0.0	0	861	27	2e-17	93.5	100	158	59	212	270	59
+135	56	94.92	59.0	6.85	0.0	0.0	0	861	23	2e-17	93.5	100	158	59	214	272	59
+136	56	94.92	59.0	6.85	0.0	0.0	0	861	24	2e-17	93.5	100	158	59	242	300	59
+137	76	85.39	89.0	10.34	2.0	2.25	0	861	12	7e-17	91.6	100	187	88	149	236	88
+Query_64:
+64
+138	685	78.92	868.0	100.0	17.0	1.96	0	864	178	6e-162	573.0	1	860	860	100	958	859
+139	553	78.66	703.0	81.37	9.0	1.28	0	864	5	2e-127	459.0	156	852	697	5	704	700
+140	515	78.27	658.0	76.16	11.0	1.67	0	864	58	1e-113	412.0	184	834	651	5	658	654
+141	453	78.24	579.0	67.01	6.0	1.04	0	864	67	1e-99	366.0	278	851	574	1	578	578
+142	415	78.3	530.0	61.34	9.0	1.7	0	864	44	1e-89	333.0	337	860	524	744	218	527
+143	477	76.44	624.0	72.22	11.0	1.76	0	864	21	5e-88	327.0	1	617	617	96	715	620
+34	537	75.63	710.0	82.18	29.0	4.08	0	864	170	2e-87	326.0	130	824	695	975	280	696
+35	560	75.17	745.0	86.23	31.0	4.16	0	864	134	2e-86	322.0	83	812	730	151	879	729
+146	384	78.69	488.0	56.48	6.0	1.23	0	864	16	8e-86	320.0	377	860	484	706	221	486
+36	536	75.39	711.0	82.29	30.0	4.22	0	864	234	1e-84	316.0	130	824	695	1039	343	697
+37	533	75.07	710.0	82.18	29.0	4.08	0	864	214	9e-81	303.0	130	824	695	1018	323	696
+149	361	78.82	458.0	53.01	6.0	1.31	0	864	25	9e-81	303.0	407	860	454	725	270	456
+150	399	77.03	518.0	59.95	10.0	1.93	0	864	34	2e-76	289.0	1	511	511	120	634	515
+151	284	81.14	350.0	40.51	1.0	0.29	0	864	84	1e-73	279.0	511	860	350	570	222	349
+152	363	77.23	470.0	54.4	1.0	0.21	0	864	55	7e-72	274.0	391	860	470	655	187	469
+153	283	80.86	350.0	40.51	1.0	0.29	0	864	43	7e-72	274.0	511	860	350	569	221	349
+154	283	80.86	350.0	40.51	1.0	0.29	0	864	2	7e-72	274.0	511	860	350	563	215	349
+155	282	80.8	349.0	40.39	1.0	0.29	0	864	34	2e-71	272.0	511	859	349	569	222	348
+156	340	78.16	435.0	50.35	6.0	1.38	0	864	54	2e-71	272.0	430	860	431	654	222	433
+157	410	76.35	537.0	62.15	20.0	3.72	0	864	84	9e-71	270.0	286	812	527	5	531	527
+158	282	80.57	350.0	40.51	1.0	0.29	0	864	48	3e-70	268.0	511	860	350	569	221	349
+159	280	80.69	347.0	40.16	1.0	0.29	0	864	32	3e-70	268.0	514	860	347	565	220	346
+160	282	80.57	350.0	40.51	1.0	0.29	0	864	16	3e-70	268.0	511	860	350	554	206	349
+161	280	80.0	350.0	40.51	1.0	0.29	0	864	29	7e-67	257.0	511	860	350	570	222	349
+162	281	80.06	351.0	40.63	3.0	0.85	0	864	81	7e-67	257.0	511	860	350	570	222	349
+163	278	80.12	347.0	40.16	1.0	0.29	0	864	40	7e-67	257.0	514	860	347	566	221	346
+164	394	76.21	517.0	59.84	20.0	3.87	0	864	39	2e-66	255.0	318	824	507	739	233	507
+165	392	75.82	517.0	59.84	21.0	4.06	0	864	33	2e-62	243.0	306	812	507	5	510	506
+166	238	81.23	293.0	33.91	1.0	0.34	0	864	17	3e-60	235.0	568	860	293	5	296	292
+167	242	80.94	299.0	34.61	1.0	0.33	0	864	12	3e-60	235.0	562	860	299	506	209	298
+168	251	80.19	313.0	36.23	1.0	0.32	0	864	19	1e-59	233.0	548	860	313	519	208	312
+169	269	79.12	340.0	39.35	4.0	1.18	0	864	64	4e-59	231.0	487	824	338	567	230	338
+170	269	79.12	340.0	39.35	4.0	1.18	0	864	95	4e-59	231.0	487	824	338	547	210	338
+171	269	79.12	340.0	39.35	4.0	1.18	0	864	80	4e-59	231.0	487	824	338	664	327	338
+172	269	79.12	340.0	39.35	4.0	1.18	0	864	33	4e-59	231.0	487	824	338	667	330	338
+173	269	79.12	340.0	39.35	4.0	1.18	0	864	22	4e-59	231.0	487	824	338	617	280	338
+174	261	79.57	328.0	37.96	4.0	1.22	0	864	67	4e-59	231.0	487	812	326	92	417	326
+175	269	79.12	340.0	39.35	4.0	1.18	0	864	65	4e-59	231.0	487	824	338	568	231	338
+176	269	79.12	340.0	39.35	4.0	1.18	0	864	34	4e-59	231.0	487	824	338	550	213	338
+177	269	79.12	340.0	39.35	4.0	1.18	0	864	93	4e-59	231.0	487	824	338	568	231	338
+178	268	78.82	340.0	39.35	4.0	1.18	0	864	16	2e-57	226.0	487	824	338	621	284	338
+179	268	78.82	340.0	39.35	4.0	1.18	0	864	23	2e-57	226.0	487	824	338	586	249	338
+180	268	78.82	340.0	39.35	4.0	1.18	0	864	85	2e-57	226.0	487	824	338	567	230	338
+181	268	78.82	340.0	39.35	4.0	1.18	0	864	69	2e-57	226.0	487	824	338	662	325	338
+182	268	78.82	340.0	39.35	4.0	1.18	0	864	58	2e-57	226.0	487	824	338	661	324	338
+183	268	78.82	340.0	39.35	4.0	1.18	0	864	85	2e-57	226.0	487	824	338	640	303	338
+184	268	78.82	340.0	39.35	4.0	1.18	0	864	27	2e-57	226.0	487	824	338	580	243	338
+185	268	78.82	340.0	39.35	4.0	1.18	0	864	65	2e-57	226.0	487	824	338	582	245	338
+186	268	78.82	340.0	39.35	4.0	1.18	0	864	90	2e-57	226.0	487	824	338	582	245	338
+187	268	78.82	340.0	39.35	4.0	1.18	0	864	16	2e-57	226.0	487	824	338	569	232	338
+188	268	78.82	340.0	39.35	4.0	1.18	0	864	93	2e-57	226.0	487	824	338	647	310	338
+189	268	78.82	340.0	39.35	4.0	1.18	0	864	17	2e-57	226.0	487	824	338	581	244	338
+190	268	78.82	340.0	39.35	4.0	1.18	0	864	2	2e-57	226.0	487	824	338	571	234	338
+191	268	78.82	340.0	39.35	4.0	1.18	0	864	91	2e-57	226.0	487	824	338	619	282	338
+192	268	78.82	340.0	39.35	4.0	1.18	0	864	96	2e-57	226.0	487	824	338	649	312	338
+193	268	78.82	340.0	39.35	4.0	1.18	0	864	44	2e-57	226.0	487	824	338	565	228	338
+194	268	78.82	340.0	39.35	4.0	1.18	0	864	2	2e-57	226.0	487	824	338	568	231	338
+195	268	78.82	340.0	39.35	4.0	1.18	0	864	0	2e-57	226.0	487	824	338	583	246	338
+196	267	78.53	340.0	39.35	4.0	1.18	0	864	98	9e-56	220.0	487	824	338	617	280	338
+197	267	78.53	340.0	39.35	4.0	1.18	0	864	64	9e-56	220.0	487	824	338	619	282	338
+198	267	78.53	340.0	39.35	4.0	1.18	0	864	28	9e-56	220.0	487	824	338	617	280	338
+199	267	78.53	340.0	39.35	4.0	1.18	0	864	64	9e-56	220.0	487	824	338	619	282	338
+200	259	78.96	328.0	37.96	4.0	1.22	0	864	93	9e-56	220.0	487	812	326	92	417	326
+201	259	78.96	328.0	37.96	4.0	1.22	0	864	41	9e-56	220.0	487	812	326	122	447	326
+202	267	78.53	340.0	39.35	4.0	1.18	0	864	94	9e-56	220.0	487	824	338	620	283	338
+203	267	78.53	340.0	39.35	4.0	1.18	0	864	97	9e-56	220.0	487	824	338	579	242	338
+204	267	78.53	340.0	39.35	4.0	1.18	0	864	12	9e-56	220.0	487	824	338	581	244	338
+205	265	78.64	337.0	39.0	4.0	1.19	0	864	6	9e-56	220.0	490	824	335	581	247	335
+206	267	78.53	340.0	39.35	4.0	1.18	0	864	67	9e-56	220.0	487	824	338	620	283	338
+207	267	78.53	340.0	39.35	5.0	1.47	0	864	10	3e-55	219.0	487	824	338	619	283	337
+208	266	78.24	340.0	39.35	4.0	1.18	0	864	31	4e-54	215.0	487	824	338	584	247	338
+209	266	78.24	340.0	39.35	4.0	1.18	0	864	74	4e-54	215.0	487	824	338	569	232	338
+210	266	78.24	340.0	39.35	4.0	1.18	0	864	88	4e-54	215.0	487	824	338	414	77	338
+211	261	78.38	333.0	38.54	4.0	1.2	0	864	73	1e-53	213.0	494	824	331	573	243	331
+212	265	77.94	340.0	39.35	4.0	1.18	0	864	41	2e-52	209.0	487	824	338	621	284	338
+213	263	78.04	337.0	39.0	4.0	1.19	0	864	7	2e-52	209.0	490	824	335	563	229	335
+214	265	77.94	340.0	39.35	4.0	1.18	0	864	25	2e-52	209.0	487	824	338	586	249	338
+215	250	78.37	319.0	36.92	1.0	0.31	0	864	81	2e-51	206.0	487	805	319	651	334	318
+216	256	78.05	328.0	37.96	4.0	1.22	0	864	9	9e-51	204.0	499	824	326	609	284	326
+217	254	77.91	326.0	37.73	4.0	1.23	0	864	71	1e-49	200.0	501	824	324	567	244	324
+218	246	78.34	314.0	36.34	4.0	1.27	0	864	66	1e-49	200.0	513	824	312	557	246	312
+219	263	77.35	340.0	39.35	4.0	1.18	0	864	77	4e-49	198.0	487	824	338	568	231	338
+220	231	78.84	293.0	33.91	1.0	0.34	0	864	12	1e-48	196.0	568	860	293	511	220	292
+221	244	78.21	312.0	36.11	4.0	1.28	0	864	46	1e-48	196.0	515	824	310	646	337	310
+222	221	79.21	279.0	32.29	2.0	0.72	0	864	32	2e-47	193.0	535	812	278	15	292	278
+223	219	79.35	276.0	31.94	2.0	0.72	0	864	35	2e-47	193.0	538	812	275	6	280	275
+224	236	78.41	301.0	34.84	4.0	1.33	0	864	10	2e-47	193.0	514	812	299	5	303	299
+225	232	78.64	295.0	34.14	3.0	1.02	0	864	97	2e-47	193.0	532	824	293	595	302	294
+226	223	78.25	285.0	32.99	2.0	0.7	0	864	83	4e-44	182.0	541	824	284	565	282	284
+227	211	79.03	267.0	30.9	2.0	0.75	0	864	51	4e-44	182.0	559	824	266	546	281	266
+228	223	77.97	286.0	33.1	3.0	1.05	0	864	90	2e-42	176.0	541	824	284	566	282	285
+229	191	78.6	243.0	28.13	2.0	0.82	0	864	80	2e-37	159.0	571	812	242	576	335	242
+230	180	78.95	228.0	26.39	2.0	0.88	0	864	27	9e-36	154.0	598	824	227	320	94	227
+231	180	78.95	228.0	26.39	2.0	0.88	0	864	64	9e-36	154.0	598	824	227	551	325	227
+232	179	78.51	228.0	26.39	2.0	0.88	0	864	45	4e-34	148.0	598	824	227	538	312	227
+233	196	77.17	254.0	29.4	2.0	0.79	0	864	89	2e-33	147.0	572	824	253	589	337	253
+234	147	81.22	181.0	20.95	2.0	1.1	0	864	27	5e-33	145.0	680	860	181	399	221	179
+235	174	78.38	222.0	25.69	2.0	0.9	0	864	53	2e-32	143.0	604	824	221	452	232	221
+236	129	83.23	155.0	17.94	1.0	0.65	0	864	79	7e-32	141.0	706	860	155	374	221	154
+237	176	77.88	226.0	26.16	2.0	0.88	0	864	88	3e-31	139.0	600	824	225	466	242	225
+238	236	74.45	317.0	36.69	3.0	0.95	0	864	36	1e-29	134.0	490	805	316	411	97	315
+239	171	77.73	220.0	25.46	1.0	0.45	0	864	72	1e-29	134.0	586	805	220	564	346	219
+240	138	79.31	174.0	20.14	2.0	1.15	0	864	22	9e-26	121.0	652	824	173	404	232	173
+241	132	80.0	165.0	19.1	2.0	1.21	0	864	4	9e-26	121.0	661	824	164	502	339	164
+242	117	81.25	144.0	16.67	2.0	1.39	0	864	66	4e-24	115.0	670	812	143	5	147	143
+243	94	85.45	110.0	12.73	1.0	0.91	0	864	32	2e-23	113.0	751	860	110	5	113	109
+244	127	78.88	161.0	18.63	1.0	0.62	0	864	97	7e-22	108.0	700	860	161	35	194	160
+245	87	83.65	104.0	12.04	1.0	0.96	0	864	33	2e-18	97.1	757	860	104	323	221	103
+246	97	80.17	121.0	14.0	2.0	1.65	0	864	51	3e-16	89.8	705	824	120	351	232	120
+247	74	82.22	90.0	10.42	2.0	2.22	0	864	79	2e-12	76.8	736	824	89	165	77	89
+Query_65:
+65
+Query_66:
+66
+Query_67:
+67
+248	199	74.53	267.0	16.67	18.0	6.74	0	1602	67	2e-19	100.0	345	602	258	209	466	258
+Query_68:
+68
+Query_69:
+69
+Query_70:
+70
+Query_71:
+71
+Query_72:
+72
+Query_73:
+73
+Query_74:
+74
+Query_75:
+75
+249	429	76.47	561.0	44.21	17.0	3.03	0	1269	45	4e-76	289.0	708	1261	554	70	620	551
+250	373	75.97	491.0	38.69	15.0	3.05	0	1269	46	4e-61	239.0	777	1261	485	5	486	482
+Query_76:
+76
+Query_77:
+77
+Query_78:
+78
+28	449	79.05	568.0	52.16	6.0	1.06	0	1089	68	4e-105	385.0	169	733	565	21	585	565
+252	304	82.38	369.0	33.88	0.0	0.0	0	1089	78	3e-86	322.0	28	396	369	110	478	369
+253	199	83.61	238.0	21.85	0.0	0.0	0	1089	49	9e-57	224.0	28	265	238	112	349	238
+254	166	81.77	203.0	18.64	0.0	0.0	0	1089	16	1e-40	171.0	28	230	203	110	312	203
+Query_79:
+79
+Query_80:
+80
+Query_81:
+81
+255	566	81.56	694.0	34.42	2.0	0.29	0	2016	99	5e-161	571.0	1236	1928	693	7	699	693
+256	415	78.75	527.0	26.14	2.0	0.38	0	2016	20	7e-95	351.0	1490	2015	526	718	193	526
+257	263	86.23	305.0	15.13	0.0	0.0	0	2016	75	9e-89	331.0	813	1117	305	76	380	305
+Query_82:
+82
+Query_83:
+83
+Query_84:
+84
+Query_85:
+85
+Query_86:
+86
+Query_87:
+87
+Query_88:
+88
+Query_89:
+89
+Query_90:
+90
+Query_91:
+91
+Query_92:
+92
+Query_93:
+93
+Query_94:
+94
+Query_95:
+95
+Query_96:
+96
+Query_97:
+97
+Query_98:
+98
+Query_99:
+99
+Query_100:
+100
+Query_101:
+101
+Query_102:
+102
+Query_103:
+103
+Query_104:
+104
+Query_105:
+105
+Query_106:
+106
+Query_107:
+107
+Query_108:
+108
+Query_109:
+109
+Query_110:
+110
+Query_111:
+111
+Query_112:
+112
+Query_113:
+113
+Query_114:
+114
+Query_115:
+115
+Query_116:
+116
+Query_117:
+117
+Query_118:
+118
+Query_119:
+119
+Query_120:
+120
+Query_121:
+121
+Query_122:
+122
+Query_123:
+123
+Query_124:
+124
+Query_125:
+125
+Query_126:
+126
+258	652	75.64	862.0	99.08	7.0	0.81	0	870	293	2e-116	422.0	1	857	857	94	953	860
+259	472	77.12	612.0	70.34	5.0	0.82	0	870	26	1e-94	350.0	250	857	608	48	658	611
+141	447	77.74	575.0	66.09	8.0	1.39	0	870	67	1e-93	346.0	289	857	569	6	578	573
+261	444	77.76	571.0	65.63	7.0	1.23	0	870	63	5e-93	344.0	292	857	566	6	574	569
+262	457	77.33	591.0	67.93	8.0	1.35	0	870	80	2e-92	342.0	272	857	586	674	87	588
+263	453	77.44	585.0	67.24	7.0	1.2	0	870	96	2e-92	342.0	250	829	580	14	596	583
+264	539	75.38	715.0	82.18	7.0	0.98	0	870	9	2e-91	339.0	1	710	710	97	809	713
+265	437	77.62	563.0	64.71	7.0	1.24	0	870	97	3e-90	335.0	273	830	558	3	563	561
+266	524	75.29	696.0	80.0	7.0	1.01	0	870	2	2e-87	326.0	1	691	691	9	702	694
+267	371	78.11	475.0	54.6	7.0	1.47	0	870	81	5e-78	294.0	361	830	470	6	478	473
+268	495	74.89	661.0	75.98	7.0	1.06	0	870	54	5e-78	294.0	1	656	656	95	753	659
+269	484	75.04	645.0	74.14	8.0	1.24	0	870	41	2e-77	292.0	1	640	640	94	735	642
+270	472	75.16	628.0	72.18	7.0	1.11	0	870	28	2e-76	289.0	1	623	623	94	719	626
+271	483	74.88	645.0	74.14	8.0	1.24	0	870	23	9e-76	287.0	1	640	640	79	720	642
+272	483	74.88	645.0	74.14	8.0	1.24	0	870	34	9e-76	287.0	1	640	640	92	733	642
+273	480	74.88	641.0	73.68	7.0	1.09	0	870	37	3e-75	285.0	1	636	636	97	735	639
+274	480	74.88	641.0	73.68	7.0	1.09	0	870	35	3e-75	285.0	1	636	636	97	735	639
+275	471	75.0	628.0	72.18	7.0	1.11	0	870	23	1e-74	283.0	1	623	623	94	719	626
+276	482	74.73	645.0	74.14	8.0	1.24	0	870	37	4e-74	281.0	1	640	640	93	734	642
+277	482	74.73	645.0	74.14	8.0	1.24	0	870	45	4e-74	281.0	1	640	640	94	735	642
+278	458	74.96	611.0	70.23	7.0	1.15	0	870	8	7e-72	274.0	1	606	606	98	706	609
+279	458	74.96	611.0	70.23	7.0	1.15	0	870	8	7e-72	274.0	1	606	606	97	705	609
+280	290	79.67	364.0	41.84	4.0	1.1	0	870	81	2e-67	259.0	496	857	362	31	392	362
+281	289	79.61	363.0	41.72	2.0	0.55	0	870	92	2e-67	259.0	496	857	362	42	403	362
+282	289	79.61	363.0	41.72	2.0	0.55	0	870	72	2e-67	259.0	496	857	362	72	433	362
+283	289	79.61	363.0	41.72	2.0	0.55	0	870	29	2e-67	259.0	496	857	362	710	349	362
+284	288	79.34	363.0	41.72	2.0	0.55	0	870	39	9e-66	254.0	496	857	362	629	268	362
+285	288	79.34	363.0	41.72	2.0	0.55	0	870	85	9e-66	254.0	496	857	362	446	85	362
+286	266	79.88	333.0	38.28	2.0	0.6	0	870	43	2e-62	243.0	526	857	332	643	312	332
+287	263	78.74	334.0	38.39	0.0	0.0	0	870	86	7e-57	224.0	524	857	334	686	353	334
+288	237	80.07	296.0	34.02	0.0	0.0	0	870	48	9e-56	220.0	562	857	296	646	351	296
+289	232	80.28	289.0	33.22	0.0	0.0	0	870	54	3e-55	219.0	569	857	289	648	360	289
+290	236	79.73	296.0	34.02	0.0	0.0	0	870	46	4e-54	215.0	562	857	296	643	348	296
+291	233	78.72	296.0	34.02	0.0	0.0	0	870	43	4e-49	198.0	562	857	296	640	345	296
+292	246	77.12	319.0	36.67	8.0	2.51	0	870	24	5e-43	178.0	327	640	314	1	316	316
+Query_127:
+127
+293	436	78.56	555.0	64.01	8.0	1.44	0	867	48	2e-97	359.0	266	816	551	5	555	551
+294	452	77.93	580.0	66.9	8.0	1.38	0	867	11	2e-96	355.0	241	816	576	52	627	576
+295	421	78.84	534.0	61.59	8.0	1.5	0	867	27	8e-96	353.0	241	770	530	53	582	530
+296	233	78.19	298.0	34.37	2.0	0.67	0	867	66	3e-46	189.0	544	840	297	664	368	297
+297	213	78.31	272.0	31.37	0.0	0.0	0	867	84	2e-42	176.0	545	816	272	584	313	272
+298	213	78.31	272.0	31.37	0.0	0.0	0	867	84	2e-42	176.0	545	816	272	584	313	272
+299	207	77.24	268.0	30.91	2.0	0.75	0	867	1	3e-36	156.0	574	840	267	701	435	267
+300	175	78.48	223.0	25.72	2.0	0.9	0	867	81	5e-33	145.0	619	840	222	658	437	222
+301	175	78.48	223.0	25.72	2.0	0.9	0	867	74	5e-33	145.0	619	840	222	638	417	222
+302	175	78.48	223.0	25.72	2.0	0.9	0	867	0	5e-33	145.0	619	840	222	664	443	222
+303	175	78.48	223.0	25.72	2.0	0.9	0	867	74	5e-33	145.0	619	840	222	645	424	222
+304	175	78.48	223.0	25.72	2.0	0.9	0	867	75	5e-33	145.0	619	840	222	643	422	222
+305	184	77.64	237.0	27.34	0.0	0.0	0	867	6	5e-33	145.0	580	816	237	5	241	237
+306	188	77.37	243.0	28.03	0.0	0.0	0	867	59	5e-33	145.0	574	816	243	659	417	243
+307	170	78.7	216.0	24.91	0.0	0.0	0	867	9	5e-33	145.0	601	816	216	20	235	216
+308	167	78.4	213.0	24.57	3.0	1.41	0	867	46	3e-30	135.0	629	840	212	645	435	211
+309	119	83.8	142.0	16.38	1.0	0.7	0	867	58	1e-29	134.0	629	770	142	5	145	141
+310	173	77.58	223.0	25.72	2.0	0.9	0	867	81	1e-29	134.0	619	840	222	658	437	222
+311	150	77.72	193.0	22.26	2.0	1.04	0	867	29	1e-24	117.0	649	840	192	629	438	192
+312	157	76.96	204.0	23.53	4.0	1.96	0	867	89	2e-23	113.0	639	840	202	589	388	202
+313	128	77.11	166.0	19.15	2.0	1.2	0	867	4	6e-18	95.3	676	840	165	601	437	165
+314	106	78.52	135.0	15.57	0.0	0.0	0	867	5	3e-16	89.8	682	816	135	5	139	135
+315	97	78.86	123.0	14.19	0.0	0.0	0	867	83	1e-14	84.2	694	816	123	582	460	123
+316	106	76.26	139.0	16.03	2.0	1.44	0	867	66	3e-11	73.1	703	840	138	561	424	138
+317	83	78.3	106.0	12.23	0.0	0.0	0	867	76	3e-10	69.4	711	816	106	6	111	106
+318	83	78.3	106.0	12.23	0.0	0.0	0	867	86	3e-10	69.4	711	816	106	31	136	106
+319	70	80.46	87.0	10.03	0.0	0.0	0	867	49	1e-09	67.6	730	816	87	5	91	87
+320	89	77.39	115.0	13.26	2.0	1.74	0	867	52	1e-09	67.6	727	840	114	549	436	114
+321	87	76.99	113.0	13.03	2.0	1.77	0	867	61	2e-08	63.9	729	840	112	535	424	112
+Query_128:
+128
+Query_129:
+129
+Query_130:
+130
+Query_131:
+131
+Query_132:
+132
+Query_133:
+133
+Query_134:
+134
+Query_135:
+135
+Query_136:
+136
+Query_137:
+137
+Query_138:
+138
+Query_139:
+139
+Query_140:
+140
+Query_141:
+141
+Query_142:
+142
+Query_143:
+143
+Query_144:
+144
+Query_145:
+145
+Query_146:
+146
+Query_147:
+147
+Query_148:
+148
+Query_149:
+149
+Query_150:
+150
+Query_151:
+151
+Query_152:
+152
+Query_153:
+153
+Query_154:
+154
+Query_155:
+155
+Query_156:
+156
+Query_157:
+157
+Query_158:
+158
+Query_159:
+159
+Query_160:
+160
+Query_161:
+161
+Query_162:
+162
+322	598	77.86	768.0	31.59	20.0	2.6	0	2431	63	5e-127	459.0	175	932	758	6	763	758
+323	485	75.19	645.0	26.53	20.0	3.1	0	2431	39	2e-75	287.0	16	650	635	105	739	635
+324	342	77.38	442.0	18.18	14.0	3.17	0	2431	0	3e-64	250.0	16	450	435	229	663	435
+325	342	77.38	442.0	18.18	14.0	3.17	0	2431	24	3e-64	250.0	16	450	435	229	663	435
+326	310	78.09	397.0	16.33	10.0	2.52	0	2431	52	5e-62	243.0	16	407	392	231	622	392
+Query_163:
+163
+Query_164:
+164
+Query_165:
+165
+Query_166:
+166
+138	692	81.41	850.0	98.61	21.0	2.47	0	862	178	1e-999	675.0	13	850	838	108	948	841
+328	678	79.86	849.0	98.49	19.0	2.24	0	862	163	7e-171	603.0	13	850	838	104	944	841
+139	575	82.03	701.0	81.32	11.0	1.57	0	862	5	8e-166	586.0	157	850	694	5	701	697
+140	545	82.58	660.0	76.57	15.0	2.27	0	862	58	3e-160	568.0	185	835	651	5	658	654
+331	561	80.95	693.0	80.39	21.0	3.03	0	862	89	1e-148	529.0	13	693	681	104	787	684
+332	548	80.71	679.0	78.77	19.0	2.8	0	862	78	5e-143	510.0	13	680	668	108	778	671
+333	526	81.3	647.0	75.06	21.0	3.25	0	862	61	2e-141	505.0	59	693	635	21	658	638
+334	470	82.17	572.0	66.36	15.0	2.62	0	862	70	5e-133	477.0	181	743	563	5	570	566
+142	433	83.27	520.0	60.32	10.0	1.92	0	862	44	8e-131	470.0	338	850	513	744	228	517
+336	517	80.28	644.0	74.71	19.0	2.95	0	862	45	3e-130	468.0	13	645	633	108	743	636
+337	519	80.09	648.0	75.17	19.0	2.93	0	862	47	4e-129	464.0	13	649	637	108	747	640
+338	415	83.84	495.0	57.42	8.0	1.62	0	862	36	4e-129	464.0	257	745	489	44	536	493
+339	510	80.31	635.0	73.67	19.0	2.99	0	862	36	1e-128	462.0	13	636	624	109	735	627
+340	510	80.31	635.0	73.67	19.0	2.99	0	862	36	1e-128	462.0	13	636	624	108	734	627
+341	506	79.94	633.0	73.43	19.0	3.0	0	862	32	4e-124	448.0	13	634	622	108	732	625
+146	402	83.23	483.0	56.03	9.0	1.86	0	862	16	3e-120	435.0	374	850	477	710	231	480
+343	492	79.74	617.0	71.58	19.0	3.08	0	862	14	1e-118	429.0	13	618	606	104	712	609
+149	372	84.35	441.0	51.16	9.0	2.04	0	862	25	6e-117	424.0	416	850	435	717	280	438
+345	474	79.53	596.0	69.14	19.0	3.19	0	862	95	6e-112	407.0	13	597	585	108	695	588
+346	474	79.26	598.0	69.37	19.0	3.18	0	862	93	1e-109	399.0	13	599	587	104	693	590
+347	472	79.19	596.0	69.14	19.0	3.19	0	862	94	1e-108	396.0	13	597	585	107	694	588
+348	458	79.65	575.0	66.71	19.0	3.3	0	862	75	1e-108	396.0	13	576	564	108	674	567
+158	315	86.07	366.0	42.46	1.0	0.27	0	862	48	2e-107	392.0	486	850	365	596	231	366
+350	366	82.99	441.0	51.16	9.0	2.04	0	862	58	6e-107	390.0	416	850	435	652	215	438
+351	469	79.09	593.0	68.79	19.0	3.2	0	862	92	6e-107	390.0	13	594	582	108	692	585
+155	314	85.79	366.0	42.46	1.0	0.27	0	862	34	8e-106	387.0	486	850	365	596	231	366
+153	314	85.79	366.0	42.46	1.0	0.27	0	862	43	8e-106	387.0	486	850	365	596	231	366
+154	314	85.79	366.0	42.46	1.0	0.27	0	862	2	8e-106	387.0	486	850	365	590	225	366
+355	450	79.37	567.0	65.78	19.0	3.35	0	862	52	4e-104	381.0	13	568	556	94	652	559
+160	313	85.52	366.0	42.46	1.0	0.27	0	862	16	4e-104	381.0	486	850	365	581	216	366
+159	311	84.97	366.0	42.46	1.0	0.27	0	862	32	8e-101	370.0	486	850	365	595	230	366
+151	302	85.55	353.0	40.95	0.0	0.0	0	862	84	8e-101	370.0	498	850	353	584	232	353
+359	421	78.99	533.0	61.83	19.0	3.56	0	862	33	1e-93	346.0	13	534	522	108	632	525
+360	305	83.33	366.0	42.46	1.0	0.27	0	862	6	8e-91	337.0	486	850	365	566	201	366
+361	408	78.46	520.0	60.32	19.0	3.65	0	862	50	2e-86	322.0	13	521	509	139	650	512
+362	364	79.65	457.0	53.02	12.0	2.63	0	862	7	3e-85	318.0	13	463	451	108	558	451
+363	364	79.65	457.0	53.02	12.0	2.63	0	862	86	3e-85	318.0	13	463	451	108	558	451
+364	364	79.65	457.0	53.02	12.0	2.63	0	862	10	3e-85	318.0	13	463	451	108	558	451
+168	257	85.67	300.0	34.8	0.0	0.0	0	862	19	1e-84	316.0	551	850	300	517	218	300
+366	363	79.43	457.0	53.02	12.0	2.63	0	862	86	1e-83	313.0	13	463	451	108	558	451
+367	363	79.43	457.0	53.02	12.0	2.63	0	862	11	1e-83	313.0	13	463	451	105	555	451
+368	270	83.59	323.0	37.47	1.0	0.31	0	862	51	3e-80	302.0	529	850	322	551	229	323
+167	248	85.22	291.0	33.76	0.0	0.0	0	862	12	1e-79	300.0	560	850	291	509	219	291
+370	353	79.33	445.0	51.62	14.0	3.15	0	862	41	1e-79	300.0	13	450	438	104	541	438
+166	241	85.46	282.0	32.71	0.0	0.0	0	862	17	5e-78	294.0	569	850	282	5	286	282
+372	320	79.01	405.0	46.98	12.0	2.96	0	862	14	1e-69	267.0	13	411	399	108	506	399
+373	282	79.21	356.0	41.3	12.0	3.37	0	862	58	2e-61	239.0	13	362	350	108	457	350
+374	359	75.42	476.0	55.22	8.0	1.68	0	862	75	7e-57	224.0	330	801	472	575	104	472
+212	234	80.69	290.0	33.64	2.0	0.69	0	862	41	7e-57	224.0	513	801	289	596	308	289
+213	233	80.34	290.0	33.64	2.0	0.69	0	862	7	3e-55	219.0	513	801	289	541	253	289
+377	232	80.0	290.0	33.64	2.0	0.69	0	862	13	1e-53	213.0	513	801	289	544	256	289
+378	232	80.0	290.0	33.64	2.0	0.69	0	862	11	1e-53	213.0	513	801	289	545	257	289
+379	316	75.78	417.0	48.38	8.0	1.92	0	862	39	9e-51	204.0	389	801	413	516	104	413
+380	209	80.69	259.0	30.05	7.0	2.7	0	862	70	5e-48	195.0	323	576	254	3	259	257
+381	228	78.62	290.0	33.64	2.0	0.69	0	862	79	7e-47	191.0	513	801	289	408	120	289
+382	196	78.71	249.0	28.89	0.0	0.0	0	862	52	1e-39	167.0	553	801	249	352	104	249
+234	187	79.91	234.0	27.15	7.0	2.99	0	862	27	4e-39	165.0	298	526	229	627	396	232
+384	299	74.01	404.0	46.87	8.0	1.98	0	862	33	7e-37	158.0	390	789	400	512	113	400
+Query_167:
+167
+385	372	72.94	510.0	24.01	23.0	4.51	0	2124	28	6e-36	156.0	1441	1928	488	13	521	509
+386	177	79.02	224.0	10.55	0.0	0.0	0	2124	79	2e-35	154.0	1705	1928	224	67	290	224
+387	177	79.02	224.0	10.55	0.0	0.0	0	2124	70	2e-35	154.0	1705	1928	224	137	360	224
+388	172	79.26	217.0	10.22	0.0	0.0	0	2124	97	8e-35	152.0	1712	1928	217	696	480	217
+389	176	78.57	224.0	10.55	0.0	0.0	0	2124	56	1e-33	148.0	1705	1928	224	110	333	224
+390	158	79.4	199.0	9.37	0.0	0.0	0	2124	83	2e-31	141.0	1730	1928	199	683	485	199
+391	147	79.46	185.0	8.71	0.0	0.0	0	2124	88	1e-28	132.0	1744	1928	185	686	502	185
+392	51	91.07	56.0	2.64	0.0	0.0	0	2124	39	5e-12	76.8	1873	1928	56	8	63	56
+Query_168:
+168
+Query_169:
+169
+393	516	82.17	628.0	53.4	2.0	0.32	0	1176	74	3e-151	538.0	162	788	627	48	674	627
+394	471	80.93	582.0	49.49	2.0	0.34	0	1176	96	2e-127	459.0	196	776	581	596	16	581
+395	486	79.15	614.0	52.21	8.0	1.3	0	1176	41	4e-115	418.0	4	613	610	132	741	610
+396	447	78.98	566.0	48.13	6.0	1.06	0	1176	41	5e-104	381.0	4	566	563	179	741	563
+397	443	78.41	565.0	48.04	7.0	1.24	0	1176	40	7e-98	361.0	4	565	562	180	740	561
+398	437	78.32	558.0	47.45	6.0	1.08	0	1176	35	3e-96	355.0	4	558	555	180	734	555
+399	404	77.99	518.0	44.05	6.0	1.16	0	1176	95	1e-85	320.0	4	518	515	181	695	515
+400	79	85.87	92.0	7.82	0.0	0.0	0	1176	70	6e-19	99.0	458	549	92	662	571	92
+Query_170:
+170
+401	482	78.12	617.0	57.45	2.0	0.32	0	1074	37	8e-107	390.0	328	943	616	18	633	616
+Query_171:
+171
+293	435	78.95	551.0	34.29	8.0	1.45	0	1607	48	6e-100	368.0	353	899	547	551	5	547
+294	461	78.0	591.0	36.78	8.0	1.35	0	1607	11	7e-99	364.0	353	939	587	623	37	587
+295	451	78.3	576.0	35.84	8.0	1.39	0	1607	27	7e-99	364.0	353	924	572	624	53	572
+296	219	80.51	272.0	16.93	0.0	0.0	0	1607	66	4e-52	209.0	350	621	272	393	664	272
+297	216	79.7	271.0	16.86	0.0	0.0	0	1607	84	3e-48	196.0	350	620	271	314	584	271
+298	216	79.7	271.0	16.86	0.0	0.0	0	1607	84	3e-48	196.0	350	620	271	314	584	271
+299	193	79.75	242.0	15.06	0.0	0.0	0	1607	1	4e-42	176.0	350	591	242	460	701	242
+300	173	80.47	215.0	13.38	0.0	0.0	0	1607	81	8e-39	165.0	350	564	215	462	676	215
+301	173	80.47	215.0	13.38	0.0	0.0	0	1607	74	8e-39	165.0	350	564	215	442	656	215
+302	173	80.47	215.0	13.38	0.0	0.0	0	1607	0	8e-39	165.0	350	564	215	468	682	215
+303	173	80.47	215.0	13.38	0.0	0.0	0	1607	74	8e-39	165.0	350	564	215	449	663	215
+304	173	80.47	215.0	13.38	0.0	0.0	0	1607	75	8e-39	165.0	350	564	215	447	661	215
+305	185	79.4	233.0	14.5	0.0	0.0	0	1607	6	8e-39	165.0	353	585	233	237	5	233
+306	191	78.93	242.0	15.06	0.0	0.0	0	1607	59	8e-39	165.0	350	591	242	418	659	242
+307	171	80.66	212.0	13.19	0.0	0.0	0	1607	9	8e-39	165.0	353	564	212	231	20	212
+308	153	81.82	187.0	11.64	1.0	0.53	0	1607	46	5e-36	156.0	350	536	187	460	645	186
+310	171	79.53	215.0	13.38	0.0	0.0	0	1607	81	2e-35	154.0	350	564	215	462	676	215
+309	122	85.31	143.0	8.9	3.0	2.1	0	1607	58	1e-32	145.0	395	536	142	145	5	141
+311	136	81.44	167.0	10.39	0.0	0.0	0	1607	29	2e-30	137.0	350	516	167	463	629	167
+312	142	80.23	177.0	11.01	0.0	0.0	0	1607	89	2e-29	134.0	350	526	177	413	589	177
+314	107	81.68	131.0	8.15	0.0	0.0	0	1607	5	4e-22	110.0	353	483	131	135	5	131
+313	112	80.0	140.0	8.71	0.0	0.0	0	1607	4	2e-20	104.0	350	489	140	462	601	140
+315	100	81.3	123.0	7.65	0.0	0.0	0	1607	83	2e-19	100.0	350	472	123	461	583	123
+317	74	85.06	87.0	5.41	0.0	0.0	0	1607	76	5e-16	89.8	368	454	87	92	6	87
+318	74	85.06	87.0	5.41	0.0	0.0	0	1607	86	5e-16	89.8	368	454	87	117	31	87
+316	85	81.73	104.0	6.47	0.0	0.0	0	1607	66	2e-15	87.9	350	453	104	449	552	104
+321	85	79.44	107.0	6.66	1.0	0.93	0	1607	61	1e-11	75.0	350	456	107	449	554	106
+319	68	81.93	83.0	5.16	0.0	0.0	0	1607	49	2e-10	71.3	353	435	83	87	5	83
+320	72	80.9	89.0	5.54	0.0	0.0	0	1607	52	2e-10	71.3	350	438	89	461	549	89
+Query_172:
+172
+Query_173:
+173
+Query_174:
+174
+Query_175:
+175
+Query_176:
+176
+Query_177:
+177
+Query_178:
+178
+Query_179:
+179
+Query_180:
+180
+431	160	87.91	182.0	94.79	0.0	0.0	0	192	62	8e-55	215.0	1	182	182	41	222	182
+432	157	88.2	178.0	92.71	0.0	0.0	0	192	92	3e-54	213.0	5	182	178	402	225	178
+433	156	88.14	177.0	92.19	0.0	0.0	0	192	12	1e-53	211.0	6	182	177	426	250	177
+434	158	87.78	180.0	93.75	0.0	0.0	0	192	6	1e-53	211.0	3	182	180	3	182	180
+435	159	87.85	181.0	94.27	1.0	0.55	0	192	8	1e-53	211.0	3	182	180	3	183	181
+436	159	87.36	182.0	94.79	0.0	0.0	0	192	63	4e-53	209.0	1	182	182	82	263	182
+437	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	87	268	182
+438	159	87.36	182.0	94.79	0.0	0.0	0	192	8	4e-53	209.0	1	182	182	83	264	182
+439	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	83	264	182
+440	159	87.36	182.0	94.79	0.0	0.0	0	192	99	4e-53	209.0	1	182	182	83	264	182
+441	159	87.36	182.0	94.79	0.0	0.0	0	192	64	4e-53	209.0	1	182	182	404	223	182
+442	159	87.36	182.0	94.79	0.0	0.0	0	192	4	4e-53	209.0	1	182	182	422	241	182
+443	159	87.36	182.0	94.79	0.0	0.0	0	192	14	4e-53	209.0	1	182	182	83	264	182
+444	159	87.36	182.0	94.79	0.0	0.0	0	192	69	4e-53	209.0	1	182	182	87	268	182
+445	159	87.36	182.0	94.79	0.0	0.0	0	192	95	4e-53	209.0	1	182	182	83	264	182
+446	159	87.36	182.0	94.79	0.0	0.0	0	192	9	4e-53	209.0	1	182	182	83	264	182
+447	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	83	264	182
+448	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+449	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	83	264	182
+450	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+451	159	87.36	182.0	94.79	0.0	0.0	0	192	6	4e-53	209.0	1	182	182	82	263	182
+452	159	87.36	182.0	94.79	0.0	0.0	0	192	80	4e-53	209.0	1	182	182	83	264	182
+453	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	406	225	182
+454	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+455	159	87.36	182.0	94.79	0.0	0.0	0	192	43	4e-53	209.0	1	182	182	82	263	182
+456	159	87.36	182.0	94.79	0.0	0.0	0	192	47	4e-53	209.0	1	182	182	83	264	182
+457	159	87.36	182.0	94.79	0.0	0.0	0	192	5	4e-53	209.0	1	182	182	84	265	182
+458	159	87.36	182.0	94.79	0.0	0.0	0	192	80	4e-53	209.0	1	182	182	83	264	182
+459	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+460	159	87.36	182.0	94.79	0.0	0.0	0	192	89	4e-53	209.0	1	182	182	83	264	182
+461	159	87.36	182.0	94.79	0.0	0.0	0	192	22	4e-53	209.0	1	182	182	83	264	182
+462	159	87.36	182.0	94.79	0.0	0.0	0	192	92	4e-53	209.0	1	182	182	83	264	182
+463	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+464	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+465	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+466	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+467	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	406	225	182
+468	159	87.36	182.0	94.79	0.0	0.0	0	192	89	4e-53	209.0	1	182	182	83	264	182
+469	159	87.36	182.0	94.79	0.0	0.0	0	192	59	4e-53	209.0	1	182	182	83	264	182
+470	159	87.36	182.0	94.79	0.0	0.0	0	192	39	4e-53	209.0	1	182	182	87	268	182
+471	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	405	224	182
+472	159	87.36	182.0	94.79	0.0	0.0	0	192	8	4e-53	209.0	1	182	182	426	245	182
+473	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	83	264	182
+474	159	87.36	182.0	94.79	0.0	0.0	0	192	91	4e-53	209.0	1	182	182	88	269	182
+475	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+476	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+477	159	87.36	182.0	94.79	0.0	0.0	0	192	9	4e-53	209.0	1	182	182	427	246	182
+478	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	84	265	182
+479	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	402	221	182
+480	159	87.36	182.0	94.79	0.0	0.0	0	192	7	4e-53	209.0	1	182	182	88	269	182
+481	159	87.36	182.0	94.79	0.0	0.0	0	192	64	4e-53	209.0	1	182	182	86	267	182
+482	159	87.36	182.0	94.79	0.0	0.0	0	192	89	4e-53	209.0	1	182	182	83	264	182
+483	159	87.36	182.0	94.79	0.0	0.0	0	192	5	4e-53	209.0	1	182	182	82	263	182
+484	159	87.36	182.0	94.79	0.0	0.0	0	192	51	4e-53	209.0	1	182	182	270	89	182
+485	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+486	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	86	267	182
+487	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	404	223	182
+488	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+489	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	88	269	182
+490	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	85	266	182
+491	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	88	269	182
+492	159	87.36	182.0	94.79	0.0	0.0	0	192	67	4e-53	209.0	1	182	182	385	204	182
+493	159	87.36	182.0	94.79	0.0	0.0	0	192	91	4e-53	209.0	1	182	182	405	224	182
+494	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+495	159	87.36	182.0	94.79	0.0	0.0	0	192	78	4e-53	209.0	1	182	182	83	264	182
+496	159	87.36	182.0	94.79	0.0	0.0	0	192	13	4e-53	209.0	1	182	182	83	264	182
+497	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	83	264	182
+498	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+499	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+500	159	87.36	182.0	94.79	0.0	0.0	0	192	14	4e-53	209.0	1	182	182	83	264	182
+501	159	87.36	182.0	94.79	0.0	0.0	0	192	54	4e-53	209.0	1	182	182	82	263	182
+502	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+503	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+504	159	87.36	182.0	94.79	0.0	0.0	0	192	10	4e-53	209.0	1	182	182	427	246	182
+505	159	87.36	182.0	94.79	0.0	0.0	0	192	77	4e-53	209.0	1	182	182	83	264	182
+506	159	87.36	182.0	94.79	0.0	0.0	0	192	1	4e-53	209.0	1	182	182	83	264	182
+507	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+508	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+509	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	404	223	182
+510	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+511	159	87.36	182.0	94.79	0.0	0.0	0	192	92	4e-53	209.0	1	182	182	86	267	182
+512	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	84	265	182
+513	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+514	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	82	263	182
+515	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	406	225	182
+516	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+517	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+518	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+519	159	87.36	182.0	94.79	0.0	0.0	0	192	38	4e-53	209.0	1	182	182	83	264	182
+520	159	87.36	182.0	94.79	0.0	0.0	0	192	6	4e-53	209.0	1	182	182	83	264	182
+521	159	87.36	182.0	94.79	0.0	0.0	0	192	10	4e-53	209.0	1	182	182	87	268	182
+522	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+523	159	87.36	182.0	94.79	0.0	0.0	0	192	8	4e-53	209.0	1	182	182	86	267	182
+524	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	83	264	182
+525	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+526	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+527	159	87.36	182.0	94.79	0.0	0.0	0	192	11	4e-53	209.0	1	182	182	83	264	182
+528	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	87	268	182
+529	159	87.36	182.0	94.79	0.0	0.0	0	192	51	4e-53	209.0	1	182	182	83	264	182
+530	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+531	159	87.36	182.0	94.79	0.0	0.0	0	192	69	4e-53	209.0	1	182	182	83	264	182
+532	159	87.36	182.0	94.79	0.0	0.0	0	192	34	4e-53	209.0	1	182	182	29	210	182
+533	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+534	159	87.36	182.0	94.79	0.0	0.0	0	192	25	4e-53	209.0	1	182	182	82	263	182
+535	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	83	264	182
+536	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	88	269	182
+537	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+538	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	87	268	182
+539	159	87.36	182.0	94.79	0.0	0.0	0	192	31	4e-53	209.0	1	182	182	83	264	182
+540	159	87.36	182.0	94.79	0.0	0.0	0	192	5	4e-53	209.0	1	182	182	83	264	182
+541	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+542	159	87.36	182.0	94.79	0.0	0.0	0	192	4	4e-53	209.0	1	182	182	83	264	182
+543	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	87	268	182
+544	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+545	159	87.36	182.0	94.79	0.0	0.0	0	192	8	4e-53	209.0	1	182	182	83	264	182
+546	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+547	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+548	159	87.36	182.0	94.79	0.0	0.0	0	192	67	4e-53	209.0	1	182	182	82	263	182
+549	159	87.36	182.0	94.79	0.0	0.0	0	192	4	4e-53	209.0	1	182	182	83	264	182
+550	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	406	225	182
+551	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	83	264	182
+552	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+553	159	87.36	182.0	94.79	0.0	0.0	0	192	6	4e-53	209.0	1	182	182	424	243	182
+554	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+555	159	87.36	182.0	94.79	0.0	0.0	0	192	7	4e-53	209.0	1	182	182	82	263	182
+556	159	87.36	182.0	94.79	0.0	0.0	0	192	78	4e-53	209.0	1	182	182	83	264	182
+557	159	87.36	182.0	94.79	0.0	0.0	0	192	8	4e-53	209.0	1	182	182	426	245	182
+558	159	87.36	182.0	94.79	0.0	0.0	0	192	2	4e-53	209.0	1	182	182	99	280	182
+559	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+560	159	87.36	182.0	94.79	0.0	0.0	0	192	51	4e-53	209.0	1	182	182	82	263	182
+561	159	87.36	182.0	94.79	0.0	0.0	0	192	30	4e-53	209.0	1	182	182	418	237	182
+562	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	82	263	182
+563	159	87.36	182.0	94.79	0.0	0.0	0	192	91	4e-53	209.0	1	182	182	85	266	182
+564	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	82	263	182
+565	159	87.36	182.0	94.79	0.0	0.0	0	192	1	4e-53	209.0	1	182	182	83	264	182
+566	159	87.36	182.0	94.79	0.0	0.0	0	192	79	4e-53	209.0	1	182	182	396	215	182
+567	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	404	223	182
+568	159	87.36	182.0	94.79	0.0	0.0	0	192	12	4e-53	209.0	1	182	182	91	272	182
+569	159	87.36	182.0	94.79	0.0	0.0	0	192	48	4e-53	209.0	1	182	182	83	264	182
+570	159	87.36	182.0	94.79	0.0	0.0	0	192	98	4e-53	209.0	1	182	182	95	276	182
+571	159	87.36	182.0	94.79	0.0	0.0	0	192	24	4e-53	209.0	1	182	182	23	204	182
+572	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+573	159	87.36	182.0	94.79	0.0	0.0	0	192	11	4e-53	209.0	1	182	182	425	244	182
+574	159	87.36	182.0	94.79	0.0	0.0	0	192	5	4e-53	209.0	1	182	182	83	264	182
+575	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+576	159	87.36	182.0	94.79	0.0	0.0	0	192	2	4e-53	209.0	1	182	182	420	239	182
+577	159	87.36	182.0	94.79	0.0	0.0	0	192	36	4e-53	209.0	1	182	182	84	265	182
+578	159	87.36	182.0	94.79	0.0	0.0	0	192	10	4e-53	209.0	1	182	182	424	243	182
+579	159	87.36	182.0	94.79	0.0	0.0	0	192	92	4e-53	209.0	1	182	182	87	268	182
+580	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+581	159	87.36	182.0	94.79	0.0	0.0	0	192	62	4e-53	209.0	1	182	182	84	265	182
+582	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	406	225	182
+583	159	87.36	182.0	94.79	0.0	0.0	0	192	78	4e-53	209.0	1	182	182	85	266	182
+584	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	404	223	182
+585	159	87.36	182.0	94.79	0.0	0.0	0	192	98	4e-53	209.0	1	182	182	93	274	182
+586	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+587	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+588	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	84	265	182
+589	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	403	222	182
+590	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+591	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	396	215	182
+592	159	87.36	182.0	94.79	0.0	0.0	0	192	5	4e-53	209.0	1	182	182	83	264	182
+593	159	87.36	182.0	94.79	0.0	0.0	0	192	64	4e-53	209.0	1	182	182	86	267	182
+594	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+595	159	87.36	182.0	94.79	0.0	0.0	0	192	94	4e-53	209.0	1	182	182	91	272	182
+596	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	406	225	182
+597	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	87	268	182
+598	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	87	268	182
+599	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	87	268	182
+600	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	82	263	182
+601	159	87.36	182.0	94.79	0.0	0.0	0	192	8	4e-53	209.0	1	182	182	83	264	182
+602	159	87.36	182.0	94.79	0.0	0.0	0	192	69	4e-53	209.0	1	182	182	84	265	182
+603	159	87.36	182.0	94.79	0.0	0.0	0	192	13	4e-53	209.0	1	182	182	87	268	182
+604	159	87.36	182.0	94.79	0.0	0.0	0	192	71	4e-53	209.0	1	182	182	83	264	182
+605	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	399	218	182
+606	159	87.36	182.0	94.79	0.0	0.0	0	192	14	4e-53	209.0	1	182	182	83	264	182
+607	159	87.36	182.0	94.79	0.0	0.0	0	192	38	4e-53	209.0	1	182	182	83	264	182
+608	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	83	264	182
+609	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	84	265	182
+610	159	87.36	182.0	94.79	0.0	0.0	0	192	6	4e-53	209.0	1	182	182	85	266	182
+611	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	84	265	182
+612	159	87.36	182.0	94.79	0.0	0.0	0	192	51	4e-53	209.0	1	182	182	51	232	182
+613	159	87.36	182.0	94.79	0.0	0.0	0	192	92	4e-53	209.0	1	182	182	89	270	182
+614	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+615	159	87.36	182.0	94.79	0.0	0.0	0	192	89	4e-53	209.0	1	182	182	83	264	182
+616	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	82	263	182
+617	159	87.36	182.0	94.79	0.0	0.0	0	192	13	4e-53	209.0	1	182	182	431	250	182
+618	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	82	263	182
+619	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+620	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+621	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+622	159	87.36	182.0	94.79	0.0	0.0	0	192	89	4e-53	209.0	1	182	182	84	265	182
+623	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+624	159	87.36	182.0	94.79	0.0	0.0	0	192	36	4e-53	209.0	1	182	182	83	264	182
+625	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+626	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	406	225	182
+627	159	87.36	182.0	94.79	0.0	0.0	0	192	76	4e-53	209.0	1	182	182	83	264	182
+628	159	87.36	182.0	94.79	0.0	0.0	0	192	16	4e-53	209.0	1	182	182	86	267	182
+629	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	405	224	182
+630	159	87.36	182.0	94.79	0.0	0.0	0	192	1	4e-53	209.0	1	182	182	420	239	182
+631	159	87.36	182.0	94.79	0.0	0.0	0	192	99	4e-53	209.0	1	182	182	418	237	182
+632	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	83	264	182
+633	159	87.36	182.0	94.79	0.0	0.0	0	192	2	4e-53	209.0	1	182	182	87	268	182
+634	159	87.36	182.0	94.79	0.0	0.0	0	192	98	4e-53	209.0	1	182	182	83	264	182
+635	159	87.36	182.0	94.79	0.0	0.0	0	192	97	4e-53	209.0	1	182	182	416	235	182
+636	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	404	223	182
+637	159	87.36	182.0	94.79	0.0	0.0	0	192	3	4e-53	209.0	1	182	182	421	240	182
+638	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	404	223	182
+639	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	82	263	182
+640	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	84	265	182
+641	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+642	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	83	264	182
+643	159	87.36	182.0	94.79	0.0	0.0	0	192	76	4e-53	209.0	1	182	182	424	243	182
+644	159	87.36	182.0	94.79	0.0	0.0	0	192	9	4e-53	209.0	1	182	182	83	264	182
+645	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+646	159	87.36	182.0	94.79	0.0	0.0	0	192	87	4e-53	209.0	1	182	182	86	267	182
+647	159	87.36	182.0	94.79	0.0	0.0	0	192	18	4e-53	209.0	1	182	182	15	196	182
+648	159	87.36	182.0	94.79	0.0	0.0	0	192	13	4e-53	209.0	1	182	182	83	264	182
+649	159	87.36	182.0	94.79	0.0	0.0	0	192	80	4e-53	209.0	1	182	182	83	264	182
+650	159	87.36	182.0	94.79	0.0	0.0	0	192	9	4e-53	209.0	1	182	182	83	264	182
+651	159	87.36	182.0	94.79	0.0	0.0	0	192	92	4e-53	209.0	1	182	182	83	264	182
+652	159	87.36	182.0	94.79	0.0	0.0	0	192	88	4e-53	209.0	1	182	182	82	263	182
+653	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	87	268	182
+654	159	87.36	182.0	94.79	0.0	0.0	0	192	68	4e-53	209.0	1	182	182	83	264	182
+655	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	402	221	182
+656	159	87.36	182.0	94.79	0.0	0.0	0	192	6	4e-53	209.0	1	182	182	424	243	182
+657	159	87.36	182.0	94.79	0.0	0.0	0	192	68	4e-53	209.0	1	182	182	83	264	182
+658	159	87.36	182.0	94.79	0.0	0.0	0	192	66	4e-53	209.0	1	182	182	83	264	182
+659	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+660	159	87.36	182.0	94.79	0.0	0.0	0	192	10	4e-53	209.0	1	182	182	83	264	182
+661	159	87.36	182.0	94.79	0.0	0.0	0	192	6	4e-53	209.0	1	182	182	83	264	182
+662	159	87.36	182.0	94.79	0.0	0.0	0	192	3	4e-53	209.0	1	182	182	83	264	182
+663	159	87.36	182.0	94.79	0.0	0.0	0	192	3	4e-53	209.0	1	182	182	83	264	182
+664	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+665	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+666	159	87.36	182.0	94.79	0.0	0.0	0	192	84	4e-53	209.0	1	182	182	83	264	182
+667	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+668	159	87.36	182.0	94.79	0.0	0.0	0	192	83	4e-53	209.0	1	182	182	83	264	182
+669	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	396	215	182
+670	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+671	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+672	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	83	264	182
+673	159	87.36	182.0	94.79	0.0	0.0	0	192	85	4e-53	209.0	1	182	182	82	263	182
+674	159	87.36	182.0	94.79	0.0	0.0	0	192	3	4e-53	209.0	1	182	182	83	264	182
+675	159	87.36	182.0	94.79	0.0	0.0	0	192	92	4e-53	209.0	1	182	182	406	225	182
+676	159	87.36	182.0	94.79	0.0	0.0	0	192	77	4e-53	209.0	1	182	182	83	264	182
+677	159	87.36	182.0	94.79	0.0	0.0	0	192	86	4e-53	209.0	1	182	182	404	223	182
+678	159	87.36	182.0	94.79	0.0	0.0	0	192	9	4e-53	209.0	1	182	182	83	264	182
+679	159	87.36	182.0	94.79	0.0	0.0	0	192	81	4e-53	209.0	1	182	182	399	218	182
+680	159	87.36	182.0	94.79	0.0	0.0	0	192	90	4e-53	209.0	1	182	182	89	270	182
+Query_181:
+181
+Query_182:
+182
+Query_183:
+183
+Query_184:
+184
+Query_185:
+185
+Query_186:
+186
+Query_187:
+187
+Query_188:
+188
+Query_189:
+189
+681	46	92.0	50.0	4.32	0.0	0.0	0	1158	49	1e-10	71.3	190	239	50	507	556	50
+Query_190:
+190
+Query_191:
+191
+5	540	78.72	686.0	71.24	2.0	0.29	0	963	33	7e-127	457.0	268	952	685	23	707	685
+Query_192:
+192
+Query_193:
+193

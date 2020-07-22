@@ -1,0 +1,2051 @@
+WARNINGS for import file '/media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bait_design/notebook_jup/results.out':
+(Warning for hit located under query: 'AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914 FORWARD LENGTH=564')
+no gi number found in FASTA header
+> ENA|CU532431|CU532431.1 Theobroma cacao, mRNA sequence (KZ0AAK3YM10FM1).
+(Warning for hit located under query: 'AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914 FORWARD LENGTH=564')
+no gi number found in FASTA header
+> ENA|CU601788|CU601788.1 Theobroma cacao, mRNA sequence (KZ0AAG7YO09FM1).
+(Warning for hit located under query: 'AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914 FORWARD LENGTH=564')
+no gi number found in FASTA header
+> ENA|CU491836|CU491836.1 Theobroma cacao, mRNA sequence (KZ0ACAE1YL10FM1).
+(Warning for hit located under query: 'AT1G01360.1 | Symbols:PYL9,RCAR1 | regulatory component of ABA receptor 1,PYRABACTIN RESISTANCE 1-LIKE 9 |  Chr1:142138-142914 FORWARD LENGTH=564')
+no gi number found in FASTA header
+> ENA|CU491811|CU491811.1 Theobroma cacao, mRNA sequence (KZ0ACAE1YH13FM1).
+(Warning for hit located under query: 'AT1G15690.1 | Symbols:AtVHP1;1,AtAVP1,ATAVP3,AVP-3,AVP1,FUGU5,VHP1 | ARABIDOPSIS THALIANA V-PPASE 3,FUGU 5 |  Chr1:5399115-5402185 FORWARD LENGTH=2313')
+no gi number found in FASTA header
+> ENA|CU485402|CU485402.1 Theobroma cacao, mRNA sequence (KZ0ACAC4YI06FM1).
+(Warning for hit located under query: 'AT1G15690.1 | Symbols:AtVHP1;1,AtAVP1,ATAVP3,AVP-3,AVP1,FUGU5,VHP1 | ARABIDOPSIS THALIANA V-PPASE 3,FUGU 5 |  Chr1:5399115-5402185 FORWARD LENGTH=2313')
+no gi number found in FASTA header
+> ENA|CU540323|CU540323.1 Theobroma cacao, mRNA sequence (KZ0AAV14YP03FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU539725|CU539725.1 Theobroma cacao, mRNA sequence (KZ0AAV12YJ03FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU476350|CU476350.1 Theobroma cacao, mRNA sequence (KZ0AAL13YL08FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU531163|CU531163.1 Theobroma cacao, mRNA sequence (KZ0AAK13YD09FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU518843|CU518843.1 Theobroma cacao, mRNA sequence (KZ0ABH3YA09FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566571|CU566571.1 Theobroma cacao, mRNA sequence (KZ0ABL4YN19FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566570|CU566570.1 Theobroma cacao, mRNA sequence (KZ0ABL4YN18FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566415|CU566415.1 Theobroma cacao, mRNA sequence (KZ0ABL4YC06FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566351|CU566351.1 Theobroma cacao, mRNA sequence (KZ0ABL3YN03FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566284|CU566284.1 Theobroma cacao, mRNA sequence (KZ0ABL3YI07FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566235|CU566235.1 Theobroma cacao, mRNA sequence (KZ0ABL3YE22FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566209|CU566209.1 Theobroma cacao, mRNA sequence (KZ0ABL3YD04FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566178|CU566178.1 Theobroma cacao, mRNA sequence (KZ0ABL3YA24FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566174|CU566174.1 Theobroma cacao, mRNA sequence (KZ0ABL3YA16FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU565999|CU565999.1 Theobroma cacao, mRNA sequence (KZ0ABL2YD18FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU565944|CU565944.1 Theobroma cacao, mRNA sequence (KZ0ABL2YA07FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566477|CU566477.1 Theobroma cacao, mRNA sequence (KZ0ABL4YH02FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566289|CU566289.1 Theobroma cacao, mRNA sequence (KZ0ABL3YI14FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566093|CU566093.1 Theobroma cacao, mRNA sequence (KZ0ABL2YK16FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU565832|CU565832.1 Theobroma cacao, mRNA sequence (KZ0ABL1YF24FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU565809|CU565809.1 Theobroma cacao, mRNA sequence (KZ0ABL1YD18FM1).
+(Warning for hit located under query: 'AT1G48410.2 | Symbols:ICU9,AGO1,AtAGO1 | ARGONAUTE 1 | Chr1:17886285-17891892 REVERSE LENGTH=3153')
+no gi number found in FASTA header
+> ENA|CU566535|CU566535.1 Theobroma cacao, mRNA sequence (KZ0ABL4YK22FM1).
+(Warning for hit located under query: 'AT1G58440.1 | Symbols:XF1,SQE1,DRY2 | DROUGHT HYPERSENSITIVE 2,SQUALENE EPOXIDASE 1 |  Chr1:21714094-21717246 REVERSE LENGTH=1596')
+no gi number found in FASTA header
+> ENA|CU476128|CU476128.1 Theobroma cacao, mRNA sequence (KZ0AAL12YK07FM1).
+(Warning for hit located under query: 'AT1G78290.2 | Symbols:SNRK2-8,SRK2C,SNRK2.8 | SNF1-RELATED PROTEIN KINASE 2-8,SNF1-RELATED PROTEIN KINASE 2.8,SNF1-RELATED PROTEIN KINASE 2C |  Chr1:29457457-29458909 REVERSE LENGTH=1032')
+no gi number found in FASTA header
+> ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9YI07FM1).
+(Warning for hit located under query: 'AT1G78290.2 | Symbols:SNRK2-8,SRK2C,SNRK2.8 | SNF1-RELATED PROTEIN KINASE 2-8,SNF1-RELATED PROTEIN KINASE 2.8,SNF1-RELATED PROTEIN KINASE 2C |  Chr1:29457457-29458909 REVERSE LENGTH=1032')
+no gi number found in FASTA header
+> ENA|CU535178|CU535178.1 Theobroma cacao, mRNA sequence (KZ0AAK8YB21FM1).
+(Warning for hit located under query: 'AT1G78580.1 | Symbols:TPS1,ATTPS1 | trehalose-6-phosphate synthase,TREHALOSE-6-PHOSPHATE SYNTHASE 1 |  Chr1:29552495-29557482 REVERSE LENGTH=2829')
+no gi number found in FASTA header
+> ENA|CU539224|CU539224.1 Theobroma cacao, mRNA sequence (KZ0AAV10YF08FM1).
+(Warning for hit located under query: 'AT2G18960.1 | Symbols:HA1,OST2,AHA1,PMA | H(+)-ATPase 1,PLASMA MEMBRANE PROTON ATPASE,OPEN STOMATA 2 |  Chr2:8221858-8227268 FORWARD LENGTH=2850')
+no gi number found in FASTA header
+> ENA|CU574926|CU574926.1 Theobroma cacao, mRNA sequence (KZ0AAP14YC22FM1).
+(Warning for hit located under query: 'AT2G38880.8 | Symbols:ATNF-YB1,ATHAP3,NF-YB1,HAP3A,HAP3 | HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3A,NUCLEAR FACTOR Y SUBUNIT B1,HEME ACTIVATOR PROTEIN (YEAST) HOMOLOG 3,"nuclear factor Y, subunit B1" |  Chr2:16238685-16240316 FORWARD LENGTH=495')
+no gi number found in FASTA header
+> ENA|CU571432|CU571432.1 Theobroma cacao, mRNA sequence (KZ0AAP10YB15FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU474671|CU474671.1 Theobroma cacao, mRNA sequence (KZ0AAC1YD02).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU495643|CU495643.1 Theobroma cacao, mRNA sequence (KZ0AAD1YH04).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483168|CU483168.1 Theobroma cacao, mRNA sequence (KZ0AAT1YC04).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483222|CU483222.1 Theobroma cacao, mRNA sequence (KZ0AAT1YG22).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU594744|CU594744.1 Theobroma cacao, mRNA sequence (KZ0AAH1YA18).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU550302|CU550302.1 Theobroma cacao, mRNA sequence (KZ0AAS1YH12).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553402|CU553402.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG13).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483302|CU483302.1 Theobroma cacao, mRNA sequence (KZ0AAT1YP07).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU495532|CU495532.1 Theobroma cacao, mRNA sequence (KZ0AAD14YB07FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU581774|CU581774.1 Theobroma cacao, mRNA sequence (KZ0ABV10YC05FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU542857|CU542857.1 Theobroma cacao, mRNA sequence (KZ0AAV12YA16FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU533754|CU533754.1 Theobroma cacao, mRNA sequence (KZ0AAI1YI14RM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU502976|CU502976.1 Theobroma cacao, mRNA sequence (KZ0ACAK2YF14FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586587|CU586587.1 Theobroma cacao, mRNA sequence (KZ0AAB12YP09FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU495861|CU495861.1 Theobroma cacao, mRNA sequence (KZ0AAD4YJ24FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553951|CU553951.1 Theobroma cacao, mRNA sequence (KZ0ABA9YF13FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543584|CU543584.1 Theobroma cacao, mRNA sequence (KZ0AAV3YM08FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU524117|CU524117.1 Theobroma cacao, mRNA sequence (KZ0ACB3YG10FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483710|CU483710.1 Theobroma cacao, mRNA sequence (KZ0AAT5YB24FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587615|CU587615.1 Theobroma cacao, mRNA sequence (KZ0AAB7YK20FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU484096|CU484096.1 Theobroma cacao, mRNA sequence (KZ0AAT8YB07FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543727|CU543727.1 Theobroma cacao, mRNA sequence (KZ0AAV5YA07FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU534910|CU534910.1 Theobroma cacao, mRNA sequence (KZ0AAK5YP13FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543689|CU543689.1 Theobroma cacao, mRNA sequence (KZ0AAV4YL02FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483729|CU483729.1 Theobroma cacao, mRNA sequence (KZ0AAT5YE09FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU507047|CU507047.1 Theobroma cacao, mRNA sequence (KZ0ACAB5YA02FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543857|CU543857.1 Theobroma cacao, mRNA sequence (KZ0AAV6YD16FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU536458|CU536458.1 Theobroma cacao, mRNA sequence (KZ0AAQ3YE02FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU475213|CU475213.1 Theobroma cacao, mRNA sequence (KZ0AAC6YE23FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587844|CU587844.1 Theobroma cacao, mRNA sequence (KZ0AAB9YF03FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587257|CU587257.1 Theobroma cacao, mRNA sequence (KZ0AAB4YK03FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU575106|CU575106.1 Theobroma cacao, mRNA sequence (KZ0AAP15YO05FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553846|CU553846.1 Theobroma cacao, mRNA sequence (KZ0ABA6YD19FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU544047|CU544047.1 Theobroma cacao, mRNA sequence (KZ0AAV7YP19FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483837|CU483837.1 Theobroma cacao, mRNA sequence (KZ0AAT6YC11FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU534475|CU534475.1 Theobroma cacao, mRNA sequence (KZ0AAK2YJ08FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU520727|CU520727.1 Theobroma cacao, mRNA sequence (KZ0ABH12YO24FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587188|CU587188.1 Theobroma cacao, mRNA sequence (KZ0AAB4YB09FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU484292|CU484292.1 Theobroma cacao, mRNA sequence (KZ0AAT9YH16FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587015|CU587015.1 Theobroma cacao, mRNA sequence (KZ0AAB2YE05FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586620|CU586620.1 Theobroma cacao, mRNA sequence (KZ0AAB13YF19FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483636|CU483636.1 Theobroma cacao, mRNA sequence (KZ0AAT4YI10FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU542667|CU542667.1 Theobroma cacao, mRNA sequence (KZ0AAV10YG01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU595257|CU595257.1 Theobroma cacao, mRNA sequence (KZ0AAH9YG11FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU594942|CU594942.1 Theobroma cacao, mRNA sequence (KZ0AAH3YD04FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483021|CU483021.1 Theobroma cacao, mRNA sequence (KZ0AAT10YJ19FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU534348|CU534348.1 Theobroma cacao, mRNA sequence (KZ0AAK22YF03FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU618381|CU618381.1 Theobroma cacao, mRNA sequence (KZ0AAA10YC19FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU614841|CU614841.1 Theobroma cacao, mRNA sequence (KZ0AAN12YJ22FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU596649|CU596649.1 Theobroma cacao, mRNA sequence (KZ0AAF6YI03FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU594884|CU594884.1 Theobroma cacao, mRNA sequence (KZ0AAH2YD12FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU594693|CU594693.1 Theobroma cacao, mRNA sequence (KZ0AAH16YG20FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU594289|CU594289.1 Theobroma cacao, mRNA sequence (KZ0AAH11YJ08FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587207|CU587207.1 Theobroma cacao, mRNA sequence (KZ0AAB4YD18FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587119|CU587119.1 Theobroma cacao, mRNA sequence (KZ0AAB3YG06FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587068|CU587068.1 Theobroma cacao, mRNA sequence (KZ0AAB2YN19FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586936|CU586936.1 Theobroma cacao, mRNA sequence (KZ0AAB24YJ01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586571|CU586571.1 Theobroma cacao, mRNA sequence (KZ0AAB12YL15FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553329|CU553329.1 Theobroma cacao, mRNA sequence (KZ0ABA10YG01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553321|CU553321.1 Theobroma cacao, mRNA sequence (KZ0ABA10YE07FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU550336|CU550336.1 Theobroma cacao, mRNA sequence (KZ0AAS2YC10FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543463|CU543463.1 Theobroma cacao, mRNA sequence (KZ0AAV2YL09FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543158|CU543158.1 Theobroma cacao, mRNA sequence (KZ0AAV15YA18FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543128|CU543128.1 Theobroma cacao, mRNA sequence (KZ0AAV14YM17FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU542880|CU542880.1 Theobroma cacao, mRNA sequence (KZ0AAV12YD05FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU535175|CU535175.1 Theobroma cacao, mRNA sequence (KZ0AAK8YA23FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU535028|CU535028.1 Theobroma cacao, mRNA sequence (KZ0AAK6YP13FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU516519|CU516519.1 Theobroma cacao, mRNA sequence (KZ0ABF6YD01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU511684|CU511684.1 Theobroma cacao, mRNA sequence (KZ0ACN1YP03FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU511622|CU511622.1 Theobroma cacao, mRNA sequence (KZ0ACN1YL16FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU495785|CU495785.1 Theobroma cacao, mRNA sequence (KZ0AAD3YI05FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU495769|CU495769.1 Theobroma cacao, mRNA sequence (KZ0AAD3YE14FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU475036|CU475036.1 Theobroma cacao, mRNA sequence (KZ0AAC4YL14FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU474995|CU474995.1 Theobroma cacao, mRNA sequence (KZ0AAC4YF06FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587351|CU587351.1 Theobroma cacao, mRNA sequence (KZ0AAB5YG01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586949|CU586949.1 Theobroma cacao, mRNA sequence (KZ0AAB24YK18FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586614|CU586614.1 Theobroma cacao, mRNA sequence (KZ0AAB13YD12FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU579036|CU579036.1 Theobroma cacao, mRNA sequence (KZ0AB1YH12FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU543035|CU543035.1 Theobroma cacao, mRNA sequence (KZ0AAV13YM16FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU483134|CU483134.1 Theobroma cacao, mRNA sequence (KZ0AAT11YM10FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU573240|CU573240.1 Theobroma cacao, mRNA sequence (KZ0AAP3YK14FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU594992|CU594992.1 Theobroma cacao, mRNA sequence (KZ0AAH4YE22FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587462|CU587462.1 Theobroma cacao, mRNA sequence (KZ0AAB6YG07FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587368|CU587368.1 Theobroma cacao, mRNA sequence (KZ0AAB5YH13FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU587251|CU587251.1 Theobroma cacao, mRNA sequence (KZ0AAB4YJ13FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553351|CU553351.1 Theobroma cacao, mRNA sequence (KZ0ABA10YL08FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU544019|CU544019.1 Theobroma cacao, mRNA sequence (KZ0AAV7YL01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU575331|CU575331.1 Theobroma cacao, mRNA sequence (KZ0AAP24YD18FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU486881|CU486881.1 Theobroma cacao, mRNA sequence (KZ0ACAC4YC23FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU516439|CU516439.1 Theobroma cacao, mRNA sequence (KZ0ABF4YK11FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU507412|CU507412.1 Theobroma cacao, mRNA sequence (KZ0ACAB7YP14FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU520622|CU520622.1 Theobroma cacao, mRNA sequence (KZ0ABH11YK17FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU516597|CU516597.1 Theobroma cacao, mRNA sequence (KZ0ABF7YJ22FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU486996|CU486996.1 Theobroma cacao, mRNA sequence (KZ0ACAC6YK20FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU574724|CU574724.1 Theobroma cacao, mRNA sequence (KZ0AAP12YD06FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU595164|CU595164.1 Theobroma cacao, mRNA sequence (KZ0AAH7YO20FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU586706|CU586706.1 Theobroma cacao, mRNA sequence (KZ0AAB14YO20FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU584951|CU584951.1 Theobroma cacao, mRNA sequence (KZ0AAB3YJ05FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU548843|CU548843.1 Theobroma cacao, mRNA sequence (KZ0AAS4YH21FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU495985|CU495985.1 Theobroma cacao, mRNA sequence (KZ0AAD6YN01FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU484068|CU484068.1 Theobroma cacao, mRNA sequence (KZ0AAT7YO17FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU583681|CU583681.1 Theobroma cacao, mRNA sequence (KZ0AAB14YD13FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU553933|CU553933.1 Theobroma cacao, mRNA sequence (KZ0ABA8YJ22FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU549965|CU549965.1 Theobroma cacao, mRNA sequence (KZ0AAS8YP15FM1).
+(Warning for hit located under query: 'AT3G54820.1 | Symbols:PIP2D,PIP2;5 | PLASMA MEMBRANE INTRINSIC PROTEIN 2D,plasma membrane intrinsic protein 2;5 | Chr3:20302117-20303738 FORWARD LENGTH=861')
+no gi number found in FASTA header
+> ENA|CU526863|CU526863.1 Theobroma cacao, mRNA sequence (KZ0ACAA10YA07FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU495663|CU495663.1 Theobroma cacao, mRNA sequence (KZ0AAD1YK16).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU484244|CU484244.1 Theobroma cacao, mRNA sequence (KZ0AAT9YB04FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU574739|CU574739.1 Theobroma cacao, mRNA sequence (KZ0AAP12YE19FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU593383|CU593383.1 Theobroma cacao, mRNA sequence (KZ0AAH4YI05FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7YH11FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU573838|CU573838.1 Theobroma cacao, mRNA sequence (KZ0AAP6YK07FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU495643|CU495643.1 Theobroma cacao, mRNA sequence (KZ0AAD1YH04).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU483168|CU483168.1 Theobroma cacao, mRNA sequence (KZ0AAT1YC04).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543013|CU543013.1 Theobroma cacao, mRNA sequence (KZ0AAV13YI02FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU483222|CU483222.1 Theobroma cacao, mRNA sequence (KZ0AAT1YG22).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU594744|CU594744.1 Theobroma cacao, mRNA sequence (KZ0AAH1YA18).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587589|CU587589.1 Theobroma cacao, mRNA sequence (KZ0AAB7YH23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU473210|CU473210.1 Theobroma cacao, mRNA sequence (KZ0AAC5YE23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU496128|CU496128.1 Theobroma cacao, mRNA sequence (KZ0AAD8YN14FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU610815|CU610815.1 Theobroma cacao, mRNA sequence (KZ0AAM8YE20FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU496049|CU496049.1 Theobroma cacao, mRNA sequence (KZ0AAD7YL06FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU483562|CU483562.1 Theobroma cacao, mRNA sequence (KZ0AAT3YP24FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU575601|CU575601.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB20FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543200|CU543200.1 Theobroma cacao, mRNA sequence (KZ0AAV15YJ10FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU579057|CU579057.1 Theobroma cacao, mRNA sequence (KZ0AB1YO11FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU576310|CU576310.1 Theobroma cacao, mRNA sequence (KZ0AAP8YG17FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU518231|CU518231.1 Theobroma cacao, mRNA sequence (KZ0ABH15YB22FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU511973|CU511973.1 Theobroma cacao, mRNA sequence (KZ0ACN2YP24FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU586653|CU586653.1 Theobroma cacao, mRNA sequence (KZ0AAB13YP09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU579944|CU579944.1 Theobroma cacao, mRNA sequence (KZ0ABV1YJ09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU529293|CU529293.1 Theobroma cacao, mRNA sequence (KZ0ACAA9YN03FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543226|CU543226.1 Theobroma cacao, mRNA sequence (KZ0AAV15YO02FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU469950|CU469950.1 Theobroma cacao, mRNA sequence (KZ0ACI2YG03FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU580877|CU580877.1 Theobroma cacao, mRNA sequence (KZ0ABV5YO19FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU537149|CU537149.1 Theobroma cacao, mRNA sequence (KZ0AAQ5YO09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU551181|CU551181.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG07RM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU620503|CU620503.1 Theobroma cacao, mRNA sequence (KZ0AAA4YN01FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU544123|CU544123.1 Theobroma cacao, mRNA sequence (KZ0AAV8YO20FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543731|CU543731.1 Theobroma cacao, mRNA sequence (KZ0AAV5YB06FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543721|CU543721.1 Theobroma cacao, mRNA sequence (KZ0AAV4YP17FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543456|CU543456.1 Theobroma cacao, mRNA sequence (KZ0AAV2YK08FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU506983|CU506983.1 Theobroma cacao, mRNA sequence (KZ0ACAB4YF13FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU496134|CU496134.1 Theobroma cacao, mRNA sequence (KZ0AAD8YP18FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU495719|CU495719.1 Theobroma cacao, mRNA sequence (KZ0AAD2YH10FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU495427|CU495427.1 Theobroma cacao, mRNA sequence (KZ0AAD12YN19FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU594540|CU594540.1 Theobroma cacao, mRNA sequence (KZ0AAH14YK09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU591905|CU591905.1 Theobroma cacao, mRNA sequence (KZ0AAH12YJ11FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587758|CU587758.1 Theobroma cacao, mRNA sequence (KZ0AAB8YL01FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587682|CU587682.1 Theobroma cacao, mRNA sequence (KZ0AAB8YB12FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587631|CU587631.1 Theobroma cacao, mRNA sequence (KZ0AAB7YM03FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587567|CU587567.1 Theobroma cacao, mRNA sequence (KZ0AAB7YF16FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587356|CU587356.1 Theobroma cacao, mRNA sequence (KZ0AAB5YG14FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587101|CU587101.1 Theobroma cacao, mRNA sequence (KZ0AAB3YD15FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587044|CU587044.1 Theobroma cacao, mRNA sequence (KZ0AAB2YJ12FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587016|CU587016.1 Theobroma cacao, mRNA sequence (KZ0AAB2YE06FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU586081|CU586081.1 Theobroma cacao, mRNA sequence (KZ0AAB8YJ23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU581866|CU581866.1 Theobroma cacao, mRNA sequence (KZ0ABV1YC08FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU576312|CU576312.1 Theobroma cacao, mRNA sequence (KZ0AAP8YG19FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543885|CU543885.1 Theobroma cacao, mRNA sequence (KZ0AAV6YH15FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU495708|CU495708.1 Theobroma cacao, mRNA sequence (KZ0AAD2YF23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU476295|CU476295.1 Theobroma cacao, mRNA sequence (KZ0AAL13YG09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU475102|CU475102.1 Theobroma cacao, mRNA sequence (KZ0AAC5YE24FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU474867|CU474867.1 Theobroma cacao, mRNA sequence (KZ0AAC3YA07FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU595109|CU595109.1 Theobroma cacao, mRNA sequence (KZ0AAH6YM06FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587540|CU587540.1 Theobroma cacao, mRNA sequence (KZ0AAB7YC20FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587358|CU587358.1 Theobroma cacao, mRNA sequence (KZ0AAB5YG21FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587161|CU587161.1 Theobroma cacao, mRNA sequence (KZ0AAB3YN17FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU579005|CU579005.1 Theobroma cacao, mRNA sequence (KZ0AB1YB14FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU553794|CU553794.1 Theobroma cacao, mRNA sequence (KZ0ABA5YB12FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU543651|CU543651.1 Theobroma cacao, mRNA sequence (KZ0AAV4YG10FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU541843|CU541843.1 Theobroma cacao, mRNA sequence (KZ0AAV6YK15FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU535351|CU535351.1 Theobroma cacao, mRNA sequence (KZ0AAK9YG14FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU520712|CU520712.1 Theobroma cacao, mRNA sequence (KZ0ABH12YL03FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU483741|CU483741.1 Theobroma cacao, mRNA sequence (KZ0AAT5YG14FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU594484|CU594484.1 Theobroma cacao, mRNA sequence (KZ0AAH14YB09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU593545|CU593545.1 Theobroma cacao, mRNA sequence (KZ0AAH6YO09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587307|CU587307.1 Theobroma cacao, mRNA sequence (KZ0AAB4YP18FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU569469|CU569469.1 Theobroma cacao, mRNA sequence (KZ0ACAD8YF18FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU542938|CU542938.1 Theobroma cacao, mRNA sequence (KZ0AAV12YK11FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU540238|CU540238.1 Theobroma cacao, mRNA sequence (KZ0AAV14YJ18FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU539265|CU539265.1 Theobroma cacao, mRNA sequence (KZ0AAV10YI04FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU510821|CU510821.1 Theobroma cacao, mRNA sequence (KZ0ACM5YD05FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU593216|CU593216.1 Theobroma cacao, mRNA sequence (KZ0AAH2YC15FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU483693|CU483693.1 Theobroma cacao, mRNA sequence (KZ0AAT4YP18FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU507049|CU507049.1 Theobroma cacao, mRNA sequence (KZ0ACAB5YA08FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU471434|CU471434.1 Theobroma cacao, mRNA sequence (KZ0AAC10YI23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU586547|CU586547.1 Theobroma cacao, mRNA sequence (KZ0AAB12YH08FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU583549|CU583549.1 Theobroma cacao, mRNA sequence (KZ0AAB13YJ13FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU495858|CU495858.1 Theobroma cacao, mRNA sequence (KZ0AAD4YJ21FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU586494|CU586494.1 Theobroma cacao, mRNA sequence (KZ0AAB10YM24FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU581820|CU581820.1 Theobroma cacao, mRNA sequence (KZ0ABV10YJ11FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU579503|CU579503.1 Theobroma cacao, mRNA sequence (KZ0AB8YH04FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU529987|CU529987.1 Theobroma cacao, mRNA sequence (KZ0ACAA6YJ07FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587377|CU587377.1 Theobroma cacao, mRNA sequence (KZ0AAB5YJ18FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU509806|CU509806.1 Theobroma cacao, mRNA sequence (KZ0ACM1YF10FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU530065|CU530065.1 Theobroma cacao, mRNA sequence (KZ0ACAA7YE23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU493714|CU493714.1 Theobroma cacao, mRNA sequence (KZ0AAD14YF07FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU594549|CU594549.1 Theobroma cacao, mRNA sequence (KZ0AAH14YL10FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU586976|CU586976.1 Theobroma cacao, mRNA sequence (KZ0AAB24YO15FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU587346|CU587346.1 Theobroma cacao, mRNA sequence (KZ0AAB5YF15FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU575107|CU575107.1 Theobroma cacao, mRNA sequence (KZ0AAP15YO07FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU517086|CU517086.1 Theobroma cacao, mRNA sequence (KZ0ABH10YC12FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU553913|CU553913.1 Theobroma cacao, mRNA sequence (KZ0ABA8YB23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU510591|CU510591.1 Theobroma cacao, mRNA sequence (KZ0ACM4YB09FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU571959|CU571959.1 Theobroma cacao, mRNA sequence (KZ0AAP13YK13FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU542024|CU542024.1 Theobroma cacao, mRNA sequence (KZ0AAV7YG19FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU537056|CU537056.1 Theobroma cacao, mRNA sequence (KZ0AAQ5YI23FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU592183|CU592183.1 Theobroma cacao, mRNA sequence (KZ0AAH13YO14FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU544048|CU544048.1 Theobroma cacao, mRNA sequence (KZ0AAV7YP24FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU506627|CU506627.1 Theobroma cacao, mRNA sequence (KZ0ACAB1YF02FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU622119|CU622119.1 Theobroma cacao, mRNA sequence (KZ0AAA15YP11FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU578198|CU578198.1 Theobroma cacao, mRNA sequence (KZ0AB6YP08FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU578421|CU578421.1 Theobroma cacao, mRNA sequence (KZ0AB7YO01FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU586525|CU586525.1 Theobroma cacao, mRNA sequence (KZ0AAB12YD04FM1).
+(Warning for hit located under query: 'AT4G00430.1 | Symbols:PIP1E,TMP-C,PIP1;4 | plasma membrane intrinsic protein 1;4,PLASMA MEMBRANE INTRINSIC PROTEIN 1E,TRANSMEMBRANE PROTEIN C |  Chr4:186143-187531 REVERSE LENGTH=864')
+no gi number found in FASTA header
+> ENA|CU625311|CU625311.1 Theobroma cacao, mRNA sequence (KZ0ABE4YH03FM1).
+(Warning for hit located under query: 'AT4G04740.2 | Symbols:CPK23,ATCPK23 | calcium-dependent protein kinase 23 |  Chr4:2404883-2408493 REVERSE LENGTH=1602')
+no gi number found in FASTA header
+> ENA|CU472258|CU472258.1 Theobroma cacao, mRNA sequence (KZ0AAC14YP12FM1).
+(Warning for hit located under query: 'AT4G29890.1 | Symbols:no symbol available | no full name available | Chr4:14608868-14610905 FORWARD LENGTH=1269')
+no gi number found in FASTA header
+> ENA|CU480670|CU480670.1 Theobroma cacao, mRNA sequence (KZ0AAT10YM22FM1).
+(Warning for hit located under query: 'AT4G29890.1 | Symbols:no symbol available | no full name available | Chr4:14608868-14610905 FORWARD LENGTH=1269')
+no gi number found in FASTA header
+> ENA|CU486122|CU486122.1 Theobroma cacao, mRNA sequence (KZ0ACAC7YH13FM1).
+(Warning for hit located under query: 'AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 | SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING 1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD LENGTH=1089')
+no gi number found in FASTA header
+> ENA|CU535366|CU535366.1 Theobroma cacao, mRNA sequence (KZ0AAK9YI07FM1).
+(Warning for hit located under query: 'AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 | SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING 1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD LENGTH=1089')
+no gi number found in FASTA header
+> ENA|CU627870|CU627870.1 Theobroma cacao, mRNA sequence (KZ0ABE8YP17FM1).
+(Warning for hit located under query: 'AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 | SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING 1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD LENGTH=1089')
+no gi number found in FASTA header
+> ENA|CU627451|CU627451.1 Theobroma cacao, mRNA sequence (KZ0ABE4YJ18FM1).
+(Warning for hit located under query: 'AT4G33950.1 | Symbols:SNRK2.6,SRK2E,ATOST1,P44,SNRK2-6,OST1 | SNF1-RELATED PROTEIN KINASE 2.6,OPEN STOMATA 1,SUCROSE NONFERMENTING 1-RELATED PROTEIN KINASE 2-6 |  Chr4:16272364-16274657 FORWARD LENGTH=1089')
+no gi number found in FASTA header
+> ENA|CU627826|CU627826.1 Theobroma cacao, mRNA sequence (KZ0ABE8YJ08FM1).
+(Warning for hit located under query: 'AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | Chr4:17802974-17806332 REVERSE LENGTH=2016')
+no gi number found in FASTA header
+> ENA|CU494103|CU494103.1 Theobroma cacao, mRNA sequence (KZ0AAD2YD15FM1).
+(Warning for hit located under query: 'AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | Chr4:17802974-17806332 REVERSE LENGTH=2016')
+no gi number found in FASTA header
+> ENA|CU616566|CU616566.1 Theobroma cacao, mRNA sequence (KZ0AAN9YB02FM1).
+(Warning for hit located under query: 'AT4G37870.1 | Symbols:PCK1,PEPCK | PHOSPHOENOLPYRUVATE CARBOXYKINASE,phosphoenolpyruvate carboxykinase 1 | Chr4:17802974-17806332 REVERSE LENGTH=2016')
+no gi number found in FASTA header
+> ENA|CU496825|CU496825.1 Theobroma cacao, mRNA sequence (KZ0ACP1YO21FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU543254|CU543254.1 Theobroma cacao, mRNA sequence (KZ0AAV1YB21).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU535174|CU535174.1 Theobroma cacao, mRNA sequence (KZ0AAK8YA16FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU593383|CU593383.1 Theobroma cacao, mRNA sequence (KZ0AAH4YI05FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU474843|CU474843.1 Theobroma cacao, mRNA sequence (KZ0AAC2YL18FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576403|CU576403.1 Theobroma cacao, mRNA sequence (KZ0AAP9YB20FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575593|CU575593.1 Theobroma cacao, mRNA sequence (KZ0AAP3YA23FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575847|CU575847.1 Theobroma cacao, mRNA sequence (KZ0AAP4YO01FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU515948|CU515948.1 Theobroma cacao, mRNA sequence (KZ0ABF9YC15FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575698|CU575698.1 Theobroma cacao, mRNA sequence (KZ0AAP3YO04FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU578781|CU578781.1 Theobroma cacao, mRNA sequence (KZ0AB9YF17FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU474229|CU474229.1 Theobroma cacao, mRNA sequence (KZ0AAC11YC11FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU534452|CU534452.1 Theobroma cacao, mRNA sequence (KZ0AAK2YG13FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU543577|CU543577.1 Theobroma cacao, mRNA sequence (KZ0AAV3YL09FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU574777|CU574777.1 Theobroma cacao, mRNA sequence (KZ0AAP12YJ21FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU534022|CU534022.1 Theobroma cacao, mRNA sequence (KZ0AAK13YB08FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575937|CU575937.1 Theobroma cacao, mRNA sequence (KZ0AAP5YI05FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU483743|CU483743.1 Theobroma cacao, mRNA sequence (KZ0AAT5YG18FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU484058|CU484058.1 Theobroma cacao, mRNA sequence (KZ0AAT7YN17FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622040|CU622040.1 Theobroma cacao, mRNA sequence (KZ0AAA15YE10FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU535062|CU535062.1 Theobroma cacao, mRNA sequence (KZ0AAK7YE01FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU621777|CU621777.1 Theobroma cacao, mRNA sequence (KZ0AAA12YC24FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576278|CU576278.1 Theobroma cacao, mRNA sequence (KZ0AAP8YD05FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU582188|CU582188.1 Theobroma cacao, mRNA sequence (KZ0ABV4YG15FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU578367|CU578367.1 Theobroma cacao, mRNA sequence (KZ0AB7YK17FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576133|CU576133.1 Theobroma cacao, mRNA sequence (KZ0AAP6YP01FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576000|CU576000.1 Theobroma cacao, mRNA sequence (KZ0AAP6YA13FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU542476|CU542476.1 Theobroma cacao, mRNA sequence (KZ0AAV9YE20FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU470392|CU470392.1 Theobroma cacao, mRNA sequence (KZ0ACI4YA09FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575840|CU575840.1 Theobroma cacao, mRNA sequence (KZ0AAP4YN07FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU593406|CU593406.1 Theobroma cacao, mRNA sequence (KZ0AAH4YN19FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575456|CU575456.1 Theobroma cacao, mRNA sequence (KZ0AAP2YC08FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU509375|CU509375.1 Theobroma cacao, mRNA sequence (KZ0ACF3YH15FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU508858|CU508858.1 Theobroma cacao, mRNA sequence (KZ0ACF4YH20FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU605325|CU605325.1 Theobroma cacao, mRNA sequence (KZ0ACAN1YK06FM1).
+(Warning for hit located under query: 'XM_015769907.1_cds_XP_015625393.1_1 [gene=LOC4330248] [db_xref=GeneID:4330248] [protein=aquaporin PIP1-1] [protein_id=XP_015625393.1] [location=129..998] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU505255|CU505255.1 Theobroma cacao, mRNA sequence (KZ0ACAB4YI21FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU483317|CU483317.1 Theobroma cacao, mRNA sequence (KZ0AAT2YA24FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576745|CU576745.1 Theobroma cacao, mRNA sequence (KZ0AB10YN06FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576191|CU576191.1 Theobroma cacao, mRNA sequence (KZ0AAP7YG24FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU509245|CU509245.1 Theobroma cacao, mRNA sequence (KZ0ACF2YH07FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU509625|CU509625.1 Theobroma cacao, mRNA sequence (KZ0ACF5YF17FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU509605|CU509605.1 Theobroma cacao, mRNA sequence (KZ0ACF5YD17FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU483463|CU483463.1 Theobroma cacao, mRNA sequence (KZ0AAT3YD20FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU576142|CU576142.1 Theobroma cacao, mRNA sequence (KZ0AAP6YP23FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575838|CU575838.1 Theobroma cacao, mRNA sequence (KZ0AAP4YN03FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU539605|CU539605.1 Theobroma cacao, mRNA sequence (KZ0AAV12YA17FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8YH17FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2YA21FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU533689|CU533689.1 Theobroma cacao, mRNA sequence (KZ0AAI1YB07).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU528850|CU528850.1 Theobroma cacao, mRNA sequence (KZ0ACAA8YA14FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU509546|CU509546.1 Theobroma cacao, mRNA sequence (KZ0ACF4YM23FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU575404|CU575404.1 Theobroma cacao, mRNA sequence (KZ0AAP24YL18FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU580153|CU580153.1 Theobroma cacao, mRNA sequence (KZ0ABV2YJ09FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU510335|CU510335.1 Theobroma cacao, mRNA sequence (KZ0ACM3YB18FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU574954|CU574954.1 Theobroma cacao, mRNA sequence (KZ0AAP14YH24FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU550934|CU550934.1 Theobroma cacao, mRNA sequence (KZ0ABA10YK14FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU548213|CU548213.1 Theobroma cacao, mRNA sequence (KZ0AAS1YP01RM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU528886|CU528886.1 Theobroma cacao, mRNA sequence (KZ0ACAA8YD09FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU618964|CU618964.1 Theobroma cacao, mRNA sequence (KZ0AAA12YK09FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9YH17FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU605246|CU605246.1 Theobroma cacao, mRNA sequence (KZ0ACAN1YF18FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU569253|CU569253.1 Theobroma cacao, mRNA sequence (KZ0ACAD7YF18FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622578|CU622578.1 Theobroma cacao, mRNA sequence (KZ0AAA5YB21FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU572024|CU572024.1 Theobroma cacao, mRNA sequence (KZ0AAP13YP04FM1).
+(Warning for hit located under query: 'XM_015770913.1_cds_XP_015626399.1_1 [gene=LOC4330049] [db_xref=GeneID:4330049] [protein=probable aquaporin PIP2-2] [protein_id=XP_015626399.1] [location=400..1266] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU510177|CU510177.1 Theobroma cacao, mRNA sequence (KZ0ACM2YI14FM1).
+(Warning for hit located under query: 'Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant')
+no gi number found in FASTA header
+> ENA|CU532117|CU532117.1 Theobroma cacao, mRNA sequence (KZ0AAK2YC22FM1).
+(Warning for hit located under query: 'Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant')
+no gi number found in FASTA header
+> ENA|CU587069|CU587069.1 Theobroma cacao, mRNA sequence (KZ0AAB2YN21FM1).
+(Warning for hit located under query: 'Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant')
+no gi number found in FASTA header
+> ENA|CU627501|CU627501.1 Theobroma cacao, mRNA sequence (KZ0ABE5YD03FM1).
+(Warning for hit located under query: 'Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant')
+no gi number found in FASTA header
+> ENA|CU587632|CU587632.1 Theobroma cacao, mRNA sequence (KZ0AAB7YM06FM1).
+(Warning for hit located under query: 'Solyc06g068090.2.1 Phospholipase D (AHRD V1 **** D2E4A5_9ROSI); contains Interpro domain(s)  IPR011402  Phospholipase D, plant')
+no gi number found in FASTA header
+> ENA|CU539473|CU539473.1 Theobroma cacao, mRNA sequence (KZ0AAV11YH16FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU495663|CU495663.1 Theobroma cacao, mRNA sequence (KZ0AAD1YK16).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU474686|CU474686.1 Theobroma cacao, mRNA sequence (KZ0AAC1YF06).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU484244|CU484244.1 Theobroma cacao, mRNA sequence (KZ0AAT9YB04FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU574739|CU574739.1 Theobroma cacao, mRNA sequence (KZ0AAP12YE19FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU543023|CU543023.1 Theobroma cacao, mRNA sequence (KZ0AAV13YJ18FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU535060|CU535060.1 Theobroma cacao, mRNA sequence (KZ0AAK7YD23FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU496159|CU496159.1 Theobroma cacao, mRNA sequence (KZ0AAD9YE24FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU575357|CU575357.1 Theobroma cacao, mRNA sequence (KZ0AAP24YH02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU535090|CU535090.1 Theobroma cacao, mRNA sequence (KZ0AAK7YH11FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU575077|CU575077.1 Theobroma cacao, mRNA sequence (KZ0AAP15YK17FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU575598|CU575598.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB07FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU526106|CU526106.1 Theobroma cacao, mRNA sequence (KZ0ACL4YJ09FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU587554|CU587554.1 Theobroma cacao, mRNA sequence (KZ0AAB7YE09FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU533913|CU533913.1 Theobroma cacao, mRNA sequence (KZ0AAK10YN02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU537267|CU537267.1 Theobroma cacao, mRNA sequence (KZ0AAQ6YG03FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU543013|CU543013.1 Theobroma cacao, mRNA sequence (KZ0AAV13YI02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU474762|CU474762.1 Theobroma cacao, mRNA sequence (KZ0AAC2YA12FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU587589|CU587589.1 Theobroma cacao, mRNA sequence (KZ0AAB7YH23FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU575599|CU575599.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB09FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU483899|CU483899.1 Theobroma cacao, mRNA sequence (KZ0AAT6YL17FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU622053|CU622053.1 Theobroma cacao, mRNA sequence (KZ0AAA15YF19FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU587274|CU587274.1 Theobroma cacao, mRNA sequence (KZ0AAB4YM04FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU576310|CU576310.1 Theobroma cacao, mRNA sequence (KZ0AAP8YG17FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU587574|CU587574.1 Theobroma cacao, mRNA sequence (KZ0AAB7YG15FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU475315|CU475315.1 Theobroma cacao, mRNA sequence (KZ0AAC7YE05FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU575601|CU575601.1 Theobroma cacao, mRNA sequence (KZ0AAP3YB20FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU496049|CU496049.1 Theobroma cacao, mRNA sequence (KZ0AAD7YL06FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU483562|CU483562.1 Theobroma cacao, mRNA sequence (KZ0AAT3YP24FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU576219|CU576219.1 Theobroma cacao, mRNA sequence (KZ0AAP7YL06FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU511973|CU511973.1 Theobroma cacao, mRNA sequence (KZ0ACN2YP24FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU518231|CU518231.1 Theobroma cacao, mRNA sequence (KZ0ABH15YB22FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU496128|CU496128.1 Theobroma cacao, mRNA sequence (KZ0AAD8YN14FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU475454|CU475454.1 Theobroma cacao, mRNA sequence (KZ0AAC8YK04FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU482138|CU482138.1 Theobroma cacao, mRNA sequence (KZ0AAT5YN02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU551180|CU551180.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG07FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU595286|CU595286.1 Theobroma cacao, mRNA sequence (KZ0AAH9YP11FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU594256|CU594256.1 Theobroma cacao, mRNA sequence (KZ0AAH10YL13FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU586966|CU586966.1 Theobroma cacao, mRNA sequence (KZ0AAB24YM23FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU551181|CU551181.1 Theobroma cacao, mRNA sequence (KZ0ABA1YG07RM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU586937|CU586937.1 Theobroma cacao, mRNA sequence (KZ0AAB24YJ02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU544127|CU544127.1 Theobroma cacao, mRNA sequence (KZ0AAV8YP10FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU550829|CU550829.1 Theobroma cacao, mRNA sequence (KZ0ABA10YF02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU537149|CU537149.1 Theobroma cacao, mRNA sequence (KZ0AAQ5YO09FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU495475|CU495475.1 Theobroma cacao, mRNA sequence (KZ0AAD13YH02FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU580877|CU580877.1 Theobroma cacao, mRNA sequence (KZ0ABV5YO19FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU490408|CU490408.1 Theobroma cacao, mRNA sequence (KZ0ACAE2YO11FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU474401|CU474401.1 Theobroma cacao, mRNA sequence (KZ0AAC12YE07FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU543877|CU543877.1 Theobroma cacao, mRNA sequence (KZ0AAV6YG19FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU540238|CU540238.1 Theobroma cacao, mRNA sequence (KZ0AAV14YJ18FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU539265|CU539265.1 Theobroma cacao, mRNA sequence (KZ0AAV10YI04FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU544204|CU544204.1 Theobroma cacao, mRNA sequence (KZ0AAV9YL23FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU483382|CU483382.1 Theobroma cacao, mRNA sequence (KZ0AAT2YJ01FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU543621|CU543621.1 Theobroma cacao, mRNA sequence (KZ0AAV4YB20FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU548999|CU548999.1 Theobroma cacao, mRNA sequence (KZ0AAS5YG09FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU481540|CU481540.1 Theobroma cacao, mRNA sequence (KZ0AAT3YE22FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU528735|CU528735.1 Theobroma cacao, mRNA sequence (KZ0ACAA7YJ09FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU517086|CU517086.1 Theobroma cacao, mRNA sequence (KZ0ABH10YC12FM1).
+(Warning for hit located under query: 'Solyc08g081190.2.1 Aquaporin 1 (AHRD V1 ***- O24662_TOBAC); contains Interpro domain(s)  IPR012269  Aquaporin')
+no gi number found in FASTA header
+> ENA|CU542026|CU542026.1 Theobroma cacao, mRNA sequence (KZ0AAV7YG21FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU525765|CU525765.1 Theobroma cacao, mRNA sequence (KZ0ACL3YE14FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU479713|CU479713.1 Theobroma cacao, mRNA sequence (KZ0AAL4YM12FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU479555|CU479555.1 Theobroma cacao, mRNA sequence (KZ0AAL3YI24FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU510475|CU510475.1 Theobroma cacao, mRNA sequence (KZ0ACM3YJ21FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU506420|CU506420.1 Theobroma cacao, mRNA sequence (KZ0ACAB9YM22FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU477167|CU477167.1 Theobroma cacao, mRNA sequence (KZ0AAL3YH19FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU479447|CU479447.1 Theobroma cacao, mRNA sequence (KZ0AAL2YP05FM1).
+(Warning for hit located under query: 'Solyc10g054440.1.1 Arginine decarboxylase (AHRD V1 **** Q5F307_SOLLC); contains Interpro domain(s)  IPR002985  Arginine decarboxylase')
+no gi number found in FASTA header
+> ENA|CU578306|CU578306.1 Theobroma cacao, mRNA sequence (KZ0AB7YG12FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU595667|CU595667.1 Theobroma cacao, mRNA sequence (KZ0AAF10YM21FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU476410|CU476410.1 Theobroma cacao, mRNA sequence (KZ0AAL14YA04FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU618441|CU618441.1 Theobroma cacao, mRNA sequence (KZ0AAA10YH17FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU483934|CU483934.1 Theobroma cacao, mRNA sequence (KZ0AAT6YP10FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU483059|CU483059.1 Theobroma cacao, mRNA sequence (KZ0AAT10YO12FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU549923|CU549923.1 Theobroma cacao, mRNA sequence (KZ0AAS8YM23FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU505447|CU505447.1 Theobroma cacao, mRNA sequence (KZ0ACAB5YG08FM1).
+(Warning for hit located under query: 'Solyc11g033280.1.1 ATP-dependent RNA helicase FAL1 (AHRD V1 ***- A8NX16_COPC7); contains Interpro domain(s)  IPR011545  DNA/RNA helicase, DEAD/DEAH box type, N-terminal')
+no gi number found in FASTA header
+> ENA|CU618646|CU618646.1 Theobroma cacao, mRNA sequence (KZ0AAA11YE13FM1).
+(Warning for hit located under query: 'Solyc12g009020.1.1 Protein kinase (AHRD V1 **** C4Q4E0_SCHMA); contains Interpro domain(s)  IPR002290  Serine/threonine protein kinase')
+no gi number found in FASTA header
+> ENA|CU551031|CU551031.1 Theobroma cacao, mRNA sequence (KZ0ABA10YP24FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU483317|CU483317.1 Theobroma cacao, mRNA sequence (KZ0AAT2YA24FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU576745|CU576745.1 Theobroma cacao, mRNA sequence (KZ0AB10YN06FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU576191|CU576191.1 Theobroma cacao, mRNA sequence (KZ0AAP7YG24FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU509245|CU509245.1 Theobroma cacao, mRNA sequence (KZ0ACF2YH07FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU509625|CU509625.1 Theobroma cacao, mRNA sequence (KZ0ACF5YF17FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU509605|CU509605.1 Theobroma cacao, mRNA sequence (KZ0ACF5YD17FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU483463|CU483463.1 Theobroma cacao, mRNA sequence (KZ0AAT3YD20FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU576142|CU576142.1 Theobroma cacao, mRNA sequence (KZ0AAP6YP23FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU575838|CU575838.1 Theobroma cacao, mRNA sequence (KZ0AAP4YN03FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU539605|CU539605.1 Theobroma cacao, mRNA sequence (KZ0AAV12YA17FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU535233|CU535233.1 Theobroma cacao, mRNA sequence (KZ0AAK8YH17FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU534405|CU534405.1 Theobroma cacao, mRNA sequence (KZ0AAK2YA21FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU533689|CU533689.1 Theobroma cacao, mRNA sequence (KZ0AAI1YB07).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU528850|CU528850.1 Theobroma cacao, mRNA sequence (KZ0ACAA8YA14FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU509546|CU509546.1 Theobroma cacao, mRNA sequence (KZ0ACF4YM23FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU575404|CU575404.1 Theobroma cacao, mRNA sequence (KZ0AAP24YL18FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU510335|CU510335.1 Theobroma cacao, mRNA sequence (KZ0ACM3YB18FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU580153|CU580153.1 Theobroma cacao, mRNA sequence (KZ0ABV2YJ09FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU574954|CU574954.1 Theobroma cacao, mRNA sequence (KZ0AAP14YH24FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU550934|CU550934.1 Theobroma cacao, mRNA sequence (KZ0ABA10YK14FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU528886|CU528886.1 Theobroma cacao, mRNA sequence (KZ0ACAA8YD09FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU548213|CU548213.1 Theobroma cacao, mRNA sequence (KZ0AAS1YP01RM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU618964|CU618964.1 Theobroma cacao, mRNA sequence (KZ0AAA12YK09FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU605246|CU605246.1 Theobroma cacao, mRNA sequence (KZ0ACAN1YF18FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU569253|CU569253.1 Theobroma cacao, mRNA sequence (KZ0ACAD7YF18FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU533574|CU533574.1 Theobroma cacao, mRNA sequence (KZ0AAK9YH17FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU510177|CU510177.1 Theobroma cacao, mRNA sequence (KZ0ACM2YI14FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU622578|CU622578.1 Theobroma cacao, mRNA sequence (KZ0AAA5YB21FM1).
+(Warning for hit located under query: 'MLOC_13871.1 1607 CDS assembly3_WGSMorex_rbca.fasta')
+no gi number found in FASTA header
+> ENA|CU572024|CU572024.1 Theobroma cacao, mRNA sequence (KZ0AAP13YP04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622460|CU622460.1 Theobroma cacao, mRNA sequence (KZ0AAA4YE09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU630750|CU630750.1 Theobroma cacao, mRNA sequence (KZ0ABB6YJ18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU630306|CU630306.1 Theobroma cacao, mRNA sequence (KZ0ABB4YG14FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU618146|CU618146.1 Theobroma cacao, mRNA sequence (KZ0AAN8YP10FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU617377|CU617377.1 Theobroma cacao, mRNA sequence (KZ0AAN3YJ19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633139|CU633139.1 Theobroma cacao, mRNA sequence (KZ0ABB9YL22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633137|CU633137.1 Theobroma cacao, mRNA sequence (KZ0ABB9YK24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633136|CU633136.1 Theobroma cacao, mRNA sequence (KZ0ABB9YK23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633134|CU633134.1 Theobroma cacao, mRNA sequence (KZ0ABB9YK05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633124|CU633124.1 Theobroma cacao, mRNA sequence (KZ0ABB9YI06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633118|CU633118.1 Theobroma cacao, mRNA sequence (KZ0ABB9YH01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633107|CU633107.1 Theobroma cacao, mRNA sequence (KZ0ABB9YE23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633106|CU633106.1 Theobroma cacao, mRNA sequence (KZ0ABB9YE20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633082|CU633082.1 Theobroma cacao, mRNA sequence (KZ0ABB9YB16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633080|CU633080.1 Theobroma cacao, mRNA sequence (KZ0ABB9YB09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633076|CU633076.1 Theobroma cacao, mRNA sequence (KZ0ABB9YA24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633057|CU633057.1 Theobroma cacao, mRNA sequence (KZ0ABB8YO03FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633054|CU633054.1 Theobroma cacao, mRNA sequence (KZ0ABB8YN24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633048|CU633048.1 Theobroma cacao, mRNA sequence (KZ0ABB8YM16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633043|CU633043.1 Theobroma cacao, mRNA sequence (KZ0ABB8YL02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633039|CU633039.1 Theobroma cacao, mRNA sequence (KZ0ABB8YK04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633038|CU633038.1 Theobroma cacao, mRNA sequence (KZ0ABB8YK01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633030|CU633030.1 Theobroma cacao, mRNA sequence (KZ0ABB8YI02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633025|CU633025.1 Theobroma cacao, mRNA sequence (KZ0ABB8YH04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633021|CU633021.1 Theobroma cacao, mRNA sequence (KZ0ABB8YG23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633013|CU633013.1 Theobroma cacao, mRNA sequence (KZ0ABB8YF22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633007|CU633007.1 Theobroma cacao, mRNA sequence (KZ0ABB8YE22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU633005|CU633005.1 Theobroma cacao, mRNA sequence (KZ0ABB8YE20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632999|CU632999.1 Theobroma cacao, mRNA sequence (KZ0ABB8YE08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632996|CU632996.1 Theobroma cacao, mRNA sequence (KZ0ABB8YD24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632977|CU632977.1 Theobroma cacao, mRNA sequence (KZ0ABB8YB08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632974|CU632974.1 Theobroma cacao, mRNA sequence (KZ0ABB8YB02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632968|CU632968.1 Theobroma cacao, mRNA sequence (KZ0ABB8YA08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632963|CU632963.1 Theobroma cacao, mRNA sequence (KZ0ABB7YP21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632929|CU632929.1 Theobroma cacao, mRNA sequence (KZ0ABB7YL19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632921|CU632921.1 Theobroma cacao, mRNA sequence (KZ0ABB7YK18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632911|CU632911.1 Theobroma cacao, mRNA sequence (KZ0ABB7YJ22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632910|CU632910.1 Theobroma cacao, mRNA sequence (KZ0ABB7YJ19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632907|CU632907.1 Theobroma cacao, mRNA sequence (KZ0ABB7YJ12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632885|CU632885.1 Theobroma cacao, mRNA sequence (KZ0ABB7YH02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632867|CU632867.1 Theobroma cacao, mRNA sequence (KZ0ABB7YF02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632865|CU632865.1 Theobroma cacao, mRNA sequence (KZ0ABB7YE23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632861|CU632861.1 Theobroma cacao, mRNA sequence (KZ0ABB7YE12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632859|CU632859.1 Theobroma cacao, mRNA sequence (KZ0ABB7YE10FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632852|CU632852.1 Theobroma cacao, mRNA sequence (KZ0ABB7YD18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632839|CU632839.1 Theobroma cacao, mRNA sequence (KZ0ABB7YB24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632835|CU632835.1 Theobroma cacao, mRNA sequence (KZ0ABB7YB12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632832|CU632832.1 Theobroma cacao, mRNA sequence (KZ0ABB7YB07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632822|CU632822.1 Theobroma cacao, mRNA sequence (KZ0ABB7YA06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632819|CU632819.1 Theobroma cacao, mRNA sequence (KZ0ABB6YP22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632818|CU632818.1 Theobroma cacao, mRNA sequence (KZ0ABB6YP21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632815|CU632815.1 Theobroma cacao, mRNA sequence (KZ0ABB6YP13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632809|CU632809.1 Theobroma cacao, mRNA sequence (KZ0ABB6YO23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632804|CU632804.1 Theobroma cacao, mRNA sequence (KZ0ABB6YO05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632798|CU632798.1 Theobroma cacao, mRNA sequence (KZ0ABB6YN09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632787|CU632787.1 Theobroma cacao, mRNA sequence (KZ0ABB6YM04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632772|CU632772.1 Theobroma cacao, mRNA sequence (KZ0ABB6YK08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632767|CU632767.1 Theobroma cacao, mRNA sequence (KZ0ABB6YJ16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632743|CU632743.1 Theobroma cacao, mRNA sequence (KZ0ABB6YG11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632728|CU632728.1 Theobroma cacao, mRNA sequence (KZ0ABB6YF03FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632722|CU632722.1 Theobroma cacao, mRNA sequence (KZ0ABB6YE16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632719|CU632719.1 Theobroma cacao, mRNA sequence (KZ0ABB6YE11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632717|CU632717.1 Theobroma cacao, mRNA sequence (KZ0ABB6YE04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632711|CU632711.1 Theobroma cacao, mRNA sequence (KZ0ABB6YD04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632708|CU632708.1 Theobroma cacao, mRNA sequence (KZ0ABB6YC09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632700|CU632700.1 Theobroma cacao, mRNA sequence (KZ0ABB6YB21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632696|CU632696.1 Theobroma cacao, mRNA sequence (KZ0ABB6YB11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632682|CU632682.1 Theobroma cacao, mRNA sequence (KZ0ABB5YP23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632681|CU632681.1 Theobroma cacao, mRNA sequence (KZ0ABB5YP22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632674|CU632674.1 Theobroma cacao, mRNA sequence (KZ0ABB5YO19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632668|CU632668.1 Theobroma cacao, mRNA sequence (KZ0ABB5YO08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632667|CU632667.1 Theobroma cacao, mRNA sequence (KZ0ABB5YO07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632657|CU632657.1 Theobroma cacao, mRNA sequence (KZ0ABB5YN01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632656|CU632656.1 Theobroma cacao, mRNA sequence (KZ0ABB5YM24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632653|CU632653.1 Theobroma cacao, mRNA sequence (KZ0ABB5YM14FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632649|CU632649.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632647|CU632647.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632646|CU632646.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632642|CU632642.1 Theobroma cacao, mRNA sequence (KZ0ABB5YL02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632631|CU632631.1 Theobroma cacao, mRNA sequence (KZ0ABB5YK03FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632617|CU632617.1 Theobroma cacao, mRNA sequence (KZ0ABB5YJ01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632611|CU632611.1 Theobroma cacao, mRNA sequence (KZ0ABB5YI07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632608|CU632608.1 Theobroma cacao, mRNA sequence (KZ0ABB5YI04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632594|CU632594.1 Theobroma cacao, mRNA sequence (KZ0ABB5YG05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632592|CU632592.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632591|CU632591.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632586|CU632586.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632584|CU632584.1 Theobroma cacao, mRNA sequence (KZ0ABB5YF02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632581|CU632581.1 Theobroma cacao, mRNA sequence (KZ0ABB5YE20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632573|CU632573.1 Theobroma cacao, mRNA sequence (KZ0ABB5YD17FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632562|CU632562.1 Theobroma cacao, mRNA sequence (KZ0ABB5YC20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632559|CU632559.1 Theobroma cacao, mRNA sequence (KZ0ABB5YC15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632552|CU632552.1 Theobroma cacao, mRNA sequence (KZ0ABB5YC03FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632549|CU632549.1 Theobroma cacao, mRNA sequence (KZ0ABB5YB24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632541|CU632541.1 Theobroma cacao, mRNA sequence (KZ0ABB5YB09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632531|CU632531.1 Theobroma cacao, mRNA sequence (KZ0ABB5YA07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632525|CU632525.1 Theobroma cacao, mRNA sequence (KZ0ABB4YP18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632523|CU632523.1 Theobroma cacao, mRNA sequence (KZ0ABB4YP11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632518|CU632518.1 Theobroma cacao, mRNA sequence (KZ0ABB4YO19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632514|CU632514.1 Theobroma cacao, mRNA sequence (KZ0ABB4YO02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632509|CU632509.1 Theobroma cacao, mRNA sequence (KZ0ABB4YN12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632503|CU632503.1 Theobroma cacao, mRNA sequence (KZ0ABB4YM20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632482|CU632482.1 Theobroma cacao, mRNA sequence (KZ0ABB4YK17FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632478|CU632478.1 Theobroma cacao, mRNA sequence (KZ0ABB4YK07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632470|CU632470.1 Theobroma cacao, mRNA sequence (KZ0ABB4YJ13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632469|CU632469.1 Theobroma cacao, mRNA sequence (KZ0ABB4YJ08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632458|CU632458.1 Theobroma cacao, mRNA sequence (KZ0ABB4YH09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632452|CU632452.1 Theobroma cacao, mRNA sequence (KZ0ABB4YG09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632438|CU632438.1 Theobroma cacao, mRNA sequence (KZ0ABB4YE13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632433|CU632433.1 Theobroma cacao, mRNA sequence (KZ0ABB4YE04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632432|CU632432.1 Theobroma cacao, mRNA sequence (KZ0ABB4YE03FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632421|CU632421.1 Theobroma cacao, mRNA sequence (KZ0ABB4YD11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632419|CU632419.1 Theobroma cacao, mRNA sequence (KZ0ABB4YD01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632400|CU632400.1 Theobroma cacao, mRNA sequence (KZ0ABB4YB11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632394|CU632394.1 Theobroma cacao, mRNA sequence (KZ0ABB4YA15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632391|CU632391.1 Theobroma cacao, mRNA sequence (KZ0ABB4YA05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632385|CU632385.1 Theobroma cacao, mRNA sequence (KZ0ABB3YO18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632357|CU632357.1 Theobroma cacao, mRNA sequence (KZ0ABB3YL23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632342|CU632342.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632340|CU632340.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632336|CU632336.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632334|CU632334.1 Theobroma cacao, mRNA sequence (KZ0ABB3YJ01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632323|CU632323.1 Theobroma cacao, mRNA sequence (KZ0ABB3YH22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632318|CU632318.1 Theobroma cacao, mRNA sequence (KZ0ABB3YH12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632302|CU632302.1 Theobroma cacao, mRNA sequence (KZ0ABB3YG01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632300|CU632300.1 Theobroma cacao, mRNA sequence (KZ0ABB3YF21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632287|CU632287.1 Theobroma cacao, mRNA sequence (KZ0ABB3YE14FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632283|CU632283.1 Theobroma cacao, mRNA sequence (KZ0ABB3YE02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632275|CU632275.1 Theobroma cacao, mRNA sequence (KZ0ABB3YD15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632268|CU632268.1 Theobroma cacao, mRNA sequence (KZ0ABB3YC20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632267|CU632267.1 Theobroma cacao, mRNA sequence (KZ0ABB3YC19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632261|CU632261.1 Theobroma cacao, mRNA sequence (KZ0ABB3YC08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632247|CU632247.1 Theobroma cacao, mRNA sequence (KZ0ABB3YA16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632193|CU632193.1 Theobroma cacao, mRNA sequence (KZ0ABB2YG02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632165|CU632165.1 Theobroma cacao, mRNA sequence (KZ0ABB1YP19).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632160|CU632160.1 Theobroma cacao, mRNA sequence (KZ0ABB1YP03).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632159|CU632159.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO22).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632154|CU632154.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO09).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632153|CU632153.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO08RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632150|CU632150.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN15).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632147|CU632147.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN12).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632145|CU632145.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN01).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632143|CU632143.1 Theobroma cacao, mRNA sequence (KZ0ABB1YM20).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632141|CU632141.1 Theobroma cacao, mRNA sequence (KZ0ABB1YM14RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632140|CU632140.1 Theobroma cacao, mRNA sequence (KZ0ABB1YM13RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632136|CU632136.1 Theobroma cacao, mRNA sequence (KZ0ABB1YL24).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632132|CU632132.1 Theobroma cacao, mRNA sequence (KZ0ABB1YL18RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632125|CU632125.1 Theobroma cacao, mRNA sequence (KZ0ABB1YK24).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632113|CU632113.1 Theobroma cacao, mRNA sequence (KZ0ABB1YK09).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632107|CU632107.1 Theobroma cacao, mRNA sequence (KZ0ABB1YJ08).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632099|CU632099.1 Theobroma cacao, mRNA sequence (KZ0ABB1YI13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632096|CU632096.1 Theobroma cacao, mRNA sequence (KZ0ABB1YH22).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632095|CU632095.1 Theobroma cacao, mRNA sequence (KZ0ABB1YH17RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632078|CU632078.1 Theobroma cacao, mRNA sequence (KZ0ABB1YF13).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632073|CU632073.1 Theobroma cacao, mRNA sequence (KZ0ABB1YE17).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632068|CU632068.1 Theobroma cacao, mRNA sequence (KZ0ABB1YE06).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632066|CU632066.1 Theobroma cacao, mRNA sequence (KZ0ABB1YE02).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632064|CU632064.1 Theobroma cacao, mRNA sequence (KZ0ABB1YD23).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632048|CU632048.1 Theobroma cacao, mRNA sequence (KZ0ABB1YC15).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632047|CU632047.1 Theobroma cacao, mRNA sequence (KZ0ABB1YC14).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632044|CU632044.1 Theobroma cacao, mRNA sequence (KZ0ABB1YC11).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632030|CU632030.1 Theobroma cacao, mRNA sequence (KZ0ABB1YB13RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632024|CU632024.1 Theobroma cacao, mRNA sequence (KZ0ABB1YB03RM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632023|CU632023.1 Theobroma cacao, mRNA sequence (KZ0ABB1YB02).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632022|CU632022.1 Theobroma cacao, mRNA sequence (KZ0ABB1YA20).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632019|CU632019.1 Theobroma cacao, mRNA sequence (KZ0ABB1YA17).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU632018|CU632018.1 Theobroma cacao, mRNA sequence (KZ0ABB1YA15).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631995|CU631995.1 Theobroma cacao, mRNA sequence (KZ0ABB16YN19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631994|CU631994.1 Theobroma cacao, mRNA sequence (KZ0ABB16YN16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631990|CU631990.1 Theobroma cacao, mRNA sequence (KZ0ABB16YM23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631987|CU631987.1 Theobroma cacao, mRNA sequence (KZ0ABB16YM13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631984|CU631984.1 Theobroma cacao, mRNA sequence (KZ0ABB16YM05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631974|CU631974.1 Theobroma cacao, mRNA sequence (KZ0ABB16YK13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631968|CU631968.1 Theobroma cacao, mRNA sequence (KZ0ABB16YJ18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631964|CU631964.1 Theobroma cacao, mRNA sequence (KZ0ABB16YJ01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631958|CU631958.1 Theobroma cacao, mRNA sequence (KZ0ABB16YI09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631953|CU631953.1 Theobroma cacao, mRNA sequence (KZ0ABB16YH07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631945|CU631945.1 Theobroma cacao, mRNA sequence (KZ0ABB16YG06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631940|CU631940.1 Theobroma cacao, mRNA sequence (KZ0ABB16YF07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631939|CU631939.1 Theobroma cacao, mRNA sequence (KZ0ABB16YF05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631937|CU631937.1 Theobroma cacao, mRNA sequence (KZ0ABB16YE19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631934|CU631934.1 Theobroma cacao, mRNA sequence (KZ0ABB16YE11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631921|CU631921.1 Theobroma cacao, mRNA sequence (KZ0ABB16YC20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631915|CU631915.1 Theobroma cacao, mRNA sequence (KZ0ABB16YC02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631875|CU631875.1 Theobroma cacao, mRNA sequence (KZ0ABB15YL08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631837|CU631837.1 Theobroma cacao, mRNA sequence (KZ0ABB15YE01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631808|CU631808.1 Theobroma cacao, mRNA sequence (KZ0ABB14YP01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631804|CU631804.1 Theobroma cacao, mRNA sequence (KZ0ABB14YO05FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631762|CU631762.1 Theobroma cacao, mRNA sequence (KZ0ABB14YE02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631761|CU631761.1 Theobroma cacao, mRNA sequence (KZ0ABB14YE01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631703|CU631703.1 Theobroma cacao, mRNA sequence (KZ0ABB13YK15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631619|CU631619.1 Theobroma cacao, mRNA sequence (KZ0ABB12YN02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631574|CU631574.1 Theobroma cacao, mRNA sequence (KZ0ABB12YE07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631529|CU631529.1 Theobroma cacao, mRNA sequence (KZ0ABB11YH09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631510|CU631510.1 Theobroma cacao, mRNA sequence (KZ0ABB11YB21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU631475|CU631475.1 Theobroma cacao, mRNA sequence (KZ0ABB10YM01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU630355|CU630355.1 Theobroma cacao, mRNA sequence (KZ0ABB4YJ17FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629831|CU629831.1 Theobroma cacao, mRNA sequence (KZ0ABB2YC02FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629788|CU629788.1 Theobroma cacao, mRNA sequence (KZ0ABB1YO18).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629767|CU629767.1 Theobroma cacao, mRNA sequence (KZ0ABB1YN05).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629733|CU629733.1 Theobroma cacao, mRNA sequence (KZ0ABB1YL06).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629690|CU629690.1 Theobroma cacao, mRNA sequence (KZ0ABB1YH19).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629663|CU629663.1 Theobroma cacao, mRNA sequence (KZ0ABB1YG11).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629640|CU629640.1 Theobroma cacao, mRNA sequence (KZ0ABB1YF05).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU629378|CU629378.1 Theobroma cacao, mRNA sequence (KZ0ABB16YA12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU623395|CU623395.1 Theobroma cacao, mRNA sequence (KZ0ABE10YI22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU623160|CU623160.1 Theobroma cacao, mRNA sequence (KZ0AAA9YD06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622592|CU622592.1 Theobroma cacao, mRNA sequence (KZ0AAA5YD08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622554|CU622554.1 Theobroma cacao, mRNA sequence (KZ0AAA4YO22FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622347|CU622347.1 Theobroma cacao, mRNA sequence (KZ0AAA3YF19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU622264|CU622264.1 Theobroma cacao, mRNA sequence (KZ0AAA2YM09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU621727|CU621727.1 Theobroma cacao, mRNA sequence (KZ0AAA11YK13FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU620751|CU620751.1 Theobroma cacao, mRNA sequence (KZ0AAA5YP15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU618221|CU618221.1 Theobroma cacao, mRNA sequence (KZ0AAN9YH24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU618026|CU618026.1 Theobroma cacao, mRNA sequence (KZ0AAN8YA19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU617789|CU617789.1 Theobroma cacao, mRNA sequence (KZ0AAN6YH12FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU617732|CU617732.1 Theobroma cacao, mRNA sequence (KZ0AAN6YA08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU617372|CU617372.1 Theobroma cacao, mRNA sequence (KZ0AAN3YI16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU616923|CU616923.1 Theobroma cacao, mRNA sequence (KZ0AAN11YN18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU616893|CU616893.1 Theobroma cacao, mRNA sequence (KZ0AAN11YK07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU616877|CU616877.1 Theobroma cacao, mRNA sequence (KZ0AAN11YH24FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU614291|CU614291.1 Theobroma cacao, mRNA sequence (KZ0ACAH5YO07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU614286|CU614286.1 Theobroma cacao, mRNA sequence (KZ0ACAH5YN09FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU614252|CU614252.1 Theobroma cacao, mRNA sequence (KZ0ACAH5YJ04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU606402|CU606402.1 Theobroma cacao, mRNA sequence (KZ0ACT4YJ03FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU597908|CU597908.1 Theobroma cacao, mRNA sequence (KZ0AAF3YM23FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU597658|CU597658.1 Theobroma cacao, mRNA sequence (KZ0AAF1YN02).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU597469|CU597469.1 Theobroma cacao, mRNA sequence (KZ0AAF10YE20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU597331|CU597331.1 Theobroma cacao, mRNA sequence (KZ0AAE1YD11).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU593035|CU593035.1 Theobroma cacao, mRNA sequence (KZ0AAH1YG11).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU587586|CU587586.1 Theobroma cacao, mRNA sequence (KZ0AAB7YH16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU587303|CU587303.1 Theobroma cacao, mRNA sequence (KZ0AAB4YP11FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU587212|CU587212.1 Theobroma cacao, mRNA sequence (KZ0AAB4YE08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU586454|CU586454.1 Theobroma cacao, mRNA sequence (KZ0AAB10YH18FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU582653|CU582653.1 Theobroma cacao, mRNA sequence (KZ0ABV8YP01FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU582574|CU582574.1 Theobroma cacao, mRNA sequence (KZ0ABV8YD16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU582473|CU582473.1 Theobroma cacao, mRNA sequence (KZ0ABV7YE20FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU582128|CU582128.1 Theobroma cacao, mRNA sequence (KZ0ABV3YK04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU580817|CU580817.1 Theobroma cacao, mRNA sequence (KZ0ABV5YK19FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU579925|CU579925.1 Theobroma cacao, mRNA sequence (KZ0ABV1YH16FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU579509|CU579509.1 Theobroma cacao, mRNA sequence (KZ0AB8YI06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU579113|CU579113.1 Theobroma cacao, mRNA sequence (KZ0AB2YJ17FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU579031|CU579031.1 Theobroma cacao, mRNA sequence (KZ0AB1YG06FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU573919|CU573919.1 Theobroma cacao, mRNA sequence (KZ0AAP7YB04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU570207|CU570207.1 Theobroma cacao, mRNA sequence (KZ0ACAD5YB21FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU570183|CU570183.1 Theobroma cacao, mRNA sequence (KZ0ACAD4YO04FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU570163|CU570163.1 Theobroma cacao, mRNA sequence (KZ0ACAD4YK15FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU570077|CU570077.1 Theobroma cacao, mRNA sequence (KZ0ACAD3YE08FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU568989|CU568989.1 Theobroma cacao, mRNA sequence (KZ0ACAD6YD07FM1).
+(Warning for hit located under query: 'AY857933.1_cds_AAW47577.1_1 [protein=metallothionein-like] [protein_id=AAW47577.1] [location=1..192] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU565844|CU565844.1 Theobroma cacao, mRNA sequence (KZ0ABL1YH04FM1).
+(Warning for hit located under query: 'NM_001197011.1_cds_NP_001183940.1_1 [gene=LOC100502540] [db_xref=GeneID:100502540] [protein=ABRE binding protein] [protein_id=NP_001183940.1] [location=34..1191] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU600919|CU600919.1 Theobroma cacao, mRNA sequence (KZ0AAG2YG14FM1).
+(Warning for hit located under query: 'XM_010044547.2_cds_XP_010042849.1_1 [gene=LOC104432046] [db_xref=GeneID:104432046] [protein=pyrophosphate-energized vacuolar membrane proton pump 1-like] [protein_id=XP_010042849.1] [location=95..1057] [gbkey=CDS]')
+no gi number found in FASTA header
+> ENA|CU540323|CU540323.1 Theobroma cacao, mRNA sequence (KZ0AAV14YP03FM1).
+

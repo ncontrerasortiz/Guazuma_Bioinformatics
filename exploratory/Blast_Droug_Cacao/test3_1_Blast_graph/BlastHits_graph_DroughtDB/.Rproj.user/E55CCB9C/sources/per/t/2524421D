@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594379236343.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2728316895",
+    "id" : "2524421D",
+    "lastKnownWriteTime" : 1594639845,
+    "last_content_update" : 1594639845253,
+    "path" : "/media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bait_design/notebook_jup/test3_1_Blast_graph/BlastHits_graph_DroughtDB/BlastHits_graph_DroughtDB.R",
+    "project_path" : "BlastHits_graph_DroughtDB.R",
+    "properties" : {
+        "cursorPosition" : "1,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
