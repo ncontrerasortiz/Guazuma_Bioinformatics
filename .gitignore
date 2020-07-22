@@ -1,5 +1,6 @@
 *.sqlite
 .DS_Store
+*.Fasta
 *.fasta
 *.fna
 *.png
