@@ -26,11 +26,13 @@
 	- OneNote/2nd YRev/Bait design in T. cacao: review
 - Code: manual download
 - Results: 
-| Genome | DataBase | Name/GeneBank | Cita | contigs/chromosome |
-|:-:|:-:|:-:|:-:|:-:|
-| Cacao Matina | Cacao Genome Database/NCBI | Cacao genome v0.9 / ALXC00000000.1 | Motamayour et al. 2013 | 1,782/10 |
-| Criollo cocoa Genome Version 1 | Cocoa Genome Hub/NCBI | Genome Criollo V1 / CACC00000000.1 | Argout et al. 2011 | 4,792/10 |
-| Criollo cocoa Genome Version 2 | Cocoa Genome Hub/NCBI | Genome Criollo V2 / GCA_000208745.2 | Argout et al. 2017 | 554/10 |
+|        Type of Data set        |          DataBase          |            Name/GeneBank            |          Cita          | contigs/chromosome |
+|:------------------------------:|:--------------------------:|:-----------------------------------:|:----------------------:|:------------------:|
+|          Cacao Matina          | Cacao Genome Database/NCBI |  Cacao genome v0.9 / ALXC00000000.1 | Motamayour et al. 2013 |      1,782/10      |
+| Criollo cocoa Genome Version 1 |    Cocoa Genome Hub/NCBI   |  Genome Criollo V1 / CACC00000000.1 |   Argout et al. 2011   |      4,792/10      |
+| Criollo cocoa Genome Version 2 |    Cocoa Genome Hub/NCBI   | Genome Criollo V2 / GCA_000208745.2 |   Argout et al. 2017   |       554/10       |
+|                                |                            |                                     |                        |                    |
+|                                |                            |                                     |                        |                    |
 
 
 ## Theobroma EST
