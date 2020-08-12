@@ -1,5 +1,5 @@
 
-##DroughtDB_genes
+## DroughtDB_genes
 - Title: Collecting data from DroughtDB
 - Date: Jan 10 2019
 - wd: /media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bioinformatics/data/references/DroughtDB_genes
@@ -15,7 +15,7 @@
 	- Final_CDS_assemble/completeCDS_DroughtDB_194Seqs.fasta
 
 
-##Cacao_genomes
+## Cacao_genomes
 - Title: Cacao_genomes
 - Date: May 2020
 - Wd: /media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bioinformatics/data/references/Cacao_genomes
@@ -33,7 +33,7 @@
 | Criollo cocoa Genome Version 2 | Cocoa Genome Hub/NCBI | Genome Criollo V2 / GCA_000208745.2 | Argout et al. 2017 | 554/10 |
 
 
-##Theobroma EST
+## Theobroma EST
 - Title: Collecting EST libraries from Argout et al. 2008
 - Date: 23 June 2020 - 10 July 2020
 - Wd: /media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bioinformatics/data/references/Theobromac_EST
