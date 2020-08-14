@@ -2,6 +2,7 @@
 
 - Connect faster (after editing ssh config file see 3. below):
 	`ssh gruffalo`
+- Logout `exit`
 
 1. Credentials
 User login: ncontrer

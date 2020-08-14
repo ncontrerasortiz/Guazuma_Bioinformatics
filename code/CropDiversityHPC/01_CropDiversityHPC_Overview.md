@@ -11,6 +11,10 @@ Department Number: rbge
 - Slurm: https://help.cropdiversity.ac.uk/slurm-overview.html
 - Slurm policy: https://help.cropdiversity.ac.uk/slurm-policy.html
 
+### Gruffalo
+you should only use the head node (gruffalo) for tasks such as job submission and monitoring - it doesn’t have the resources available to support heavy workloads.
+All data analysis programs and computational workloads must be run using Slurm. 
+
 ### Slurm
 Cluster jobs are managed using the Slurm Workload Manager (https://slurm.schedmd.com/). All data analysis programs and computational workloads must be run using Slurm. You should only use the head node (gruffalo) for tasks such as job submission and monitoring
 - Slurm is responsible for accepting, scheduling, dispatching, and managing the execution of jobs submitted to the cluster.

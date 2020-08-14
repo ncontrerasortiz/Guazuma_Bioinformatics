@@ -1,4 +1,6 @@
 04_CropDiversityHPC_Slurm_comm.md
+Connect `ssh gruffalo`
+Logout `exit`
 
 # Getting around Slurm: 
 This is for data analysis (not Gruffalo)
@@ -14,7 +16,7 @@ All nodes (except Cortana) actual CPU count is doubled: 64 ‘CPUs’ are availa
 - Complete overview: https://help.cropdiversity.ac.uk/slurm-overview.html
 
 ## File directories
-Never write temporary/intermediate working data (should be in Scratch) to a backed up area.
+Temporary/intermediate working data should be in Scratch, not in a backed up area.
 
 - `mnt/shared/home/ncontrer`
 	Backep up: yes
@@ -29,8 +31,7 @@ Never write temporary/intermediate working data (should be in Scratch) to a back
 	Backep up: no
 	Shortcut: `$APPS`
 	- for **all** downloaded (ie external) software applications – either in binary or compiled-from-source form.
-	- Bioconda uses `$APPS/conda`
-
+	
 
 ### Scratch areas
 The contents are automatically erased when the job ends, so you must copy any files you need to keep back to somewhere on shared storage as the final step in your job script.
@@ -39,6 +40,7 @@ The contents are automatically erased when the job ends, so you must copy any fi
 	Backep up: no
 	Shortcut: `$SCRATCH`
 	- For large throwaway files which either do not need to be kept or can easily be regenerated. good for parallel access to large data files.
+
 - Local scratch `/mnt/shared/scratch/ncontrer`
 	Backep up: no
 	Shortcut: `$TMPDIR`
@@ -105,24 +107,21 @@ The submitted script is run multiple times in parallel.
 
 - Produce a separate `.out` file for each task: if job had an ID of 25000, output files called `slurm-25000_0.out`, `slurm-25000_1.out` and so on.
 
-## Allocating resources
-Request different resources by passing additional parameters.
 
-### Queues CPU and memory
-Can request different resources by passing additional parameters to Slurm. Check https://help.cropdiversity.ac.uk/slurm-policy.html before allocating more resources.
-- `short` queue with 8 CPUs and 16 GB of memory
-	- interactive job
-`$ srun --partition=short --cpus-per-task=8 --mem=16G --pty bash`
-	- batch job
+## Transfer files
 
-### GPU resources
-see https://help.cropdiversity.ac.uk/gpu.html for details
-`#!/bin/bash
-#SBATCH --partition=short
-#SBATCH --cpus-per-task=8
-#SBATCH --mem=16G
-echo "CPUs available: $SLURM_CPUS_PER_TASK"
-`
+- `scp` Creates a copy, if using `-r` option copies entire directories and its contents.
+	From Local computer terminal use the commands:
+
+	- Local client --> `gruffalo`
+	`$ scp -r /path/to/source ncontrer@gruffalo.cropdiversity.ac.uk:/path/to/destination`
+		Test: `scp /home/naco/test.txt ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/.`
+
+	- `gruffalo` --> local client
+	`$ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/path/to/source /path/to/destination`
+		Test: `scp ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/test1.txt /home/naco/.`
+
+- Synchronizes files and folders between a source and a destination `rsync` check docs for use.
 
 
 ## Cancelling a job
@@ -155,3 +154,22 @@ These options can either be given on the command line alongside srun and sbatch 
 
 - Submitting binaries: run a simple binary command, use  `--wrap`, rather than creating a script.
 	`$ sbatch --wrap "pigz hugefile.txt"`
+
+
+## Allocating resources
+Request different resources by passing additional parameters.
+
+### Queues CPU and memory
+Can request different resources by passing additional parameters to Slurm. Check https://help.cropdiversity.ac.uk/slurm-policy.html before allocating more resources.
+- `short` queue with 8 CPUs and 16 GB of memory
+	- interactive job
+	`$ srun --partition=short --cpus-per-task=8 --mem=16G --pty bash`
+	- batch job
+	`#!/bin/bash
+	#SBATCH --partition=short
+	#SBATCH --cpus-per-task=8
+	#SBATCH --mem=16G
+	echo "CPUs available: $SLURM_CPUS_PER_TASK"`
+
+### GPU resources
+see https://help.cropdiversity.ac.uk/gpu.html for details
