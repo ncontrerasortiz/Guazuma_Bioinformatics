@@ -2,12 +2,12 @@
 
 ## Connecting to Crop Diversity server
 - Title: Crop Diversity setting up
-- Date: 14-15 August
+- Date: 14 August
 - Wd: /media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bioinformatics/code/CropDiversityHPC
 - What/Why: Instructions, keys and passwords for connecting to Crop Diversity. Cluster to perform further bioinformatic analysis
 - Further docs: In wd files
-- Code: in code folder
-- Results: still on process
+- Code: in code folder, credentials and instructions
+- Results: Connected remotely
 
 ## Connecting to TobyG1
 - Title: getting credentials for Toby G1
