@@ -1,6 +1,8 @@
+# Gathering and filtering reference data from data bases
+
 
 ## DroughtDB_genes
-- Title: Collecting data from DroughtDB
+- Title: Collecting data from DroughtDB data base
 - Date: Jan 10 2019
 - wd: /media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bioinformatics/data/references/DroughtDB_genes
 - What/Why: Collecting genes from the DroughtDB Database for adaptive genomic variation in Guazuma. This list of genes will be used to design baits in Guazuma, and as related to Drought the allelic variation will be analysed in relation with environ data.
@@ -16,7 +18,7 @@
 
 
 ## Cacao_genomes
-- Title: Cacao_genomes
+- Title: Collecting cacao genomes from data bases
 - Date: May 2020
 - Wd: /media/storage/OneDrive - University of Edinburgh/onedrive_storage/Guazuma/Genomics/Bioinformatics/data/references/Cacao_genomes
 - What/Why: Collecting cacao genomes from different databases
