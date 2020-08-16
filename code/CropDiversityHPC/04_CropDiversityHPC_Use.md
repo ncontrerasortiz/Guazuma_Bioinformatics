@@ -1,6 +1,8 @@
 04_CropDiversityHPC_Slurm_comm.md
 Connect `ssh gruffalo`
 Logout `exit`
+local key: `natalicon1`
+Random password: 4Gz}f&qIZP?XKP|YRn0N;2
 
 # Getting around Slurm: 
 This is for data analysis (not Gruffalo)
