@@ -37,7 +37,7 @@ anonftp@ftp.ncbi.nlm.nih.gov:/<files to transfer> <local destination>
 - ENA
 ascp -i /mnt/shared/apps/aspera/3.9.2/etc/asperaweb_id_dsa.openssh -k1 -Tr –l100m era-fasp@fasp.sra.ebi.ac.uk:/<files to transfer> <local destination>
 
- typical download speeds I have observed are 100–500Mbps
+ typical download speeds observed are 100–500Mbps
 
 - -i <asperaweb_id_dsa.openssh with path> = fully qualified path & file name where this public key file is located. This file is part of Aspera Connect distribution and is usually located in the ‘etc’ subdirectory.
 - –T to disable encryption
