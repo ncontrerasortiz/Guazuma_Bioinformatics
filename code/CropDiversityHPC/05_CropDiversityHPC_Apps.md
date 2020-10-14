@@ -26,7 +26,7 @@ Usage: ascp [OPTION] SRC... DEST
           SRC, DEST format: [[user@]host:]PATH
 
 
-## Download files using Aspera
+#### Download files using Aspera
 
 ascp -i <asperaweb_id_dsa.openssh with path> -k1 -Tr –l100m anonftp@ftp.ncbi.nlm.nih.gov:/<files to transfer> <local destination>
 
@@ -45,7 +45,7 @@ ascp -i /mnt/shared/apps/aspera/3.9.2/etc/asperaweb_id_dsa.openssh -k1 -Tr –l1
 - –r recursive copy
 - –l (maximum bandwidth of request, try 100M and go up from there)
 
-### Data download
+#### Data download
 1. see https://www.michaelgerth.net/news--blog/how-to-efficiently-bulk-download-ngs-data-from-sequence-read-databases
 
 2. code from https://www.biostars.org/p/325010/ to print list of commands for many SRA (accessions list download from ENA fields Study Accession, FASTQ files (FTP) and Experiment title). Accessions.txt is tab separated. As you'll see in case of paired-end data, the paths to the two mate fastq files in accessions.txt are separated by semicolon, which we take into account.

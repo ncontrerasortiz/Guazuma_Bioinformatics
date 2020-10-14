@@ -1,3 +1,3 @@
 - CropDiversityHPC: code and connection to this cluster
 - TobyG1: code and connection to this cluster
-- Cheat_sheets: code and shortcuts that I can forget (Jupyter, markdown, GitHub)
+- Cheat_sheets: code and shortcuts that I can forget (Jupyter, markdown, GitHub, general bash)

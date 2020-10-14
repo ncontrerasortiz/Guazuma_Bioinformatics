@@ -99,3 +99,11 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+### Paragraph
+
+<p>To create paragraphs, use a blank line to separate one or more lines of text. Don't add tabs or spaces in front of paragraphs. 
+
+### Line breaks
+
+First line with the HTML tag after.<br>And the next line.

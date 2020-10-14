@@ -5,20 +5,23 @@
 - Wd:
 - What/Why:
 - Further docs:
-- Code:
+- Code: what code used and where is it
 - Results:  
 
 
-### Current work as for (21 July 2020)
-- MR Bait: Jupyter notebook in /code
-### Current work as for (4 Aug 2020)
+# Current work
+- Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
+	- download paftol filtered data: install ok, download ok, running scripts ok
+	- do the blast: Select query etc
+	- select and reciprocal
+
+
 
 ## to do next:
-### Download de 200 ind wgs in gruffalo using Aspera
-Job ID: slurm-140139.out 
 
 ### Run phyluce in Crop Diversity server
 1. download NCBI data
 2. run phyluce pipeline
 
 ### Blast protein for DroughtDB Genes
+

@@ -3,7 +3,7 @@
 - Connect faster (after editing ssh config file see 3. below):
 	`ssh gruffalo`
 - Logout `exit`
-local key: `natalicon1`
+local key (password): `natalicon1`
 Random password: 4Gz}f&qIZP?XKP|YRn0N;2
 
 1. Credentials

@@ -8,4 +8,6 @@
 	- see `Guazuma/Genomics/Bioinformatics/code/CropDiversityHPC/06_CropDiv(...)_2009Ind_download.md`
 	-In HPC:  `/mnt/shared/projects/rbge/Guazuma/200WG_cacao/slurm-140139.out` 
 - Code: sbatch in HPC, job 140139 
-- Results: Download (in progress)
+- Results: Download finished
+
+Next: sequences are pair reads (two-three seq per accession), have to figure how to treat this data, before analysis
