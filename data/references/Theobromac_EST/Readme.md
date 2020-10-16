@@ -3,3 +3,5 @@
 - **CU469588-CU633156_all.fasta** File containing the whole EST dataset from Argout et al 2008
 - **/Libraries_filtered**: Folder containing the libraries from relevant tissues (leave and shoot) and treatments (droughtLeaves + DroughtRoot).
 - **Database_filtering.IPYNB**: Jupyter notebook explaining how the librarie filtering was done
+
+- EST_leavCortexStem: Merged file of leaves, cortex, stem, drought and not 

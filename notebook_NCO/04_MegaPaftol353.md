@@ -13,14 +13,18 @@
 <p> See also notes in `Guazuma/Genomics/Bioinformatics/code/CropDiversityHPC/XX_CropHPC_MegaPaftol353.md`
 
 - Code: Instructions in NT repository and `code/` 
-- Results: Filtered targets contain Malvaceae and Malvales
+- Results: Filtered targets contain Malvaceae and Malvales + Default Angiosperms353
 
-	- Malvaceae (5325 targets)
-<p>WYIG,Dombeya burgessiae: 190
-<p>OLXF,Hibiscus cannabinus: 189
-<p>ZSAB,Hoheria angustifolia: 171
+	- Angiosperms353: 4778 sequences
+	- Malvales: 1215 seqs
+	- Malvaceae: 547 seqs
 
-	- Malvales (6540 targets)
+	- Malvaceae + Angiosperms 353 = 5325 targets
+<p>WYIG,Dombeya burgessiae: 190 seq
+<p>OLXF,Hibiscus cannabinus: 189 seq
+<p>ZSAB,Hoheria angustifolia: 171 seq
+
+	- Malvales + Angiosperms 353 = 6540 targets
 <p>KPTE,Bixaceae,Bixa orellana
 <p>PKMO,Cistaceae,Cistus inflatus:
 <p>WYIG,Malvaceae,Dombeya burgessiae
@@ -32,6 +36,4 @@
 <p>AWJM,Thymelaeaceae,Edgeworthia papyrifera
 <p>QJXB,Thymelaeaceae,Wikstroemia indica
 
-		- Angiosperms353: 4778 sequences
-		- Malvales: 1215 seqs
-		- Malvaceae: 547 seqs
+
