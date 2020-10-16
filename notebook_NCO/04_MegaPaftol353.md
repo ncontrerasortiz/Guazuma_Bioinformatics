@@ -3,7 +3,7 @@
 - Date: 14 Oct 2020
 
 - Wd: CropHPC `/mnt/shared/scratch/ncontrer/apps/NewTargets`
-- What/Why: Subsampling MegaPaftol353 file in CropHPC, to be used for target selection for bait design in T. cacao. Filters applied:
+- What/Why: Subsampling MegaPaftol353 (New Targets 353) file in CropHPC, to be used for target selection for bait design in T. cacao. Filters applied:
 	- Malvaceae
 	- Malvales
 <p>In addition to the chosen samples, all sequences from the default353 target file are retained.

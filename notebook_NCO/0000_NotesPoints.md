@@ -12,8 +12,9 @@
 # Current work
 - Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
 	- download paftol filtered data: install ok, download ok, running scripts ok
-	- do the blast: Select query etc
-	- select and reciprocal
+	- do the blast: Select query etc ok
+	- do reciprocal blast ok
+	- select/compare sequences that get best bitscore
 
 
 
