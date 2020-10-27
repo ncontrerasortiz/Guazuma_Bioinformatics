@@ -6,7 +6,7 @@
 	<p>Output files in `/exploratory/RecipBestBlastHits/blast1`:
 
 - What/Why: Finding orthologs for target selection and further bait design, using Cacao datasets
-	1. blast1: db is NewTargets_Malvaceae vs. query is T. cacao CDS genome and the reciprocal (otherway)
+	1. blast1: db is NewTargets_Malvaceae vs. query is T. cacao CDS genome and the reciprocal (otherway): e value 1-80
 
 - Further docs:
 
