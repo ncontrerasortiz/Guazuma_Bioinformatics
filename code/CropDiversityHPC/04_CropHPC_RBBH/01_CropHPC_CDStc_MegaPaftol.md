@@ -1,7 +1,7 @@
-#Blastn
+#Reciprocal Best Blastn Hits
 
 ###BLAST
-- Database (subject): NewTargets_Malvaceae
+- Database (subject): NewTargets_Malvaceae (MegaPaftol with Malvaceae)
 - Query: T. cacao CDS genome
 
 1. Setting up and organizing the files/folders in `$SCRATCH /private`
@@ -37,21 +37,23 @@
 ###Find RBH
 Using the script `findRBH.sh` from `https://morphoscape.wordpress.com/2020/08/18/reciprocal-best-hits-blast-rbhb/` to identify the RBH:
 
-1. Create folder with `outfmt6`
+1. Create folder with `outfmt6` files
 - Blast
 <p>`blastn_malvNewt353_e80_tab.out`
 - Reciprocal
 <p>`blastn_CDSNewt_e80_tab.out`
 
 2. Modify Query and DB path in `findRBH.sh`:
-`queryPath="PATH/TO/outfmt6_Blast"`
+`queryPath="PATH/TO/outfmt6_Blast"` and
 `dbPath="PATH/TO/outfmt6_Reciprocal"`
 
 3. Set execute permission on script and run 
-`chmod +x findRBH.sh`
-`./findRBH.sh`
+$`chmod +x findRBH.sh`
+$`./findRBH.sh`
 
 4. Output files:
-	`blast_RBH_summary.txt`:
-	`blast_RBH.txt`:
+	<p>`blast_RBH_summary.txt`: statistics about the RBH
+		- queryHits,dbHits,bestHits
+	<p>`blast_RBH.txt`:RBH for the reciprocal BLAST
 
+`bestHits` in `blast_RBH_summary.txt` must be the same (minus 1 for headers) number as when running `wc -l blast_RBH.txt` to count number of lines.

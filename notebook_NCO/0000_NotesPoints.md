@@ -15,6 +15,8 @@
 	- do the blast: Select query etc ok
 	- do reciprocal blast ok
 	- find RBH using script OK
+	AQUI VOY
+	- Understand find RBH results, does it take bitscores?
 	- Pull out the sequences and what to do with them
 
 
