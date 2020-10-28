@@ -14,7 +14,8 @@
 	- download paftol filtered data: install ok, download ok, running scripts ok
 	- do the blast: Select query etc ok
 	- do reciprocal blast ok
-	- select/compare sequences that get best bitscore
+	- find RBH using script OK
+	- Pull out the sequences and what to do with them
 
 
 
