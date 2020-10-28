@@ -1,0 +1,2 @@
+queryHits,dbHits,bestHits
+1803,1799,1794
