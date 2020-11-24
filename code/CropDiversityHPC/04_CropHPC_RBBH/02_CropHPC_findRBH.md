@@ -1,24 +1,29 @@
 
 ###Find RBH script
-Using the script `findRBH.sh` from `https://morphoscape.wordpress.com/2020/08/18/reciprocal-best-hits-blast-rbhb/` to identify the RBH:
+Using the script `findRBH.sh` from `https://morphoscape.wordpress.com/2020/08/18/reciprocal-best-hits-blast-rbhb/` to identify the RBH.
+
+*Overview*: This scripts takes the first best hits from blast search (that actually uses the e-value and score to )
 
 1. Create folder with `outfmt6` files
+
 - Blast
 <p>`blastn_Blast_eval.outfmt6`
+
 - Reciprocal
 <p>`blastn_Reciprocal_e80.outfmt6`
 
 2. Modify Query and DB path in `findRBH.sh`:
-`queryPath="PATH/TO/outfmt6_Blast"` and
-`dbPath="PATH/TO/outfmt6_Reciprocal"`
+- `queryPath="PATH/TO/outfmt6_Blast"` and
+- `dbPath="PATH/TO/outfmt6_Reciprocal"`
 
 3. Set execute permission on script and run 
-$`chmod +x findRBH.sh`
-$`./findRBH.sh`
+- permissions: `chmod +x findRBH.sh`
+- run: `./findRBH.sh`
 
 4. Output files:
 	<p>`blast_RBH_summary.txt`: statistics about the RBH. include the number of reciprocal best hits, in addition to the number of hits found for each of the species against the other.
 		- queryHits,dbHits,bestHits
+		
 	<p>`blast_RBH.txt`:RBH for the reciprocal BLAST
 		- queryHit,dbHit
 

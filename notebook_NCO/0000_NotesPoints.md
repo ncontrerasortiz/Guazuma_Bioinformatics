@@ -15,10 +15,15 @@
 	- do the blast: Select query etc ok
 	- do reciprocal blast ok
 	- find RBH using script OK
+
 	AQUI VOY
-	- Understand find RBH results, does it take bitscores?
+	- Re run OK Blast using max-target-seq 1 and findRBH, pero falta entender. (see /code/CropDiversityHPC/04_CropHPC_RBBH/*, para completar notas*)
+
 	- Pull out the sequences and what to do with them
 
+
+For git next commit is
+	- blast max_target_seqs 1 and findRBH
 
 
 ## to do next:

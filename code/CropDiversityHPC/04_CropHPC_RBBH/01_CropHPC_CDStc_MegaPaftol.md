@@ -1,6 +1,6 @@
 #Reciprocal Best Blastn Hits
 
-###BLAST
+###BLAST (first using blast 2.5, then blast 2.10)
 - Database (subject): NewTargets_Malvaceae (MegaPaftol with Malvaceae)
 - Query: T. cacao CDS genome
 
@@ -19,6 +19,12 @@
 5. `exit` interactive job
 6. Download `blastn_malvNewt353_e80_tab.out` and adding column headings according to How to's in CropHPC for `CropHPC_Blast.md`
 
+7. Running Blast 2.10 again but using `max-target-seq 1` to get ....**Still have to read the paper*** so analysis was just run...as
+
+- Blast:
+ `blastn -db malvaceae_targetfile.fasta  -query Theobroma_cacaoV2_annot_cds.fasta -out blast_NewtargTcacao.outfmt6 -evalue 1e-80 -max_target_seqs 1 -outfmt 6`
+
+
 
 ###Reciprocal Blast
 - Database (subject): T. cacao CDS genome
@@ -34,26 +40,25 @@
 5. `exit` interactive job
 6. download file `blastn_CDSNewt_e80_tab.out`
 
-###Find RBH
-Using the script `findRBH.sh` from `https://morphoscape.wordpress.com/2020/08/18/reciprocal-best-hits-blast-rbhb/` to identify the RBH:
+7. running version 2.10
 
-1. Create folder with `outfmt6` files
-- Blast
-<p>`blastn_malvNewt353_e80_tab.out`
-- Reciprocal
-<p>`blastn_CDSNewt_e80_tab.out`
+- Reciprocal:
+ `blastn -db Theobroma_cacaoV2_annot_cds.fasta -query malvaceae_targetfile.fasta -out blast_NewtargTcacao_reciprocal.outfmt6 -evalue 1e-80 -max_target_seqs 1 -outfmt 6`
+
+###Find RBH
+See 02_CropHPC_findRBH
+
+1. Create folder with `outfmt6Blast` and `outfmt6Reciprocal` files
 
 2. Modify Query and DB path in `findRBH.sh`:
-`queryPath="PATH/TO/outfmt6_Blast"` and
-`dbPath="PATH/TO/outfmt6_Reciprocal"`
 
-3. Set execute permission on script and run 
-$`chmod +x findRBH.sh`
-$`./findRBH.sh`
+4. Output files 
+	A. Results from blast 2.5
+	- `blast_RBH_summary.txt` and `blast_RBH.txt`
 
-4. Output files:
-	<p>`blast_RBH_summary.txt`: statistics about the RBH
-		- queryHits,dbHits,bestHits
-	<p>`blast_RBH.txt`:RBH for the reciprocal BLAST
-
-`bestHits` in `blast_RBH_summary.txt` must be the same (minus 1 for headers) number as when running `wc -l blast_RBH.txt` to count number of lines.
+	B. Run again using blast and reciprocal (blastn 2.10)
+	- `blast_NewtargTcacao.outfmt6`
+	- `blast_NewtargTcacao_reciprocal.outfmt6`
+	findRBH
+	- `blast_NewtargTcacao_RBH_summary.txt`
+	- `blast_NewtargTcacao_RBH.txt`

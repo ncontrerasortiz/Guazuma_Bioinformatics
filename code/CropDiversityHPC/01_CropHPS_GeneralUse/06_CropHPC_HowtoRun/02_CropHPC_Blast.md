@@ -43,3 +43,9 @@
  11. evalue: expect value
  12. bitscore: bit score
 
+5. Updating Blast to newest version (above 2.8 for bug fixing see https://academic.oup.com/bioinformatics/article/35/15/2699/5259186)
+- Check current version: `conda list`
+- remove old Blast: `conda remove blast` and `conda clean`
+- install newest available version: `conda install blast=2.10.1`
+
+6. Running blast with `-max_target_seqs N` (only for Blast above 2.8): number of align seqs to keep. Blast will return only N most significant database hits.

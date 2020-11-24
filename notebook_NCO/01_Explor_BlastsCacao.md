@@ -6,6 +6,7 @@
 - Further docs: in folder
 - Code: No code, Blast data base web
 - Results: see folder. But results not very useful for me...not clear. More than half of the sequences have coverage above 70%, so I would say it is good as several of these genes are present in cacao. 
+For this test I didn't pay attention to the query-subject for the reciprocal blast, so was doing it wrong...
 
 ## Blast+ DroughtDB vs Cacao data
 - Title: Blast_Droug_Cacao

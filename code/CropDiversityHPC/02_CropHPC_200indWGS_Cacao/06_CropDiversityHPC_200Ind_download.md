@@ -45,7 +45,7 @@ echo "Job finished"
 6. Files stored in: `/mnt/shared/projects/rbge/Guazuma/200WG_cacao
 `
 
-7. Count number of files in `/mnt/shared/projects/rbge/Guazuma/200WG_cacao`
+7. Count number of files
 	- Count completed jobs in slurm:
 	`fgrep -o Completed slurm-144182.out | wc -l`
 
