@@ -15,14 +15,17 @@
 	- do the blast: Select query etc ok
 	- do reciprocal blast ok
 	- find RBH using script OK
+	- Re run OK Blast using max-target-seq 1 and findRBH
+	- Pull out the sequences into separate files Ok
 
 	AQUI VOY
-	- Re run OK Blast using max-target-seq 1 and findRBH, pero falta entender. (see /code/CropDiversityHPC/04_CropHPC_RBBH/*, para completar notas*)
+	
+	- Align, using what? revisar qué otra cosa usar
+		Mafft: (https://www.frontiersin.org/articles/10.3389/fpls.2018.01941/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Plant_Science&id=431757#h3)
 
-	- Pull out the sequences and what to do with them
 
 
-
+next git commit -m "aligning RBH sequences"
 
 ## to do next:
 

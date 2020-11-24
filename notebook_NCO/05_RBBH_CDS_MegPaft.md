@@ -14,7 +14,7 @@
 		
 		B. find RBH using script to get Reciprocal Best Hits list
 		
-		C. Re-run using blast 2.10 `max-target-seq 1`: Blast will return only the first most significant database hits
+		C. Re-run using blast 2.10 `max-target-seq 1`: Blast will return only the first most significant database hits (blast_NewtargTcacao)
 	
 
 - Further docs:
@@ -22,17 +22,18 @@
 - Code used: 
 	- `/code/CropDiversityHPC/04_CropHPC_RBBH/*`: for procedure, how to and scripts
 	- `code/CropDiversityHPC/01_CropHPS_GeneralUse/06_CropHPC_HowtoRun/02_CropHPC_Blast.md`: How to run BLAST in cropHPC
+	- 
 
 - Results:  In `/exploratory/RBBH/blast1` **falta completar re run of blast 2.10**
 
-	1. Blast results `outfmt6`
+	1. Blast results `outfmt6`: from Blast 2.5, retrieving all best hits.
 		- Blast: db Newtargets, query TcacaoCDS
 			<p>`blastn_malvNewt353_e80_tab.out`
 		- Reciprocal: db TcacaoCDS, query Newtargets
 			<p>`blastn_CDSNewt_e80_tab.out`
 
 
-	2. `findRBH.sh` results 
+	2. `findRBH.sh` results (see below * ) 
 
 		A. Blast 2.5, retrieving all hits
 			- `blast_RBH_summary.txt` and `blast_RBH.txt`
@@ -44,4 +45,12 @@
 			- `blast_NewtargTcacao_RBH_summary.txt`
 				<p>queryHits,dbHits,bestHits
 				<p>567,1081,335
-			- `blast_NewtargTcacao_RBH.txt`
+			- `blast_NewtargTcacao_RBH.txt`: reciprocal best hits list = 335
+
+* A test was done and Blast 2.5 and 2.10 retrieve the same data when not setting # of max seqs to retrieve, i.e. retrieving all the hits. They give same # of RBH at the end.
+
+	3. Extract list of query and db best hits from the big fasta files and align:
+		- `dbhits.fasta`: 344 seqs ???
+		- `queryhits.fasta`: 335 seqs
+
+	4. Align sequences...
