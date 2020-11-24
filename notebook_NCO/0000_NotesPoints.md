@@ -1,4 +1,4 @@
-### Template for task overview
+### Notebook Template for task overview
 
 - Title:
 - Date:
@@ -22,8 +22,6 @@
 	- Pull out the sequences and what to do with them
 
 
-For git next commit is
-	- blast max_target_seqs 1 and findRBH
 
 
 ## to do next:
