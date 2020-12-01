@@ -1,4 +1,4 @@
-### Extract sequences retrieve from findRBH lists
+### Extract sequences retrieved from findRBH lists
 
 1. Where: `/home/ncontrer/scratch/private/alignRBH/extractRBHlist`
  	- `blast_NewtargTcacao_RBH.txt`: List of reciprocal best hits RBH, query and db (335)
@@ -16,7 +16,15 @@
 
 	3. count sequences
 		`grep ">" file.fasta | wc -l`
-			- `dbhits.fasta`: 344 ???
+			- `dbhits355.fasta`: 344 ???* ; `dbhits.fasta`: 335 seqs
+
+				- * To solve this:
+					1. Extract fasta seqs names
+					2. then use `cat ddbhits.txt dbhits.txt dbhitsfasta345.txt| sort | uniq -u` to look for items different in original list
+					3. to delete the unwanted sequences`awk 'BEGIN{while((getline<"todelete_dbhits344fasta.txt")>0)l[">"$1]=1}/^>/{f=!l[$1]}f' dbhits.fasta | tee dbhits.fasta`
+
 			- `queryhits.fasta`: 335
 		
+
+
 

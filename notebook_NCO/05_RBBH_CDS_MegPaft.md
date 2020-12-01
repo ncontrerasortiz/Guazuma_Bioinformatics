@@ -17,7 +17,9 @@
 		C. Re-run using blast 2.10 `max-target-seq 1`: Blast will return only the first most significant database hits (blast_NewtargTcacao)
 	
 
-- Further docs:
+- Backups:
+		- output files: HPCCropDiversity: mnt/shared/projects/rbge/Guazuma/exploration/RBBH1
+		- code Github
 
 - Code used: 
 	- `/code/CropDiversityHPC/04_CropHPC_RBBH/*`: for procedure, how to and scripts
@@ -50,7 +52,9 @@
 * A test was done and Blast 2.5 and 2.10 retrieve the same data when not setting # of max seqs to retrieve, i.e. retrieving all the hits. They give same # of RBH at the end.
 
 	3. Extract list of query and db best hits from the big fasta files and align:
-		- `dbhits.fasta`: 344 seqs ???
-		- `queryhits.fasta`: 335 seqs
+		- `dbhits.fasta`: 344 seqs ??? why less??, fixed with extra filtering
+		- `queryhits.fasta`: 335 seqs Ok used
 
-	4. Align sequences...
+	4. Align sequences using Mafft v7.471
+		- Ginsi: global aln
+		- Linsi: local aln

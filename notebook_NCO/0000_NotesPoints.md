@@ -8,6 +8,14 @@
 - Code: what code used and where is it
 - Results:  
 
+# Fast cmds
+
+Run interactive Job:
+ srun --pty bash
+
+Gruffalo to local
+ $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/scratch/private/alignRBH/extractRBHlist/dbhits* .
+
 
 # Current work
 - Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
@@ -20,18 +28,7 @@
 
 	AQUI VOY
 	
-	- Align, using what? revisar qué otra cosa usar
-		Mafft: (https://www.frontiersin.org/articles/10.3389/fpls.2018.01941/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Plant_Science&id=431757#h3)
+	- aligning using local (linsi) and global Ginsi in mafft: Entender cuále es mejor o peor.. parece que Linsi sería mejor según (https://academic.oup.com/mbe/article/33/7/1875/2579186) Considerar usar Mr bait o Baitfisher?
 
 
-
-next git commit -m "aligning RBH sequences"
-
-## to do next:
-
-### Run phyluce in Crop Diversity server
-1. download NCBI data
-2. run phyluce pipeline
-
-### Blast protein for DroughtDB Genes
-
+next git commit -m "aligning RBH sequences using mafft"
