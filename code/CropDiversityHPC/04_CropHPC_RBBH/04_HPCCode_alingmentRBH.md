@@ -9,7 +9,7 @@
 	- sbatch mafftAln.sh, (4) Fasta format / Input order
 		1. Strategy G-INS-i (Very slow; recommended for <200 sequences with global homology) Global
 			- Command:
-				`"/mnt/shared/scratch/ncontrer/apps/conda/bin/mafft"  --globalpair --maxiterate 16 --inputorder "combined_dbqueryhits.fasta" > "comb_dbqueryhits_aln.fasta"`
+				`"/mnt/shared/scratch/ncontrer/apps/conda/bin/mafft"  --globalpair --maxiterate 16 --inputorder "combined_dbqueryhits.fasta" > "combined_dbqueryhits_G-INS-i.fasta"`
 				- slurm-292545.out
 		2. Strategy FFT-NS-2 (Fast; progressive method)
 			- Command: `"/mnt/shared/scratch/ncontrer/apps/conda/bin/mafft"  --retree 2 --inputorder "combined_dbqueryhits.fasta" > "combined_dbqueryhits_FFT-NS-2.fasta"`
@@ -17,6 +17,7 @@
 		3. Strategy L-INS-i (Very slow; recommended for <200 sequences with one conserved domain and long gaps). Input seqs are assumed to have only one alignable domain. Local
 			- Command: `"/mnt/shared/scratch/ncontrer/apps/conda/bin/mafft" --localpair  --maxiterate 16 --inputorder "combined_dbqueryhitscopy.fasta" > "combined_dbqueryhits_L-INS-i.fasta"`
 				- Submitted batch job 292837
+		4.  Strategy L-INS-i: But align query RBBH to T. cacao genome (query)???
 
 
 

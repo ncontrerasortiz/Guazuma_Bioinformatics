@@ -28,4 +28,7 @@
 - Print duplicates in a list
 `sort File.txt | uniq -cd`
 
+- unzip files
+`unzip filename.zip`
+
 
