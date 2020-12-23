@@ -1,0 +1,129 @@
+#Install software needed
+conda install -c bioconda fastqc
+conda install -c bioconda trimmomatic
+conda install -c bioconda cutadapt
+conda install -c bioconda bowtie2
+
+# useful bits
+#to check beginning an end of zipped files
+zcat myfile.gz | head -3
+zcat myfile.gz | tail -3
+
+#to keep processes running if connection drops - use either of:
+screen  https://linuxize.com/post/how-to-use-linux-screen/
+tmux  https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+
+#fastqc on raw reads:
+fastqc ~/projects/rbge/Inga/Inga_umb_1932_col/NEB_Lib11a+/150529_M01270_0107_000000000-AE4YU_1_NB-TP-007_*.gz
+
+#trimmomatic on raw reads
+trimmomatic PE -phred33 ~/projects/rbge/Inga/Inga_umb_1932_col/NEB_Lib11a+/150529_M01270_0107_000000000-AE4YU_1_NB-TP-007_1.sanfastq.gz ~/projects/rbge/Inga/Inga_umb_1932_col/NEB_Lib11a+/150529_M01270_0107_000000000-AE4YU_1_NB-TP-007_2.sanfastq.gz output_forward_paired.fq.gz output_forward_unpaired.fq.gz output_reverse_paired.fq.gz output_reverse_unpaired.fq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+
+#fastqc on trimomatic reads:
+fastqc *.fq.gz
+
+#moving all the fastqc output to a folder and downloading to own machine
+mkdir fastqc_output
+mv *.html astqc_output
+mv *.fastqc.zip fastqc_output
+
+#on own machine
+scp -r ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/fastqc_output/ ./fastqc_output/
+
+#running cutadapt on fwd and rev paired files
+cutadapt -a AGATCGGAAGAG -A AGATCGGAAGAG -o tr_R1.fastq -p tr_R2.fastq output_forward_paired.fq.gz output_reverse_paired.fq.gz
+
+fastqc tr_*.fastq
+
+# download fastqc files to own machine
+# on own machine
+scp -r ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/tr_R1_fastqc.zip ./fastqc_output/
+scp -r ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/tr_R2_fastqc.zip ./fastqc_output/
+scp -r ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/tr_R1_fastqc.html ./fastqc_output/
+scp -r ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/tr_R2_fastqc.html ./fastqc_output/
+
+
+#Counting the sequences in the target file
+grep -c ">" Inga_targets.fna
+264
+
+#set up the bowtie2 index
+bowtie2-build Inga_targets.fna Baits
+
+# algin the reads
+bowtie2 --no-unal -x Baits -1 tr_R1.fastq  -2 tr_R2.fastq -S 1932.sam
+
+# a more stringent alignment
+bowtie2 --no-unal --score-min G,320,8 -x Baits -1 tr_R1.fastq  -2 tr_R2.fastq -S 1932_320.sam 2>320_bowtie_out
+
+# convert to bams and sort and index them
+samtools view -bS 1932.sam -t Baits.fna > 1932.bam
+samtools sort 1932.bam -o 1932_sorted.bam
+samtools index 1932_sorted.bam 
+
+samtools view -bS 1932_320.sam -t Baits.fna > 1932_320.bam
+samtools sort 1932_320.bam –o 1932_320_sorted.bam
+samtools index 1932_320_sorted.bam 
+
+# count the reads mapping to each bait
+samtools depth 1932_320_sorted.bam > count
+less count
+
+#view one of the positions in the bam alignment
+samtools tview -p Inga_comp39600_c0_seq2:791 1932_sorted.bam Inga_targets.fna
+
+samtools tview -p Inga_comp39600_c0_seq2:791 1932_320_sorted.bam Inga_targets.fna
+
+#can see the reads algined, the variations from the reference highlighted.  Press "?" to get the key to the symbols.
+
+* gap
+. forward read base matching reference
+, reverse read base matchng reference
+
+Colours show quality of mapping:
+Underline:      Secondary or orphan  
+Blue:    0-9
+Green: 10-19
+Yellow: 20-29
+White: >=30
+
+Arrows     Small scroll movement
+space      Scroll one screen
+backspace  Scroll back one screen
+g          go to specific location
+m          colour by read mapping quality
+c          colour by base
+z          colour by base quality
+.          toggle nucleotides or dots
+q          Exit
+
+#download to own machine
+scp ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/1932_sorted.bam ./
+scp ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/1932_sorted.bam.bai ./
+scp ckidner@gruffalo.cropdiversity.ac.uk:/mnt/shared/scratch/ckidner/Inga/Inga_baits.fna ./
+
+# look at with tablet
+https://ics.hutton.ac.uk/tablet/
+#
+
+#making vcf file
+bcftools mpileup -f Inga_targets.fna 1932_sorted.bam | bcftools call -mv -Ov -o calls.vcf
+
+#summarising the vcf files
+bcftools stats calls.vcf > 1932_var.txt
+bcftools stats stringent_calls.vcf > stringent_1932_var.txt
+
+#Zipping and indexing the files for comparison
+
+bcftools mpileup -f Inga_targets.fna 1932_sorted.bam | bcftools call -mv -Oz -o calls.vcf.gz
+bcftools mpileup -f Inga_targets.fna 1932_320_sorted.bam | bcftools call -mv -Oz -o stringent_calls.vcf.gz
+
+bcftools index -f calls.vcf.gz > calls.vcf.gz.csi
+bcftools index -f stringent_calls.vcf.gz > calls.vcf.gz.csi
+
+# comparing the vcf files
+bcftools stats -c all calls.vcf.gz stringent_calls.vcf.gz > compare_stats
+
+#However, this is not very informative in this case as the stringent mapping was so stringent no varients from the reference has been produced!  Might be more useful when comparing individuals or library types.
+
+

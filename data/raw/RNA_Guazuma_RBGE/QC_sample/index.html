@@ -1,0 +1,472 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html>
+<head>
+	<title> RNA QC Report </title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="src/css/base_detection.css">
+	<link rel="StyleSheet" href="src/js/tree/tree.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="src/js/fancybox/jquery.fancybox-1.3.4.css" media="screen"/>
+	<link rel="stylesheet" href="src/css/style.css"/>
+	<script src="src/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+	<script src="src/js/scrollTop.js" type="text/javascript"></script>
+	<script src="src/js/common.js" type="text/javascript"></script>
+	<script src="src/js/jquery.albumSlider.min.detect.js" type="text/javascript"></script>
+	<script type="text/javascript" src="src/js/tree/tree.js"></script>
+	<script type="text/javascript" src="src/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="src/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	
+	<!--vue-->
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+			 *   Examples - images
+			 */
+
+			$("a#example1").fancybox();
+
+			$("a#example2").fancybox({
+				'overlayShow': false,
+				'transitionIn': 'elastic',
+				'transitionOut': 'elastic',
+				'titlePosition': 'inside',
+				'titleFormat': function (title, currentArray, currentIndex, currentOpts) {
+					return '<div id="fancybox-title-inside">' + title + '</div>';
+//					return '<span id="fancybox-title-inside">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+				}
+			});
+			$("a#example3").fancybox({
+				'transitionIn': 'none',
+				'transitionOut': 'none'
+			});
+
+			$("a#example4").fancybox({
+				'opacity': true,
+				'overlayShow': false,
+				'transitionIn': 'elastic',
+				'transitionOut': 'none'
+			});
+
+			$("a#example5").fancybox();
+
+			$("a#example6").fancybox({
+				'titlePosition': 'outside',
+				'overlayColor': '#000',
+				'overlayOpacity': 0.9
+			});
+
+			$("a#example7").fancybox({
+				'titlePosition': 'inside'
+			});
+
+			$("a#example8").fancybox({
+				'titlePosition': 'over'
+			});
+
+			$("a[rel=example_group]").fancybox({
+				'transitionIn': 'none',
+				'transitionOut': 'none',
+				'titlePosition': 'over',
+				'titleFormat': function (title, currentArray, currentIndex, currentOpts) {
+					return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+				}
+			});
+
+			/*
+			 *   Examples - various
+			 */
+
+			$("#various1").fancybox({
+				'titlePosition': 'inside',
+				'transitionIn': 'none',
+				'transitionOut': 'none'
+			});
+
+			$("#various2").fancybox();
+
+			$("#various3").fancybox({
+				'width': '75%',
+				'height': '75%',
+				'autoScale': false,
+				'transitionIn': 'none',
+				'transitionOut': 'none',
+				'type': 'iframe'
+			});
+
+			$("#various4").fancybox({
+				'padding': 0,
+				'autoScale': false,
+				'transitionIn': 'none',
+				'transitionOut': 'none'
+			});
+		});
+	</script>
+
+	<style media="print">
+		.noprint {
+			DISPLAY: none;
+		}
+	</style>
+
+	<style type="text/css">
+		table {
+			align-self: center;
+			overflow-x: auto;
+			word-break: keep-all;
+			white-space: nowrap;
+			width: 100%;
+		}
+
+		table#LibInfo {
+			text-align: center;
+
+		}
+	</style>
+
+	<div class="noprint">
+		<div style="display: block;" id="goTopBtn">
+			<a class="backtotop" title="回顶部"><img src="src/images/goTop.jpg" width="30" height="30"
+			                                      class="back-tip"/></a>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		function displaySubMenu(li) {
+			var subMenu = li.getElementsByTagName("ul")[0];
+			subMenu.style.display = "block";
+		}
+		function hideSubMenu(li) {
+			var subMenu = li.getElementsByTagName("ul")[0];
+			subMenu.style.display = "none";
+		}
+	</script>
+
+	<script type="text/javascript">
+		var Tree = new Array;
+		// nodeId | parentNodeId | nodeName | nodeUrl
+	</script>
+
+	<script type="text/javascript">
+		$(function () {
+			//纵向，默认，移动间隔2
+			$('div.albumSlider').albumSlider();
+			//横向设置
+			$('div.albumSlider-h').albumSlider({direction: 'h', step: 3});
+		});
+	</script>
+
+	<style type="text/css">
+		table {
+			align-self: center;
+			overflow-x: scroll;
+		}
+	</style>
+
+</head>
+<body>
+
+
+<!---------------------------------------- Menu bar ------------------------------------------>
+<!--<div class="noprint">-->
+<div class="menu">
+	<ul class="main_menu">
+		<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"><a href="#检测报告">Qc Report</a>
+			<ul id="menu_list">
+				<li><a href="#项目信息">Project General Information</a></li>
+				<li><a href="#检测类型">QC Methods</a></li>
+				<li><a href="#样品检测结果">QC Results</a></li>
+				<li><a href="#样品分级标准表">Sample classification standard table</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+
+<!---------------------------------------- 目录 ---------------------------------------------->
+<div>
+	<p><a name="home"><img class="logo" src="src/images/logo.png"/></a></p>
+
+	<p>
+
+	<h1>RNA QC Report</h1>
+
+	<p align="right"><b>Report Date:2020-12-08 15:50:08</b></p>
+	<br/><br/></p>
+	<p class="paragraph">
+	<ul>
+
+		<li><a href="#项目信息">Project General Information</a></li>
+
+		<li><a href="#检测类型">QC Methods</a></li>
+
+		<li><a href="#样品检测结果">QC Results</a></li>
+		<ul class="alt">
+			<div id = "app1">
+				<li  v-show = "aTest"><a href="#检测结果总表">QC Result Summary</a></li>
+				<li  v-show = "bTest"><a href="#琼脂糖凝胶电泳检测结果">Agarose Gel Electrophoresis Results</a></li>
+				<li  v-show = "cTest"><a href="#安捷伦2100检测结果">The Integrity test result picture</a></li>
+			<div>
+		</ul>
+		<li><a href="#样品分级标准表">Sample classification standard table</a></li>
+
+
+	</ul>
+	</ul>
+	</p>
+
+</div>
+
+<!---------------------------------------- 项目信息 ---------------------------------------------->
+
+<div>
+	<p class="head"><a href="#home" title="返回首页"><img class="logo" align="left" src="src/images/logo.png"/></a>
+		<a name="项目信息">Novogene Sample Quality Control Report</a>
+	<hr/>
+	</p><br/>
+
+
+	<h2>1.Project General Information</h2>
+
+
+	<table align="center" border="1" cellpadding="5" cellspacing="0">
+		<tr>
+			<td><p align="center">Project Name </p></td>
+			<td><p align="center">UKI-RBGE-1-mRNA-plant-WOBI-NVUK2020111314</p></td>
+			<td><p align="center">Contract No. </p></td>
+			<td><p align="center">X204SC20113077-Z01</p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Client </p></td>
+			<td><p align="center">Natalia Contreras Ortiz</p></td>
+			<td><p align="center">Institute/Company </p></td>
+			<td><p align="center">Royal Botanic Garden Edinburgh</p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Received By </p></td>
+			<td><p align="center">HAOZEYU</p></td>
+			<td><p align="center">Received Date </p></td>
+			<td><p align="center">2020-12-05</p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Tested By </p></td>
+			<td><p align="center">LIXIAOXU</p></td>
+			<td><p align="center">Test Date </p></td>
+			<td><p align="center">2020-12-06</p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Verified By </p></td>
+			<td><p align="center">LIXIAOXU</p></td>
+			<td><p align="center">Verified Date </p></td>
+			<td><p align="center">2020-12-08</p></td>
+		</tr>
+
+	</table>
+
+	<br><br>
+
+</div>
+
+
+<!---------------------------------------- 检测类型 ---------------------------------------------->
+
+<div>
+	<p class="head"><a href="#home" title="返回首页"><img class="logo" align="left" src="src/images/logo.png"/></a>
+		<a name="检测类型">Novogene Sample Quality Control Report</a>
+	<hr/>
+	</p><br/>
+
+
+	<h2>2.QC Methods</h2>
+
+
+
+	<table align="center" border="1" cellpadding="5" cellspacing="0">
+		<tr>
+			<td colspan="2"><p align="center">Sample Type </p></td>
+			<td><p align="left">&nbsp;&nbsp;&nbsp;□ DNA;<strong>√</strong> RNA;□ smRNA;□ Tissue;□ Library <u> </u>;□ Others<u></u>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="5"><p align="center">Assay Type </p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Sample Quantitation </p></td>
+			<td><p>&nbsp;&nbsp;&nbsp;□ Qubit Fluorometer；□ Agarose Gel Electrophoresis Quantitation；√ Nanodrop；√ Agilent 2100；□ Agilent 5400</p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Sample Integrity </p></td>
+			<td><p>&nbsp;&nbsp;&nbsp;√ Agilent 2100；□ Agarose Gel Electrophoresis；□ Agilent 5400</p></td>
+		</tr>
+		<tr>
+			<td><p align="center">Sample Purity </p></td>
+			<td><p>&nbsp;&nbsp;&nbsp;□ Nanodrop；√ Agarose Gel Electrophoresis；√ Agilent 2100；□ Agilent 5400</p></td>
+		</tr>
+	</table>
+
+
+	<p>&nbsp; </p>
+
+
+</div>
+
+
+<!---------------------------------------- 样品检测结果 ---------------------------------------------->
+
+<div>
+	<p class="head"><a href="#home" title="返回首页"><img class="logo" align="left" src="src/images/logo.png"/></a>
+		<a name="样品检测结果">Novogene Sample Quality Control Report</a>
+	<hr/>
+	</p><br/>
+
+
+	<h2>3.QC Results</h2>
+	<a name="检测结果总表"><h3 id = 'jcjgzb'>3.1 QC Results Summary</h3></a>
+
+	<p>&nbsp;</p>
+	<div style="overflow-x:auto;width:100%;">
+				<table id = "LibInfo" align="center" border="1" cellpadding="5" cellspacing="0"><tr>
+						<th>No.</th>
+						<th>Sample Name</th>
+						<th>Nucleic Acid ID</th><th>Concentration(ng/ul)</th><th>Volume(ul)</th><th>Total amount(ug)</th><th>Integrity value</th><th>Sample QC Results</th><th>Sample QC Memo</th></tr><tr>
+				<td>1</td>
+				<td>2</td>
+				<td>FKRN202443719-1A</td> <td>136</td><td>41.00</td><td>5.57600</td><td>9.90</td><td>Pass</td><td>/</td></tr></table></div>
+	
+	<p>&nbsp;</p>
+
+
+	<p>&nbsp;</p>
+
+	<div style="padding-left: 30px">
+
+<!-- 		<p style="line-height: 150%;"><strong>注</strong>：<br>
+			1. 检测结果和备注是依据诺禾致源DNA/RNA样品判定标准，对被检测样品是否符合要求给出的意见和解释，检测结果类别分类要求如下： <br>
+			A类：样品质量满足建库测序要求，且总量满足2次或者2次以上建库需要 <br>
+			B类：样品质量满足建库测序要求，且总量满足1次但不足2次建库需要 <br>
+			C类：样品质量不完全满足建库测序要求，可以尝试建库 <br>
+			D类：样品质量完全不满足建库测序要求，不建议使用的样品 <br>
+       </p>
+		<p>&nbsp;</p> -->
+
+		<p>&nbsp;</p>
+	</div>
+		<a name="Agarose Gel Electrophoresis Results"><h3 id = 'dyjc'>3.2 Agarose Gel Electrophoresis Results</h3></a>
+	<h4 style="padding-left: 20px">3.2.1 Electrophoresis Condition </h4>
+
+	<p style="padding-left: 30px">
+		GelConc.：1%  Voltage：180v  Run Time：16min
+	</p>
+	<h4 style="padding-left: 20px">3.2.2 Electrophoresis Results </h4>
+	<div class="albumSlider" id="ArgoseAS">
+		<div class="fullview"><img src=''/></div>
+		<div class="slider">
+			<div class="button movebackward" title="向上滚动"></div>
+			<div class="imglistwrap">
+				<ul class="imglist">
+				363118-A.png<li>
+    <a id="example2" href='src/Caliper/363118-A 7D384CEA-FEEE-4968-BDCD-FA0C7DB6A9CD.png' title="">
+    	<img src='src/Caliper/363118-A 7D384CEA-FEEE-4968-BDCD-FA0C7DB6A9CD.png'/>
+	</a>
+</li>				
+				</ul>
+			</div>
+			<div class="button moveforward" title="向下滚动"></div>
+		</div>
+		<div id="theTitle" style="position: absolute;top:465px;width: 100%;text-align: center"></div>
+	</div>
+	 
+	<a name="Agarose Gel Electrophoresis Results"><h3 id = '2100jc'>3.3 The Integrity test result picture</h3></a>
+	<div class="albumSlider" id="ArgoseAS">
+		<div class="fullview"><img src=''/></div>
+		<div class="slider">
+			<div class="button movebackward" title="向上滚动"></div>
+			<div class="imglistwrap">
+				<ul class="imglist">
+				FKRN202443719-1A<li>
+    <a id="example2" href='src/Caliper/FKRN202443719-1A 2BC77B06-038A-4BD7-9A41-C0CDAB3ED34B.png' title="">
+    	<img src='src/Caliper/FKRN202443719-1A 2BC77B06-038A-4BD7-9A41-C0CDAB3ED34B.png'/>
+	</a>
+</li>				
+				</ul>
+			</div>
+			<div class="button moveforward" title="向下滚动"></div>
+		</div>
+		<div id="theTitle" style="position: absolute;top:465px;width: 100%;text-align: center"></div>
+	</div> 
+<br>
+<br>
+
+
+<div>
+	<p class="head"><a href="#home" title="返回首页"><img class="logo" align="left" src="src/images/logo.png"/></a>
+		<a name="样品分级标准表">Novogene Sample Quality Control Report</a>
+	<hr/>
+	</p><br/>
+
+	<style>
+		table#judgeRlue {
+			white-space: normal;
+		  word-break: normal;
+		}
+	</style>
+
+
+
+
+	<h2>4.Sample classification standard table</h2>
+
+
+    
+	</br/>
+	<div style="padding-left: 30px"><p style="line-height: 150%;"><strong>Note</strong>：<br>The test conclusion is a comprehensive evaluation based on Novogene’s sample quality requirements for library preparation and sequencing <br>The test result based on the “RNA Samples QC Criteria”explains whether the testing sample meets the requirement of library construction. <br>a) Pass: The sample is qualified and the library preparation can be prepared regularly;
+            <br>b) Hold: The sample does not totally meet the requirements of library construction and sequencing. Novogene can try to construct library but the sequencing quality is not guaranteed; <br>c) Fail: It is highly recommended for clients to resend the sample or the library could be constructed at high risk and the sequencing quality is not guaranteed (not recommended). <br></p></div>
+
+		
+	<br>
+
+
+</div>
+
+
+
+
+
+<!--Vue-->
+<script>
+a_temp = false;
+b_temp = false;
+c_temp = false;
+if(document.getElementById('jcjgzb')){ //判断是否存在这个id
+	a_temp = true; //存在就取这个id里面的内容
+}else{
+	a_temp = false //不存在就为空
+}
+
+if(document.getElementById('dyjc')){ //判断是否存在这个id
+	b_temp = true; //存在就取这个id里面的内容
+}else{
+	b_temp = false; //不存在就为空
+}
+
+if(document.getElementById('2100jc')){ //判断是否存在这个id
+	c_temp = true; //存在就取这个id里面的内容
+}else{
+	c_temp = false; //不存在就为空
+}
+
+var app = new Vue({
+  el: '#app1',
+  data: {
+	message: 'Hello Vue!',
+	aTest: a_temp, //在这里给aaa赋值，用来判断是否和标题相符,
+	bTest: b_temp,
+	cTest: c_temp
+  }
+})
+</script>
+
+
+</body>
+</html>
+
