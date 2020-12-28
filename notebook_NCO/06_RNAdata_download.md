@@ -30,10 +30,10 @@ create .csv file with exported link files from novogene web page
 
 3. Succesful Download checks
 	1. size ls -lt -h
-<p>`-rw-rw-r-- 1 ncontrer ncontrer 338 Dec 22 10:37 batch_download.csv`
-<p>`-rw-rw-r-- 1 ncontrer ncontrer  42 Dec 20 01:13 checkSize.xls`
-<p>`-rw-rw-r-- 1 ncontrer ncontrer 14G Dec 20 00:35 X204SC20113077-Z01-F001.zip`
-<p>`-rw-rw-r-- 1 ncontrer ncontrer 110 Dec 20 00:35 MD5.txt`
+<br>`-rw-rw-r-- 1 ncontrer ncontrer 338 Dec 22 10:37 batch_download.csv`
+<br>`-rw-rw-r-- 1 ncontrer ncontrer  42 Dec 20 01:13 checkSize.xls`
+<br>`-rw-rw-r-- 1 ncontrer ncontrer 14G Dec 20 00:35 X204SC20113077-Z01-F001.zip`
+<br>`-rw-rw-r-- 1 ncontrer ncontrer 110 Dec 20 00:35 MD5.txt`
 
 	2. md5 file check
 	 File Check sum

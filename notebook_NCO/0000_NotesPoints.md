@@ -16,7 +16,12 @@ Run interactive Job:
 Gruffalo to local
  $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/scratch/private/alignRBH/extractRBHlist/dbhits* .
 
+ Github
+ git add .
+ git commit -m "message"
+
 Next!: read pdfs and files that come with RNA data
+
 # Current work
 - Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
 	- download paftol filtered data: install ok, download ok, running scripts ok

@@ -20,6 +20,7 @@
 <br> Make a change or add a file, then:
 <br> `git status` - to see how things are
 <br> `git add filename` - to staged the change
+<br> `git add .` - Stage all files (that are not listed in the .gitignore) in the entire repository
 <br> `git status` - to see status, should show changes to be commited
 <br> `git commit -m "message why the changes"` - commit changes
 <br> `git status` - See status, should show no changes to be commited
