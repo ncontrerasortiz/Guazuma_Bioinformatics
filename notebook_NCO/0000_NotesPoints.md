@@ -14,15 +14,21 @@ Run interactive Job:
  srun --pty bash
 
 Gruffalo to local
- $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/scratch/private/alignRBH/extractRBHlist/dbhits* .
+ $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/projects/rbge/Guazuma/data/raw/RNA_RBGE_guazuma/X204SC20113077-Z01-F001/raw_data/Rawdata_Readme.pdf .
 
  Github
  git add .
  git commit -m "message"
 
-Next!: read pdfs and files that come with RNA data
 
 # Current work
+- 28 Dec 2020
+Fastqc raw reads A2
+1. TRinity assembly
+	1. Trinity assembly
+	2. then bowtie of reads to transcriptome to asses level of expression
+2. Bowtie
+
 - Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
 	- download paftol filtered data: install ok, download ok, running scripts ok
 	- do the blast: Select query etc ok

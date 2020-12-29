@@ -32,7 +32,7 @@
 - In HPCCrop, backup projects
 	- batch_download.csv: exported download links to files in server novogene
 	- Downloaded files:
-        - checkSize.xls
+        - checkSize.xls: table with size of files
         - X204SC20113077-Z01-F001.zip : Reads from trasncriptome RBGE living plant Drought and wet treatments
         - MD5.txt
 
