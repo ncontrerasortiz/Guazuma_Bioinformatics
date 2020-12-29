@@ -1,15 +1,33 @@
 #data arrival 22-Dec-2020
 
-- Specification in quotation:
-	Novogene
-	novaseq	100M reads (chosen Nov 2020)
-	mRNA seq (Guazuma) (Illumina PE150, Q30 ⩾ 80%)
-	Library preparation and sequencing (100M reads, 30GB data)
+## Folders:
+	- QC_sample: Quality control report pre-sequencing 
+	- Report_data: Quality report analysis after sequencing data, output raw data.
 
-BatchNo. X204SC20113077-Z01-F001
-Sample Quantity 1
-Data Size(GB) 13.11
-Sample Name (at most 5 samples showed) A2
+
+## Specifications
+- In quotation:
+	<br>Novogene
+	<br>novaseq	100M reads (chosen Nov 2020)
+	<br>mRNA seq (Guazuma) (Illumina PE150, Q30 ⩾ 80%)
+	<br>Library preparation and sequencing (100M reads, 30GB data)
+
+- Sequencing data information (after sequencing)
+	<br>BatchNo. X204SC20113077-Z01-F001
+	<br>Sample Quantity 1
+	<br>Data Size(GB) 13.11
+	<br>Sample Name A2
+
+
+	<br>Sample A2
+	<br>Raw reads 206218298 (it equals the amount of read1 and read2)
+	<br>Raw data 30.9
+	<br>Effective(%) 99.11
+	<br>Error(%) 0.02
+	<br>Q20(%) 98.20
+	<br>Q30(%) 94.73
+	<br>GC(%) 44.99
+							
 
 - In HPCCrop, backup projects
 	- batch_download.csv: exported download links to files in server novogene
@@ -18,6 +36,7 @@ Sample Name (at most 5 samples showed) A2
         - X204SC20113077-Z01-F001.zip : Reads from trasncriptome RBGE living plant Drought and wet treatments
         - MD5.txt
 
+## downloading the data instructions
 run Screen
 create .csv file with exported link files from novogene web page
 
