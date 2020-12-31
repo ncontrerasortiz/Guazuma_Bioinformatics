@@ -29,6 +29,12 @@ Fastqc raw reads A2
 	2. then bowtie of reads to transcriptome to asses level of expression
 2. Bowtie
 
+
+
+
+
+
+Stopped when RNA data arrived
 - Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
 	- download paftol filtered data: install ok, download ok, running scripts ok
 	- do the blast: Select query etc ok

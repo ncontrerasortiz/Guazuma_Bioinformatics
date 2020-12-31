@@ -1,6 +1,6 @@
 ### Notebook QC report RNA A2
 
-- Title: fastqc and Trimm
+- Title: fastqc and Trimm (not Trimm)
 - Date: 28-Dic-2020
 - Wd: In HPCropDiv /home/ncontrer/projects/rbge/Guazuma/data/processed/RNA
 
