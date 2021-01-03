@@ -2,9 +2,10 @@
 
 ###General commands to run **Blastn**
 *If using CropDiversityHPC*:
-<p>Run in directory `$SCRATCH`
-<p>Using interactive job to run blastn `$ srun --pty bash`
+<br>Run in directory `$SCRATCH`
+<br>Using interactive job to run blastn `$ srun --pty bash`
 
+##Running Blast+ using a custom database
 - Query: The sequence of interest where we want to find the homologs
 - Subject: Database containing many other sequences
 
@@ -49,3 +50,6 @@
 - install newest available version: `conda install blast=2.10.1`
 
 6. Running blast with `-max_target_seqs N` (only for Blast above 2.8): number of align seqs to keep. Blast will return only N most significant database hits.
+
+##Running Blast+ using NCBI database
+1.

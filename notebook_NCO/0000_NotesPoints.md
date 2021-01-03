@@ -5,13 +5,17 @@
 - Wd:
 - What/Why:
 - Further docs:
+--------------------------------------------------------------
 - Code: what code used and where is it
+--------------------------------------------------------------
 - Results:  
 
 # Fast cmds
 
 Run interactive Job:
  srun --pty bash
+ sbatch job_script.sh
+ squeue --job 
 
 Gruffalo to local
  $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/projects/rbge/Guazuma/data/raw/RNA_RBGE_guazuma/X204SC20113077-Z01-F001/raw_data/Rawdata_Readme.pdf .
@@ -20,12 +24,16 @@ Gruffalo to local
  git add .
  git commit -m "message"
 
+Slurm
+hela 64 CPUs count=(2CPUx16coresx2Threads)
 
 # Current work
 - 28 Dec 2020
 Fastqc raw reads A2
+0. Raw reads: screen reads explore composition library matches expect. 
 1. TRinity assembly
-	1. Trinity assembly
+	1. Trinity assembly ok
+	2. Trinity Assembly quality assesment
 	2. then bowtie of reads to transcriptome to asses level of expression
 2. Bowtie
 
@@ -50,7 +58,5 @@ Stopped when RNA data arrived
 	- Tratar de entender como lo hacen Nicholls et al...
 
 	- consider re-running the analysis without max-target-seq 1
-
-
 next git commit -m "database of"
 next git commit -m "aligning RBH sequences using mafft"
