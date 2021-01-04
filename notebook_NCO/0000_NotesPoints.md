@@ -14,7 +14,7 @@
 
 Run interactive Job:
  srun --pty bash
- sbatch job_script.sh
+ sbatch --partition=long job_script.sh (for more than 24 hr)
  squeue --job 
 
 Gruffalo to local
