@@ -1,0 +1,16 @@
+#Fastq_screen version: 0.14.0	#Aligner: bowtie2	#Reads in subset: 100000
+Genome	#Reads_processed	#Unmapped	%Unmapped	#One_hit_one_genome	%One_hit_one_genome	#Multiple_hits_one_genome	%Multiple_hits_one_genome	#One_hit_multiple_genomes	%One_hit_multiple_genomes	Multiple_hits_multiple_genomes	%Multiple_hits_multiple_genomes
+Human	100008	99272	99.27	20	0.02	34	0.03	69	0.07	613	0.61
+Drosophila	100008	99590	99.58	8	0.01	0	0.00	43	0.04	367	0.37
+Yeast	100008	99408	99.40	1	0.00	9	0.01	24	0.02	566	0.57
+Arabidopsis	100008	97695	97.69	30	0.03	1	0.00	841	0.84	1441	1.44
+rRNA	100008	99589	99.58	0	0.00	0	0.00	48	0.05	371	0.37
+Oriza	100008	98289	98.29	24	0.02	12	0.01	1095	1.09	588	0.59
+Zea	100008	98006	98.01	35	0.03	10	0.01	392	0.39	1565	1.56
+TheobromaCDS	100008	50167	50.16	900	0.90	360	0.36	34274	34.27	14307	14.31
+Theobroma	100008	48533	48.53	1150	1.15	60	0.06	41897	41.89	8368	8.37
+Herrania	100008	53661	53.65	3701	3.70	139	0.14	36079	36.08	6428	6.43
+Gossypium	100008	74162	74.15	98	0.10	96	0.10	5893	5.89	19759	19.76
+GossypiumCDS	100008	73793	73.79	79	0.08	232	0.23	4812	4.81	21092	21.09
+
+%Hit_no_genomes: 37.24

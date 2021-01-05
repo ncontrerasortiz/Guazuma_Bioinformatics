@@ -18,7 +18,8 @@ Run interactive Job:
  squeue --job 
 
 Gruffalo to local
- $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/projects/rbge/Guazuma/data/raw/RNA_RBGE_guazuma/X204SC20113077-Z01-F001/raw_data/Rawdata_Readme.pdf .
+ $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk: .
+ rsync -avP ncontrer@gruffalo.cropdiversity.ac.uk: .
 
  Github
  git add .
@@ -35,11 +36,12 @@ Fastqc raw reads A2
 	2. Next: run fastQ Screen
 		1. Angiosperms or something like that
 		1. Against T. cacao, gossypium and Herrania and other plants
-		2. add an index of cacao genome (create bowtie2 index) OK
-		
+		2. add an index of cacao, herrania etc genome (create bowtie2 index) OK
+			- Using both CDS and genomic dna, see if difference to know where to align or makes sense of transcript...
+
 1. TRinity assembly
 	1. Trinity assembly ok
-	2. Trinity Assembly quality assesment
+	2. Trinity Assembly quality assesment (next!)
 	2. then bowtie of reads to transcriptome to asses level of expression
 2. Bowtie
 

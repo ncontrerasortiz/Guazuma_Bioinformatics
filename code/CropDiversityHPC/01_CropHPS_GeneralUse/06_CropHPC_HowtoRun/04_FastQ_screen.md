@@ -25,7 +25,7 @@
 
 ------------------------------------------------
 To add more genomes or data to the databases
-1. Create indexes from bowtie2 using `bowtie2-build reference_genome`
+1. Create indexes from bowtie2 using `bowtie2-build reference_genome name_of_index`
 2. Genome indexes extra added:
 	- Zeam mays ok
 	- Oriza sativa ok
@@ -34,6 +34,9 @@ To add more genomes or data to the databases
 		- Herrania nycterodendron
 		- Theobroma CDS ok
 		- Theobroma complete
+
+- Note: for some big genomes `bowtie2-build` rans out of memory, workout was:
+	- `bowtie2-build --threads X bowtie2-build reference_genome name_of_index`. And Ran using sbatch script, with 20 CPU and 6Gb Ram.
 
 
 
