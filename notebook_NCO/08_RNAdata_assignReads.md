@@ -12,19 +12,36 @@
 		- [Kaiju](https://github.com/bioinformatics-centre/kaiju)
 		- [Decontaminer](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2684-x)
 --------------------------------------------------------------
-- Code:
+- Code and setup:
 
 	1. Fastq_screen folder setup in `/home/ncontrer/scratch/private`
 		ftqs_A2/ (FastQScreen_sampleA2)
-	├── A2_1: raw reads 1
-	└── A2_2: raw reads 2
+├── A2_1
+│   ├── A2_1_screen.html ...
+│   ├── more #second attempt with more genomes
+│  		   └── 
+│ 
+└── A2_2
+    ├── A2_2_screen.html... 
+		more #second attempt with more genomes
+│ 		   └──     
 
-	2. `sbatch --partition=long job_script.sh`
+	2. See `job_script.sh` code below
 
-Next: run fastQ Screen against NCBI data bases! Angiosperms or something like that
---------------------------------------------------------------
+	3. `sbatch --partition=long job_script.sh`
+
+	4. Adding more genomes (first build indexes using bowtie2)
+	run fastQ Screen against other plant genomes index:
+		- T. cacao
+		- Herrania
+		- Gossypium
+		- Oriza, Zea 
+
+
+----------------------------------------------------------
 - Results:
-
+1. When ran using databases: Human, Rat, several; many non hits, some to Arabidopsis
+2. Next: running again with other plants (not CDS because miss genes that were not previously known/annotated)
 
 
 

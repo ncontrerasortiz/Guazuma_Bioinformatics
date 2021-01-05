@@ -6,7 +6,7 @@
 - What/Why:
 - Further docs:
 --------------------------------------------------------------
-- Code: what code used and where is it
+- Code and setup: what code used and where is it
 --------------------------------------------------------------
 - Results:  
 
@@ -30,7 +30,13 @@ hela 64 CPUs count=(2CPUx16coresx2Threads)
 # Current work
 - 28 Dec 2020
 Fastqc raw reads A2
-0. Raw reads: screen reads explore composition library matches expect. 
+0. Raw reads: screen reads explore composition library matches expect: 
+	1. Fastq screen
+	2. Next: run fastQ Screen
+		1. Angiosperms or something like that
+		1. Against T. cacao, gossypium and Herrania and other plants
+		2. add an index of cacao genome (create bowtie2 index) OK
+		
 1. TRinity assembly
 	1. Trinity assembly ok
 	2. Trinity Assembly quality assesment
@@ -42,7 +48,7 @@ Fastqc raw reads A2
 
 
 
-Stopped when RNA data arrived
+Stopped when RNA data arrived (Dec 20 2020)
 - Oct 2020: RBBH (recip best blast hit) T. cacao vs. paftol in crop diversity
 	- download paftol filtered data: install ok, download ok, running scripts ok
 	- do the blast: Select query etc ok
