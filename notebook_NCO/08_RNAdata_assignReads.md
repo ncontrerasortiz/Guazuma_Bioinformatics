@@ -41,12 +41,17 @@
 
 
 ----------------------------------------------------------
+- 
 - Results in `Genomics/Bioinformatics/data/raw/RNA_Guazuma_RBGE/fastQ_screen`:
+
 1. When ran using databases: Human, Rat, several; many non hits, some to Arabidopsis
 2. Next: running again with other plants (not CDS because miss genes that were not previously known/annotated), failed because of a problem with `bowtie2-build`, fixed using sbatch and `--threads X`. See Howtorun/04_FastQ_screen.
 3. Repeat 2. but with indexes correctly build: Success!! many reads to Theobroma, Gossypium, Herrania
 40% no hits: could be Guazuma specific or just bad reads?
-
+	
+- Conclusion: Majority of uniquely mapped hits are in Malvaceaen transcriptomes--> This points towards a Malvacean origin of the sample
+	- Proportion of Mult hits/Mult genomes: probable repetitions, Poly As
+	- Could say there is any contamination as reads where not observed in any unexpected genome.
 
 
 

@@ -37,6 +37,10 @@ To add more genomes or data to the databases
 
 - Note: for some big genomes `bowtie2-build` rans out of memory, workout was:
 	- `bowtie2-build --threads X bowtie2-build reference_genome name_of_index`. And Ran using sbatch script, with 20 CPU and 6Gb Ram.
-
-
+--------------------------------------
+- Results interpretation: reads that were able to map either uniquely or to more than one location in the ref genomes:
+	- One hit/One genome: Reads mapped uniquely for one genome
+	- Multiple hits/One genome: Reads that map to a specific genome but did not map uniquely (mapped to two or more locations)
+	- One hit/Multiple genomes: Mapped uniquely to a genome, and they also mapped uniquely to one or more of the other genomes
+	- Mult hits/Mult genomes: Multimapped to the genome and also to one or more other genomes
 

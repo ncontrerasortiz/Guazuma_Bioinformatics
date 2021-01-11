@@ -28,6 +28,6 @@
 -----------------------------------------------------------------
 - Results: 
 1. Trinity run for 17h from clean environ, using 20CPU, 80GB
-	- `Trinity.fasta` is the assembly
+	- `Trinity.fasta` is the assembly. OK
 
 2. Next: Quality assesment of the assembly (QC_assembly)
