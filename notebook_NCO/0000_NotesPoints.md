@@ -29,19 +29,10 @@ Slurm
 hela 64 CPUs count=(2CPUx16coresx2Threads)
 
 # Current work
-- 28 Dec 2020
-Fastqc raw reads A2
-0. Raw reads: screen reads explore composition library matches expect: 
-	1. Fastq screen OK
-	2. Next: run fastQ Screen
-		1. Against T. cacao, gossypium and Herrania and other plants OK
-		2. add an index of cacao, herrania etc genome (create bowtie2 index) OK
-			- Using both CDS and genomic dna, see if difference to know where to align or makes sense of transcript...
-
 1. TRinity assembly
 	1. Trinity assembly ok
 	2. Trinity Assembly quality assesment (next!)
-		- RNA-seq reads representation: on progress
+		- RNA-seq reads representation: OK
 		- Representation of full-length protein coding
 		- Detonate: compares different assemblies
 		- TransRate
