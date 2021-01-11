@@ -2,8 +2,8 @@
 
 - Title: Trinity Transcriptome of A2: Quality assesment
 - Date: 6 Jan 2021
-- Wd: See result files in `Bioinformatics/data/processed/RNAtranscriptomeA2`
-- What/Why: Qualiy assesment of the trinity assembly (trinity.fasta)
+- Wd: See result files in `Bioinformatics/data/processed/RNAtranscriptomeA2`; in HPC `transcriptome/qual_asses/`
+- What/Why: Quality assesment of the trinity assembly (trinity.fasta)
 - Further docs:
 	- Nature protocols: 10.1038/nprot.2013.084
 	- [Assembly quality assesment](https://github.com/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-Assembly-Quality-Assessment)
@@ -31,8 +31,11 @@
 		4. `igv.sh -g Trinity.fasta  bowtie2.coordSorted.bam` not visualized yet
 
 2. Full-length transcript analysis using BLAST+: align the assembled transcripts against all known proteins and determine the number of unique top matching proteins that align across more than X% of its length.
-	- blastx -query Trinity.fasta -db uniprot_sprot.fasta -out blastx.outfmt6 \
-        -evalue 1e-20 -num_threads 6 -max_target_seqs 1 -outfmt 6
+	- This ran with script Sbatch cpus-per-task=16, --mem=4G
+	`makeblastdb -in uniprot_sprot.fasta -dbtype prot && echo "blastdb done, running blastx" &&
+	blastx -query ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta -db uniprot_sprot.fasta -out blastx.outfmt6 \
+		-evalue 1e-20 -num_threads 8 -max_target_seqs 1 -outfmt 6 && echo "blastx done, running analyze_blastPlus_topHit_coverage.pl" &&
+	analyze_blastPlus_topHit_coverage.pl blastx.outfmt6 ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta uniprot_sprot.fasta`
 
 
 ----------------------------------------
@@ -42,12 +45,7 @@
 
 2. Full-length transcript
 
-	- This ran with script Sbatch cpus-per-task=16, --mem=4G
-	`makeblastdb -in uniprot_sprot.fasta -dbtype prot && echo "blastdb done, running blastx" &&
-	blastx -query ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta -db uniprot_sprot.fasta -out blastx.outfmt6 \
-		-evalue 1e-20 -num_threads 8 -max_target_seqs 1 -outfmt 6 && echo "blastx done, running analyze_blastPlus_topHit_coverage.pl" &&
-	analyze_blastPlus_topHit_coverage.pl blastx.outfmt6 ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta uniprot_sprot.fasta`
-
+	- 
 
 ---------------------
 ### Extras
