@@ -36,8 +36,10 @@ hela 64 CPUs count=(2CPUx16coresx2Threads)
 	1. Trinity assembly ok
 	2. Trinity Assembly quality assesment (next!)
 		- RNA-seq reads representation: OK
-		- Representation of full-length protein coding: Aqui voy corriendo... en full_protein/
-		- TransRate
+		- Representation of full-length protein coding: Aqui voy corriendo... en full_protein/ done, See IVG mapping visual
+		- TransRate: see if read mapping is similar to RNA-seq read reprs as before. Analyse contig and comparative metrics results
+    -NEXT: understand results from all this!
+    and Blast the subset of Nohits from fastqscreen
 
 2. Then do blastx of no hits reads of fastqscreen
 	2. then bowtie of reads to transcriptome to asses level of expression
@@ -66,3 +68,17 @@ Stopped when RNA data arrived (Dec 20 2020)
 	- consider re-running the analysis without max-target-seq 1
 next git commit -m "database of"
 next git commit -m "aligning RBH sequences using mafft"
+
+
+
+- script
+
+#!/bin/bash
+#SBATCH --job-name="fastq_screen test configuration"
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=6G
+#SBATCH --export=ALL
+#SBATCH --mail-user=ncontrerasortiz@rbge.org.uk
+#SBATCH --mail-type=END,FAIL
+fastq_screen --aligner bowtie2 --threads 4 --conf fastq_screen_test.conf fqs_test_dataset.fastq.gz
+echo "Job finished"
