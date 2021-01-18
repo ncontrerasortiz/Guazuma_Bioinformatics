@@ -30,11 +30,11 @@
 		3. `samtools faidx Trinity.fasta` (ran up to here using job_script3)
 		4. `igv.sh -g Trinity.fasta  bowtie2.coordSorted.bam` not visualized yet
 
-2. Full-length transcript analysis using BLAST+: align the assembled transcripts against all known proteins and determine the number of unique top matching proteins that align across more than X% of its length.
-	- This ran with script Sbatch cpus-per-task=16, --mem=4G
+2. Full-length transcript analysis using BLAST+: align the assembled transcripts against all known proteins and determine the number of unique top matching proteins that align across more than X% of its length. Similar analyses can be performed using nucleotide databases, running blastn instead of blastx.
+	- This ran with script Sbatch cpus-per-task=16, --mem=4G, partition long
 	`makeblastdb -in uniprot_sprot.fasta -dbtype prot && echo "blastdb done, running blastx" &&
 	blastx -query ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta -db uniprot_sprot.fasta -out blastx.outfmt6 \
-		-evalue 1e-20 -num_threads 8 -max_target_seqs 1 -outfmt 6 && echo "blastx done, running analyze_blastPlus_topHit_coverage.pl" &&
+-evalue 1e-20 -num_threads 8 -max_target_seqs 1 -outfmt 6 && echo "blastx done, running analyze_blastPlus_topHit_coverage.pl" &&
 	analyze_blastPlus_topHit_coverage.pl blastx.outfmt6 ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta uniprot_sprot.fasta`
 
 

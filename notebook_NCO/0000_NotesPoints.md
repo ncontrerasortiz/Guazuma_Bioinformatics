@@ -10,12 +10,15 @@
 --------------------------------------------------------------
 - Results:  
 
+--------------------------------------------------------------
+- Extras
+
 # Fast cmds
 
 Run interactive Job:
  srun --pty bash
  sbatch --partition=long job_script.sh (for more than 24 hr)
- squeue --job 
+ squeue --job
 
 Gruffalo to local
  $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk: .
@@ -33,10 +36,10 @@ hela 64 CPUs count=(2CPUx16coresx2Threads)
 	1. Trinity assembly ok
 	2. Trinity Assembly quality assesment (next!)
 		- RNA-seq reads representation: OK
-		- Representation of full-length protein coding
-		- Detonate: compares different assemblies
+		- Representation of full-length protein coding: Aqui voy corriendo... en full_protein/
 		- TransRate
-		- rnaQuast, uses databases, for de novo assemblies**
+
+2. Then do blastx of no hits reads of fastqscreen
 	2. then bowtie of reads to transcriptome to asses level of expression
 2. Bowtie
 
@@ -55,7 +58,7 @@ Stopped when RNA data arrived (Dec 20 2020)
 	- Pull out the sequences into separate files Ok
 
 	AQUI VOY
-	
+
 	- aligning using local (linsi* seems more suited for this) and global Ginsi in mafft: Entender cuále es mejor o peor.. parece que Linsi sería mejor según (https://academic.oup.com/mbe/article/33/7/1875/2579186) Considerar usar Mr bait o Baitfisher?
 
 	- Tratar de entender como lo hacen Nicholls et al...

@@ -1,0 +1,45 @@
+
+address of evodevo server on RBGE remote:
+//resource/evodevo
+
+Assessing qualty or transcriptomes:
+https://hibberdlab.com/transrate/
+
+Blast on gruffalo:
+
+Interactive node
+srun --pty bash
+
+conda install -c bioconda blast
+#make DB
+makeblastdb -in protiens.fasta -dbtype prot -out I_spec_prot -title I_sapindoides_proteins
+
+#fastq made into fasta
+
+sample first 1000 reads:
+head -4000 F1.fastq > s1_fwd.fq
+
+sed -n '1~4s/^@/>/p;2~4p' INFILE.fastq > OUTFILE.fasta
+
+#blast command nucelotides to protein
+blastx -query sample.fasta  -db I_sap_prot -max_target_seqs 1 -outfmt "6 qseqid sseqid evalue" -max_target_seqs 1 -out Sample_I_sap_prot_blast
+
+# Count hits with e-100 or more:
+grep "e-[0-9][0-9][0-9]" Sample_I_sap_prot_blast| wc -l
+
+#with e-20 or more:
+grep "e-[2-9][0-9]" Sample_I_sap_prot_blast| wc -l
+
+#get the matching seq from fasta file
+# get the list of reads with hits
+grep "e-[2-9][0-9]" Sample_I_sap_prot_blast > hits
+cut -f1 hits > list
+
+# use the list to pull out the sequences into a new multi_fasta
+while read f ; do grep "$f" -A1 S1_fwd.fasta >> picked.fasta ; done < list
+
+Cyverse account and COGE account.
+Cyverse to use data store for sharing data and an account is needed to access COGE for genome browser, blasst searches adna comparative genomics.  A great place to store and work with draft genomes.  Has the 2 Inga genomes.
+
+https://www.cyverse.org/
+https://genomevolution.org/coge/
