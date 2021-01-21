@@ -32,14 +32,16 @@ Slurm
 hela 64 CPUs count=(2CPUx16coresx2Threads)
 
 # Current work
-1. TRinity assembly
+Transcriptome Assembly
+1. Trinity assembly
 	1. Trinity assembly ok
-	2. Trinity Assembly quality assesment (next!)
+	2. Trinity Assembly quality assesment
 		- RNA-seq reads representation: OK
-		- Representation of full-length protein coding: Aqui voy corriendo... en full_protein/ done, See IVG mapping visual
+		- Representation of full-length protein coding: Revisar resultados y entender (NEXT)
 		- TransRate: see if read mapping is similar to RNA-seq read reprs as before. Analyse contig and comparative metrics results
     -NEXT: understand results from all this!
     and Blast the subset of Nohits from fastqscreen
+    - rnaQaust next
 
 2. Then do blastx of no hits reads of fastqscreen
 	2. then bowtie of reads to transcriptome to asses level of expression

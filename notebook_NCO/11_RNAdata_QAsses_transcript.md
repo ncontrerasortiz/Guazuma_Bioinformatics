@@ -15,8 +15,9 @@
 ---------------------------------
 ### Code:
 
-1. Examine RNA-seq representation of the assembly: capture and count all reads that map to the assembled transcript (proper pairs and improper or orphan read alignments)
-	- build bowtie2 index for the transcriptome:
+1. Examine RNA-seq representation of the assembly: capture and count all reads that map to the assembled transcript (proper pairs and improper or orphan read alignments).
+	-  Align reads to transcriptome assembly using bowtie2.  
+		Build bowtie2 index for the transcriptome:
 	`bowtie2-build --threads 10 ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta
  	Trinity_index.fasta`
 	- Align to capture statistics
@@ -25,10 +26,11 @@
 	- Visualuze statistics
 	`cat 2>&1 align_stats.txt`
 	- Visualize read support in IGV
-		1. `samtools sort ../bowtie2.bam -o bowtie2.coordSorted.bam`
-		2. `samtools index bowtie2.coordSorted.bam`
-		3. `samtools faidx Trinity.fasta` (ran up to here using job_script3)
-		4. `igv.sh -g Trinity.fasta  bowtie2.coordSorted.bam` not visualized yet
+		1. Sort the alignments by coordinate: `samtools sort ../bowtie2.bam -o bowtie2.coordSorted.bam`
+		2. Index the coordinate-sorted bam file: `samtools index bowtie2.coordSorted.bam`
+		3. Index the Trinity.fasta file: `samtools faidx Trinity.fasta` (ran up to here using job_script3)
+		4. `igv.sh -g Trinity.fasta  bowtie2.coordSorted.bam`
+		5. Download to local: `rsync -avP --partial ncontrer@gruffalo.cropdiversity.ac.uk:/home/ncontrer/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta .` and `/home/ncontrer/scratch/private/transcriptome/qual_asses/read_repr/view_IGV/bowtie2.coordSorted.bam` **IN PROGRESS**
 
 2. Full-length transcript analysis using BLAST+: align the assembled transcripts against all known proteins and determine the number of unique top matching proteins that align across more than X% of its length. Similar analyses can be performed using nucleotide databases, running blastn instead of blastx.
 	- This ran with script Sbatch cpus-per-task=16, --mem=4G, partition long
@@ -39,13 +41,19 @@
 
 
 ----------------------------------------
-### Results: 
+### Results:
 
-1. RNA-seq representation of the assembly (in `align_stats_trans1.txt`): 97.70% overall alignment rate. OK
+1. RNA-seq representation of the assembly (in `align_stats_trans1.txt`) see Appendix 1:  
+		97.70% overall alignment rate.  
+		55446792 (53.77%) aligned concordantly exactly 1 time  
+	 	40952565 (39.72%) aligned concordantly >1 time  
+According to Trinity protocol this is a good number. ~93% of the mapped fragmens are proper pairs (concordant alignments 1 or more times)
+
+	- Visualize read support in Tablet: Done... need to understand in context
 
 2. Full-length transcript
 
-	- 
+	-
 
 ---------------------
 ### Extras
@@ -54,7 +62,7 @@
 #SBATCH --job-name="bowtie2_transcriptomeIndex"
 #SBATCH --cpus-per-task=20
 #SBATCH --mem=6G
-#SBATCH --export=ALL 
+#SBATCH --export=ALL
 #SBATCH --mail-user=ncontrerasortiz@rbge.org.uk
 #SBATCH --mail-type=END,FAIL
 commands
@@ -65,7 +73,7 @@ echo "Job finished"
 #SBATCH --job-name="Visualize read support in IGV"
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=16G
-#SBATCH --export=ALL 
+#SBATCH --export=ALL
 #SBATCH --mail-user=ncontrerasortiz@rbge.org.uk
 #SBATCH --mail-type=END,FAIL
 samtools sort -m 1500000000 -@ 8 ~/scratch/private/transcriptome/qual_asses/bowtie2.bam -o bowtie2.coordSorted.bam && echo "samtools sort done, running index" &&
@@ -76,3 +84,26 @@ echo "Job finished"
 
 -db /mnt/shared/apps/databases/ncbi/nt
 
+-----------------------------
+### Appendix
+
+1. Trinity.fast
+`align_stats
+
+103109149 reads; of these:
+  103109149 (100.00%) were paired; of these:
+    6709792 (6.51%) aligned concordantly 0 times
+    55446792 (53.77%) aligned concordantly exactly 1 time
+    40952565 (39.72%) aligned concordantly >1 times
+    ----
+    6709792 pairs aligned concordantly 0 times; of these:
+      1094080 (16.31%) aligned discordantly 1 time
+    ----
+    5615712 pairs aligned 0 times concordantly or discordantly; of these:
+      11231424 mates make up the pairs; of these:
+        4742003 (42.22%) aligned 0 times
+        2296798 (20.45%) aligned exactly 1 time
+        4192623 (37.33%) aligned >1 times
+97.70% overall alignment rate
+
+#A typical Trinity transcriptome assembly will have the vast majority of all reads mapping back to the assembly, and ~70-80% of the mapped fragments found mapped as proper pairs (yielding concordant alignments 1 or more times to the reconstructed transcriptome).`
