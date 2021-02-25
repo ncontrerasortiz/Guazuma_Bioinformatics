@@ -9,6 +9,7 @@
 	- [Assembly quality assesment](https://github.com/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-Assembly-Quality-Assessment)
 		- RNA-seq reads representation: OK (read_repr/)
 		- Representation of full-length protein coding: Blast+ (full_protein/)
+		- Trinity Transcriptome Contig Nx and ExN50 Statistics (ExN50/)
 		- Detonate: compares different assemblies
 		- rnaQuast, uses databases, for de novo assemblies**
 
@@ -39,6 +40,10 @@
 -evalue 1e-20 -num_threads 8 -max_target_seqs 1 -outfmt 6 && echo "blastx done, running analyze_blastPlus_topHit_coverage.pl" &&
 	analyze_blastPlus_topHit_coverage.pl blastx.outfmt6 ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta uniprot_sprot.fasta`
 
+3. Trinity Transcriptome Contig Nx and ExN50 Statistics: Based on the lengths of the assembled transcriptome contigs, we can compute the conventional Nx length statistic, such that at least x% of the assembled transcript nucleotides are found in contigs that are at least of Nx length.
+	- Contig Nx Statistic: `TrinityStats.pl ~/scratch/private/transcriptome/trinity_out_dir/Trinity.fasta`
+	-
+
 
 ----------------------------------------
 ### Results:
@@ -47,13 +52,14 @@
 		97.70% overall alignment rate.  
 		55446792 (53.77%) aligned concordantly exactly 1 time  
 	 	40952565 (39.72%) aligned concordantly >1 time  
-According to Trinity protocol this is a good number. ~93% of the mapped fragmens are proper pairs (concordant alignments 1 or more times)
+According to Trinity protocol this is a good number. ~93% of the mapped fragments are proper pairs (concordant alignments 1 or more times)
 
 	- Visualize read support in Tablet: Done... need to understand in context
 
 2. Full-length transcript
 
 	-
+3. Trinity Transcriptome Contig Nx and ExN50
 
 ---------------------
 ### Extras

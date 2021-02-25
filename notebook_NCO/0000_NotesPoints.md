@@ -42,6 +42,8 @@ Transcriptome Assembly
     -NEXT: understand results from all this!
     and Blast the subset of Nohits from fastqscreen
     - rnaQaust next
+    - Busco
+
 
 2. Then do blastx of no hits reads of fastqscreen
 	2. then bowtie of reads to transcriptome to asses level of expression
