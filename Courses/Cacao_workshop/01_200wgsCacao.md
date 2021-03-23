@@ -70,3 +70,8 @@ echo "Job finished"
 Curso latinoamerica 20 personas
 
 Division de temas: Definir Agenda y trabajo
+
+16 Marzo 2021
+Cotizaciones de clusters
+Plantear piloto de uso de datos en cluster
+Mandar archivos a Ana Bossa 

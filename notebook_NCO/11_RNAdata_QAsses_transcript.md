@@ -60,7 +60,7 @@ According to Trinity protocol this is a good number. ~93% of the mapped fragment
 
 	-
 3. Trinity Transcriptome Contig Nx and ExN50
-
+		1. Contig Nx results
 ---------------------
 ### Extras
 	- Job script
@@ -113,3 +113,40 @@ echo "Job finished"
 97.70% overall alignment rate
 
 #A typical Trinity transcriptome assembly will have the vast majority of all reads mapping back to the assembly, and ~70-80% of the mapped fragments found mapped as proper pairs (yielding concordant alignments 1 or more times to the reconstructed transcriptome).`
+
+3. Contig Nx Results
+################################
+## Counts of transcripts, etc.
+################################
+Total trinity 'genes':	229742
+Total trinity transcripts:	276345
+Percent GC: 42.87
+
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 4200
+	Contig N20: 3106
+	Contig N30: 2402
+	Contig N40: 1892
+	Contig N50: 1443
+
+	Median contig length: 432
+	Average contig: 817.88
+	Total assembled bases: 226016119
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 3429
+	Contig N20: 2369
+	Contig N30: 1755
+	Contig N40: 1252
+	Contig N50: 884
+
+	Median contig length: 382
+	Average contig: 642.19
+	Total assembled bases: 147537560

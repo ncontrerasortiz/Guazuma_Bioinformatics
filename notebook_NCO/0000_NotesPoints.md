@@ -44,6 +44,7 @@ Transcriptome Assembly
     - rnaQaust next
     - Busco
 
+    - Transcriptome Contig Nx and ExN50 stats:*Currently March 2021*
 
 2. Then do blastx of no hits reads of fastqscreen
 	2. then bowtie of reads to transcriptome to asses level of expression
