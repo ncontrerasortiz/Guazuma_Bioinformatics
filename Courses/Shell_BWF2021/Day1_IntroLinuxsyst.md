@@ -403,7 +403,8 @@ do
     echo there are $c $i in this pdb >> results.txt
     done
     `
-### Handling fasta files
+### Tips and tricks with one liners
+- Handling fasta files
 `awk 'NR==1{print}' junk.txt` #to see the first line of the file  
 `awk 'NR==2||NR==4{print}' junk.txt` #to print the line 2 and 4  
 `||` "or" operator, if 2 or 4
@@ -411,7 +412,103 @@ do
 `grep -e [24] junk2.txt`
 
 - convert DNA to RNA, change T to U
-`sed 's/T/U/g' junk.txt`
+`sed 's/T/U/g' junk.txt` #g is for all instances, if not added is only the first
+- count only the lines that have sequences
+`awk 'NR>1{print}' junk.txt | wc -c`
+- count only nucleotides
+`grep -o A junk.txt | wc -l` -l because is the lines
+
+- take a fasta file and put all chars in one line
+`awk '{printf ("%s", $0)}' junk.txt`
+$ the field, or the line, $0 everything
+%s string format
+%s\n to print in different lines
+`awk '{printf ("%s", $0)}END{printf("\n")}' junk.txt`
+using `END{printf("\n")}` will add a new line at the end so the prompt doesn't appear just at the end of the output
+
+`awk 'NR>1{printf ("%s", $0)}END{printf("\n")}' junk.txt` #this command will put all the nucleotides in one line, skipping the first line NR
+
+- Script to ask the user to get DNA or RNA, complimentary strands
+`#!/bin/bash
+#enter mode in cmd line
+mode=$1
+file=$2
+#enter mode interactive
+#echo please enter mode: DNA or RNA
+#read mode
+
+# check if mode is in RNA or DNA, if not, exit
+if [[$mode != "DNA"]] && [[$mode != "RNA"]]
+then
+  echo please choose DNA or RNA
+  exit
+fi
+
+seq=$(cat $file)
+comp=S
+while [[ $(echo $seq | wc -c) >= 0 ]] #>1
+do
+  current_nucleotide=$(echo $seq | cut -c1)
+  if [[$current_nucleotide == "C"]]
+  then
+    comp=${comp}G
+  elif [[$current_nucleotide == "G"]]
+  then
+    comp=${comp}C
+  elif [[$current_nucleotide == "T"]]
+  then
+    comp=${comp}A
+  elif [[$current_nucleotide == "A"]]
+  then
+    if [[$mode == "DNA"]]
+    then
+      comp=${comp}T
+    elif [[$mode == "RNA"]]
+    then
+      comp=${comp}U
+    fi
+fi  
+  seq=$(echo $seq | cut -c2-)
+done
+echo $comp | cut -c2-`  
+
+**Now do aaall this in one liner**
+`cat sequence.txt | tr ATGC TACG` #tr translate command
+`awk 'NR>1{print}' junk.txt | tr ATGC TACG `
+
+
+- cut command: `cut -d'a' -f1` -d'delimiter', in this case says cut everything before the letter a  
+`-c1` the first character  
+`-c1-` up until that char inclusive  
+`-c-3` after that char inclusive  
+`-c10-15` ranges  
+
+- from nucleotide to protein
+  1. count how many nucleotide there are and throw a warning if it is not divisible by 3
+  wc to count
+  if to create warnings
+
+  `#!/bin/bash
+  file=$2
+  seq=$(awk'{printf("%s",$0)}' $file)
+  length=$(awk'{printf("%s",$0)}' $file | wc -c)
+if [[$(($length % 3 )) != 0]]
+then
+  echo Seq not divisible by 3
+  exit
+fi
+
+while [[$(echo $seq | wc -c) > 0 ]]
+  do
+  current_codon=$(echo $seq | cut -c-3)
+  if [[$current_codon == "UUU"]] || [[$current_codon == "UUC"]]
+  then
+    prot=${prot}F
+    #it continues this script is looong`
+
+- Paper Rules for quick and dirty coding (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008549)
+  -
+
 ------------------------
 - Questions for the end of the workshop
     - Games to play with awk. No
