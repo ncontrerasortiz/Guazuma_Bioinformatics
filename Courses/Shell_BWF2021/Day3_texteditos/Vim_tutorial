@@ -1,0 +1,45 @@
+This is a sample line.
+This is another line.
+This line is a little longer.
+This,line,is,separated,by,commas.
+This/line/is/separated/by/slashes.
+This.line.is.separated.by.periods.
+This	line	is	separated	by	tabs.
+
+a. Thiss senteence haas some exxtra charactters.
+b. Ths sentnce insead mises som charactes.
+c. This sentence is missing a w
+d. Thas sengence yas somj wrobg chataczers.
+e. This sentence has some extra words at the end. We do not want these words.
+
+1. Here we have a series of numbered lines.
+2. But these numbers are out of order.
+3. Can you put these numbers in the correct order?
+5. Thank you for putting the lines in order.
+7. You are doing great!
+6. We appreciate your hard work.
+4. That would be very good!
+
+This is a short snippet of text. There are a lot of words in this text
+that you can search. You should look for the word text and see how many
+times it appears. Use the forward slash to look for the word text. Use n
+and N to cycle between hits. You can also use the hashtag to look for 
+the current word under the cursor. Remember that the patterns are case
+sensitive.
+
+Now we have another small snippet of text that contains some zebras. Some of the zebras have 
+been changed to the zebra "zebra" and we need to change them back.
+But you should make sure that you change the correct zebras. For example, you
+should keep the zebra between the quotes before, and you should 
+keep it in this sentence too. But you should change all other instances so that you have
+the zebra "zebra" in the correct place.
+
+NAME    SCORE   SUBJECT HAPPY
+Alice   78      History Y
+Bob     65      Maths   Y
+Carlos  43      Maths   N
+Dan     57      Chem    Y
+Enrico  98      History Y
+Fatima  79      Maths   N
+George  64      P.E.    N
+Harry   66      Chem    N

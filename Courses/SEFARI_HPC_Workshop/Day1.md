@@ -70,3 +70,15 @@ From: debian:latest
 
 ### Github
 Git is a version control system, github is the host
+Git hub wiki: useful to keep the pipelines documented.
+commits as key points of the changes
+
+### backups
+Scratch: you don't loose data but they can't promise it wont be lost.
+
+### CPU/cores
+
+- To check how the job is running
+squeue -u #which node my job is  
+ssh {node_name}  
+Top #see how is it running in that node  

@@ -54,6 +54,12 @@
 	- Could say there is any contamination as reads where not observed in any unexpected genome.
 
 
+4. Interpretation
+- One hit/one genome: Reads that map uniquely to the specified genome and not any other genome
+- Multiple hits/one genome: Reads that map to a specified genome, but no uniquely, mapped to two or more separate locations
+- One hit/multiple genome: map uniquely to the specified genome, but also mapped to one or more other specified genomes
+- Multiple hits/multiple genomes: Map to several locations in the genome speciefied, and also to other genomes.
+- no hits
 
 
 

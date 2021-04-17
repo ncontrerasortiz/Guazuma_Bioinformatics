@@ -75,3 +75,6 @@ Division de temas: Definir Agenda y trabajo
 Cotizaciones de clusters
 Plantear piloto de uso de datos en cluster
 Mandar archivos a Ana Bossa 
+
+6 Marzo 2021
+Costos hora 180mil COP hora
