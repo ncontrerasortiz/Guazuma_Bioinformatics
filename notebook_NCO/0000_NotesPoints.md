@@ -22,7 +22,7 @@ Run interactive Job:
 
 Gruffalo to local
  $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk: .
- rsync -avP ncontrer@gruffalo.cropdiversity.ac.uk: .
+ $ rsync -avP ncontrer@gruffalo.cropdiversity.ac.uk: .
 
  Github
  git add .
