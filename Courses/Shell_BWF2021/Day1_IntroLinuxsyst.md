@@ -479,7 +479,7 @@ echo $comp | cut -c2-`
 
 - cut command: `cut -d'a' -f1` -d'delimiter', in this case says cut everything before the letter a  
 `-c1` the first character  
-`-c1-` up until that char inclusive  
+`-c1-` up until that char inclusive, excludes the previous chars  
 `-c-3` after that char inclusive  
 `-c10-15` ranges  
 
@@ -496,18 +496,64 @@ if [[$(($length % 3 )) != 0]]
 then
   echo Seq not divisible by 3
   exit
-fi
+fi.
 
 while [[$(echo $seq | wc -c) > 0 ]]
   do
   current_codon=$(echo $seq | cut -c-3)
   if [[$current_codon == "UUU"]] || [[$current_codon == "UUC"]]
   then
-    prot=${prot}F
-    #it continues this script is looong`
 
-- Paper Rules for quick and dirty coding (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008549)
-  -
+- Paper Rules for quick and dirty coding (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008549)[].
+
+###Aligning with (muscle) [http://www.drive5.com/muscle/manual/install.html]
+
+- Count how many times > there are, to know how many sequences and output individual sequences
+  1. Script
+  `#!/bin/bash
+
+  #get file name from cmd line
+  file=$1
+  #get output name from cmd line
+  output=$2
+
+  #if output was not passed, use default option
+  if [[ -z $output ]] #-z returns 0 if the variable doesnt exist
+  then
+    output=output
+  fi
+
+  #count records from fasta file
+  num=$(grep \> $file | wc -l)
+
+  #for each record get the first and last line
+  for i in `seq 2 $(($num+1))`
+  do
+    if [[ ${i} == $(($num+1)) ]]
+    then
+        initial=$(grep /> -n $file | cut -d':' -f1 | head -${i} | tail -2 | head -1)
+        final=$(awk 'END{print NR}' $file)
+    else
+        initial=$(grep \> -n $file | cut -d':' -f1 | head -${i} | tail -2 | head -1)
+        final=$(($(grep \> -n $file | cut -d':' -f1 | head -${i} | tail -2 | tail -1) - 1))
+    fi
+
+    #print to a new file
+    awk -v init=$initial -v fin=$final 'NR==init,NR==fin{print}' $file > ${output}_$(($i-1)).out
+  done
+
+  `
+  #seq is to build a sequence of numbers.
+  for i in `seq 1 ${t}
+  do echo ${i}
+  done
+
+  #grep to know the line number -n and cut -d to delimiter of column
+  grep /> -n orchid_2.afa | cut -d':' -f1 | head -2 | tail -2
+
+awk 'NR>1{printf ("%s", $0)}' output1_.out | wc -c
+
+- Statmaker.empty.in is a script to count the longest gap and the longest sequence in the fasta files.
 
 ------------------------
 - Questions for the end of the workshop

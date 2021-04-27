@@ -1,0 +1,14 @@
+This file has a snippet of text in it. We are going to use it to change words in it,
+and learn how to do substitutions of words. Some words we want to change, some words
+we want to keep, and some we don't consider at all.
+Here are some more lines of text. These lines also contain words, some of which we
+will change, and some of which we will keep. Sometimes, we have to look at the text
+before we know which words we want to keep and which words we need to substitute.
+For that, it is helpful to use cat or more or less, or you can just use vim to read
+the file. 
+For now, let's just look at the words that we have. Let's choose which lines we want
+to change and let's focus on those. We might want to keep some of the words in some
+of the paragraphs, so note which lines we want to change and which we want to keep
+constant.
+This is the last paragraph. There aren't a lot of words here, but we should still
+make sure that we check if we want to change some of them.

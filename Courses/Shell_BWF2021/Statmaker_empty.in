@@ -1,0 +1,50 @@
+#!/bin/bash
+
+file=$1
+line=$(awk 'NR>1{printf ("%s", $0)}' $file)
+length=$(awk 'NR>1{printf ("%s", $0)}' $file | wc -c)
+lon_seq=0
+lon_gap=0
+cur_seq=0
+cur_gap=0
+for i in `seq 1 $length`
+do
+	cc=$(echo $line | cut -c${i})
+	if [[ $i -eq 1 ]]
+	then
+		if [[ $cc == "-" ]]
+		then
+			cur_gap=$(($cur_gap+1))
+		else
+			cur_seq=$(($cur_seq+1))
+		fi
+	else
+		if [[ $cc == "-" ]] && [[ $pc == "-" ]]
+		then
+			cur_gap=$(($cur_gap+1))
+		elif [[ $cc != "-" ]] && [[ $pc == "-" ]]
+		then
+			cur_seq=1
+                        cur_gap=0
+		elif [[ $cc == "-" ]] && [[ $pc != "-" ]]
+		then
+			cur_seq=0
+			cur_gap=1
+		elif [[ $cc != "-" ]] && [[ $pc != "-" ]]
+		then
+			cur_seq=$(($cur_seq+1))
+		fi
+	fi
+	if [[ $cur_seq -gt $lon_seq ]]
+	then
+		long_seq=$cur_seq
+	fi
+	if [[ $cur_gap -gt $lon_gap ]]
+	then
+		long_gap=$cur_gap
+	fi
+	#line
+	pc=$cc
+done
+echo The longest gap is $lon_gap
+echo The longest sequence is $lon_seq
