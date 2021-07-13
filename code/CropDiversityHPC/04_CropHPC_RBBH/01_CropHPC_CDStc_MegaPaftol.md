@@ -20,6 +20,7 @@
 6. Download `blastn_malvNewt353_e80_tab.out` and adding column headings according to How to's in CropHPC for `CropHPC_Blast.md`
 
 7. Running Blast 2.10 again but using `max-target-seq 1` to get ....**Still have to read the paper*** so analysis was just run...as
+   #**Atencion! hay que revisar que este analisis esta hecho en el orden que es en cuanto al blast y reciprocal, pero de resto esta bien hecho* Falta revisar resultados bien
 
 - Blast:
  `blastn -db malvaceae_targetfile.fasta  -query Theobroma_cacaoV2_annot_cds.fasta -out blast_NewtargTcacao.outfmt6 -evalue 1e-80 -max_target_seqs 1 -outfmt 6`

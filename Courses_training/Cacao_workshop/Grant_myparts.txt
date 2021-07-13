@@ -1,0 +1,25 @@
+
+What is the timeline for implementation?* 150 w Natalia
+
+How will this project support the Society for Science & the Public’s mission, and how will the Society's participation as a sponsor be acknowledged?* 250 w Natalia
+
+By offering training in Spanish in cutting edge bioinformatic methods we will expand scientific literacy among new generations of scientists that have limited opportunities to learn these topics in a non-native language. Our goal is to make this knowledge accessible and inspire students to appreciate the value of exploring their local biodiversity by using these methods and tools to approach different research questions. Participants will receive the support and motivation necessary to expand their curiosity towards a field that is rarely taught in Spanish, such as bioinformatics, and after the workshop they will have the knowledge to continue their learning process in this area. This workshop not only benefits the participant’s careers by making them more competitive in the job market, but it will also benefit their peers and local institutes/universities by promoting the development of outstanding research that, ultimately, will inspire others in their home countries to pursue scientific careers. The Society’s participation as a sponsor will be acknowledged from the moment the workshop is advertised to the public and participants will be aware of the Society’s mission and participation as sponsor during the workshop. The Society’s logo will be displayed in the workshop’s advertisement documents in social media, email lists and presentations.
+
+
+
+
+
+Mission
+to expanding scientific literacy, effective STEM education and scientific research
+promoting the understanding and appreciation of science and the vital role it plays in human advancement: to inform, educate, and inspire.
+has conveyed the excitement of science and research directly to the public
+
+The aim of this workshop is to train participants in genome assembly, annotation and phylogenomic analysis of non-model plant genomes, focusing on wild relatives of cultivated plants.
+
+The Neotropics are the most species-rich biodiversity hotspot
+It overlaps with Latin America demographics
+Scientific colonialism and how attention is no centered on this
+However, the lag in resource disponibility for state of the art methods for analyses and hypothesis testing research in latin america (developing countries) contributes to scientific colonialism. We pretend to contribute towards lessening this gap.
+
+
+ cutting edge methods for plant genome assembly while removing the barriers of learning in a non-native language

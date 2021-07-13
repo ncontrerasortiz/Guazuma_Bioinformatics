@@ -19,10 +19,13 @@ Run interactive Job:
  srun --pty bash
  sbatch --partition=long job_script.sh (for more than 24 hr)
  squeue --job
+ scancel <jobid>
 
 Gruffalo to local
  $ scp -r ncontrer@gruffalo.cropdiversity.ac.uk: .
  $ rsync -avP ncontrer@gruffalo.cropdiversity.ac.uk: .
+ Local to gruffalo
+ $ scp PathInLocal ncontrer@gruffalo.cropdiversity.ac.uk:/.
 
  Github
  git add .
@@ -37,18 +40,21 @@ Transcriptome Assembly
 	1. Trinity assembly ok
 	2. Trinity Assembly quality assesment
 		- RNA-seq reads representation: OK
-		- Representation of full-length protein coding: Revisar resultados y entender (NEXT)
+		- Representation of full-length protein coding:
+      PARA HACER EL JUEVES 29 ABRIL	- Hacer este con los genes drought y con T. cacao annotated genome CDS
+      		- 
 		- TransRate: see if read mapping is similar to RNA-seq read reprs as before. Analyse contig and comparative metrics results
     -NEXT: understand results from all this!
     and Blast the subset of Nohits from fastqscreen
     - rnaQaust next
     - Busco
 
-    - Transcriptome Contig Nx and ExN50 stats:*Currently March 2021*
+    - Transcriptome ExN50 stats:*Currently June 2021* Stopped because I think is not important.
+    - Continue with Blast and things from notes!
 
 2. Then do blastx of no hits reads of fastqscreen
-	2. then bowtie of reads to transcriptome to asses level of expression
-2. Bowtie
+	3. then bowtie of reads to transcriptome to asses level of expression
+3. Bowtie
 
 
 
