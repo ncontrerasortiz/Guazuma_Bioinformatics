@@ -104,6 +104,7 @@
 		*Error* The process is killed but I dont know why: see log.txt in `qual_asses/ExN50/Transc_abund_2`
 
 	**Stopped here on 16th of June** No point on continuing
+	*The error is that the file listing the quant files does not understand the paths, it should only include the name of the files and they should be in the same directory, duh!*
 
 		1. Compute ExN50	
 		`

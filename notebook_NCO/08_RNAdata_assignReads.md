@@ -1,7 +1,7 @@
 ### Notebook Assign RNA-seq reads reads
 - Title: Assign RNA-seq reads reads
 - Date: 3 - Jan - 2021
-- Wd: 
+- Wd: HPCrop `/home/ncontrer/scratch/private/ftqs_A2`
 - What/Why: Screen reads, classify and explore composition of the library to see if it matches expect organisms.
 - Further docs:
 	- [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)

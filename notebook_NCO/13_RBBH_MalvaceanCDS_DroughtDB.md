@@ -2,9 +2,11 @@
 
 - Title: Reciprocal Best Blast Hit DroughtDB against Malvaceae CDS genomes (Cacao CDS, Gossypium CDS, Guazuma transcriptome)
 - Date: 12 July 2021
-- Wd: `HPCrop /home/ncontrer/scratch/private/RBBH_2`
+- Wd: `HPCrop /home/ncontrer/scratch/private/RBBH_2`, List of RBBH maxseq 1 in `Guazuma/Genomics/Bioinformatics/exploratory/RBBH/RBBH_2_Drought/RBBH_DroughtDBgenes` 
+
 - What/Why: Find orthologous genes of DroughtDB in the T. cacao CDS annotated genome and Gossypium CDS genome. Then this orthologous will be mapped in the Guazuam transcriptome (in other notebook)
-- Further docs: [RBBH protocol] (https://morphoscape.wordpress.com/2020/08/18/reciprocal-best-hits-blast-rbhb/), [Choosing BLAST options for better detection of orthologs as reciprocal best hits](https://academic.oup.com/bioinformatics/article/24/3/319/252715)
+- Further docs: [RBBH protocol](https://morphoscape.wordpress.com/2020/08/18/reciprocal-best-hits-blast-rbhb/), [Choosing BLAST options for better detection of orthologs as reciprocal best hits](https://academic.oup.com/bioinformatics/article/24/3/319/252715), [Gene Venn Diagrams](http://genevenn.sourceforge.net/vennresults.php)
+- [comparisons of lists](http://barc.wi.mit.edu/cgi-bin/barc/tools/compare.cgi)
 
 ------------------------------------ Code and setup
 - Query: T. cacao CDS, Gossypium CDS, Guazuma
