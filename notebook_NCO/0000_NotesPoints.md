@@ -93,3 +93,5 @@ next git commit -m "aligning RBH sequences using mafft"
 #SBATCH --mail-type=END,FAIL
 fastq_screen --aligner bowtie2 --threads 4 --conf fastq_screen_test.conf fqs_test_dataset.fastq.gz
 echo "Job finished"
+
+- to count sequences in a file `grep ">" file.fasta | wc -l`
